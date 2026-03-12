@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "mi1b",
+  "kompetenz_code": "MI.1.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Information", "Unterhaltung", "Werbung", "Meinungsbeitrag"],
+    "elemente": [
+      { "text": "Nachrichtensendung (Tagesschau)", "kategorie": 0 },
+      { "text": "Netflix-Serie", "kategorie": 1 },
+      { "text": "Instagram-Sponsored-Post", "kategorie": 2 },
+      { "text": "Wikipedia-Artikel", "kategorie": 0 },
+      { "text": "YouTube-Musikvideo", "kategorie": 1 },
+      { "text": "Blog-Kommentar", "kategorie": 3 },
+      { "text": "Google-Anzeige", "kategorie": 2 },
+      { "text": "TikTok-Tanzvideo", "kategorie": 1 },
+      { "text": "Zeitungs-Leitartikel", "kategorie": 3 },
+      { "text": "Produktplatzierung im Film", "kategorie": 2 },
+      { "text": "Lexikon-Eintrag", "kategorie": 0 },
+      { "text": "Podcast mit persönlicher Meinung", "kategorie": 3 }
+    ]
+  }
+}

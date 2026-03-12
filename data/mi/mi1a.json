@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mi1a",
+  "kompetenz_code": "MI.1.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was versteht man unter 'Cybermobbing'?",
+        "optionen": [
+          "Ein Computerspiel",
+          "Das systematische Belästigen, Bedrohen oder Blosssstellen von Personen über digitale Medien",
+          "Das Surfen im Internet",
+          "Eine Programmiersprache"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Cybermobbing bezeichnet das absichtliche Beleidigen, Bedrohen oder Blosssstellen über digitale Kanäle wie Social Media oder Messenger."
+      },
+      {
+        "frage": "Welches Gesetz schützt persönliche Daten in der Schweiz?",
+        "optionen": [
+          "Das Strafgesetzbuch",
+          "Das Datenschutzgesetz (DSG)",
+          "Das Urheberrechtsgesetz",
+          "Das Handelsgesetz"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Bundesgesetz über den Datenschutz (DSG) regelt den Umgang mit Personendaten in der Schweiz."
+      },
+      {
+        "frage": "Was ist das 'Recht am eigenen Bild'?",
+        "optionen": [
+          "Man darf beliebig Fotos von anderen machen",
+          "Jede Person bestimmt selbst, ob und wie Bilder von ihr veröffentlicht werden",
+          "Nur Profis dürfen fotografieren",
+          "Bilder im Internet gehören niemandem"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Recht am eigenen Bild bedeutet, dass niemand ohne Einwilligung der abgebildeten Person deren Foto veröffentlichen darf."
+      },
+      {
+        "frage": "Was solltest du tun, bevor du ein Foto von jemandem im Internet postest?",
+        "optionen": [
+          "Nichts, Fotos gehören allen",
+          "Die Person um Erlaubnis fragen",
+          "Einen Filter drauflegen",
+          "Es nur auf einer Plattform posten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bevor man Fotos von anderen Personen veröffentlicht, muss man deren Einwilligung einholen."
+      },
+      {
+        "frage": "Was ist ein sicheres Passwort?",
+        "optionen": [
+          "123456",
+          "Dein Geburtsdatum",
+          "Eine Kombination aus Gross-/Kleinbuchstaben, Zahlen und Sonderzeichen mit mind. 12 Zeichen",
+          "Dein Vorname rückwärts"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein sicheres Passwort ist lang, enthält verschiedene Zeichentypen und ist nicht leicht zu erraten."
+      },
+      {
+        "frage": "Was ist 'Phishing'?",
+        "optionen": [
+          "Ein Angelspiel am Computer",
+          "Der Versuch, über gefälschte E-Mails oder Websites an persönliche Daten zu gelangen",
+          "Ein Social-Media-Trend",
+          "Eine Methode zum Programmieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Phishing sind betrügerische Nachrichten, die vortäuschen von vertrauenswürdigen Quellen zu stammen, um Passwörter oder Bankdaten zu stehlen."
+      },
+      {
+        "frage": "Welche Altersfreigabe hat ein Spiel mit der Kennzeichnung 'PEGI 16'?",
+        "optionen": [
+          "Ab 6 Jahren",
+          "Ab 12 Jahren",
+          "Ab 16 Jahren",
+          "Keine Altersbeschränkung"
+        ],
+        "korrekt": 2,
+        "erklaerung": "PEGI 16 bedeutet, dass das Spiel für Personen ab 16 Jahren geeignet ist."
+      },
+      {
+        "frage": "Was bedeutet 'Creative Commons' (CC)?",
+        "optionen": [
+          "Alle Inhalte im Internet sind frei nutzbar",
+          "Eine Lizenz, die festlegt, unter welchen Bedingungen ein Werk genutzt werden darf",
+          "Ein soziales Netzwerk",
+          "Ein Programm zum Erstellen von Websites"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Creative Commons sind standardisierte Lizenzen, die Urhebern erlauben, die Nutzung ihrer Werke unter bestimmten Bedingungen zu erlauben."
+      },
+      {
+        "frage": "Warum ist Quellenkritik im Internet wichtig?",
+        "optionen": [
+          "Weil das Internet immer die Wahrheit sagt",
+          "Weil im Internet jeder Inhalte veröffentlichen kann und nicht alles verlässlich ist",
+          "Weil nur bestimmte Websites funktionieren",
+          "Weil das Internet langsam ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Internet kann jeder Inhalte veröffentlichen. Deshalb ist es wichtig, Quellen kritisch zu prüfen und Informationen zu verifizieren."
+      },
+      {
+        "frage": "Was ist ein 'digitaler Fussabdruck'?",
+        "optionen": [
+          "Ein Abdruck deines Fusses auf einem Tablet",
+          "Alle Spuren und Daten, die du bei der Nutzung digitaler Medien hinterlässt",
+          "Ein Passwort für dein E-Mail-Konto",
+          "Die Anzahl deiner Follower"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der digitale Fussabdruck umfasst alle Datenspuren, die bei der Internetnutzung entstehen – von Suchanfragen über Posts bis zu Online-Käufen."
+      }
+    ]
+  }
+}

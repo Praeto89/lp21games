@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "mi1c",
+  "kompetenz_code": "MI.1.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist beim Erstellen eines Podcasts der erste Schritt?",
+        "optionen": [
+          "Sofort aufnehmen",
+          "Thema wählen und Inhalte planen",
+          "Den Podcast hochladen",
+          "Werbung schalten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gute Medienprodukte beginnen mit der Planung: Thema festlegen, Zielgruppe bestimmen, Inhalte recherchieren."
+      },
+      {
+        "frage": "Was bedeutet 'Urheberrecht' bei der Medienproduktion?",
+        "optionen": [
+          "Man darf alles aus dem Internet verwenden",
+          "Kreative Werke sind geschützt und dürfen nicht ohne Erlaubnis verwendet werden",
+          "Nur Texte sind geschützt, Bilder nicht",
+          "Urheberrecht gilt nur für Bücher"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Urheberrecht schützt kreative Werke (Texte, Bilder, Musik, Videos). Für die Nutzung braucht man die Erlaubnis des Urhebers oder eine passende Lizenz."
+      },
+      {
+        "frage": "Was sollte man bei einem Blogbeitrag beachten?",
+        "optionen": [
+          "Möglichst viele Emojis verwenden",
+          "Quellen angeben, sachlich bleiben und das Urheberrecht respektieren",
+          "Den längsten Text schreiben, den man kann",
+          "Nur Bilder verwenden, kein Text"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei der Veröffentlichung von Medienbeiträgen sollte man Quellen angeben, Fakten prüfen und Rechte Dritter respektieren."
+      },
+      {
+        "frage": "Was ist bei der Veröffentlichung eines YouTube-Videos wichtig?",
+        "optionen": [
+          "Dass es möglichst provokant ist",
+          "Dass man Musik und Bilder nur mit Erlaubnis oder freien Lizenzen nutzt",
+          "Dass man möglichst viele persönliche Daten anderer zeigt",
+          "Dass es mindestens 2 Stunden lang ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei der Veröffentlichung muss man Urheberrechte beachten, darf keine fremden Werke ohne Erlaubnis nutzen und muss Persönlichkeitsrechte respektieren."
+      },
+      {
+        "frage": "Welches Format eignet sich am besten für eine Fotostory?",
+        "optionen": [
+          "Nur Text ohne Bilder",
+          "Eine Abfolge von Bildern mit kurzen Texten, die eine Geschichte erzählen",
+          "Ein einzelnes Bild ohne Beschreibung",
+          "Eine Excel-Tabelle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Fotostory kombiniert Bilder in einer Reihenfolge mit begleitenden Texten, um eine Geschichte visuell zu erzählen."
+      },
+      {
+        "frage": "Was versteht man unter 'Fake News'?",
+        "optionen": [
+          "Nachrichten, die lustig gemeint sind",
+          "Bewusst falsche oder irreführende Informationen, die als Nachrichten verbreitet werden",
+          "Nachrichten aus dem Ausland",
+          "Alte Nachrichten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Fake News sind absichtlich verbreitete Falschinformationen, die echt aussehen sollen, um zu manipulieren oder zu täuschen."
+      },
+      {
+        "frage": "Was macht ein gutes Erklärvideo aus?",
+        "optionen": [
+          "Es ist möglichst lang und kompliziert",
+          "Es erklärt ein Thema verständlich, strukturiert und visuell ansprechend",
+          "Es verwendet möglichst viele Fachbegriffe",
+          "Es hat keine Struktur"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gute Erklärvideos sind klar strukturiert, verwenden einfache Sprache und veranschaulichen Inhalte mit passenden Grafiken oder Animationen."
+      },
+      {
+        "frage": "Welche Frage hilft bei der Quellenkritik am meisten?",
+        "optionen": [
+          "Ist die Webseite hübsch?",
+          "Wer hat den Inhalt erstellt und mit welcher Absicht?",
+          "Hat die Seite viele Besucher?",
+          "Ist der Text lang genug?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die wichtigste Frage bei der Quellenkritik ist: Wer ist der Autor, welche Absicht verfolgt er, und sind die Informationen überprüfbar?"
+      }
+    ]
+  }
+}

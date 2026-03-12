@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "mi2a",
+  "kompetenz_code": "MI.2.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Ganzzahl (Integer)", "Kommazahl (Float)", "Text (String)", "Wahrheitswert (Boolean)"],
+    "elemente": [
+      { "text": "42", "kategorie": 0 },
+      { "text": "3.14", "kategorie": 1 },
+      { "text": "\"Hallo Welt\"", "kategorie": 2 },
+      { "text": "true", "kategorie": 3 },
+      { "text": "-7", "kategorie": 0 },
+      { "text": "0.001", "kategorie": 1 },
+      { "text": "\"Zürich\"", "kategorie": 2 },
+      { "text": "false", "kategorie": 3 },
+      { "text": "1000000", "kategorie": 0 },
+      { "text": "\"123\"", "kategorie": 2 },
+      { "text": "-273.15", "kategorie": 1 },
+      { "text": "0", "kategorie": 0 }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "mi1d",
+  "kompetenz_code": "MI.1.4",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist eine 'Netiquette'?",
+        "optionen": [
+          "Ein Internetanbieter",
+          "Verhaltensregeln für die Kommunikation im Internet",
+          "Ein Antivirusprogramm",
+          "Eine Programmiersprache"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Netiquette (Netz + Etiquette) sind die ungeschriebenen Verhaltensregeln für respektvolle Online-Kommunikation."
+      },
+      {
+        "frage": "Welches Tool eignet sich am besten für die gemeinsame Bearbeitung eines Dokuments?",
+        "optionen": [
+          "Ein Texteditor ohne Internetverbindung",
+          "Google Docs oder Microsoft 365 (Online-Zusammenarbeit in Echtzeit)",
+          "Ein gedrucktes Blatt Papier",
+          "Eine SMS"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Cloud-basierte Tools wie Google Docs ermöglichen die gleichzeitige Bearbeitung von Dokumenten durch mehrere Personen."
+      },
+      {
+        "frage": "Was ist beim Schreiben einer E-Mail wichtig?",
+        "optionen": [
+          "Nur Grossbuchstaben verwenden (Capslock)",
+          "Einen aussagekräftigen Betreff, Anrede und höflichen Ton verwenden",
+          "Möglichst viele Emojis einbauen",
+          "Keine Rechtschreibung beachten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine professionelle E-Mail hat einen klaren Betreff, eine passende Anrede, ist sachlich formuliert und korrekt geschrieben."
+      },
+      {
+        "frage": "Was ist eine 'Filterblase'?",
+        "optionen": [
+          "Ein Wasserfilter für den Computer",
+          "Wenn Algorithmen nur Inhalte zeigen, die zur eigenen Meinung passen",
+          "Ein Spamfilter im E-Mail-Programm",
+          "Ein spezieller Bildfilter"
+        ],
+        "korrekt": 1,
+        "erklaerung": "In einer Filterblase zeigen Algorithmen bevorzugt Inhalte, die bestehende Meinungen bestätigen, wodurch andere Perspektiven ausgeblendet werden."
+      },
+      {
+        "frage": "Welche Regel gilt für Gruppenchats?",
+        "optionen": [
+          "Man darf alles schreiben, was man will",
+          "Respektvoller Umgang, keine Weiterleitung privater Nachrichten ohne Einwilligung",
+          "Man muss sofort auf jede Nachricht antworten",
+          "Nur der Gruppenadmin darf schreiben"
+        ],
+        "korrekt": 1,
+        "erklaerung": "In Gruppenchats gelten die gleichen Regeln wie in der direkten Kommunikation: Respekt, kein Mobbing, und private Inhalte nicht ohne Erlaubnis weiterleiten."
+      },
+      {
+        "frage": "Was bedeutet 'kollaboratives Arbeiten' mit digitalen Medien?",
+        "optionen": [
+          "Alleine arbeiten und das Ergebnis per USB-Stick teilen",
+          "Gemeinsam und gleichzeitig an Projekten arbeiten, z.B. über Cloud-Dienste",
+          "Jeder arbeitet einzeln und die Ergebnisse werden nicht zusammengeführt",
+          "Nur der Lehrer arbeitet digital"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kollaboratives Arbeiten bedeutet, dass mehrere Personen gleichzeitig oder zeitversetzt gemeinsam an einem digitalen Projekt arbeiten."
+      },
+      {
+        "frage": "Wofür steht 'CC' bei einer E-Mail?",
+        "optionen": [
+          "Creative Commons",
+          "Carbon Copy – eine Kopie der E-Mail an weitere Empfänger senden",
+          "Computer Code",
+          "Chat Communication"
+        ],
+        "korrekt": 1,
+        "erklaerung": "CC (Carbon Copy) sendet eine Kopie der E-Mail an weitere Personen, die die Nachricht zur Kenntnis erhalten sollen."
+      },
+      {
+        "frage": "Warum sollte man nicht alles glauben, was in sozialen Medien geteilt wird?",
+        "optionen": [
+          "Weil das Internet kaputt ist",
+          "Weil Inhalte oft ohne Prüfung geteilt werden und Falschinformationen verbreitet werden können",
+          "Weil soziale Medien nur für Unterhaltung da sind",
+          "Weil alle Posts gelöscht werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "In sozialen Medien kann jeder Inhalte teilen, ohne Faktenprüfung. Falschinformationen verbreiten sich schnell, daher ist kritisches Denken wichtig."
+      }
+    ]
+  }
+}

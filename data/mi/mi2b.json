@@ -1,0 +1,62 @@
+{
+  "kompetenz_id": "mi2b",
+  "kompetenz_code": "MI.2.2",
+  "typ": "coding-puzzle",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte, um eine einfache Webseite zu erstellen, in die richtige Reihenfolge.",
+        "bloecke": [
+          { "text": "HTML-Datei erstellen", "typ": "move" },
+          { "text": "<html> und <body> Tags schreiben", "typ": "move" },
+          { "text": "Überschrift mit <h1> hinzufügen", "typ": "move" },
+          { "text": "Text mit <p> hinzufügen", "typ": "move" },
+          { "text": "CSS-Styles verlinken", "typ": "move" },
+          { "text": "Datei im Browser öffnen", "typ": "move" }
+        ]
+      },
+      {
+        "anweisung": "Bringe den Algorithmus 'Finde das Maximum in einer Liste' in die richtige Reihenfolge.",
+        "bloecke": [
+          { "text": "Setze max = erstes Element", "typ": "move" },
+          { "text": "FÜR jedes Element in der Liste:", "typ": "loop" },
+          { "text": "  WENN Element > max:", "typ": "condition" },
+          { "text": "    Setze max = Element", "typ": "move" },
+          { "text": "Gib max zurück", "typ": "move" }
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte des Algorithmus 'Binäre Suche' korrekt.",
+        "bloecke": [
+          { "text": "Sortiere die Liste", "typ": "move" },
+          { "text": "Bestimme die Mitte der Liste", "typ": "move" },
+          { "text": "WENN gesuchter Wert = Mitte: Gefunden!", "typ": "condition" },
+          { "text": "WENN gesuchter Wert < Mitte: Suche in linker Hälfte", "typ": "condition" },
+          { "text": "WENN gesuchter Wert > Mitte: Suche in rechter Hälfte", "typ": "condition" },
+          { "text": "Wiederhole bis gefunden oder Liste leer", "typ": "loop" }
+        ]
+      },
+      {
+        "anweisung": "Erstelle ein Programm, das prüft ob eine Zahl gerade oder ungerade ist.",
+        "bloecke": [
+          { "text": "Lies eine Zahl ein", "typ": "move" },
+          { "text": "Berechne: Rest = Zahl MODULO 2", "typ": "move" },
+          { "text": "WENN Rest = 0:", "typ": "condition" },
+          { "text": "  Ausgabe: 'Die Zahl ist gerade'", "typ": "move" },
+          { "text": "SONST:", "typ": "condition" },
+          { "text": "  Ausgabe: 'Die Zahl ist ungerade'", "typ": "move" }
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für eine WHILE-Schleife, die von 1 bis 10 zählt.",
+        "bloecke": [
+          { "text": "Setze zähler = 1", "typ": "move" },
+          { "text": "SOLANGE zähler <= 10:", "typ": "loop" },
+          { "text": "  Gib zähler aus", "typ": "move" },
+          { "text": "  Erhöhe zähler um 1", "typ": "move" },
+          { "text": "Ende der Schleife", "typ": "loop" }
+        ]
+      }
+    ]
+  }
+}

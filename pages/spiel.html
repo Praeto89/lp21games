@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LP21 Lernwelt - Spiel</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/games.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="../index.html" class="logo">
+                <span class="logo-icon">🎓</span>
+                <span class="logo-text">LP21 Lernwelt</span>
+            </a>
+            <nav class="breadcrumb" id="breadcrumb">
+                <a href="../index.html" class="breadcrumb-item">Startseite</a>
+                <a href="#" class="breadcrumb-item" id="breadcrumbFach">Fach</a>
+                <span class="breadcrumb-item active" id="breadcrumbSpiel">Spiel</span>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="game-wrapper">
+            <div class="game-info" id="gameInfo">
+                <div class="kompetenz-code" id="kompetenzCode">Lädt...</div>
+                <div class="kompetenz-text" id="kompetenzText"></div>
+            </div>
+
+            <div class="game-container" id="gameContainer">
+                <p style="text-align:center;color:#757575;">Spiel wird geladen...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Utilities -->
+    <script src="../js/utils/storage.js"></script>
+    <script src="../js/utils/shuffle.js"></script>
+    <script src="../js/utils/dom-helpers.js"></script>
+    <script src="../js/utils/feedback.js"></script>
+    <script src="../js/game-engine.js"></script>
+
+    <!-- Game Engines -->
+    <script src="../js/games/quiz.js"></script>
+    <script src="../js/games/zuordnung.js"></script>
+    <script src="../js/games/memory.js"></script>
+    <script src="../js/games/lueckentext.js"></script>
+    <script src="../js/games/sortieren.js"></script>
+    <script src="../js/games/rechnen.js"></script>
+    <script src="../js/games/wortspiel.js"></script>
+    <script src="../js/games/zuordnung-bild.js"></script>
+    <script src="../js/games/timeline.js"></script>
+    <script src="../js/games/coding-puzzle.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const fachId = DOM.getParam('fach');
+            const kompetenzId = DOM.getParam('kompetenz');
+            const spielTyp = DOM.getParam('typ');
+
+            if (!fachId || !kompetenzId) {
+                location.href = '../index.html';
+                return;
+            }
+
+            try {
+                // Load fach info for context
+                const faecherData = await GameEngine.loadFaecher();
+                const fach = GameEngine.findFach(faecherData, fachId);
+
+                if (fach) {
+                    const kompetenz = GameEngine.findKompetenz(fach, kompetenzId);
+                    document.title = `${kompetenz?.name || kompetenzId} - LP21 Lernwelt`;
+                    document.documentElement.style.setProperty('--fach-farbe', fach.farbe);
+
+                    DOM.$('#kompetenzCode').textContent = kompetenz?.code || '';
+                    DOM.$('#kompetenzText').textContent = kompetenz?.beschreibung || '';
+                    DOM.$('#breadcrumbFach').textContent = fach.name;
+                    DOM.$('#breadcrumbFach').href = `fach.html?fach=${fachId}`;
+                    DOM.$('#breadcrumbSpiel').textContent = kompetenz?.name || 'Spiel';
+                }
+
+                // Load game data
+                const gameData = await GameEngine.loadData(fachId, kompetenzId);
+
+                // Initialize game engine
+                const engine = new GameEngine('gameContainer', {
+                    fachId,
+                    kompetenzId,
+                    fachFarbe: fach?.farbe
+                });
+
+                // Launch the right game type
+                const typ = spielTyp || gameData.typ || 'quiz';
+                const games = {
+                    quiz: QuizGame,
+                    zuordnung: ZuordnungGame,
+                    memory: MemoryGame,
+                    lueckentext: LueckentextGame,
+                    sortieren: SortierenGame,
+                    rechnen: RechnenGame,
+                    wortspiel: WortspielGame,
+                    'zuordnung-bild': BildZuordnungGame,
+                    timeline: TimelineGame,
+                    'coding-puzzle': CodingPuzzleGame
+                };
+
+                const GameClass = games[typ];
+                if (GameClass) {
+                    new GameClass(engine, gameData);
+                } else {
+                    DOM.$('#gameContainer').innerHTML =
+                        `<p style="text-align:center;color:#f44336;">Unbekannter Spieltyp: ${typ}</p>`;
+                }
+
+            } catch (err) {
+                DOM.$('#gameContainer').innerHTML =
+                    `<p style="text-align:center;color:#f44336;">Fehler beim Laden des Spiels: ${err.message}</p>`;
+                console.error(err);
+            }
+        });
+    </script>
+</body>
+</html>

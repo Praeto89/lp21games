@@ -1,0 +1,401 @@
+/* === LP21 Lernwelt - Main Styles === */
+
+:root {
+    --primary: #1a237e;
+    --primary-light: #534bae;
+    --bg: #f5f5f5;
+    --bg-card: #ffffff;
+    --text: #212121;
+    --text-light: #757575;
+    --shadow: 0 2px 8px rgba(0,0,0,0.1);
+    --shadow-hover: 0 4px 16px rgba(0,0,0,0.15);
+    --radius: 12px;
+    --radius-sm: 8px;
+    --transition: 0.2s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* === Header === */
+.site-header {
+    background: var(--primary);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 1.25rem;
+    flex-shrink: 0;
+}
+
+.logo-icon {
+    font-size: 1.5rem;
+}
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    opacity: 0.9;
+}
+
+.breadcrumb-item {
+    color: rgba(255,255,255,0.7);
+    text-decoration: none;
+}
+
+.breadcrumb-item:hover:not(.active) {
+    color: white;
+}
+
+.breadcrumb-item.active {
+    color: white;
+    font-weight: 600;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: "›";
+    margin-right: 0.5rem;
+    color: rgba(255,255,255,0.5);
+}
+
+.header-progress {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.progress-label {
+    opacity: 0.8;
+}
+
+.progress-bar-mini {
+    width: 100px;
+    height: 6px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background: #4caf50;
+    border-radius: 3px;
+    transition: width 0.5s ease;
+}
+
+.progress-percent {
+    font-weight: 600;
+    min-width: 2.5em;
+}
+
+/* === Main Container === */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    flex: 1;
+    width: 100%;
+}
+
+/* === Hero === */
+.hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.hero h1 {
+    font-size: 2rem;
+    color: var(--primary);
+    margin-bottom: 0.25rem;
+}
+
+.hero p {
+    color: var(--text-light);
+    font-size: 1.1rem;
+}
+
+.hero-sub {
+    margin-top: 0.5rem;
+    font-size: 0.95rem !important;
+}
+
+/* === Fach Grid === */
+.fach-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.25rem;
+}
+
+.fach-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow);
+    transition: transform var(--transition), box-shadow var(--transition);
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    border-left: 5px solid var(--fach-farbe, #ccc);
+}
+
+.fach-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-hover);
+}
+
+.fach-card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.fach-icon {
+    font-size: 2rem;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: color-mix(in srgb, var(--fach-farbe, #ccc) 10%, white);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+}
+
+.fach-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text);
+}
+
+.fach-kuerzel {
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.fach-meta {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-bottom: 0.75rem;
+}
+
+.fach-progress {
+    margin-top: auto;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    background: #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 0.25rem;
+}
+
+.progress-bar .progress-bar-fill {
+    background: var(--fach-farbe, #4caf50);
+}
+
+.progress-text {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    text-align: right;
+}
+
+/* === Kompetenz-Liste (fach.html) === */
+.fach-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid var(--fach-farbe, #ccc);
+}
+
+.fach-header-icon {
+    font-size: 2.5rem;
+}
+
+.fach-header-info h1 {
+    font-size: 1.75rem;
+    color: var(--text);
+}
+
+.fach-header-info p {
+    color: var(--text-light);
+}
+
+.bereich-section {
+    margin-bottom: 2rem;
+}
+
+.bereich-title {
+    font-size: 1.2rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.kompetenz-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+.kompetenz-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-sm);
+    padding: 1.25rem;
+    box-shadow: var(--shadow);
+    transition: transform var(--transition), box-shadow var(--transition);
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.kompetenz-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+}
+
+.kompetenz-code {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--fach-farbe, var(--primary));
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.kompetenz-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.kompetenz-beschreibung {
+    font-size: 0.8rem;
+    color: var(--text-light);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.kompetenz-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+    padding-top: 0.5rem;
+}
+
+.kompetenz-spieltyp {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
+    background: #f0f0f0;
+    border-radius: 4px;
+    color: var(--text-light);
+}
+
+.kompetenz-sterne {
+    font-size: 1rem;
+    color: #e0e0e0;
+}
+
+.kompetenz-sterne .earned {
+    color: #ffc107;
+}
+
+/* === Footer === */
+.site-footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-light);
+    font-size: 0.85rem;
+    border-top: 1px solid #e0e0e0;
+    margin-top: auto;
+}
+
+.site-footer a {
+    color: var(--primary);
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+    .header-inner {
+        gap: 0.75rem;
+    }
+
+    .header-progress {
+        display: none;
+    }
+
+    .hero h1 {
+        font-size: 1.5rem;
+    }
+
+    .fach-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.75rem;
+    }
+
+    .fach-card {
+        padding: 1rem;
+    }
+
+    .kompetenz-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .fach-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .breadcrumb {
+        display: none;
+    }
+}

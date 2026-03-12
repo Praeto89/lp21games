@@ -1,0 +1,83 @@
+{
+  "faecher": [
+    {
+      "id": "mi",
+      "name": "Medien und Informatik",
+      "kuerzel": "MI",
+      "farbe": "#009688",
+      "icon": "💻",
+      "bereiche": [
+        {
+          "id": "mi1",
+          "code": "MI.1",
+          "name": "Medien",
+          "kompetenzen": [
+            {
+              "id": "mi1a",
+              "code": "MI.1.1",
+              "name": "Leben in der Mediengesellschaft",
+              "beschreibung": "Die Schülerinnen und Schüler können sich in der physischen Umwelt sowie in medialen und virtuellen Lebensräumen orientieren und sich darin entsprechend den Gesetzen, Regeln und Wertesystemen verhalten.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mi/mi1a.json"
+            },
+            {
+              "id": "mi1b",
+              "code": "MI.1.2",
+              "name": "Medien und Medienbeiträge verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können Medien und Medienbeiträge entschlüsseln, reflektieren und nutzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mi/mi1b.json"
+            },
+            {
+              "id": "mi1c",
+              "code": "MI.1.3",
+              "name": "Medien und Medienbeiträge produzieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Gedanken, Meinungen, Erfahrungen und Wissen in Medienbeiträge umsetzen und unter Einbezug der Gesetze, Regeln und Wertesysteme auch veröffentlichen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mi/mi1c.json"
+            },
+            {
+              "id": "mi1d",
+              "code": "MI.1.4",
+              "name": "Mit Medien kommunizieren und kooperieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Medien interaktiv nutzen sowie mit anderen kommunizieren und kooperieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mi/mi1d.json"
+            }
+          ]
+        },
+        {
+          "id": "mi2",
+          "code": "MI.2",
+          "name": "Informatik",
+          "kompetenzen": [
+            {
+              "id": "mi2a",
+              "code": "MI.2.1",
+              "name": "Daten darstellen und strukturieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Daten aus ihrer Umwelt darstellen, strukturieren und auswerten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mi/mi2a.json"
+            },
+            {
+              "id": "mi2b",
+              "code": "MI.2.2",
+              "name": "Algorithmen und Programmieren",
+              "beschreibung": "Die Schülerinnen und Schüler können einfache Problemstellungen analysieren, mögliche Lösungsverfahren beschreiben und in Programmen umsetzen.",
+              "spieltyp": "coding-puzzle",
+              "datendatei": "data/mi/mi2b.json"
+            },
+            {
+              "id": "mi2c",
+              "code": "MI.2.3",
+              "name": "Informatiksysteme",
+              "beschreibung": "Die Schülerinnen und Schüler verstehen Aufbau und Funktionsweise von informationsverarbeitenden Systemen und können Konzepte der sicheren Datenverarbeitung anwenden.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mi/mi2c.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

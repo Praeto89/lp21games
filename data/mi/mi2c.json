@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mi2c",
+  "kompetenz_code": "MI.2.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist die Hauptaufgabe eines Betriebssystems?",
+        "optionen": [
+          "Spiele abspielen",
+          "Hardware und Software verwalten und die Benutzerschnittstelle bereitstellen",
+          "Nur das Internet bereitstellen",
+          "Texte schreiben"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Betriebssystem (z.B. Windows, macOS, Linux) verwaltet die Hardware, steuert Programme und stellt die Benutzeroberfläche bereit."
+      },
+      {
+        "frage": "Was bedeutet 'Cloud Computing'?",
+        "optionen": [
+          "Computer in den Wolken fliegen lassen",
+          "Daten und Programme werden auf entfernten Servern gespeichert und über das Internet genutzt",
+          "Eine spezielle Festplatte",
+          "Programmieren mit Wolken-Symbolen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Cloud Computing bedeutet, dass Daten und Anwendungen auf Servern im Internet (in der 'Cloud') gespeichert und von überall zugänglich sind."
+      },
+      {
+        "frage": "Was ist ein 'Bit'?",
+        "optionen": [
+          "Ein kleines Stück Brot",
+          "Die kleinste Informationseinheit in der Informatik (0 oder 1)",
+          "Ein Computervirus",
+          "Eine Masseinheit für Gewicht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Bit (Binary Digit) ist die kleinste Dateneinheit und kann nur zwei Werte annehmen: 0 oder 1."
+      },
+      {
+        "frage": "Wie viele Bit ergeben ein Byte?",
+        "optionen": [
+          "2 Bit",
+          "4 Bit",
+          "8 Bit",
+          "16 Bit"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein Byte besteht aus 8 Bit und kann 256 verschiedene Werte darstellen (2^8 = 256)."
+      },
+      {
+        "frage": "Was macht eine Firewall?",
+        "optionen": [
+          "Sie verhindert Feuer im Computer",
+          "Sie überwacht und kontrolliert den Netzwerkverkehr und schützt vor unbefugtem Zugriff",
+          "Sie beschleunigt das Internet",
+          "Sie speichert Daten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Firewall ist ein Sicherheitssystem, das den ein- und ausgehenden Netzwerkverkehr überwacht und nach festgelegten Regeln filtert."
+      },
+      {
+        "frage": "Was ist der Unterschied zwischen RAM und Festplatte?",
+        "optionen": [
+          "Es gibt keinen Unterschied",
+          "RAM ist flüchtiger Arbeitsspeicher (schnell, temporär), die Festplatte speichert Daten dauerhaft",
+          "RAM ist langsamer als die Festplatte",
+          "Die Festplatte ist immer grösser als der RAM"
+        ],
+        "korrekt": 1,
+        "erklaerung": "RAM (Arbeitsspeicher) ist schnell aber flüchtig – Daten gehen beim Ausschalten verloren. Die Festplatte/SSD speichert Daten permanent."
+      },
+      {
+        "frage": "Was ist eine IP-Adresse?",
+        "optionen": [
+          "Ein Passwort",
+          "Eine eindeutige numerische Adresse, die ein Gerät im Netzwerk identifiziert",
+          "Ein Benutzername",
+          "Eine E-Mail-Adresse"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine IP-Adresse (z.B. 192.168.1.1) identifiziert ein Gerät eindeutig in einem Netzwerk und ermöglicht die Datenübertragung."
+      },
+      {
+        "frage": "Was bedeutet 'Verschlüsselung' bei der Datenübertragung?",
+        "optionen": [
+          "Daten werden schneller übertragen",
+          "Daten werden in einen Code umgewandelt, den nur autorisierte Empfänger lesen können",
+          "Daten werden komprimiert",
+          "Daten werden gelöscht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Verschlüsselung wandelt lesbare Daten in einen unlesbaren Code um. Nur wer den passenden Schlüssel hat, kann die Daten wieder entschlüsseln."
+      },
+      {
+        "frage": "Was ist ein Algorithmus?",
+        "optionen": [
+          "Ein Computerprogramm",
+          "Eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+          "Eine Internetseite",
+          "Ein Virus"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Algorithmus ist eine präzise, endliche Folge von Anweisungen, die ein bestimmtes Problem löst oder eine Aufgabe erfüllt."
+      },
+      {
+        "frage": "Was ist 'Open Source'-Software?",
+        "optionen": [
+          "Software, die immer kostenlos ist",
+          "Software, deren Quellcode öffentlich einsehbar ist und von jedem verändert werden darf",
+          "Software ohne Updates",
+          "Software nur für Programmierer"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Open Source bedeutet, dass der Quellcode einer Software öffentlich ist. Jeder kann ihn einsehen, nutzen und weiterentwickeln (z.B. Linux, Firefox)."
+      }
+    ]
+  }
+}

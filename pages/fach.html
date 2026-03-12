@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LP21 Lernwelt</title>
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="../index.html" class="logo">
+                <span class="logo-icon">🎓</span>
+                <span class="logo-text">LP21 Lernwelt</span>
+            </a>
+            <nav class="breadcrumb" id="breadcrumb">
+                <a href="../index.html" class="breadcrumb-item">Startseite</a>
+                <span class="breadcrumb-item active" id="breadcrumbFach">Fach</span>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="fach-header" id="fachHeader">
+            <span class="fach-header-icon" id="fachIcon"></span>
+            <div class="fach-header-info">
+                <h1 id="fachName">Lädt...</h1>
+                <p id="fachDesc"></p>
+            </div>
+        </div>
+
+        <div id="bereicheContainer">
+            <!-- Dynamisch generiert -->
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>LP21 Lernwelt - Basierend auf dem <a href="https://zg.lehrplan.ch/" target="_blank">Lehrplan 21 Kanton Zug</a></p>
+    </footer>
+
+    <script src="../js/utils/storage.js"></script>
+    <script src="../js/utils/dom-helpers.js"></script>
+    <script src="../js/utils/feedback.js"></script>
+    <script src="../js/game-engine.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const fachId = DOM.getParam('fach');
+            if (!fachId) { location.href = '../index.html'; return; }
+
+            try {
+                const data = await GameEngine.loadFaecher();
+                const fach = GameEngine.findFach(data, fachId);
+                if (!fach) { location.href = '../index.html'; return; }
+
+                renderFachPage(fach);
+            } catch (err) {
+                document.getElementById('bereicheContainer').innerHTML =
+                    '<p style="color:#f44336;">Fehler beim Laden.</p>';
+                console.error(err);
+            }
+        });
+
+        function renderFachPage(fach) {
+            document.title = `${fach.name} - LP21 Lernwelt`;
+            document.documentElement.style.setProperty('--fach-farbe', fach.farbe);
+
+            DOM.$('#fachIcon').textContent = fach.icon;
+            DOM.$('#fachName').textContent = fach.name;
+            DOM.$('#fachDesc').textContent = `${fach.kuerzel} - Zyklus 3`;
+            DOM.$('#breadcrumbFach').textContent = fach.name;
+            DOM.$('#fachHeader').style.borderColor = fach.farbe;
+
+            const container = DOM.$('#bereicheContainer');
+            container.innerHTML = '';
+
+            for (const bereich of fach.bereiche || []) {
+                const section = DOM.create('section', { class: 'bereich-section' }, [
+                    DOM.create('h2', { class: 'bereich-title', text: `${bereich.code} ${bereich.name}` })
+                ]);
+
+                const grid = DOM.create('div', { class: 'kompetenz-grid' });
+
+                for (const k of bereich.kompetenzen || []) {
+                    const progress = LP21Storage.getProgress(fach.id, k.id);
+
+                    const card = DOM.create('a', {
+                        class: 'kompetenz-card animate-fade-in',
+                        href: `spiel.html?fach=${fach.id}&kompetenz=${k.id}&typ=${k.spieltyp}`
+                    }, [
+                        DOM.create('div', { class: 'kompetenz-code', text: k.code }),
+                        DOM.create('div', { class: 'kompetenz-name', text: k.name }),
+                        DOM.create('div', { class: 'kompetenz-beschreibung', text: k.beschreibung }),
+                        DOM.create('div', { class: 'kompetenz-footer' }, [
+                            DOM.create('span', { class: 'kompetenz-spieltyp', text: k.spieltyp }),
+                            DOM.create('span', {
+                                class: 'kompetenz-sterne',
+                                html: Feedback.starsHTML(progress.sterne)
+                            })
+                        ])
+                    ]);
+
+                    grid.appendChild(card);
+                }
+
+                section.appendChild(grid);
+                container.appendChild(section);
+            }
+        }
+    </script>
+</body>
+</html>

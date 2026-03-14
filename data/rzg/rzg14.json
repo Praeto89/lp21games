@@ -4,9 +4,9 @@
     "typ":  "zuordnung",
     "spiel":  {
                   "kategorien":  [
-                                     "NatÃ¼rliche Ressource",
-                                     "Erneuerbarer EnergietrÃ¤ger",
-                                     "Nicht erneuerbarer EnergietrÃ¤ger",
+                                     "Natürliche Ressource",
+                                     "Erneuerbarer Energieträger",
+                                     "Nicht erneuerbarer Energieträger",
                                      "Folge oder Konflikt"
                                  ],
                   "elemente":  [
@@ -35,7 +35,7 @@
                                        "kategorie":  1
                                    },
                                    {
-                                       "text":  "ErdÃ¶l",
+                                       "text":  "Erdöl",
                                        "kategorie":  2
                                    },
                                    {
@@ -47,7 +47,7 @@
                                        "kategorie":  2
                                    },
                                    {
-                                       "text":  "LandschaftszerstÃ¶rung durch Tagebau",
+                                       "text":  "Landschaftszerstörung durch Tagebau",
                                        "kategorie":  3
                                    },
                                    {
@@ -55,7 +55,7 @@
                                        "kategorie":  3
                                    },
                                    {
-                                       "text":  "AbhÃ¤ngigkeit von Importen",
+                                       "text":  "Abhängigkeit von Importen",
                                        "kategorie":  3
                                    }
                                ]

@@ -5,7 +5,7 @@
     "spiel":  {
                   "aufgaben":  [
                                    {
-                                       "anweisung":  "Ordne prÃ¤gende Ereignisse des 20. und 21. Jahrhunderts.",
+                                       "anweisung":  "Ordne prägende Ereignisse des 20. und 21. Jahrhunderts.",
                                        "ereignisse":  [
                                                           {
                                                               "text":  "Beginn des Ersten Weltkriegs",
@@ -24,11 +24,11 @@
                                                               "jahr":  "1939"
                                                           },
                                                           {
-                                                              "text":  "Ende des Zweiten Weltkriegs und GrÃ¼ndung der UNO",
+                                                              "text":  "Ende des Zweiten Weltkriegs und Gründung der UNO",
                                                               "jahr":  "1945"
                                                           },
                                                           {
-                                                              "text":  "Allgemeine ErklÃ¤rung der Menschenrechte",
+                                                              "text":  "Allgemeine Erklärung der Menschenrechte",
                                                               "jahr":  "1948"
                                                           },
                                                           {
@@ -36,7 +36,7 @@
                                                               "jahr":  "1989"
                                                           },
                                                           {
-                                                              "text":  "TerroranschlÃ¤ge vom 11. September",
+                                                              "text":  "Terroranschläge vom 11. September",
                                                               "jahr":  "2001"
                                                           }
                                                       ]

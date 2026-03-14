@@ -8,37 +8,37 @@
                                      "frage":  "Was ist eine Mental Map?",
                                      "optionen":  [
                                                       "Eine Landkarte aus Metall",
-                                                      "Eine persÃ¶nliche innere Vorstellung von einem Raum",
+                                                      "Eine persönliche innere Vorstellung von einem Raum",
                                                       "Ein Satellitenbild aus dem Internet",
-                                                      "Ein Fahrplan fÃ¼r den Zug"
+                                                      "Ein Fahrplan für den Zug"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Mental Maps sind innere Bilder, die Menschen von Orten und RÃ¤umen haben."
+                                     "erklaerung":  "Mental Maps sind innere Bilder, die Menschen von Orten und Räumen haben."
                                  },
                                  {
-                                     "frage":  "Warum ist es sinnvoll, Lebensweisen in verschiedenen RÃ¤umen zu vergleichen?",
+                                     "frage":  "Warum ist es sinnvoll, Lebensweisen in verschiedenen Räumen zu vergleichen?",
                                      "optionen":  [
-                                                      "Weil Ã¼berall auf der Welt genau gleich gelebt wird",
-                                                      "Weil Klima, Wirtschaft und Kultur den Alltag unterschiedlich prÃ¤gen",
-                                                      "Weil nur StÃ¤dte interessant sind",
+                                                      "Weil überall auf der Welt genau gleich gelebt wird",
+                                                      "Weil Klima, Wirtschaft und Kultur den Alltag unterschiedlich prägen",
+                                                      "Weil nur Städte interessant sind",
                                                       "Weil Vergleiche in Geografie keine Rolle spielen"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Lebensweisen hÃ¤ngen unter anderem von Klima, Ressourcen, Wirtschaft, Geschichte und Kultur ab."
+                                     "erklaerung":  "Lebensweisen hängen unter anderem von Klima, Ressourcen, Wirtschaft, Geschichte und Kultur ab."
                                  },
                                  {
                                      "frage":  "Welches Beispiel zeigt soziale Ungleichheit?",
                                      "optionen":  [
                                                       "Alle Kinder haben den gleichen Zugang zu Bildung",
                                                       "In einem Dorf regnet es viel",
-                                                      "Ein Teil der BevÃ¶lkerung hat kaum Zugang zu sauberem Wasser und Schulen",
+                                                      "Ein Teil der Bevölkerung hat kaum Zugang zu sauberem Wasser und Schulen",
                                                       "Eine Familie kocht Reis statt Pasta"
                                                   ],
                                      "korrekt":  2,
                                      "erklaerung":  "Soziale Ungleichheit zeigt sich zum Beispiel bei ungleichen Chancen auf Bildung, Gesundheit oder Nahrung."
                                  },
                                  {
-                                     "frage":  "Was zeigt ein Haus auf Stelzen in einem Ãœberschwemmungsgebiet?",
+                                     "frage":  "Was zeigt ein Haus auf Stelzen in einem Überschwemmungsgebiet?",
                                      "optionen":  [
                                                       "Menschen passen ihre Lebensweise an den Raum an",
                                                       "Menschen bauen immer gleich",
@@ -49,21 +49,21 @@
                                      "erklaerung":  "Bauweisen sind oft eine Anpassung an Naturgefahren und Umweltbedingungen."
                                  },
                                  {
-                                     "frage":  "Warum ist Bildung fÃ¼r Lebensbedingungen besonders wichtig?",
+                                     "frage":  "Warum ist Bildung für Lebensbedingungen besonders wichtig?",
                                      "optionen":  [
-                                                      "Weil sie das Klima kÃ¤lter macht",
+                                                      "Weil sie das Klima kälter macht",
                                                       "Weil sie Chancen auf Beruf, Gesundheit und Mitbestimmung verbessert",
                                                       "Weil sie nur Touristen hilft",
                                                       "Weil sie Armut automatisch abschafft"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Bildung verbessert oft die MÃ¶glichkeiten, Entscheidungen zu treffen und ein eigenstÃ¤ndiges Leben zu fÃ¼hren."
+                                     "erklaerung":  "Bildung verbessert oft die Möglichkeiten, Entscheidungen zu treffen und ein eigenständiges Leben zu führen."
                                  },
                                  {
-                                     "frage":  "Welche Aussage Ã¼ber Armut ist am treffendsten?",
+                                     "frage":  "Welche Aussage über Armut ist am treffendsten?",
                                      "optionen":  [
                                                       "Armut bedeutet nur, wenig Taschengeld zu haben",
-                                                      "Armut betrifft ausschliesslich Menschen in GrossstÃ¤dten",
+                                                      "Armut betrifft ausschliesslich Menschen in Grossstädten",
                                                       "Armut kann auch fehlenden Zugang zu Nahrung, medizinischer Versorgung oder Bildung bedeuten",
                                                       "Armut ist immer selbst verschuldet"
                                                   ],
@@ -73,24 +73,24 @@
                                  {
                                      "frage":  "Welches Ziel verfolgt Entwicklungszusammenarbeit?",
                                      "optionen":  [
-                                                      "Nur mÃ¶glichst viele Produkte exportieren",
+                                                      "Nur möglichst viele Produkte exportieren",
                                                       "Lebensbedingungen verbessern und Chancen gerechter verteilen",
-                                                      "Alle LÃ¤nder gleich machen",
+                                                      "Alle Länder gleich machen",
                                                       "Tourismus verbieten"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Entwicklungszusammenarbeit versucht, Menschen und Regionen langfristig zu stÃ¤rken und Ungleichheiten zu verringern."
+                                     "erklaerung":  "Entwicklungszusammenarbeit versucht, Menschen und Regionen langfristig zu stärken und Ungleichheiten zu verringern."
                                  },
                                  {
-                                     "frage":  "Warum sollte man eigene Vorstellungen Ã¼ber fremde Lebensweisen hinterfragen?",
+                                     "frage":  "Warum sollte man eigene Vorstellungen über fremde Lebensweisen hinterfragen?",
                                      "optionen":  [
-                                                      "Weil Vorurteile und Klischees den Blick verengen kÃ¶nnen",
-                                                      "Weil nur Lehrpersonen vergleichen dÃ¼rfen",
+                                                      "Weil Vorurteile und Klischees den Blick verengen können",
+                                                      "Weil nur Lehrpersonen vergleichen dürfen",
                                                       "Weil alle Lebensweisen identisch sind",
-                                                      "Weil Karten dann unnÃ¶tig werden"
+                                                      "Weil Karten dann unnötig werden"
                                                   ],
                                      "korrekt":  0,
-                                     "erklaerung":  "Eigene Bilder von anderen RÃ¤umen sind oft vereinfacht und mÃ¼ssen mit Informationen Ã¼berprÃ¼ft werden."
+                                     "erklaerung":  "Eigene Bilder von anderen Räumen sind oft vereinfacht und müssen mit Informationen überprüft werden."
                                  }
                              ]
               }

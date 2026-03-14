@@ -8,23 +8,23 @@
                                      "frage":  "Welcher Raum ist ein typisches Dienstleistungszentrum?",
                                      "optionen":  [
                                                       "Eine abgelegene Alp ohne Infrastruktur",
-                                                      "Eine Stadt mit Banken, SpitÃ¤lern und Hochschulen",
+                                                      "Eine Stadt mit Banken, Spitälern und Hochschulen",
                                                       "Ein reiner Wald ohne Siedlung",
                                                       "Ein Vulkankrater"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Dienstleistungszentren bÃ¼ndeln viele Angebote wie Verwaltung, Bildung, Gesundheit und Finanzen."
+                                     "erklaerung":  "Dienstleistungszentren bündeln viele Angebote wie Verwaltung, Bildung, Gesundheit und Finanzen."
                                  },
                                  {
-                                     "frage":  "Was ist typisch fÃ¼r eine Plantage?",
+                                     "frage":  "Was ist typisch für eine Plantage?",
                                      "optionen":  [
-                                                      "Viele kleine Familienbetriebe mit Mischkultur fÃ¼r den Eigenbedarf",
-                                                      "GrossflÃ¤chiger Anbau einer Kulturpflanze fÃ¼r den Markt",
+                                                      "Viele kleine Familienbetriebe mit Mischkultur für den Eigenbedarf",
+                                                      "Grossflächiger Anbau einer Kulturpflanze für den Markt",
                                                       "Ausschliesslich Viehzucht im Hochgebirge",
-                                                      "Ein Industriegebiet mit HochhÃ¤usern"
+                                                      "Ein Industriegebiet mit Hochhäusern"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Plantagen produzieren meist auf grossen FlÃ¤chen fÃ¼r den Export, oft als Monokultur."
+                                     "erklaerung":  "Plantagen produzieren meist auf grossen Flächen für den Export, oft als Monokultur."
                                  },
                                  {
                                      "frage":  "Welches Beispiel zeigt globale Verflechtung?",
@@ -35,25 +35,25 @@
                                                       "Ein Berg bleibt an seinem Ort"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Globalisierung verbindet Produktionsorte, Transportwege und AbsatzmÃ¤rkte weltweit."
+                                     "erklaerung":  "Globalisierung verbindet Produktionsorte, Transportwege und Absatzmärkte weltweit."
                                  },
                                  {
                                      "frage":  "Was meint Strukturwandel?",
                                      "optionen":  [
-                                                      "Die Erde Ã¤ndert ihre Form",
+                                                      "Die Erde ändert ihre Form",
                                                       "Die Wirtschaft verschiebt sich zum Beispiel von Landwirtschaft zu Industrie und Dienstleistung",
-                                                      "Nur die Farben auf Karten Ã¤ndern sich",
+                                                      "Nur die Farben auf Karten ändern sich",
                                                       "Alle Berufe bleiben immer gleich"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Beim Strukturwandel verÃ¤ndern sich Bedeutung und Anteil von Erwerbssektoren."
+                                     "erklaerung":  "Beim Strukturwandel verändern sich Bedeutung und Anteil von Erwerbssektoren."
                                  },
                                  {
                                      "frage":  "Woran erkennt man eher ein nachhaltig produziertes Gut?",
                                      "optionen":  [
                                                       "An besonders viel Einwegverpackung",
                                                       "An fairer Produktion und sparsamer Ressourcennutzung",
-                                                      "An mÃ¶glichst langer Transportdistanz",
+                                                      "An möglichst langer Transportdistanz",
                                                       "An fehlenden Angaben zur Herkunft"
                                                   ],
                                      "korrekt":  1,
@@ -62,19 +62,19 @@
                                  {
                                      "frage":  "Welche soziale Folge kann die Verlagerung von Produktion haben?",
                                      "optionen":  [
-                                                      "Es gibt nie mehr ArbeitsplÃ¤tze",
-                                                      "Neue Jobs entstehen, aber oft auch AbhÃ¤ngigkeit und Druck auf LÃ¶hne",
+                                                      "Es gibt nie mehr Arbeitsplätze",
+                                                      "Neue Jobs entstehen, aber oft auch Abhängigkeit und Druck auf Löhne",
                                                       "Alle Waren werden kostenlos",
                                                       "Arbeit verschwindet weltweit"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Produktionsverlagerungen schaffen Chancen, kÃ¶nnen aber auch problematische Arbeitsbedingungen verstÃ¤rken."
+                                     "erklaerung":  "Produktionsverlagerungen schaffen Chancen, können aber auch problematische Arbeitsbedingungen verstärken."
                                  },
                                  {
                                      "frage":  "Welches Produkt braucht in der Herstellung oft besonders viele Ressourcen?",
                                      "optionen":  [
-                                                      "Ein geteiltes Schulbuch Ã¼ber viele Jahre",
-                                                      "Ein Fast-Fashion-KleidungsstÃ¼ck mit kurzer Nutzungsdauer",
+                                                      "Ein geteiltes Schulbuch über viele Jahre",
+                                                      "Ein Fast-Fashion-Kleidungsstück mit kurzer Nutzungsdauer",
                                                       "Eine Mehrwegflasche",
                                                       "Ein repariertes Velo"
                                                   ],
@@ -85,9 +85,9 @@
                                      "frage":  "Welche Rolle spielen Kommunikationsmedien in der Globalisierung?",
                                      "optionen":  [
                                                       "Sie verhindern jeden Handel",
-                                                      "Sie machen es leichter, Produktion, Transporte und Dienstleistungen Ã¼ber weite Distanzen zu koordinieren",
+                                                      "Sie machen es leichter, Produktion, Transporte und Dienstleistungen über weite Distanzen zu koordinieren",
                                                       "Sie ersetzen alle Rohstoffe",
-                                                      "Sie machen Karten Ã¼berflÃ¼ssig"
+                                                      "Sie machen Karten überflüssig"
                                                   ],
                                      "korrekt":  1,
                                      "erklaerung":  "Digitale Kommunikation beschleunigt Planung, Handel und Dienstleistungen in globalen Netzwerken."

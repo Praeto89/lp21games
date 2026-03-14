@@ -4,8 +4,8 @@
     "typ":  "zuordnung",
     "spiel":  {
                   "kategorien":  [
-                                     "StÃ¤dtischer Raum",
-                                     "LÃ¤ndlicher Raum",
+                                     "Städtischer Raum",
+                                     "Ländlicher Raum",
                                      "Beides oder Wechselwirkung"
                                  ],
                   "elemente":  [
@@ -30,7 +30,7 @@
                                        "kategorie":  1
                                    },
                                    {
-                                       "text":  "Weite Wege zu EinkaufsmÃ¶glichkeiten",
+                                       "text":  "Weite Wege zu Einkaufsmöglichkeiten",
                                        "kategorie":  1
                                    },
                                    {
@@ -38,7 +38,7 @@
                                        "kategorie":  1
                                    },
                                    {
-                                       "text":  "Erholungsraum mit Feldern und WÃ¤ldern",
+                                       "text":  "Erholungsraum mit Feldern und Wäldern",
                                        "kategorie":  1
                                    },
                                    {
@@ -50,11 +50,11 @@
                                        "kategorie":  2
                                    },
                                    {
-                                       "text":  "Agglomeration wÃ¤chst am Stadtrand",
+                                       "text":  "Agglomeration wächst am Stadtrand",
                                        "kategorie":  2
                                    },
                                    {
-                                       "text":  "GemÃ¼se und Milch kommen aus dem Umland in die Stadt",
+                                       "text":  "Gemüse und Milch kommen aus dem Umland in die Stadt",
                                        "kategorie":  2
                                    }
                                ]

@@ -7,90 +7,90 @@
                                  {
                                      "frage":  "Was beschreibt Massentourismus am besten?",
                                      "optionen":  [
-                                                      "Wenige Reisende in einer abgelegenen BerghÃ¼tte",
-                                                      "Viele Reisende am gleichen Ort mit Ã¤hnlichen Angeboten",
-                                                      "Nur GeschÃ¤ftsreisen innerhalb eines Landes",
-                                                      "Ferien ohne Ãœbernachtung"
+                                                      "Wenige Reisende in einer abgelegenen Berghütte",
+                                                      "Viele Reisende am gleichen Ort mit ähnlichen Angeboten",
+                                                      "Nur Geschäftsreisen innerhalb eines Landes",
+                                                      "Ferien ohne Übernachtung"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Massentourismus bÃ¼ndelt viele GÃ¤ste an einem Ziel und schafft grosse Infrastruktur und hohe Belastungen."
+                                     "erklaerung":  "Massentourismus bündelt viele Gäste an einem Ziel und schafft grosse Infrastruktur und hohe Belastungen."
                                  },
                                  {
                                      "frage":  "Was ist mit sanftem Tourismus gemeint?",
                                      "optionen":  [
-                                                      "Tourismus, der Umwelt, Kultur und lokale BevÃ¶lkerung stÃ¤rker berÃ¼cksichtigt",
-                                                      "Ferien mit mÃ¶glichst wenig RÃ¼cksicht auf die Region",
+                                                      "Tourismus, der Umwelt, Kultur und lokale Bevölkerung stärker berücksichtigt",
+                                                      "Ferien mit möglichst wenig Rücksicht auf die Region",
                                                       "Nur Winterferien im Hochgebirge",
-                                                      "Reisen ohne GepÃ¤ck"
+                                                      "Reisen ohne Gepäck"
                                                   ],
                                      "korrekt":  0,
                                      "erklaerung":  "Sanfter Tourismus versucht, Natur und lokale Strukturen weniger zu belasten."
                                  },
                                  {
-                                     "frage":  "Was misst die Kennzahl Ãœbernachtungen im Tourismus?",
+                                     "frage":  "Was misst die Kennzahl Übernachtungen im Tourismus?",
                                      "optionen":  [
                                                       "Wie oft ein Hotel renoviert wird",
-                                                      "Wie viele NÃ¤chte GÃ¤ste in einer Region verbringen",
+                                                      "Wie viele Nächte Gäste in einer Region verbringen",
                                                       "Wie viele Autos pro Hotel parkieren",
                                                       "Wie oft ein Flugzeug landet"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Ãœbernachtungen zeigen, wie lange GÃ¤ste bleiben und wie stark UnterkÃ¼nfte genutzt werden."
+                                     "erklaerung":  "Übernachtungen zeigen, wie lange Gäste bleiben und wie stark Unterkünfte genutzt werden."
                                  },
                                  {
-                                     "frage":  "Warum ist Tourismus fÃ¼r viele Regionen wirtschaftlich wichtig?",
+                                     "frage":  "Warum ist Tourismus für viele Regionen wirtschaftlich wichtig?",
                                      "optionen":  [
                                                       "Weil Touristen nur gratis reisen",
                                                       "Weil dadurch Jobs in Hotels, Gastronomie und Transport entstehen",
-                                                      "Weil Landwirtschaft dadurch unnÃ¶tig wird",
+                                                      "Weil Landwirtschaft dadurch unnötig wird",
                                                       "Weil dann keine Infrastruktur mehr gebraucht wird"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Tourismus schafft Einkommen und ArbeitsplÃ¤tze in vielen Dienstleistungsbereichen."
+                                     "erklaerung":  "Tourismus schafft Einkommen und Arbeitsplätze in vielen Dienstleistungsbereichen."
                                  },
                                  {
                                      "frage":  "Welche Auswirkung kann Wintertourismus auf den Alpenraum haben?",
                                      "optionen":  [
-                                                      "Skipisten und Lifte verÃ¤ndern Landschaft und LebensrÃ¤ume",
-                                                      "Es gibt dann keine SchneefÃ¤lle mehr",
-                                                      "Alle DÃ¶rfer werden automatisch grÃ¶sser als ZÃ¼rich",
-                                                      "WÃ¤lder wachsen schneller wegen Skiliften"
+                                                      "Skipisten und Lifte verändern Landschaft und Lebensräume",
+                                                      "Es gibt dann keine Schneefälle mehr",
+                                                      "Alle Dörfer werden automatisch grösser als Zürich",
+                                                      "Wälder wachsen schneller wegen Skiliften"
                                                   ],
                                      "korrekt":  0,
                                      "erklaerung":  "Pisten, Beschneiung und Verkehr greifen oft stark in alpine Landschaften ein."
                                  },
                                  {
-                                     "frage":  "Welches Problem kann KÃ¼stentourismus verstÃ¤rken?",
+                                     "frage":  "Welches Problem kann Küstentourismus verstärken?",
                                      "optionen":  [
                                                       "Zu wenig Sonnenschein",
                                                       "Mehr Versiegelung, Abfall und Wasserverbrauch",
-                                                      "Verschwinden aller Fische Ã¼ber Nacht",
+                                                      "Verschwinden aller Fische über Nacht",
                                                       "Es gibt keine Hotels mehr"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Besonders an KÃ¼sten belasten Bauprojekte, AbfÃ¤lle und hoher Wasserverbrauch Mensch und Umwelt."
+                                     "erklaerung":  "Besonders an Küsten belasten Bauprojekte, Abfälle und hoher Wasserverbrauch Mensch und Umwelt."
                                  },
                                  {
                                      "frage":  "Welche Ferienentscheidung ist am nachhaltigsten?",
                                      "optionen":  [
-                                                      "FÃ¼r drei Tage an mehrere Orte fliegen",
-                                                      "Mit dem Zug anreisen, lÃ¤nger bleiben und lokale Angebote nutzen",
+                                                      "Für drei Tage an mehrere Orte fliegen",
+                                                      "Mit dem Zug anreisen, länger bleiben und lokale Angebote nutzen",
                                                       "Jeden Tag ein anderes Mietauto buchen",
                                                       "Nur in grossen Resorts essen"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "LÃ¤ngere Aufenthalte, klimafreundliche Anreise und lokale WertschÃ¶pfung sind nachhaltiger."
+                                     "erklaerung":  "Längere Aufenthalte, klimafreundliche Anreise und lokale Wertschöpfung sind nachhaltiger."
                                  },
                                  {
-                                     "frage":  "Warum kann Tourismus in beliebten Orten zu Konflikten fÃ¼hren?",
+                                     "frage":  "Warum kann Tourismus in beliebten Orten zu Konflikten führen?",
                                      "optionen":  [
                                                       "Weil Touristen nie Geld ausgeben",
-                                                      "Weil hohe Mieten, Verkehr und saisonale AbhÃ¤ngigkeit Einheimische belasten kÃ¶nnen",
-                                                      "Weil GÃ¤ste nur im Winter kommen dÃ¼rfen",
+                                                      "Weil hohe Mieten, Verkehr und saisonale Abhängigkeit Einheimische belasten können",
+                                                      "Weil Gäste nur im Winter kommen dürfen",
                                                       "Weil Ferien immer ohne Folgen bleiben"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Tourismus bringt Nutzen, kann aber auch Preise, Verkehr und Druck auf Wohnraum erhÃ¶hen."
+                                     "erklaerung":  "Tourismus bringt Nutzen, kann aber auch Preise, Verkehr und Druck auf Wohnraum erhöhen."
                                  }
                              ]
               }

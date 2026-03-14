@@ -8,29 +8,29 @@
                                      "frage":  "Was beschreibt Klima im Unterschied zum Wetter?",
                                      "optionen":  [
                                                       "Die Wetterlage an einem einzelnen Tag",
-                                                      "Die durchschnittlichen WetterverhÃ¤ltnisse Ã¼ber viele Jahre",
+                                                      "Die durchschnittlichen Wetterverhältnisse über viele Jahre",
                                                       "Die genaue Uhrzeit eines Ortes",
                                                       "Die Form der Erde"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Klima beschreibt typische WetterverhÃ¤ltnisse Ã¼ber einen langen Zeitraum, Wetter nur die aktuelle Situation."
+                                     "erklaerung":  "Klima beschreibt typische Wetterverhältnisse über einen langen Zeitraum, Wetter nur die aktuelle Situation."
                                  },
                                  {
-                                     "frage":  "In welcher Klimazone liegen Gebiete rund um den Ã„quator?",
+                                     "frage":  "In welcher Klimazone liegen Gebiete rund um den Äquator?",
                                      "optionen":  [
                                                       "In der kalten Zone",
-                                                      "In der gemÃ¤ssigten Zone",
+                                                      "In der gemässigten Zone",
                                                       "In der Tropenzone",
                                                       "In der Polarzone"
                                                   ],
                                      "korrekt":  2,
-                                     "erklaerung":  "Rund um den Ã„quator herrscht tropisches Klima mit ganzjÃ¤hrig hohen Temperaturen."
+                                     "erklaerung":  "Rund um den Äquator herrscht tropisches Klima mit ganzjährig hohen Temperaturen."
                                  },
                                  {
                                      "frage":  "Was zeigt ein Klimadiagramm vor allem?",
                                      "optionen":  [
                                                       "Temperatur und Niederschlag im Jahresverlauf",
-                                                      "Die genaue HÃ¶he eines Berges",
+                                                      "Die genaue Höhe eines Berges",
                                                       "Nur die Windrichtung eines Tages",
                                                       "Die Verteilung der Sprachen eines Landes"
                                                   ],
@@ -38,59 +38,59 @@
                                      "erklaerung":  "Klimadiagramme zeigen meist Monatswerte von Temperatur und Niederschlag."
                                  },
                                  {
-                                     "frage":  "Was ist typisch fÃ¼r einen FÃ¶hn in den Alpen?",
+                                     "frage":  "Was ist typisch für einen Föhn in den Alpen?",
                                      "optionen":  [
                                                       "Ein kalter Seewind am Abend",
                                                       "Ein warmer, trockener Fallwind",
                                                       "Ein tropischer Wirbelsturm",
-                                                      "Ein tÃ¤glicher Regen im Sommer"
+                                                      "Ein täglicher Regen im Sommer"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Der FÃ¶hn ist ein warmer, trockener Wind, der auf der Leeseite der Alpen talwÃ¤rts weht."
+                                     "erklaerung":  "Der Föhn ist ein warmer, trockener Wind, der auf der Leeseite der Alpen talwärts weht."
                                  },
                                  {
                                      "frage":  "Welche Aussage zur Bise trifft zu?",
                                      "optionen":  [
-                                                      "Sie ist ein warmer Wind aus dem SÃ¼den",
+                                                      "Sie ist ein warmer Wind aus dem Süden",
                                                       "Sie bringt oft kalte, trockene Luft auf das Mittelland",
-                                                      "Sie entsteht nur Ã¼ber dem Meer",
-                                                      "Sie ist ein anderes Wort fÃ¼r Gewitter"
+                                                      "Sie entsteht nur über dem Meer",
+                                                      "Sie ist ein anderes Wort für Gewitter"
                                                   ],
                                      "korrekt":  1,
                                      "erklaerung":  "Die Bise ist ein oft kalter, trockener Nordostwind im Schweizer Mittelland."
                                  },
                                  {
-                                     "frage":  "Wie verstÃ¤rkt der Mensch den Treibhauseffekt?",
+                                     "frage":  "Wie verstärkt der Mensch den Treibhauseffekt?",
                                      "optionen":  [
-                                                      "Durch das Pflanzen von WÃ¤ldern",
+                                                      "Durch das Pflanzen von Wäldern",
                                                       "Durch den Ausstoss von Treibhausgasen beim Verbrennen fossiler Energien",
                                                       "Durch das Drehen der Erde",
-                                                      "Durch das Ã–ffnen von Fenstern"
+                                                      "Durch das Öffnen von Fenstern"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Vor allem Kohlendioxid aus ErdÃ¶l, Erdgas und Kohle verstÃ¤rkt den natÃ¼rlichen Treibhauseffekt."
+                                     "erklaerung":  "Vor allem Kohlendioxid aus Erdöl, Erdgas und Kohle verstärkt den natürlichen Treibhauseffekt."
                                  },
                                  {
                                      "frage":  "Welche Folge des Klimawandels ist in den Alpen besonders gut sichtbar?",
                                      "optionen":  [
-                                                      "Gletscher ziehen sich zurÃ¼ck",
+                                                      "Gletscher ziehen sich zurück",
                                                       "Die Alpen verschwinden in einer Woche",
                                                       "Es gibt keine Jahreszeiten mehr",
-                                                      "Das Mittelland wird sofort zur WÃ¼ste"
+                                                      "Das Mittelland wird sofort zur Wüste"
                                                   ],
                                      "korrekt":  0,
-                                     "erklaerung":  "Steigende Temperaturen fÃ¼hren in den Alpen besonders sichtbar zu Gletscherschwund und tauendem Permafrost."
+                                     "erklaerung":  "Steigende Temperaturen führen in den Alpen besonders sichtbar zu Gletscherschwund und tauendem Permafrost."
                                  },
                                  {
                                      "frage":  "Welcher Beitrag hilft am ehesten, den Klimawandel zu begrenzen?",
                                      "optionen":  [
-                                                      "HÃ¤ufiger Kurzstrecken fliegen",
-                                                      "Mehr Energie aus ErdÃ¶l verbrauchen",
-                                                      "Ã–ffentliche Verkehrsmittel nutzen und Energie sparen",
+                                                      "Häufiger Kurzstrecken fliegen",
+                                                      "Mehr Energie aus Erdöl verbrauchen",
+                                                      "Öffentliche Verkehrsmittel nutzen und Energie sparen",
                                                       "Im Winter alle Fenster offen lassen"
                                                   ],
                                      "korrekt":  2,
-                                     "erklaerung":  "Weniger fossile Energie und klimafreundlichere MobilitÃ¤t senken den Ausstoss von Treibhausgasen."
+                                     "erklaerung":  "Weniger fossile Energie und klimafreundlichere Mobilität senken den Ausstoss von Treibhausgasen."
                                  }
                              ]
               }

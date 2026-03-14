@@ -7,19 +7,19 @@
                                  {
                                      "frage":  "Was ist das Hauptziel der Raumplanung?",
                                      "optionen":  [
-                                                      "Beliebig Ã¼berall bauen",
-                                                      "RÃ¤ume so nutzen, dass Wohnen, Arbeiten, Verkehr und Natur abgestimmt sind",
-                                                      "Nur Strassen fÃ¼r Autos bauen",
-                                                      "DÃ¶rfer grundsÃ¤tzlich verbieten"
+                                                      "Beliebig überall bauen",
+                                                      "Räume so nutzen, dass Wohnen, Arbeiten, Verkehr und Natur abgestimmt sind",
+                                                      "Nur Strassen für Autos bauen",
+                                                      "Dörfer grundsätzlich verbieten"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Raumplanung koordiniert unterschiedliche Nutzungen und schÃ¼tzt gleichzeitig LebensrÃ¤ume und Landschaften."
+                                     "erklaerung":  "Raumplanung koordiniert unterschiedliche Nutzungen und schützt gleichzeitig Lebensräume und Landschaften."
                                  },
                                  {
                                      "frage":  "Was bedeutet Umzonung?",
                                      "optionen":  [
                                                       "Eine Karte umdrehen",
-                                                      "Ein Gebiet erhÃ¤lt eine neue vorgesehene Nutzung",
+                                                      "Ein Gebiet erhält eine neue vorgesehene Nutzung",
                                                       "Ein Haus wird abgerissen",
                                                       "Ein Fluss wird begradigt"
                                                   ],
@@ -27,11 +27,11 @@
                                      "erklaerung":  "Bei einer Umzonung wird etwa Landwirtschaftsland zu Bauzone oder umgekehrt."
                                  },
                                  {
-                                     "frage":  "Warum soll Zersiedlung mÃ¶glichst begrenzt werden?",
+                                     "frage":  "Warum soll Zersiedlung möglichst begrenzt werden?",
                                      "optionen":  [
                                                       "Damit Schulen weiter auseinanderliegen",
                                                       "Damit weniger Landschaft verbraucht und mehr Verkehr vermieden wird",
-                                                      "Damit nur InnenstÃ¤dte existieren",
+                                                      "Damit nur Innenstädte existieren",
                                                       "Damit Karten einfacher aussehen"
                                                   ],
                                      "korrekt":  1,
@@ -40,57 +40,57 @@
                                  {
                                      "frage":  "Was versteht man unter Verdichtung nach innen?",
                                      "optionen":  [
-                                                      "Neue Bauzonen fernab der DÃ¶rfer erÃ¶ffnen",
-                                                      "Bestehende Siedlungen besser nutzen statt immer neue FlÃ¤chen zu Ã¼berbauen",
-                                                      "HÃ¤user in Berge hineinbohren",
+                                                      "Neue Bauzonen fernab der Dörfer eröffnen",
+                                                      "Bestehende Siedlungen besser nutzen statt immer neue Flächen zu überbauen",
+                                                      "Häuser in Berge hineinbohren",
                                                       "Nur Tiefgaragen bauen"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Innere Verdichtung nutzt vorhandene Infrastruktur und schÃ¼tzt eher unbebaute FlÃ¤chen."
+                                     "erklaerung":  "Innere Verdichtung nutzt vorhandene Infrastruktur und schützt eher unbebaute Flächen."
                                  },
                                  {
                                      "frage":  "Welche Interessen treffen bei einer Umfahrungsstrasse oft aufeinander?",
                                      "optionen":  [
                                                       "Nur die von Velofahrern",
-                                                      "Verkehr, WohnqualitÃ¤t, Wirtschaft und Naturschutz",
+                                                      "Verkehr, Wohnqualität, Wirtschaft und Naturschutz",
                                                       "Nur die von Fluggesellschaften",
                                                       "Keine, weil immer alle einverstanden sind"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Raumplanung muss oft gegensÃ¤tzliche Anliegen gegeneinander abwÃ¤gen."
+                                     "erklaerung":  "Raumplanung muss oft gegensätzliche Anliegen gegeneinander abwägen."
                                  },
                                  {
-                                     "frage":  "Warum sind Karten, Statistiken und Medienberichte fÃ¼r Raumplanung wichtig?",
+                                     "frage":  "Warum sind Karten, Statistiken und Medienberichte für Raumplanung wichtig?",
                                      "optionen":  [
                                                       "Weil man ohne sie nicht diskutieren darf",
                                                       "Weil sie helfen, Probleme sichtbar zu machen und Positionen zu verstehen",
-                                                      "Weil sie alle Konflikte sofort lÃ¶sen",
+                                                      "Weil sie alle Konflikte sofort lösen",
                                                       "Weil nur Medien entscheiden"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Geografische Daten und Berichte liefern die Grundlage, um Ã¼ber Raumfragen sachlich zu sprechen."
+                                     "erklaerung":  "Geografische Daten und Berichte liefern die Grundlage, um über Raumfragen sachlich zu sprechen."
                                  },
                                  {
-                                     "frage":  "Welche Massnahme schÃ¼tzt Landschaft besonders gut?",
+                                     "frage":  "Welche Massnahme schützt Landschaft besonders gut?",
                                      "optionen":  [
                                                       "Bauen auf jeder freien Wiese",
-                                                      "Bauen innerhalb bestehender Siedlungen statt neue GrÃ¼nflÃ¤chen zu Ã¼berbauen",
-                                                      "Mehr ParkplÃ¤tze in Moorgebieten",
+                                                      "Bauen innerhalb bestehender Siedlungen statt neue Grünflächen zu überbauen",
+                                                      "Mehr Parkplätze in Moorgebieten",
                                                       "Industriebauten auf Gletschern"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Wer bestehende Siedlungen besser nutzt, schÃ¼tzt eher wertvolle Landschafts- und LandwirtschaftsflÃ¤chen."
+                                     "erklaerung":  "Wer bestehende Siedlungen besser nutzt, schützt eher wertvolle Landschafts- und Landwirtschaftsflächen."
                                  },
                                  {
-                                     "frage":  "Welches Projekt ist ein eher nachhaltiges Beispiel fÃ¼r Raumplanung?",
+                                     "frage":  "Welches Projekt ist ein eher nachhaltiges Beispiel für Raumplanung?",
                                      "optionen":  [
-                                                      "Ein Einkaufszentrum ohne Ã–V-Anschluss mitten im Kulturland",
+                                                      "Ein Einkaufszentrum ohne ÖV-Anschluss mitten im Kulturland",
                                                       "Ein neues Quartier nahe am Bahnhof mit wenig Energieverbrauch und kurzen Wegen",
                                                       "Eine Siedlung mitten im Naturschutzgebiet",
                                                       "Eine neue Strasse direkt durch ein Moor"
                                                   ],
                                      "korrekt":  1,
-                                     "erklaerung":  "Kurze Wege, Ã–V-Anschluss und der sparsame Umgang mit FlÃ¤che sprechen fÃ¼r nachhaltige Raumentwicklung."
+                                     "erklaerung":  "Kurze Wege, ÖV-Anschluss und der sparsame Umgang mit Fläche sprechen für nachhaltige Raumentwicklung."
                                  }
                              ]
               }

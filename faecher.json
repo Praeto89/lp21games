@@ -1393,21 +1393,21 @@
     },
     {
       "id": "rzg",
-      "name": "RÃ¤ume, Zeiten, Gesellschaften",
+      "name": "Räume, Zeiten, Gesellschaften",
       "kuerzel": "RZG",
       "farbe": "#FFC107",
-      "icon": "ðŸŒ",
+      "icon": "🌍",
       "bereiche": [
         {
           "id": "rzg1",
           "code": "RZG.1",
-          "name": "NatÃ¼rliche Grundlagen der Erde untersuchen",
+          "name": "Natürliche Grundlagen der Erde untersuchen",
           "kompetenzen": [
             {
               "id": "rzg11",
               "code": "RZG.1.1",
               "name": "Erde als Planet",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Erde als Planeten beschreiben.",
+              "beschreibung": "Die Schülerinnen und Schüler können die Erde als Planeten beschreiben.",
               "spieltyp": "lueckentext",
               "datendatei": "data/rzg/rzg11.json"
             },
@@ -1415,23 +1415,23 @@
               "id": "rzg12",
               "code": "RZG.1.2",
               "name": "Wetter und Klima",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Wetter und Klima analysieren.",
+              "beschreibung": "Die Schülerinnen und Schüler können Wetter und Klima analysieren.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg12.json"
             },
             {
               "id": "rzg13",
               "code": "RZG.1.3",
-              "name": "NaturphÃ¤nomene und Naturereignisse",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen NaturphÃ¤nomene und Naturereignisse erklÃ¤ren.",
+              "name": "Naturphänomene und Naturereignisse",
+              "beschreibung": "Die Schülerinnen und Schüler können Naturphänomene und Naturereignisse erklären.",
               "spieltyp": "zuordnung",
               "datendatei": "data/rzg/rzg13.json"
             },
             {
               "id": "rzg14",
               "code": "RZG.1.4",
-              "name": "Ressourcen und EnergietrÃ¤ger",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen natÃ¼rliche Ressourcen und EnergietrÃ¤ger untersuchen.",
+              "name": "Ressourcen und Energieträger",
+              "beschreibung": "Die Schülerinnen und Schüler können natürliche Ressourcen und Energieträger untersuchen.",
               "spieltyp": "zuordnung",
               "datendatei": "data/rzg/rzg14.json"
             }
@@ -1440,13 +1440,13 @@
         {
           "id": "rzg2",
           "code": "RZG.2",
-          "name": "Lebensweisen und LebensrÃ¤ume charakterisieren",
+          "name": "Lebensweisen und Lebensräume charakterisieren",
           "kompetenzen": [
             {
               "id": "rzg21",
               "code": "RZG.2.1",
-              "name": "BevÃ¶lkerungsstrukturen und Migration",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen BevÃ¶lkerungsstrukturen und -bewegungen erkennen und einordnen.",
+              "name": "Bevölkerungsstrukturen und Migration",
+              "beschreibung": "Die Schülerinnen und Schüler können Bevölkerungsstrukturen und -bewegungen erkennen und einordnen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg21.json"
             },
@@ -1454,31 +1454,31 @@
               "id": "rzg22",
               "code": "RZG.2.2",
               "name": "Lebensweisen vergleichen",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Lebensweisen von Menschen in verschiedenen LebensrÃ¤umen vergleichen.",
+              "beschreibung": "Die Schülerinnen und Schüler können Lebensweisen von Menschen in verschiedenen Lebensräumen vergleichen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg22.json"
             },
             {
               "id": "rzg23",
               "code": "RZG.2.3",
-              "name": "StÃ¤dtische und lÃ¤ndliche RÃ¤ume",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Dynamik in stÃ¤dtischen und lÃ¤ndlichen RÃ¤umen analysieren.",
+              "name": "Städtische und ländliche Räume",
+              "beschreibung": "Die Schülerinnen und Schüler können die Dynamik in städtischen und ländlichen Räumen analysieren.",
               "spieltyp": "zuordnung",
               "datendatei": "data/rzg/rzg23.json"
             },
             {
               "id": "rzg24",
               "code": "RZG.2.4",
-              "name": "MobilitÃ¤t und Transport",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen MobilitÃ¤t und Transport untersuchen.",
+              "name": "Mobilität und Transport",
+              "beschreibung": "Die Schülerinnen und Schüler können Mobilität und Transport untersuchen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg24.json"
             },
             {
               "id": "rzg25",
               "code": "RZG.2.5",
-              "name": "Tourismus einschÃ¤tzen",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Bedeutung des Tourismus einschÃ¤tzen.",
+              "name": "Tourismus einschätzen",
+              "beschreibung": "Die Schülerinnen und Schüler können die Bedeutung des Tourismus einschätzen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg25.json"
             }
@@ -1492,8 +1492,8 @@
             {
               "id": "rzg31",
               "code": "RZG.3.1",
-              "name": "NatÃ¼rliche Systeme nutzen",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen natÃ¼rliche Systeme und deren Nutzung erforschen.",
+              "name": "Natürliche Systeme nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können natürliche Systeme und deren Nutzung erforschen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg31.json"
             },
@@ -1501,7 +1501,7 @@
               "id": "rzg32",
               "code": "RZG.3.2",
               "name": "Wirtschaft und Globalisierung",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen wirtschaftliche Prozesse und die Globalisierung untersuchen.",
+              "beschreibung": "Die Schülerinnen und Schüler können wirtschaftliche Prozesse und die Globalisierung untersuchen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg32.json"
             },
@@ -1509,7 +1509,7 @@
               "id": "rzg33",
               "code": "RZG.3.3",
               "name": "Raumplanung nachvollziehen",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Prozesse der Raumplanung nachvollziehen.",
+              "beschreibung": "Die Schülerinnen und Schüler können Prozesse der Raumplanung nachvollziehen.",
               "spieltyp": "quiz",
               "datendatei": "data/rzg/rzg33.json"
             }
@@ -1518,13 +1518,13 @@
         {
           "id": "rzg4",
           "code": "RZG.4",
-          "name": "Sich in RÃ¤umen orientieren",
+          "name": "Sich in Räumen orientieren",
           "kompetenzen": [
             {
               "id": "rzg41",
               "code": "RZG.4.1",
               "name": "Orte lokalisieren",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Orte lokalisieren.",
+              "beschreibung": "Die Schülerinnen und Schüler können Orte lokalisieren.",
               "spieltyp": "zuordnung",
               "datendatei": "data/rzg/rzg41.json"
             },
@@ -1532,7 +1532,7 @@
               "id": "rzg42",
               "code": "RZG.4.2",
               "name": "Karten auswerten",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Karten und Orientierungsmittel auswerten.",
+              "beschreibung": "Die Schülerinnen und Schüler können Karten und Orientierungsmittel auswerten.",
               "spieltyp": "lueckentext",
               "datendatei": "data/rzg/rzg42.json"
             },
@@ -1540,7 +1540,7 @@
               "id": "rzg43",
               "code": "RZG.4.3",
               "name": "Im Realraum orientieren",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen sich im Realraum orientieren.",
+              "beschreibung": "Die Schülerinnen und Schüler können sich im Realraum orientieren.",
               "spieltyp": "zuordnung",
               "datendatei": "data/rzg/rzg43.json"
             }
@@ -1555,7 +1555,7 @@
               "id": "rzg51",
               "code": "RZG.5.1",
               "name": "Entstehung der Schweiz",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Entstehung und Entwicklung der Schweiz erklÃ¤ren.",
+              "beschreibung": "Die Schülerinnen und Schüler können Entstehung und Entwicklung der Schweiz erklären.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg51.json"
             },
@@ -1563,7 +1563,7 @@
               "id": "rzg52",
               "code": "RZG.5.2",
               "name": "Wirtschaftlicher Wandel in der Schweiz",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen aufzeigen, wie Menschen in der Schweiz durch wirtschaftliche VerÃ¤nderungen geprÃ¤gt werden und wie sie die VerÃ¤nderungen gestalten.",
+              "beschreibung": "Die Schülerinnen und Schüler können aufzeigen, wie Menschen in der Schweiz durch wirtschaftliche Veränderungen geprägt werden und wie sie die Veränderungen gestalten.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg52.json"
             },
@@ -1571,7 +1571,7 @@
               "id": "rzg53",
               "code": "RZG.5.3",
               "name": "Alltagsleben in der Schweiz",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen das Alltagsleben von Menschen in der Schweiz in verschiedenen Jahrhunderten vergleichen.",
+              "beschreibung": "Die Schülerinnen und Schüler können das Alltagsleben von Menschen in der Schweiz in verschiedenen Jahrhunderten vergleichen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg53.json"
             }
@@ -1580,13 +1580,13 @@
         {
           "id": "rzg6",
           "code": "RZG.6",
-          "name": "Weltgeschichtliche KontinuitÃ¤ten und UmbrÃ¼che erklÃ¤ren",
+          "name": "Weltgeschichtliche Kontinuitäten und Umbrüche erklären",
           "kompetenzen": [
             {
               "id": "rzg61",
               "code": "RZG.6.1",
               "name": "Neuzeit bis heute",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Geschichte vom Beginn der Neuzeit bis heute in ausgewÃ¤hlten LÃ¤ngsschnitten erzÃ¤hlen.",
+              "beschreibung": "Die Schülerinnen und Schüler können die Geschichte vom Beginn der Neuzeit bis heute in ausgewählten Längsschnitten erzählen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg61.json"
             },
@@ -1594,7 +1594,7 @@
               "id": "rzg62",
               "code": "RZG.6.2",
               "name": "Das 19. Jahrhundert",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen KontinuitÃ¤ten und UmbrÃ¼che im 19. Jahrhundert charakterisieren.",
+              "beschreibung": "Die Schülerinnen und Schüler können Kontinuitäten und Umbrüche im 19. Jahrhundert charakterisieren.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg62.json"
             },
@@ -1602,7 +1602,7 @@
               "id": "rzg63",
               "code": "RZG.6.3",
               "name": "20. und 21. Jahrhundert",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen ausgewÃ¤hlte PhÃ¤nomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz fÃ¼r heute erklÃ¤ren.",
+              "beschreibung": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg63.json"
             }
@@ -1617,7 +1617,7 @@
               "id": "rzg71",
               "code": "RZG.7.1",
               "name": "Geschichtliche Bildungsorte",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen sich an ausserschulischen geschichtlichen Bildungsorten zurechtfinden und sie zum Lernen nutzen.",
+              "beschreibung": "Die Schülerinnen und Schüler können sich an ausserschulischen geschichtlichen Bildungsorten zurechtfinden und sie zum Lernen nutzen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg71.json"
             },
@@ -1625,7 +1625,7 @@
               "id": "rzg72",
               "code": "RZG.7.2",
               "name": "Geschichte in Medien",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Geschichte zur Bildung und Unterhaltung nutzen.",
+              "beschreibung": "Die Schülerinnen und Schüler können Geschichte zur Bildung und Unterhaltung nutzen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg72.json"
             },
@@ -1633,7 +1633,7 @@
               "id": "rzg73",
               "code": "RZG.7.3",
               "name": "Zeitzeugen nutzen",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen aus GesprÃ¤chen mit Zeitzeugen Erkenntnisse Ã¼ber die Vergangenheit gewinnen.",
+              "beschreibung": "Die Schülerinnen und Schüler können aus Gesprächen mit Zeitzeugen Erkenntnisse über die Vergangenheit gewinnen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg73.json"
             }
@@ -1642,13 +1642,13 @@
         {
           "id": "rzg8",
           "code": "RZG.8",
-          "name": "Demokratie und Menschenrechte verstehen und sich dafÃ¼r engagieren",
+          "name": "Demokratie und Menschenrechte verstehen und sich dafür engagieren",
           "kompetenzen": [
             {
               "id": "rzg81",
               "code": "RZG.8.1",
               "name": "Schweizer Demokratie",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Schweizer Demokratie erklÃ¤ren und mit anderen Systemen vergleichen.",
+              "beschreibung": "Die Schülerinnen und Schüler können die Schweizer Demokratie erklären und mit anderen Systemen vergleichen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg81.json"
             },
@@ -1656,7 +1656,7 @@
               "id": "rzg82",
               "code": "RZG.8.2",
               "name": "Menschenrechte",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklÃ¤ren.",
+              "beschreibung": "Die Schülerinnen und Schüler können die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklären.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg82.json"
             },
@@ -1664,7 +1664,7 @@
               "id": "rzg83",
               "code": "RZG.8.3",
               "name": "Schweiz in Europa und der Welt",
-              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Positionierung der Schweiz in Europa und der Welt wahrnehmen und beurteilen.",
+              "beschreibung": "Die Schülerinnen und Schüler können die Positionierung der Schweiz in Europa und der Welt wahrnehmen und beurteilen.",
               "spieltyp": "timeline",
               "datendatei": "data/rzg/rzg83.json"
             }

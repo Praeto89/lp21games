@@ -5,7 +5,7 @@
     "spiel":  {
                   "kategorien":  [
                                      "Kontinent",
-                                     "GewÃ¤sser",
+                                     "Gewässer",
                                      "Gebirge oder Landschaft",
                                      "Staat oder Ort"
                                  ],
@@ -51,7 +51,7 @@
                                        "kategorie":  3
                                    },
                                    {
-                                       "text":  "ZÃ¼rich",
+                                       "text":  "Zürich",
                                        "kategorie":  3
                                    },
                                    {

@@ -5,14 +5,14 @@
     "spiel":  {
                   "aufgaben":  [
                                    {
-                                       "anweisung":  "Ordne VerÃ¤nderungen des Alltagslebens und der sozialen Rechte in der Schweiz.",
+                                       "anweisung":  "Ordne Veränderungen des Alltagslebens und der sozialen Rechte in der Schweiz.",
                                        "ereignisse":  [
                                                           {
                                                               "text":  "Kostenlose und obligatorische Primarschule wird in der Bundesverfassung verankert",
                                                               "jahr":  "1874"
                                                           },
                                                           {
-                                                              "text":  "Die Schweiz fÃ¼hrt eine einheitliche Landeszeit ein",
+                                                              "text":  "Die Schweiz führt eine einheitliche Landeszeit ein",
                                                               "jahr":  "1888"
                                                           },
                                                           {
@@ -24,7 +24,7 @@
                                                               "jahr":  "1912"
                                                           },
                                                           {
-                                                              "text":  "EinfÃ¼hrung der AHV",
+                                                              "text":  "Einführung der AHV",
                                                               "jahr":  "1948"
                                                           },
                                                           {

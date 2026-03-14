@@ -7,58 +7,58 @@
                                  {
                                      "text":  "Der {Massstab} zeigt, wie stark die Wirklichkeit auf einer Karte verkleinert ist.",
                                      "hinweise":  [
-                                                      "VerkleinerungsverhÃ¤ltnis"
+                                                      "Verkleinerungsverhältnis"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Die {Legende} erklÃ¤rt Zeichen, Farben und Symbole der Karte.",
+                                     "text":  "Die {Legende} erklärt Zeichen, Farben und Symbole der Karte.",
                                      "hinweise":  [
-                                                      "SchlÃ¼ssel der Kartensymbole"
+                                                      "Schlüssel der Kartensymbole"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
                                      "text":  "Mit dem {Nordpfeil} erkenne ich, wo Norden auf einer Karte liegt.",
                                      "hinweise":  [
                                                       "Richtungszeichen"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Eine {thematische Karte} zeigt ein bestimmtes Thema wie Klima, Verkehr oder BevÃ¶lkerung.",
+                                     "text":  "Eine {thematische Karte} zeigt ein bestimmtes Thema wie Klima, Verkehr oder Bevölkerung.",
                                      "hinweise":  [
                                                       "Karte zu einem einzelnen Thema"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Ein {Profil} stellt HÃ¶henunterschiede entlang einer Linie dar.",
+                                     "text":  "Ein {Profil} stellt Höhenunterschiede entlang einer Linie dar.",
                                      "hinweise":  [
                                                       "Seitliche Schnittdarstellung"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Ein {Diagramm} hilft, Zahlen wie NiederschlÃ¤ge oder Einwohner Ã¼bersichtlich zu vergleichen.",
+                                     "text":  "Ein {Diagramm} hilft, Zahlen wie Niederschläge oder Einwohner übersichtlich zu vergleichen.",
                                      "hinweise":  [
                                                       "Grafische Darstellung von Zahlen"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Ein {Modell} wie ein Tellurium vereinfacht die Wirklichkeit, damit man rÃ¤umliche VorgÃ¤nge untersuchen kann.",
+                                     "text":  "Ein {Modell} wie ein Tellurium vereinfacht die Wirklichkeit, damit man räumliche Vorgänge untersuchen kann.",
                                      "hinweise":  [
                                                       "Vereinfachte Nachbildung"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Eine einfache gezeichnete Ãœbersicht mit wenigen Zeichen nennt man {Kartenskizze}.",
+                                     "text":  "Eine einfache gezeichnete Übersicht mit wenigen Zeichen nennt man {Kartenskizze}.",
                                      "hinweise":  [
                                                       "vereinfachte eigene Karte"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  }
                              ]
               }

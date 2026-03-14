@@ -10,22 +10,22 @@
                                                       "Unser Planet",
                                                       "System um die Sonne"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Die gedachte Linie durch Nord- und SÃ¼dpol heisst {Erdachse}.",
+                                     "text":  "Die gedachte Linie durch Nord- und Südpol heisst {Erdachse}.",
                                      "hinweise":  [
                                                       "Geneigte Rotationslinie"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Eine vollstÃ¤ndige {Rotation} der Erde dauert rund {24 Stunden}.",
+                                     "text":  "Eine vollständige {Rotation} der Erde dauert rund {24 Stunden}.",
                                      "hinweise":  [
                                                       "Drehung um die eigene Achse",
                                                       "Dauer eines Tages"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
                                      "text":  "Der Umlauf der Erde um die Sonne heisst {Erdrevolution} und dauert etwa {365 Tage}.",
@@ -33,37 +33,37 @@
                                                       "Bewegung um die Sonne",
                                                       "Dauer eines Jahres"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
                                      "text":  "Durch die geneigte {Erdachse} entstehen zusammen mit dem Umlauf um die Sonne die {Jahreszeiten}.",
                                      "hinweise":  [
-                                                      "SchrÃ¤ge Achse",
-                                                      "FrÃ¼hling bis Winter"
+                                                      "Schräge Achse",
+                                                      "Frühling bis Winter"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Wenn es in ZÃ¼rich Mittag ist, kann es in New York noch Morgen sein: Das liegt an den {Zeitzonen}.",
+                                     "text":  "Wenn es in Zürich Mittag ist, kann es in New York noch Morgen sein: Das liegt an den {Zeitzonen}.",
                                      "hinweise":  [
                                                       "Zeitordnung der Erde"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
                                      "text":  "Im {heliozentrischen} Weltbild steht die Sonne im Zentrum, nicht die {Erde}.",
                                      "hinweise":  [
                                                       "Sonnen-zentriert",
-                                                      "frÃ¼her oft als Mittelpunkt gedacht"
+                                                      "früher oft als Mittelpunkt gedacht"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  },
                                  {
-                                     "text":  "Die Erde ist keine flache Scheibe, sondern annÃ¤hernd eine {Kugel}.",
+                                     "text":  "Die Erde ist keine flache Scheibe, sondern annähernd eine {Kugel}.",
                                      "hinweise":  [
                                                       "Form des Planeten"
                                                   ],
-                                     "anweisung":  "FÃ¼lle die LÃ¼cken mit den passenden Fachbegriffen."
+                                     "anweisung":  "Fülle die Lücken mit den passenden Fachbegriffen."
                                  }
                              ]
               }

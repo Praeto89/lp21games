@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ttg2d1",
+  "kompetenz_code": "TTG.2.D.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte fuer eine einfache Handnaht zum Schliessen einer Oeffnung.",
+        "elemente": [
+          "Nahtlinie festlegen und Stoffteile ausrichten",
+          "Faden einfuehren und verknoten",
+          "Mit gleichmaessigen Stichen naehen",
+          "Faden am Ende sichern"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte beim Annaehen eines Knopfes.",
+        "elemente": [
+          "Position des Knopfes markieren",
+          "Faden befestigen",
+          "Knopf durch die Loecher annaehen",
+          "Faden auf der Rueckseite verknoten"
+        ]
+      },
+      {
+        "anweisung": "Wie entsteht ein sauberer Saum?",
+        "elemente": [
+          "Saumbreite markieren",
+          "Kante zweimal einschlagen oder vorbereiten",
+          "Saum fixieren",
+          "Saum naehen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte beim Saegen eines Holzstreifens.",
+        "elemente": [
+          "Laenge anzeichnen",
+          "Werkstueck sicher einspannen",
+          "Kontrolliert entlang der Linie saegen",
+          "Schnittkante nachbearbeiten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeit an einer Bohrung in Holz.",
+        "elemente": [
+          "Bohrpunkt markieren",
+          "Werkstueck fixieren",
+          "Passenden Bohrer waehlen und bohren",
+          "Bohrloch kontrollieren und Kanten entgraten"
+        ]
+      },
+      {
+        "anweisung": "Wie werden zwei Holzteile sauber verleimt?",
+        "elemente": [
+          "Passung trocken pruefen",
+          "Leim sparsam auftragen",
+          "Teile ausrichten und pressen",
+          "Nach dem Trocknen kontrollieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte bei einem einfachen Webstueck.",
+        "elemente": [
+          "Kettfaeden spannen",
+          "Schussfaden einweben",
+          "Reihen gleichmaessig anschieben",
+          "Gewebe am Schluss sichern"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte beim Formen eines Drahtbuegels.",
+        "elemente": [
+          "Laenge abmessen und markieren",
+          "Draht passend abschneiden",
+          "Mit Zangen gezielt biegen",
+          "Form und Halt ueberpruefen"
+        ]
+      }
+    ]
+  }
+}

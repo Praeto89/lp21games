@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5a1",
+  "kompetenz_code": "FS2F.5.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Schweizer Mehrsprachigkeit", "Francophonie weltweit", "Funktion von Sprachen"],
+    "elemente": [
+      { "text": "Romandie", "kategorie": 0 },
+      { "text": "Französisch als Landessprache der Schweiz", "kategorie": 0 },
+      { "text": "Lausanne", "kategorie": 0 },
+      { "text": "Genf", "kategorie": 0 },
+      { "text": "Québec", "kategorie": 1 },
+      { "text": "Montréal", "kategorie": 1 },
+      { "text": "Dakar", "kategorie": 1 },
+      { "text": "Bruxelles francophone", "kategorie": 1 },
+      { "text": "Sprache für Reisen und Austausch", "kategorie": 2 },
+      { "text": "Sprache für Schule und Beruf", "kategorie": 2 },
+      { "text": "Sprache für Medien, Musik und Filme", "kategorie": 2 },
+      { "text": "Sprache, mit der man neue Perspektiven kennenlernt", "kategorie": 2 }
+    ]
+  }
+}

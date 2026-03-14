@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg53",
+    "kompetenz_code":  "RZG.5.3",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne VerÃ¤nderungen des Alltagslebens und der sozialen Rechte in der Schweiz.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Kostenlose und obligatorische Primarschule wird in der Bundesverfassung verankert",
+                                                              "jahr":  "1874"
+                                                          },
+                                                          {
+                                                              "text":  "Die Schweiz fÃ¼hrt eine einheitliche Landeszeit ein",
+                                                              "jahr":  "1888"
+                                                          },
+                                                          {
+                                                              "text":  "Die Schweizerischen Bundesbahnen entstehen",
+                                                              "jahr":  "1902"
+                                                          },
+                                                          {
+                                                              "text":  "Kranken- und Unfallversicherungsgesetz tritt in Kraft",
+                                                              "jahr":  "1912"
+                                                          },
+                                                          {
+                                                              "text":  "EinfÃ¼hrung der AHV",
+                                                              "jahr":  "1948"
+                                                          },
+                                                          {
+                                                              "text":  "Frauenstimmrecht auf Bundesebene",
+                                                              "jahr":  "1971"
+                                                          },
+                                                          {
+                                                              "text":  "Gleichstellungsartikel kommt in die Bundesverfassung",
+                                                              "jahr":  "1981"
+                                                          },
+                                                          {
+                                                              "text":  "Gleichstellungsgesetz tritt in Kraft",
+                                                              "jahr":  "1996"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

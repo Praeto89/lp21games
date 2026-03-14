@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "bs1b",
+  "kompetenz_code": "BS.1.B.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte für einen sauberen Grundsprung mit dem Springseil.",
+        "elemente": [
+          "Seil hinter dem Körper bereit halten",
+          "Seil mit den Handgelenken nach vorne schwingen",
+          "Mit beiden Füssen locker über das Seil springen",
+          "Im gleichmässigen Rhythmus weiterhüpfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Bewegungsfolge beim Standweitsprung.",
+        "elemente": [
+          "In eine stabile Ausgangsposition gehen",
+          "Arme nach hinten nehmen und Knie beugen",
+          "Kräftig nach vorne oben abspringen",
+          "Beidbeinig landen und das Gleichgewicht halten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Phasen eines Weitsprungs mit Anlauf.",
+        "elemente": [
+          "Anlauf beschleunigen",
+          "Den Absprungschritt kontrolliert treffen",
+          "Explosiv abspringen und Arme mitnehmen",
+          "Mit vorgestreckten Beinen weich landen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Vorbereitung für einen Hochsprungversuch.",
+        "elemente": [
+          "Absprungbein und Anlaufseite festlegen",
+          "Anlaufmarke setzen",
+          "Den Bogen- oder Steigerungslauf einüben",
+          "Die Höhe passend wählen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für einen rhythmischen Hürdenlauf über niedrige Hindernisse.",
+        "elemente": [
+          "Mit Blick nach vorne anlaufen",
+          "Im passenden Abstand vor dem Hindernis abspringen",
+          "Schwungbein aktiv über die Hürde führen",
+          "Ohne Unterbruch im Laufrhythmus weiterlaufen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Phasen für einen sicheren Kastensprung.",
+        "elemente": [
+          "Absprunghöhe realistisch wählen",
+          "Mit beiden Beinen kräftig abspringen",
+          "Mit gebeugten Knien oben landen",
+          "Kontrolliert wieder hinuntersteigen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für sinnvolles Partnerfeedback beim Springen.",
+        "elemente": [
+          "Den Sprung aufmerksam beobachten",
+          "Auf Anlauf, Absprung und Landung achten",
+          "Eine konkrete Rückmeldung geben",
+          "Den nächsten Versuch damit verbessern"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für eine realistische Selbsteinschätzung vor einem schwierigen Sprung.",
+        "elemente": [
+          "Aufgabe und Höhe anschauen",
+          "Einschätzen, ob Technik und Mut ausreichen",
+          "Eine passende Variante wählen oder Hilfen annehmen",
+          "Erst dann den Sprung ausführen"
+        ]
+      }
+    ]
+  }
+}

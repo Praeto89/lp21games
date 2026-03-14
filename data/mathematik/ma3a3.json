@@ -1,0 +1,60 @@
+{
+  "kompetenz_id": "ma3a3",
+  "kompetenz_code": "MA.3.A.3",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 210,
+    "aufgaben": [
+      {
+        "aufgabe": "Für y = 3x + 2: Wie groß ist y bei x = 4?",
+        "loesung": "14",
+        "hinweis": "Setze x = 4 ein."
+      },
+      {
+        "aufgabe": "5 kg Äpfel kosten 15 CHF. Wie viel kosten 8 kg?",
+        "loesung": "24",
+        "hinweis": "Die Zuordnung ist proportional."
+      },
+      {
+        "aufgabe": "72 Karten werden gleichmäßig an 8 Personen verteilt. Wie viele Karten erhält jede Person?",
+        "loesung": "9",
+        "hinweis": "Teile 72 durch 8."
+      },
+      {
+        "aufgabe": "Wie viel sind 7 % von 35?",
+        "loesung": "2.45",
+        "hinweis": "Multipliziere 35 mit 0.07."
+      },
+      {
+        "aufgabe": "Für y = 0.5x + 1: Wie groß ist y bei x = 8?",
+        "loesung": "5",
+        "hinweis": "Setze x ein und rechne aus."
+      },
+      {
+        "aufgabe": "Auf einer Karte im Maßstab 1:25 000 misst eine Strecke 4 cm. Wie viele Meter sind das in Wirklichkeit?",
+        "loesung": "1000",
+        "hinweis": "4 cm entsprechen 100 000 cm."
+      },
+      {
+        "aufgabe": "3 Hefte kosten 12 CHF. Wie viel kosten 7 Hefte?",
+        "loesung": "28",
+        "hinweis": "Bestimme zuerst den Preis pro Heft."
+      },
+      {
+        "aufgabe": "Für y = -2x + 5: Wie groß ist y bei x = 3?",
+        "loesung": "-1",
+        "hinweis": "Setze x = 3 ein."
+      },
+      {
+        "aufgabe": "Die Geraden y = x + 2 und y = 5 schneiden sich bei welchem x-Wert?",
+        "loesung": "3",
+        "hinweis": "Setze beide Terme gleich."
+      },
+      {
+        "aufgabe": "Für y = 4x - 12: Bei welchem x ist y = 0?",
+        "loesung": "3",
+        "hinweis": "Bestimme die Nullstelle."
+      }
+    ]
+  }
+}

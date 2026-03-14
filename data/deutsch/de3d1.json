@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de3d1",
+  "kompetenz_code": "D.3.D.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Inhalt", "Sprache", "Körpersprache", "Gesprächsleitung"],
+    "elemente": [
+      { "text": "Die wichtigsten Punkte wurden verständlich erklärt.", "kategorie": 0 },
+      { "text": "Der rote Faden war klar erkennbar.", "kategorie": 0 },
+      { "text": "Beispiele haben den Inhalt gestützt.", "kategorie": 0 },
+      { "text": "Die Wortwahl war passend und präzise.", "kategorie": 1 },
+      { "text": "Die Person sprach deutlich und in angemessenem Tempo.", "kategorie": 1 },
+      { "text": "Es wurden passende Satzanfänge zum Begründen genutzt.", "kategorie": 1 },
+      { "text": "Blickkontakt und Haltung wirkten aufmerksam.", "kategorie": 2 },
+      { "text": "Gestik und Mimik unterstützten die Aussage.", "kategorie": 2 },
+      { "text": "Die Stimme war gut hörbar und passend betont.", "kategorie": 2 },
+      { "text": "Die Diskussion wurde fair eröffnet und beendet.", "kategorie": 3 },
+      { "text": "Beiträge wurden geordnet aufgerufen.", "kategorie": 3 },
+      { "text": "Zwischensummen halfen, den Überblick zu behalten.", "kategorie": 3 }
+    ]
+  }
+}

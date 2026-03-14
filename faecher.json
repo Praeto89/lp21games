@@ -1,6 +1,1850 @@
 {
   "faecher": [
     {
+      "id": "deutsch",
+      "name": "Deutsch",
+      "kuerzel": "D",
+      "farbe": "#2196F3",
+      "icon": "📝",
+      "bereiche": [
+        {
+          "id": "de1",
+          "code": "D.1",
+          "name": "Hören",
+          "kompetenzen": [
+            {
+              "id": "de1a1",
+              "code": "D.1.A.1",
+              "name": "Sprachregister im Gehörten erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler können Laute, Silben, Stimmen, Geräusche und Töne wahrnehmen, einordnen und vergleichen. Sie können ihren rezeptiven Wortschatz aktivieren, um das Gehörte angemessen schnell zu verstehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de1a1.json"
+            },
+            {
+              "id": "de1b1",
+              "code": "D.1.B.1",
+              "name": "Wichtige Informationen aus Hörtexten entnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können wichtige Informationen aus Hörtexten entnehmen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de1b1.json"
+            },
+            {
+              "id": "de1c1",
+              "code": "D.1.C.1",
+              "name": "Gesprächen und Diskussionen folgen",
+              "beschreibung": "Die Schülerinnen und Schüler können Gesprächen folgen und ihre Aufmerksamkeit zeigen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de1c1.json"
+            },
+            {
+              "id": "de1d1",
+              "code": "D.1.D.1",
+              "name": "Eigenes Hörverhalten reflektieren",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr Hörverhalten und ihr Hörinteresse reflektieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de1d1.json"
+            }
+          ]
+        },
+        {
+          "id": "de2",
+          "code": "D.2",
+          "name": "Lesen",
+          "kompetenzen": [
+            {
+              "id": "de2a1",
+              "code": "D.2.A.1",
+              "name": "Flüssig und verständlich lesen",
+              "beschreibung": "Die Schülerinnen und Schüler verfügen über Grundfertigkeiten des Lesens. Sie können ihren rezeptiven Wortschatz aktivieren, um das Gelesene schnell zu verstehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de2a1.json"
+            },
+            {
+              "id": "de2b1",
+              "code": "D.2.B.1",
+              "name": "Informationen aus Sachtexten gewinnen",
+              "beschreibung": "Die Schülerinnen und Schüler können wichtige Informationen aus Sachtexten entnehmen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de2b1.json"
+            },
+            {
+              "id": "de2c1",
+              "code": "D.2.C.1",
+              "name": "Literarische Texte verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können literarische Texte lesen und verstehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de2c1.json"
+            },
+            {
+              "id": "de2d1",
+              "code": "D.2.D.1",
+              "name": "Lesestrategien reflektieren",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr Leseverhalten und ihre Leseinteressen reflektieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de2d1.json"
+            }
+          ]
+        },
+        {
+          "id": "de3",
+          "code": "D.3",
+          "name": "Sprechen",
+          "kompetenzen": [
+            {
+              "id": "de3a1",
+              "code": "D.3.A.1",
+              "name": "Standardsprache und Sprechweise nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Sprechmotorik, Artikulation, Stimmführung angemessen nutzen. Sie können ihren produktiven Wortschatz und Satzmuster aktivieren, um angemessen flüssig zu sprechen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de3a1.json"
+            },
+            {
+              "id": "de3b1",
+              "code": "D.3.B.1",
+              "name": "Sachthemen präsentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können sich in monologischen Situationen angemessen und verständlich ausdrücken.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de3b1.json"
+            },
+            {
+              "id": "de3c1",
+              "code": "D.3.C.1",
+              "name": "Dialoge und Diskussionen führen",
+              "beschreibung": "Die Schülerinnen und Schüler können sich aktiv an einem Dialog beteiligen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de3c1.json"
+            },
+            {
+              "id": "de3d1",
+              "code": "D.3.D.1",
+              "name": "Sprechverhalten reflektieren",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr Sprech-, Präsentations- und Gesprächsverhalten reflektieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de3d1.json"
+            }
+          ]
+        },
+        {
+          "id": "de4",
+          "code": "D.4",
+          "name": "Schreiben",
+          "kompetenzen": [
+            {
+              "id": "de4a1",
+              "code": "D.4.A.1",
+              "name": "Schreibflüssigkeit und Handschrift",
+              "beschreibung": "Die Schülerinnen und Schüler können in einer persönlichen Handschrift leserlich und geläufig schreiben und die Tastatur geläufig nutzen. Sie entwickeln eine ausreichende Schreibflüssigkeit, um genügend Kapazität für die höheren Schreibprozesse zu haben. Sie können ihren produktiven Wortschatz und Satzmuster aktivieren, um flüssig formulieren und schreiben zu können.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de4a1.json"
+            },
+            {
+              "id": "de4b1",
+              "code": "D.4.B.1",
+              "name": "Textmuster passend nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler kennen vielfältige Textmuster und können sie entsprechend ihrem Schreibziel in Bezug auf Struktur, Inhalt, Sprache und Form für die eigene Textproduktion nutzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de4b1.json"
+            },
+            {
+              "id": "de4c1",
+              "code": "D.4.C.1",
+              "name": "Ideen finden und Texte planen",
+              "beschreibung": "Die Schülerinnen und Schüler können ein Repertoire an angemessenen Vorgehensweisen zum Ideenfinden und Planen aufbauen und dieses im Schreibprozess zielführend einsetzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de4c1.json"
+            },
+            {
+              "id": "de4d1",
+              "code": "D.4.D.1",
+              "name": "Gedanken klar formulieren",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Ideen und Gedanken in eine sinnvolle und verständliche Abfolge bringen. Sie können in einen Schreibfluss kommen und ihre Formulierungen auf ihr Schreibziel ausrichten.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/deutsch/de4d1.json"
+            },
+            {
+              "id": "de4e1",
+              "code": "D.4.E.1",
+              "name": "Texte inhaltlich überarbeiten",
+              "beschreibung": "Die Schülerinnen und Schüler können ihren Text in Bezug auf Schreibziel und Textsortenvorgaben inhaltlich überarbeiten.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de4e1.json"
+            },
+            {
+              "id": "de4f1",
+              "code": "D.4.F.1",
+              "name": "Rechtschreibung und Grammatik überarbeiten",
+              "beschreibung": "Die Schülerinnen und Schüler können ihren Text in Bezug auf Rechtschreibung und Grammatik überarbeiten.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/deutsch/de4f1.json"
+            },
+            {
+              "id": "de4g1",
+              "code": "D.4.G.1",
+              "name": "Schreibprozess beurteilen",
+              "beschreibung": "Die Schülerinnen und Schüler können über ihren Schreibprozess und ihre Schreibprodukte nachdenken und deren Qualität einschätzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de4g1.json"
+            }
+          ]
+        },
+        {
+          "id": "de5",
+          "code": "D.5",
+          "name": "Sprache(n) im Fokus",
+          "kompetenzen": [
+            {
+              "id": "de5a1",
+              "code": "D.5.A.1",
+              "name": "Sprachstrukturen mit Proben untersuchen",
+              "beschreibung": "Die Schülerinnen und Schüler können Sprache erforschen und Sprachen vergleichen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de5a1.json"
+            },
+            {
+              "id": "de5b1",
+              "code": "D.5.B.1",
+              "name": "Sprachgebrauch und Wirkung untersuchen",
+              "beschreibung": "Die Schülerinnen und Schüler können den Gebrauch und die Wirkung von Sprache untersuchen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de5b1.json"
+            },
+            {
+              "id": "de5c1",
+              "code": "D.5.C.1",
+              "name": "Wort- und Satzbau untersuchen",
+              "beschreibung": "Die Schülerinnen und Schüler können Sprachstrukturen in Wörtern und Sätzen untersuchen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de5c1.json"
+            },
+            {
+              "id": "de5d1",
+              "code": "D.5.D.1",
+              "name": "Grammatikbegriffe anwenden",
+              "beschreibung": "Die Schülerinnen und Schüler können Grammatikbegriffe für die Analyse von Sprachstrukturen anwenden.",
+              "spieltyp": "wortspiel",
+              "datendatei": "data/deutsch/de5d1.json"
+            },
+            {
+              "id": "de5e1",
+              "code": "D.5.E.1",
+              "name": "Orthografische Regeln anwenden",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr orthografisches Regelwissen in auf die Regel konstruierten Übungen anwenden.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/deutsch/de5e1.json"
+            }
+          ]
+        },
+        {
+          "id": "de6",
+          "code": "D.6",
+          "name": "Literatur im Fokus",
+          "kompetenzen": [
+            {
+              "id": "de6a1",
+              "code": "D.6.A.1",
+              "name": "Kreativ mit Literatur umgehen",
+              "beschreibung": "Die Schülerinnen und Schüler können spielerisch und kreativ gestaltend mit literarischen Texten umgehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/deutsch/de6a1.json"
+            },
+            {
+              "id": "de6a2",
+              "code": "D.6.A.2",
+              "name": "Literarische Gespräche führen",
+              "beschreibung": "Die Schülerinnen und Schüler können über literarische Texte und die Art, wie sie die Texte lesen, ein literarisches Gespräch führen. Sie reflektieren dabei, wie sie die Texte verstehen und die Texte auf sie wirken.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de6a2.json"
+            },
+            {
+              "id": "de6b1",
+              "code": "D.6.B.1",
+              "name": "Autorinnen, Autoren und Kulturen entdecken",
+              "beschreibung": "Die Schülerinnen und Schüler kennen einzelne Autor/innen der Kinder-, Jugend- und Erwachsenenliteratur und können Texte aus verschiedenen Kulturen lesen, hören, sehen und deren Besonderheiten erkennen und wertschätzen.",
+              "spieltyp": "memory",
+              "datendatei": "data/deutsch/de6b1.json"
+            },
+            {
+              "id": "de6c1",
+              "code": "D.6.C.1",
+              "name": "Literarische Gestaltung und Wirkung erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler erfahren, erkennen und reflektieren, dass literarische Texte in Bezug auf Inhalt, Form und Sprache bewusst gestaltet sind, um eine ästhetische Wirkung zu erzielen. Sie kennen wesentliche Merkmale von Genres und literarischen Gattungen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/deutsch/de6c1.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr",
+      "name": "Französisch",
+      "kuerzel": "FS2F",
+      "farbe": "#1565C0",
+      "icon": "🇫🇷",
+      "bereiche": [
+        {
+          "id": "fr1",
+          "code": "FS2F.1",
+          "name": "Hören",
+          "kompetenzen": [
+            {
+              "id": "fr1a1",
+              "code": "FS2F.1.A.1",
+              "name": "Hörtexte und Gespräche verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedenartige Hörtexte und Gespräche verstehen (Sachtexte, ästhetische Texte, Texte im Schulalltag, Gespräche im Kontakt mit Französisch sprechenden Personen).",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr1a1.json"
+            },
+            {
+              "id": "fr1a2",
+              "code": "FS2F.1.A.2",
+              "name": "Ästhetische Wirkung von Hörtexten",
+              "beschreibung": "Die Schülerinnen und Schüler können die ästhetische Wirkung von Hörtexten entdecken und beschreiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr1a2.json"
+            },
+            {
+              "id": "fr1b1",
+              "code": "FS2F.1.B.1",
+              "name": "Hörstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Hörstrategien einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr1b1.json"
+            },
+            {
+              "id": "fr1c1",
+              "code": "FS2F.1.C.1",
+              "name": "Hörinhalte ins Deutsche übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte aus Gesprächen und Hörtexten auf Französisch verstehen und sinngemäss ins Deutsche übertragen.",
+              "spieltyp": "memory",
+              "datendatei": "data/fr/fr1c1.json"
+            }
+          ]
+        },
+        {
+          "id": "fr2",
+          "code": "FS2F.2",
+          "name": "Lesen",
+          "kompetenzen": [
+            {
+              "id": "fr2a1",
+              "code": "FS2F.2.A.1",
+              "name": "Texte lesen und verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedenartige Texte lesen und verstehen (Sachtexte, ästhetische Texte, Texte im Schulalltag, Texte im Kontakt mit Französisch sprechenden Personen).",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr2a1.json"
+            },
+            {
+              "id": "fr2a2",
+              "code": "FS2F.2.A.2",
+              "name": "Ästhetische Wirkung von Texten",
+              "beschreibung": "Die Schülerinnen und Schüler können die ästhetische Wirkung von Texten entdecken und beschreiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr2a2.json"
+            },
+            {
+              "id": "fr2b1",
+              "code": "FS2F.2.B.1",
+              "name": "Lesestrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Lesestrategien einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr2b1.json"
+            },
+            {
+              "id": "fr2c1",
+              "code": "FS2F.2.C.1",
+              "name": "Lesetexte ins Deutsche übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte aus Texten auf Französisch verstehen und sinngemäss ins Deutsche übertragen.",
+              "spieltyp": "memory",
+              "datendatei": "data/fr/fr2c1.json"
+            }
+          ]
+        },
+        {
+          "id": "fr3",
+          "code": "FS2F.3",
+          "name": "Sprechen",
+          "kompetenzen": [
+            {
+              "id": "fr3a1",
+              "code": "FS2F.3.A.1",
+              "name": "An einfachen Gesprächen teilnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können an einfachen Gesprächen über vertraute Themen aktiv teilnehmen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr3a1.json"
+            },
+            {
+              "id": "fr3b1",
+              "code": "FS2F.3.B.1",
+              "name": "Zusammenhängend sprechen",
+              "beschreibung": "Die Schülerinnen und Schüler können sich und andere in vertrauten Themen und Situationen zusammenhängend ausdrücken.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/fr/fr3b1.json"
+            },
+            {
+              "id": "fr3b2",
+              "code": "FS2F.3.B.2",
+              "name": "Texte vorlesen und präsentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Texte und Textteile vorlesen und in einfacher Form präsentieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr3b2.json"
+            },
+            {
+              "id": "fr3c1",
+              "code": "FS2F.3.C.1",
+              "name": "Sprechstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Sprechstrategien einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr3c1.json"
+            },
+            {
+              "id": "fr3d1",
+              "code": "FS2F.3.D.1",
+              "name": "Inhalte ins Französische übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte aus Gesprächen, Hörtexten oder schriftlichen Texten auf Deutsch sinngemäss ins Französische übertragen.",
+              "spieltyp": "memory",
+              "datendatei": "data/fr/fr3d1.json"
+            }
+          ]
+        },
+        {
+          "id": "fr4",
+          "code": "FS2F.4",
+          "name": "Schreiben",
+          "kompetenzen": [
+            {
+              "id": "fr4a1",
+              "code": "FS2F.4.A.1",
+              "name": "Verschiedene Texte verfassen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedene Texte verfassen (Sachtexte, ästhetische Texte, Texte im Schulalltag, Texte im schriftlichen Kontakt mit Französisch sprechenden Personen).",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/fr/fr4a1.json"
+            },
+            {
+              "id": "fr4a2",
+              "code": "FS2F.4.A.2",
+              "name": "Mit Texten experimentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können mit kurzen Texten und Gedichten experimentieren und deren ästhetische Wirkung erkennen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr4a2.json"
+            },
+            {
+              "id": "fr4b1",
+              "code": "FS2F.4.B.1",
+              "name": "Schreibstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Strategien zur Schreibunterstützung einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr4b1.json"
+            },
+            {
+              "id": "fr4c1",
+              "code": "FS2F.4.C.1",
+              "name": "Deutsche Texte ins Französische übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte deutscher Texte sinngemäss ins Französische übertragen.",
+              "spieltyp": "memory",
+              "datendatei": "data/fr/fr4c1.json"
+            }
+          ]
+        },
+        {
+          "id": "fr5",
+          "code": "FS2F.5",
+          "name": "Sprache(n) im Fokus",
+          "kompetenzen": [
+            {
+              "id": "fr5a1",
+              "code": "FS2F.5.A.1",
+              "name": "Sprachliche Vielfalt wahrnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Aufmerksamkeit auf sprachliche Vielfalt richten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5a1.json"
+            },
+            {
+              "id": "fr5a2",
+              "code": "FS2F.5.A.2",
+              "name": "Sprachliche Phänomene erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Aufmerksamkeit auf sprachliche Phänomene richten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5a2.json"
+            },
+            {
+              "id": "fr5b1",
+              "code": "FS2F.5.B.1",
+              "name": "Angemessenen Wortschatz nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können einen angemessenen Wortschatz erkennen und für die Verständigung nutzen.",
+              "spieltyp": "memory",
+              "datendatei": "data/fr/fr5b1.json"
+            },
+            {
+              "id": "fr5b2",
+              "code": "FS2F.5.B.2",
+              "name": "Wortschatzstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Strategien zum Aufbau und zur Anwendung eines angemessenen Wortschatzes einsetzen.",
+              "spieltyp": "wortspiel",
+              "datendatei": "data/fr/fr5b2.json"
+            },
+            {
+              "id": "fr5c1",
+              "code": "FS2F.5.C.1",
+              "name": "Klar sprechen und vorlesen",
+              "beschreibung": "Die Schülerinnen und Schüler können klar und verständlich sprechen und vorlesen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5c1.json"
+            },
+            {
+              "id": "fr5c2",
+              "code": "FS2F.5.C.2",
+              "name": "Aussprache- und Intonationsregeln verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können typische Aussprache- und Intonationsregeln der französischen Sprache verstehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5c2.json"
+            },
+            {
+              "id": "fr5d1",
+              "code": "FS2F.5.D.1",
+              "name": "Grammatische Strukturen erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler können grammatische Strukturen in Texten erkennen und für die Verständigung nutzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5d1.json"
+            },
+            {
+              "id": "fr5d2",
+              "code": "FS2F.5.D.2",
+              "name": "Grammatikregeln nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können grammatische Regeln mit Unterstützung verstehen und für die Textproduktion einsetzen.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/fr/fr5d2.json"
+            },
+            {
+              "id": "fr5e1",
+              "code": "FS2F.5.E.1",
+              "name": "Texte angemessen korrekt schreiben",
+              "beschreibung": "Die Schülerinnen und Schüler können angeleitet ihre Texte angemessen korrekt schreiben.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5e1.json"
+            },
+            {
+              "id": "fr5e2",
+              "code": "FS2F.5.E.2",
+              "name": "Rechtschreibregeln verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können Rechtschreibregeln der französischen Sprache mit Unterstützung verstehen.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/fr/fr5e2.json"
+            },
+            {
+              "id": "fr5f1",
+              "code": "FS2F.5.F.1",
+              "name": "Sprachenlernen reflektieren und planen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr Sprachenlernen mit Unterstützung reflektieren und planen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr5f1.json"
+            }
+          ]
+        },
+        {
+          "id": "fr6",
+          "code": "FS2F.6",
+          "name": "Kulturen im Fokus",
+          "kompetenzen": [
+            {
+              "id": "fr6a1",
+              "code": "FS2F.6.A.1",
+              "name": "Merkmale des Kulturraums benennen",
+              "beschreibung": "Die Schülerinnen und Schüler können Merkmale des französischsprachigen Kulturraums benennen und mit der eigenen Lebenswelt vergleichen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr6a1.json"
+            },
+            {
+              "id": "fr6b1",
+              "code": "FS2F.6.B.1",
+              "name": "Werte und Haltungen reflektieren",
+              "beschreibung": "Die Schülerinnen und Schüler können sich mit einigen Werten und Haltungen auseinandersetzen, die im französischsprachigen Kulturraum bedeutsam sind.",
+              "spieltyp": "quiz",
+              "datendatei": "data/fr/fr6b1.json"
+            },
+            {
+              "id": "fr6c1",
+              "code": "FS2F.6.C.1",
+              "name": "Begegnungssituationen gestalten",
+              "beschreibung": "Die Schülerinnen und Schüler können sich auf Begegnungssituationen mit Französisch sprechenden Menschen einlassen und Erfahrungen austauschen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/fr/fr6c1.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en",
+      "name": "Englisch",
+      "kuerzel": "FS3E",
+      "farbe": "#C62828",
+      "icon": "🇬🇧",
+      "bereiche": [
+        {
+          "id": "en1",
+          "code": "FS1E.1",
+          "name": "Hören",
+          "kompetenzen": [
+            {
+              "id": "en1a1",
+              "code": "FS1E.1.A.1",
+              "name": "Hörtexte und Gespräche verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedenartige Hörtexte und Gespräche verstehen (Sachtexte, ästhetische Texte, Texte im Schulalltag, Gespräche im Kontakt mit Englisch sprechenden Personen).",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en1a1.json"
+            },
+            {
+              "id": "en1a2",
+              "code": "FS1E.1.A.2",
+              "name": "Ästhetische Wirkung von Hörtexten",
+              "beschreibung": "Die Schülerinnen und Schüler können die ästhetische Wirkung von Hörtexten entdecken und beschreiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en1a2.json"
+            },
+            {
+              "id": "en1b1",
+              "code": "FS1E.1.B.1",
+              "name": "Hörstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Hörstrategien einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en1b1.json"
+            },
+            {
+              "id": "en1c1",
+              "code": "FS1E.1.C.1",
+              "name": "Hörinhalte ins Deutsche übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte aus Gesprächen und Hörtexten auf Englisch verstehen und sinngemäss ins Deutsche übertragen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en1c1.json"
+            }
+          ]
+        },
+        {
+          "id": "en2",
+          "code": "FS1E.2",
+          "name": "Lesen",
+          "kompetenzen": [
+            {
+              "id": "en2a1",
+              "code": "FS1E.2.A.1",
+              "name": "Texte lesen und verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedenartige Texte lesen und verstehen (Sachtexte, ästhetische Texte, Texte im Schulalltag, Texte im Kontakt mit Englisch sprechenden Personen).",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en2a1.json"
+            },
+            {
+              "id": "en2a2",
+              "code": "FS1E.2.A.2",
+              "name": "Ästhetische Wirkung von Lesetexten",
+              "beschreibung": "Die Schülerinnen und Schüler können die ästhetische Wirkung von Lesetexten entdecken und beschreiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en2a2.json"
+            },
+            {
+              "id": "en2b1",
+              "code": "FS1E.2.B.1",
+              "name": "Lesestrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Lesestrategien einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en2b1.json"
+            },
+            {
+              "id": "en2c1",
+              "code": "FS1E.2.C.1",
+              "name": "Texte sinngemäss ins Deutsche übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte schriftlicher Texte auf Englisch verstehen und sinngemäss ins Deutsche übertragen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en2c1.json"
+            }
+          ]
+        },
+        {
+          "id": "en3",
+          "code": "FS1E.3",
+          "name": "Sprechen",
+          "kompetenzen": [
+            {
+              "id": "en3a1",
+              "code": "FS1E.3.A.1",
+              "name": "An Gesprächen teilnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können an verschiedenen Gesprächen teilnehmen (über Sachthemen, über ästhetische Themen, im Schulalltag, mit Englisch sprechenden Personen).",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en3a1.json"
+            },
+            {
+              "id": "en3b1",
+              "code": "FS1E.3.B.1",
+              "name": "Zusammenhängend sprechen",
+              "beschreibung": "Die Schülerinnen und Schüler können zu verschiedenen Themen und in unterschiedlichen Situationen zusammenhängend sprechen (über Sachthemen, über ästhetische Themen, über Themen und Abläufe im Schulalltag, im Kontakt mit Englisch sprechenden Personen).",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en3b1.json"
+            },
+            {
+              "id": "en3b2",
+              "code": "FS1E.3.B.2",
+              "name": "Texte wirkungsvoll vortragen",
+              "beschreibung": "Die Schülerinnen und Schüler können beim Vortragen Texte gestalten und eine ästhetische Wirkung erzielen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en3b2.json"
+            },
+            {
+              "id": "en3c1",
+              "code": "FS1E.3.C.1",
+              "name": "Sprechstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Strategien einsetzen und reflektieren, um das Sprechen zu steuern. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en3c1.json"
+            },
+            {
+              "id": "en3d1",
+              "code": "FS1E.3.D.1",
+              "name": "Inhalte sinngemäss ins Englische übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte aus Gesprächen, Hörtexten oder schriftlichen Texten auf Deutsch sinngemäss ins Englische übertragen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en3d1.json"
+            }
+          ]
+        },
+        {
+          "id": "en4",
+          "code": "FS1E.4",
+          "name": "Schreiben",
+          "kompetenzen": [
+            {
+              "id": "en4a1",
+              "code": "FS1E.4.A.1",
+              "name": "Verschiedene Texte verfassen",
+              "beschreibung": "Die Schülerinnen und Schüler können verschiedene Texte verfassen (Sachtexte, ästhetische Texte, Texte im Schulalltag, im schriftlichen Kontakt mit Englisch sprechenden Personen).",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/en/en4a1.json"
+            },
+            {
+              "id": "en4a2",
+              "code": "FS1E.4.A.2",
+              "name": "Texte kreativ gestalten",
+              "beschreibung": "Die Schülerinnen und Schüler können eigene Texte kreativ und spielerisch gestalten und eine ästhetische Wirkung erzielen.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/en/en4a2.json"
+            },
+            {
+              "id": "en4b1",
+              "code": "FS1E.4.B.1",
+              "name": "Schreibstrategien einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Strategien zur Schreibunterstützung einsetzen und reflektieren. Dabei nutzen sie auch in anderen Sprachen aufgebaute Strategien.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en4b1.json"
+            },
+            {
+              "id": "en4c1",
+              "code": "FS1E.4.C.1",
+              "name": "Deutsche Texte ins Englische übertragen",
+              "beschreibung": "Die Schülerinnen und Schüler können Inhalte deutscher Texte sinngemäss ins Englische übertragen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en4c1.json"
+            }
+          ]
+        },
+        {
+          "id": "en5",
+          "code": "FS1E.5",
+          "name": "Sprache(n) im Fokus",
+          "kompetenzen": [
+            {
+              "id": "en5a1",
+              "code": "FS1E.5.A.1",
+              "name": "Sprachliche Vielfalt wahrnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Aufmerksamkeit auf sprachliche Vielfalt richten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en5a1.json"
+            },
+            {
+              "id": "en5a2",
+              "code": "FS1E.5.A.2",
+              "name": "Sprachliche Phänomene wahrnehmen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Aufmerksamkeit auf sprachliche Phänomene richten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en5a2.json"
+            },
+            {
+              "id": "en5b1",
+              "code": "FS1E.5.B.1",
+              "name": "Angemessenen Wortschatz nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler verfügen über einen angemessenen Wortschatz, um sich mündlich und schriftlich zu äussern.",
+              "spieltyp": "memory",
+              "datendatei": "data/en/en5b1.json"
+            },
+            {
+              "id": "en5b2",
+              "code": "FS1E.5.B.2",
+              "name": "Wortschatzstrategien und Wortbildung",
+              "beschreibung": "Die Schülerinnen und Schüler können Strategien und Techniken zum Wortschatzerwerb und Regeln der Wortbildung reflektieren und für ihr Lernen nutzen. Sie können dabei auf Lernerfahrungen und Kenntnisse in anderen Sprachen zurückgreifen.",
+              "spieltyp": "wortspiel",
+              "datendatei": "data/en/en5b2.json"
+            },
+            {
+              "id": "en5c1",
+              "code": "FS1E.5.C.1",
+              "name": "Klar und verständlich sprechen",
+              "beschreibung": "Die Schülerinnen und Schüler können klar und verständlich sprechen und vorlesen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en5c1.json"
+            },
+            {
+              "id": "en5c2",
+              "code": "FS1E.5.C.2",
+              "name": "Aussprache- und Intonationsregeln verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können typische Aussprache- und Intonationsregeln der englischen Sprache verstehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en5c2.json"
+            },
+            {
+              "id": "en5d1",
+              "code": "FS1E.5.D.1",
+              "name": "Grammatische Strukturen anwenden",
+              "beschreibung": "Die Schülerinnen und Schüler können grammatische Strukturen in Texten erkennen und für das Verständnis nutzen sowie beim Sprechen und Schreiben anwenden.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/en/en5d1.json"
+            },
+            {
+              "id": "en5d2",
+              "code": "FS1E.5.D.2",
+              "name": "Grammatik mit anderen Sprachen vergleichen",
+              "beschreibung": "Die Schülerinnen und Schüler können grammatische Strukturen verstehen und mit anderen Sprachen vergleichen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en5d2.json"
+            },
+            {
+              "id": "en5e1",
+              "code": "FS1E.5.E.1",
+              "name": "Angemessen korrekt schreiben",
+              "beschreibung": "Die Schülerinnen und Schüler können angemessen korrekt schreiben.",
+              "spieltyp": "wortspiel",
+              "datendatei": "data/en/en5e1.json"
+            },
+            {
+              "id": "en5e2",
+              "code": "FS1E.5.E.2",
+              "name": "Rechtschreibregeln verstehen",
+              "beschreibung": "Die Schülerinnen und Schüler können Rechtschreibregeln der englischen Sprache reflektieren und verstehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en5e2.json"
+            },
+            {
+              "id": "en5f1",
+              "code": "FS1E.5.F.1",
+              "name": "Sprachenlernen reflektieren und planen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr eigenes Sprachenlernen reflektieren und planen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en5f1.json"
+            }
+          ]
+        },
+        {
+          "id": "en6",
+          "code": "FS1E.6",
+          "name": "Kulturen im Fokus",
+          "kompetenzen": [
+            {
+              "id": "en6a1",
+              "code": "FS1E.6.A.1",
+              "name": "Merkmale des Kulturraums kennen",
+              "beschreibung": "Die Schülerinnen und Schüler kennen einige Merkmale des englischsprachigen Kulturraums sowie kulturelle Gemeinsamkeiten und Unterschiede.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en6a1.json"
+            },
+            {
+              "id": "en6b1",
+              "code": "FS1E.6.B.1",
+              "name": "Über kulturelle Vielfalt nachdenken",
+              "beschreibung": "Die Schülerinnen und Schüler können über ihre Haltung gegenüber dem englischsprachigen Kulturraum und gegenüber kultureller Vielfalt nachdenken.",
+              "spieltyp": "quiz",
+              "datendatei": "data/en/en6b1.json"
+            },
+            {
+              "id": "en6c1",
+              "code": "FS1E.6.C.1",
+              "name": "Kulturen virtuell und real begegnen",
+              "beschreibung": "Die Schülerinnen und Schüler begegnen Menschen und Erzeugnissen des englischsprachigen Kulturraums virtuell und real.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/en/en6c1.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mathematik",
+      "name": "Mathematik",
+      "kuerzel": "MA",
+      "farbe": "#FF9800",
+      "icon": "🔢",
+      "bereiche": [
+        {
+          "id": "ma1",
+          "code": "MA.1",
+          "name": "Zahl und Variable",
+          "kompetenzen": [
+            {
+              "id": "ma1a1",
+              "code": "MA.1.A.1",
+              "name": "Arithmetische Begriffe und Symbole",
+              "beschreibung": "Die Schülerinnen und Schüler verstehen und verwenden arithmetische Begriffe und Symbole. Sie lesen und schreiben Zahlen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mathematik/ma1a1.json"
+            },
+            {
+              "id": "ma1a2",
+              "code": "MA.1.A.2",
+              "name": "Zahlen ordnen und überschlagen",
+              "beschreibung": "Die Schülerinnen und Schüler können flexibel zählen, Zahlen nach der Grösse ordnen und Ergebnisse überschlagen.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma1a2.json"
+            },
+            {
+              "id": "ma1a3",
+              "code": "MA.1.A.3",
+              "name": "Grundoperationen und Potenzen",
+              "beschreibung": "Die Schülerinnen und Schüler können addieren, subtrahieren, multiplizieren, dividieren und potenzieren.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma1a3.json"
+            },
+            {
+              "id": "ma1a4",
+              "code": "MA.1.A.4",
+              "name": "Terme und Gleichungen",
+              "beschreibung": "Die Schülerinnen und Schüler können Terme vergleichen und umformen, Gleichungen lösen, Gesetze und Regeln anwenden.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma1a4.json"
+            },
+            {
+              "id": "ma1b1",
+              "code": "MA.1.B.1",
+              "name": "Arithmetische Muster erforschen",
+              "beschreibung": "Die Schülerinnen und Schüler können Zahl- und Operationsbeziehungen sowie arithmetische Muster erforschen und Erkenntnisse austauschen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma1b1.json"
+            },
+            {
+              "id": "ma1b2",
+              "code": "MA.1.B.2",
+              "name": "Aussagen zu Zahlen begründen",
+              "beschreibung": "Die Schülerinnen und Schüler können Aussagen, Vermutungen und Ergebnisse zu Zahlen und Variablen erläutern, überprüfen, begründen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma1b2.json"
+            },
+            {
+              "id": "ma1b3",
+              "code": "MA.1.B.3",
+              "name": "Hilfsmittel beim Erforschen nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können beim Erforschen arithmetischer Muster Hilfsmittel nutzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mathematik/ma1b3.json"
+            },
+            {
+              "id": "ma1c1",
+              "code": "MA.1.C.1",
+              "name": "Rechenwege darstellen",
+              "beschreibung": "Die Schülerinnen und Schüler können Rechenwege darstellen, beschreiben, austauschen und nachvollziehen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/mathematik/ma1c1.json"
+            },
+            {
+              "id": "ma1c2",
+              "code": "MA.1.C.2",
+              "name": "Zahlenfolgen und Terme darstellen",
+              "beschreibung": "Die Schülerinnen und Schüler können Anzahlen, Zahlenfolgen und Terme veranschaulichen, beschreiben und verallgemeinern.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma1c2.json"
+            }
+          ]
+        },
+        {
+          "id": "ma2",
+          "code": "MA.2",
+          "name": "Form und Raum",
+          "kompetenzen": [
+            {
+              "id": "ma2a1",
+              "code": "MA.2.A.1",
+              "name": "Geometrische Begriffe und Symbole",
+              "beschreibung": "Die Schülerinnen und Schüler verstehen und verwenden Begriffe und Symbole.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mathematik/ma2a1.json"
+            },
+            {
+              "id": "ma2a2",
+              "code": "MA.2.A.2",
+              "name": "Figuren und Körper abbilden",
+              "beschreibung": "Die Schülerinnen und Schüler können Figuren und Körper abbilden, zerlegen und zusammensetzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2a2.json"
+            },
+            {
+              "id": "ma2a3",
+              "code": "MA.2.A.3",
+              "name": "Längen, Flächen und Volumen berechnen",
+              "beschreibung": "Die Schülerinnen und Schüler können Längen, Flächen und Volumen bestimmen und berechnen.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma2a3.json"
+            },
+            {
+              "id": "ma2b1",
+              "code": "MA.2.B.1",
+              "name": "Geometrische Beziehungen erforschen",
+              "beschreibung": "Die Schülerinnen und Schüler können geometrische Beziehungen, insbesondere zwischen Längen, Flächen und Volumen, erforschen, Vermutungen formulieren und Erkenntnisse austauschen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2b1.json"
+            },
+            {
+              "id": "ma2b2",
+              "code": "MA.2.B.2",
+              "name": "Formeln und Aussagen überprüfen",
+              "beschreibung": "Die Schülerinnen und Schüler können Aussagen und Formeln zu geometrischen Beziehungen überprüfen, mit Beispielen belegen und begründen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2b2.json"
+            },
+            {
+              "id": "ma2c1",
+              "code": "MA.2.C.1",
+              "name": "Körper und räumliche Beziehungen darstellen",
+              "beschreibung": "Die Schülerinnen und Schüler können Körper und räumliche Beziehungen darstellen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2c1.json"
+            },
+            {
+              "id": "ma2c2",
+              "code": "MA.2.C.2",
+              "name": "Figuren skizzieren und konstruieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Figuren falten, skizzieren, zeichnen und konstruieren sowie Darstellungen zur ebenen Geometrie austauschen und überprüfen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/mathematik/ma2c2.json"
+            },
+            {
+              "id": "ma2c3",
+              "code": "MA.2.C.3",
+              "name": "Kopfgeometrie",
+              "beschreibung": "Die Schülerinnen und Schüler können sich Figuren und Körper in verschiedenen Lagen vorstellen, Veränderungen darstellen und beschreiben (Kopfgeometrie).",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2c3.json"
+            },
+            {
+              "id": "ma2c4",
+              "code": "MA.2.C.4",
+              "name": "Koordinatensystem und Pläne",
+              "beschreibung": "Die Schülerinnen und Schüler können in einem Koordinatensystem die Koordinaten von Figuren und Körpern bestimmen bzw. Figuren und Körper aufgrund ihrer Koordinaten darstellen sowie Pläne lesen und zeichnen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma2c4.json"
+            }
+          ]
+        },
+        {
+          "id": "ma3",
+          "code": "MA.3",
+          "name": "Grössen, Funktionen, Daten und Zufall",
+          "kompetenzen": [
+            {
+              "id": "ma3a1",
+              "code": "MA.3.A.1",
+              "name": "Begriffe und Symbole zu Grössen und Daten",
+              "beschreibung": "Die Schülerinnen und Schüler verstehen und verwenden Begriffe und Symbole zu Grössen, Funktionen, Daten und Zufall.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mathematik/ma3a1.json"
+            },
+            {
+              "id": "ma3a2",
+              "code": "MA.3.A.2",
+              "name": "Grössen umwandeln und rechnen",
+              "beschreibung": "Die Schülerinnen und Schüler können Grössen schätzen, messen, umwandeln, runden und mit ihnen rechnen.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma3a2.json"
+            },
+            {
+              "id": "ma3a3",
+              "code": "MA.3.A.3",
+              "name": "Funktionen und Funktionswerte",
+              "beschreibung": "Die Schülerinnen und Schüler können funktionale Zusammenhänge beschreiben und Funktionswerte bestimmen.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma3a3.json"
+            },
+            {
+              "id": "ma3b1",
+              "code": "MA.3.B.1",
+              "name": "Grössenbeziehungen erforschen",
+              "beschreibung": "Die Schülerinnen und Schüler können zu Grössenbeziehungen und funktionalen Zusammenhängen Fragen formulieren, diese erforschen sowie Ergebnisse überprüfen und begründen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma3b1.json"
+            },
+            {
+              "id": "ma3b2",
+              "code": "MA.3.B.2",
+              "name": "Statistik und Wahrscheinlichkeit erforschen",
+              "beschreibung": "Die Schülerinnen und Schüler können Sachsituationen zur Statistik, Kombinatorik und Wahrscheinlichkeit erforschen, Vermutungen formulieren und überprüfen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma3b2.json"
+            },
+            {
+              "id": "ma3c1",
+              "code": "MA.3.C.1",
+              "name": "Daten darstellen und interpretieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Daten zu Statistik, Kombinatorik und Wahrscheinlichkeit erheben, ordnen, darstellen, auswerten und interpretieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mathematik/ma3c1.json"
+            },
+            {
+              "id": "ma3c2",
+              "code": "MA.3.C.2",
+              "name": "Sachsituationen mathematisieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Sachsituationen mathematisieren, darstellen, berechnen sowie Ergebnisse interpretieren und überprüfen.",
+              "spieltyp": "rechnen",
+              "datendatei": "data/mathematik/ma3c2.json"
+            },
+            {
+              "id": "ma3c3",
+              "code": "MA.3.C.3",
+              "name": "Terme und Situationen verknüpfen",
+              "beschreibung": "Die Schülerinnen und Schüler können Terme, Formeln, Gleichungen und Tabellen mit Sachsituationen konkretisieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mathematik/ma3c3.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "natur-technik",
+      "name": "Natur und Technik",
+      "kuerzel": "NT",
+      "farbe": "#4CAF50",
+      "icon": "🔬",
+      "bereiche": [
+        {
+          "id": "nt1",
+          "code": "NT.1",
+          "name": "Wesen und Bedeutung von Naturwissenschaften und Technik",
+          "kompetenzen": [
+            {
+              "id": "nt1a",
+              "code": "NT.1.1",
+              "name": "Naturwissenschaftliche Erkenntnisse",
+              "beschreibung": "Die Schülerinnen und Schüler können Wege zur Gewinnung naturwissenschaftlicher Erkenntnisse beschreiben und deren kulturelle Bedeutung reflektieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt1a.json"
+            },
+            {
+              "id": "nt1b",
+              "code": "NT.1.2",
+              "name": "Technische Alltagsgeräte",
+              "beschreibung": "Die Schülerinnen und Schüler können technische Alltagsgeräte bedienen und ihre Funktionsweise erklären.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt1b.json"
+            },
+            {
+              "id": "nt1c",
+              "code": "NT.1.3",
+              "name": "Nachhaltigkeit von Technologie",
+              "beschreibung": "Die Schülerinnen und Schüler können die Nachhaltigkeit naturwissenschaftlich-technischer Anwendungen diskutieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt1c.json"
+            }
+          ]
+        },
+        {
+          "id": "nt2",
+          "code": "NT.2",
+          "name": "Stoffe untersuchen und gewinnen",
+          "kompetenzen": [
+            {
+              "id": "nt2a",
+              "code": "NT.2.1",
+              "name": "Stoffe untersuchen und ordnen",
+              "beschreibung": "Die Schülerinnen und Schüler können Stoffe untersuchen, beschreiben und ordnen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt2a.json"
+            },
+            {
+              "id": "nt2b",
+              "code": "NT.2.2",
+              "name": "Aggregatzustände und Teilchenmodell",
+              "beschreibung": "Die Schülerinnen und Schüler können Aggregatzustände und deren Änderungen mithilfe des Teilchenmodells erklären.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/natur-technik/nt2b.json"
+            }
+          ]
+        },
+        {
+          "id": "nt3",
+          "code": "NT.3",
+          "name": "Chemische Reaktionen erforschen",
+          "kompetenzen": [
+            {
+              "id": "nt3a",
+              "code": "NT.3.1",
+              "name": "Stoffumwandlungen untersuchen",
+              "beschreibung": "Die Schülerinnen und Schüler können Stoffumwandlungen untersuchen und beschreiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt3a.json"
+            },
+            {
+              "id": "nt3b",
+              "code": "NT.3.2",
+              "name": "Stoffumwandlungen einordnen",
+              "beschreibung": "Die Schülerinnen und Schüler können Stoffumwandlungen einordnen und erklären.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/natur-technik/nt3b.json"
+            },
+            {
+              "id": "nt3c",
+              "code": "NT.3.3",
+              "name": "Stoffe als globale Ressource",
+              "beschreibung": "Die Schülerinnen und Schüler können Stoffe als globale Ressource erkennen und nachhaltig damit umgehen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/natur-technik/nt3c.json"
+            }
+          ]
+        },
+        {
+          "id": "nt4",
+          "code": "NT.4",
+          "name": "Energieumwandlungen analysieren und reflektieren",
+          "kompetenzen": [
+            {
+              "id": "nt4a",
+              "code": "NT.4.1",
+              "name": "Energieformen und -umwandlungen",
+              "beschreibung": "Die Schülerinnen und Schüler können Energieformen und -umwandlungen analysieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt4a.json"
+            },
+            {
+              "id": "nt4b",
+              "code": "NT.4.2",
+              "name": "Energiespeicherung und -transport",
+              "beschreibung": "Die Schülerinnen und Schüler können Herausforderungen zu Speicherung, Bereitstellung und Transport von Energie beschreiben und reflektieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt4b.json"
+            }
+          ]
+        },
+        {
+          "id": "nt5",
+          "code": "NT.5",
+          "name": "Mechanische und elektrische Phänomene untersuchen",
+          "kompetenzen": [
+            {
+              "id": "nt5a",
+              "code": "NT.5.1",
+              "name": "Bewegungen und Kräfte",
+              "beschreibung": "Die Schülerinnen und Schüler können Bewegungen und Wirkungen von Kräften analysieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt5a.json"
+            },
+            {
+              "id": "nt5b",
+              "code": "NT.5.2",
+              "name": "Grundlagen der Elektrik",
+              "beschreibung": "Die Schülerinnen und Schüler können Grundlagen der Elektrik verstehen und anwenden.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt5b.json"
+            },
+            {
+              "id": "nt5c",
+              "code": "NT.5.3",
+              "name": "Elektrische und elektronische Schaltungen",
+              "beschreibung": "Die Schülerinnen und Schüler können elektrische und elektronische Schaltungen untersuchen und analysieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt5c.json"
+            }
+          ]
+        },
+        {
+          "id": "nt6",
+          "code": "NT.6",
+          "name": "Sinne und Signale erforschen",
+          "kompetenzen": [
+            {
+              "id": "nt6a",
+              "code": "NT.6.1",
+              "name": "Sinnesreize und Verarbeitung",
+              "beschreibung": "Die Schülerinnen und Schüler können Sinnesreize und deren Verarbeitung beschreiben, analysieren und beurteilen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt6a.json"
+            },
+            {
+              "id": "nt6b",
+              "code": "NT.6.2",
+              "name": "Hören und Sehen",
+              "beschreibung": "Die Schülerinnen und Schüler können Hören und Sehen analysieren.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/natur-technik/nt6b.json"
+            },
+            {
+              "id": "nt6c",
+              "code": "NT.6.3",
+              "name": "Optische Phänomene",
+              "beschreibung": "Die Schülerinnen und Schüler können optische Phänomene untersuchen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt6c.json"
+            }
+          ]
+        },
+        {
+          "id": "nt7",
+          "code": "NT.7",
+          "name": "Körperfunktionen verstehen",
+          "kompetenzen": [
+            {
+              "id": "nt7a",
+              "code": "NT.7.1",
+              "name": "Anatomie und Physiologie",
+              "beschreibung": "Die Schülerinnen und Schüler können Aspekte der Anatomie und Physiologie des Körpers erklären.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt7a.json"
+            },
+            {
+              "id": "nt7b",
+              "code": "NT.7.2",
+              "name": "Stoffwechselvorgänge",
+              "beschreibung": "Die Schülerinnen und Schüler können Stoffwechselvorgänge analysieren und Verantwortung für den eigenen Körper übernehmen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/natur-technik/nt7b.json"
+            },
+            {
+              "id": "nt7c",
+              "code": "NT.7.3",
+              "name": "Fortpflanzung und Verhütung",
+              "beschreibung": "Die Schülerinnen und Schüler können altersgemässes Grundwissen über menschliche Fortpflanzung, sexuell übertragbare Krankheiten und Verhütung anwenden.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt7c.json"
+            },
+            {
+              "id": "nt7d",
+              "code": "NT.7.4",
+              "name": "Krankheiten und Immunsystem",
+              "beschreibung": "Die Schülerinnen und Schüler können Massnahmen gegen häufige Erkrankungen beurteilen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt7d.json"
+            }
+          ]
+        },
+        {
+          "id": "nt8",
+          "code": "NT.8",
+          "name": "Fortpflanzung und Entwicklung analysieren",
+          "kompetenzen": [
+            {
+              "id": "nt8a",
+              "code": "NT.8.1",
+              "name": "Artenvielfalt und Evolution",
+              "beschreibung": "Die Schülerinnen und Schüler können die Artenvielfalt in Beziehung zur Evolutionstheorie setzen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/natur-technik/nt8a.json"
+            },
+            {
+              "id": "nt8b",
+              "code": "NT.8.2",
+              "name": "Wachstum und Entwicklung",
+              "beschreibung": "Die Schülerinnen und Schüler können Wachstum und Entwicklung von Organismen erforschen und in Grundzügen erklären.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/natur-technik/nt8b.json"
+            },
+            {
+              "id": "nt8c",
+              "code": "NT.8.3",
+              "name": "Grundlagen der Genetik",
+              "beschreibung": "Die Schülerinnen und Schüler können Grundlagen der Genetik analysieren und erklären.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/natur-technik/nt8c.json"
+            }
+          ]
+        },
+        {
+          "id": "nt9",
+          "code": "NT.9",
+          "name": "Ökosysteme erkunden",
+          "kompetenzen": [
+            {
+              "id": "nt9a",
+              "code": "NT.9.1",
+              "name": "Aquatische Ökosysteme",
+              "beschreibung": "Die Schülerinnen und Schüler können aquatische Ökosysteme untersuchen und beurteilen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/natur-technik/nt9a.json"
+            },
+            {
+              "id": "nt9b",
+              "code": "NT.9.2",
+              "name": "Terrestrische Ökosysteme",
+              "beschreibung": "Die Schülerinnen und Schüler können Wechselwirkungen innerhalb und zwischen terrestrischen Ökosystemen erkennen und charakterisieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt9b.json"
+            },
+            {
+              "id": "nt9c",
+              "code": "NT.9.3",
+              "name": "Einfluss des Menschen auf Ökosysteme",
+              "beschreibung": "Die Schülerinnen und Schüler können Einflüsse des Menschen auf regionale Ökosysteme erkennen und einschätzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/natur-technik/nt9c.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rzg",
+      "name": "RÃ¤ume, Zeiten, Gesellschaften",
+      "kuerzel": "RZG",
+      "farbe": "#FFC107",
+      "icon": "ðŸŒ",
+      "bereiche": [
+        {
+          "id": "rzg1",
+          "code": "RZG.1",
+          "name": "NatÃ¼rliche Grundlagen der Erde untersuchen",
+          "kompetenzen": [
+            {
+              "id": "rzg11",
+              "code": "RZG.1.1",
+              "name": "Erde als Planet",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Erde als Planeten beschreiben.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/rzg/rzg11.json"
+            },
+            {
+              "id": "rzg12",
+              "code": "RZG.1.2",
+              "name": "Wetter und Klima",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Wetter und Klima analysieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg12.json"
+            },
+            {
+              "id": "rzg13",
+              "code": "RZG.1.3",
+              "name": "NaturphÃ¤nomene und Naturereignisse",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen NaturphÃ¤nomene und Naturereignisse erklÃ¤ren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/rzg/rzg13.json"
+            },
+            {
+              "id": "rzg14",
+              "code": "RZG.1.4",
+              "name": "Ressourcen und EnergietrÃ¤ger",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen natÃ¼rliche Ressourcen und EnergietrÃ¤ger untersuchen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/rzg/rzg14.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg2",
+          "code": "RZG.2",
+          "name": "Lebensweisen und LebensrÃ¤ume charakterisieren",
+          "kompetenzen": [
+            {
+              "id": "rzg21",
+              "code": "RZG.2.1",
+              "name": "BevÃ¶lkerungsstrukturen und Migration",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen BevÃ¶lkerungsstrukturen und -bewegungen erkennen und einordnen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg21.json"
+            },
+            {
+              "id": "rzg22",
+              "code": "RZG.2.2",
+              "name": "Lebensweisen vergleichen",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Lebensweisen von Menschen in verschiedenen LebensrÃ¤umen vergleichen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg22.json"
+            },
+            {
+              "id": "rzg23",
+              "code": "RZG.2.3",
+              "name": "StÃ¤dtische und lÃ¤ndliche RÃ¤ume",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Dynamik in stÃ¤dtischen und lÃ¤ndlichen RÃ¤umen analysieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/rzg/rzg23.json"
+            },
+            {
+              "id": "rzg24",
+              "code": "RZG.2.4",
+              "name": "MobilitÃ¤t und Transport",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen MobilitÃ¤t und Transport untersuchen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg24.json"
+            },
+            {
+              "id": "rzg25",
+              "code": "RZG.2.5",
+              "name": "Tourismus einschÃ¤tzen",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Bedeutung des Tourismus einschÃ¤tzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg25.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg3",
+          "code": "RZG.3",
+          "name": "Mensch-Umwelt-Beziehungen analysieren",
+          "kompetenzen": [
+            {
+              "id": "rzg31",
+              "code": "RZG.3.1",
+              "name": "NatÃ¼rliche Systeme nutzen",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen natÃ¼rliche Systeme und deren Nutzung erforschen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg31.json"
+            },
+            {
+              "id": "rzg32",
+              "code": "RZG.3.2",
+              "name": "Wirtschaft und Globalisierung",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen wirtschaftliche Prozesse und die Globalisierung untersuchen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg32.json"
+            },
+            {
+              "id": "rzg33",
+              "code": "RZG.3.3",
+              "name": "Raumplanung nachvollziehen",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Prozesse der Raumplanung nachvollziehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/rzg/rzg33.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg4",
+          "code": "RZG.4",
+          "name": "Sich in RÃ¤umen orientieren",
+          "kompetenzen": [
+            {
+              "id": "rzg41",
+              "code": "RZG.4.1",
+              "name": "Orte lokalisieren",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Orte lokalisieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/rzg/rzg41.json"
+            },
+            {
+              "id": "rzg42",
+              "code": "RZG.4.2",
+              "name": "Karten auswerten",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Karten und Orientierungsmittel auswerten.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/rzg/rzg42.json"
+            },
+            {
+              "id": "rzg43",
+              "code": "RZG.4.3",
+              "name": "Im Realraum orientieren",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen sich im Realraum orientieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/rzg/rzg43.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg5",
+          "code": "RZG.5",
+          "name": "Schweiz in Tradition und Wandel verstehen",
+          "kompetenzen": [
+            {
+              "id": "rzg51",
+              "code": "RZG.5.1",
+              "name": "Entstehung der Schweiz",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Entstehung und Entwicklung der Schweiz erklÃ¤ren.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg51.json"
+            },
+            {
+              "id": "rzg52",
+              "code": "RZG.5.2",
+              "name": "Wirtschaftlicher Wandel in der Schweiz",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen aufzeigen, wie Menschen in der Schweiz durch wirtschaftliche VerÃ¤nderungen geprÃ¤gt werden und wie sie die VerÃ¤nderungen gestalten.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg52.json"
+            },
+            {
+              "id": "rzg53",
+              "code": "RZG.5.3",
+              "name": "Alltagsleben in der Schweiz",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen das Alltagsleben von Menschen in der Schweiz in verschiedenen Jahrhunderten vergleichen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg53.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg6",
+          "code": "RZG.6",
+          "name": "Weltgeschichtliche KontinuitÃ¤ten und UmbrÃ¼che erklÃ¤ren",
+          "kompetenzen": [
+            {
+              "id": "rzg61",
+              "code": "RZG.6.1",
+              "name": "Neuzeit bis heute",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Geschichte vom Beginn der Neuzeit bis heute in ausgewÃ¤hlten LÃ¤ngsschnitten erzÃ¤hlen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg61.json"
+            },
+            {
+              "id": "rzg62",
+              "code": "RZG.6.2",
+              "name": "Das 19. Jahrhundert",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen KontinuitÃ¤ten und UmbrÃ¼che im 19. Jahrhundert charakterisieren.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg62.json"
+            },
+            {
+              "id": "rzg63",
+              "code": "RZG.6.3",
+              "name": "20. und 21. Jahrhundert",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen ausgewÃ¤hlte PhÃ¤nomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz fÃ¼r heute erklÃ¤ren.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg63.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg7",
+          "code": "RZG.7",
+          "name": "Geschichtskultur analysieren und nutzen",
+          "kompetenzen": [
+            {
+              "id": "rzg71",
+              "code": "RZG.7.1",
+              "name": "Geschichtliche Bildungsorte",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen sich an ausserschulischen geschichtlichen Bildungsorten zurechtfinden und sie zum Lernen nutzen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg71.json"
+            },
+            {
+              "id": "rzg72",
+              "code": "RZG.7.2",
+              "name": "Geschichte in Medien",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen Geschichte zur Bildung und Unterhaltung nutzen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg72.json"
+            },
+            {
+              "id": "rzg73",
+              "code": "RZG.7.3",
+              "name": "Zeitzeugen nutzen",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen aus GesprÃ¤chen mit Zeitzeugen Erkenntnisse Ã¼ber die Vergangenheit gewinnen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg73.json"
+            }
+          ]
+        },
+        {
+          "id": "rzg8",
+          "code": "RZG.8",
+          "name": "Demokratie und Menschenrechte verstehen und sich dafÃ¼r engagieren",
+          "kompetenzen": [
+            {
+              "id": "rzg81",
+              "code": "RZG.8.1",
+              "name": "Schweizer Demokratie",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Schweizer Demokratie erklÃ¤ren und mit anderen Systemen vergleichen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg81.json"
+            },
+            {
+              "id": "rzg82",
+              "code": "RZG.8.2",
+              "name": "Menschenrechte",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklÃ¤ren.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg82.json"
+            },
+            {
+              "id": "rzg83",
+              "code": "RZG.8.3",
+              "name": "Schweiz in Europa und der Welt",
+              "beschreibung": "Die SchÃ¼lerinnen und SchÃ¼ler kÃ¶nnen die Positionierung der Schweiz in Europa und der Welt wahrnehmen und beurteilen.",
+              "spieltyp": "timeline",
+              "datendatei": "data/rzg/rzg83.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wah",
+      "name": "Wirtschaft, Arbeit, Haushalt",
+      "kuerzel": "WAH",
+      "farbe": "#795548",
+      "icon": "🏠",
+      "bereiche": [
+        {
+          "id": "wah1",
+          "code": "WAH.1",
+          "name": "Produktions- und Arbeitswelten erkunden",
+          "kompetenzen": [
+            {
+              "id": "wah1a",
+              "code": "WAH.1.1",
+              "name": "Bedeutung von Arbeit",
+              "beschreibung": "Die Schülerinnen und Schüler können über die individuelle und gesellschaftliche Bedeutung von Arbeit nachdenken.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah1a.json"
+            },
+            {
+              "id": "wah1b",
+              "code": "WAH.1.2",
+              "name": "Arbeitswelten",
+              "beschreibung": "Die Schülerinnen und Schüler können Anforderungen und Gestaltungsspielräume in Arbeitswelten vergleichen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/wah/wah1b.json"
+            },
+            {
+              "id": "wah1c",
+              "code": "WAH.1.3",
+              "name": "Produktion von Gütern und Dienstleistungen",
+              "beschreibung": "Die Schülerinnen und Schüler können die Produktion von Gütern und Dienstleistungen vergleichen und beurteilen.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/wah/wah1c.json"
+            }
+          ]
+        },
+        {
+          "id": "wah2",
+          "code": "WAH.2",
+          "name": "Märkte und Handel verstehen - über Geld nachdenken",
+          "kompetenzen": [
+            {
+              "id": "wah2a",
+              "code": "WAH.2.1",
+              "name": "Prinzipien der Marktwirtschaft",
+              "beschreibung": "Die Schülerinnen und Schüler können Prinzipien der Marktwirtschaft verstehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah2a.json"
+            },
+            {
+              "id": "wah2b",
+              "code": "WAH.2.2",
+              "name": "Bedeutung des Handels",
+              "beschreibung": "Die Schülerinnen und Schüler können die Bedeutung des Handels in der Versorgung verstehen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/wah/wah2b.json"
+            },
+            {
+              "id": "wah2c",
+              "code": "WAH.2.3",
+              "name": "Umgang mit Geld",
+              "beschreibung": "Die Schülerinnen und Schüler können einen verantwortungsvollen Umgang mit Geld entwickeln.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/wah/wah2c.json"
+            }
+          ]
+        },
+        {
+          "id": "wah3",
+          "code": "WAH.3",
+          "name": "Konsum gestalten",
+          "kompetenzen": [
+            {
+              "id": "wah3a",
+              "code": "WAH.3.1",
+              "name": "Einflüsse auf Konsum",
+              "beschreibung": "Die Schülerinnen und Schüler können Einflüsse auf die Gestaltung des Konsumalltages erkennen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah3a.json"
+            },
+            {
+              "id": "wah3b",
+              "code": "WAH.3.2",
+              "name": "Konsumfolgen",
+              "beschreibung": "Die Schülerinnen und Schüler können Folgen des Konsums analysieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/wah/wah3b.json"
+            },
+            {
+              "id": "wah3c",
+              "code": "WAH.3.3",
+              "name": "Konsumentscheidungen",
+              "beschreibung": "Die Schülerinnen und Schüler können kriterien- und situationsorientierte Konsumentscheidungen finden.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah3c.json"
+            }
+          ]
+        },
+        {
+          "id": "wah4",
+          "code": "WAH.4",
+          "name": "Ernährung und Gesundheit - Zusammenhänge verstehen und reflektiert handeln",
+          "kompetenzen": [
+            {
+              "id": "wah4a",
+              "code": "WAH.4.1",
+              "name": "Gesundheit als Ressource",
+              "beschreibung": "Die Schülerinnen und Schüler können das Zusammenspiel unterschiedlicher Einflüsse auf die Gesundheit erkennen und den eigenen Alltag gesundheitsfördernd gestalten.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah4a.json"
+            },
+            {
+              "id": "wah4b",
+              "code": "WAH.4.2",
+              "name": "Essen und Trinken",
+              "beschreibung": "Die Schülerinnen und Schüler können Einflüsse auf die Ernährung erkennen und Essen und Trinken der Situation entsprechend gestalten.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/wah/wah4b.json"
+            },
+            {
+              "id": "wah4c",
+              "code": "WAH.4.3",
+              "name": "Auswahl von Nahrung",
+              "beschreibung": "Die Schülerinnen und Schüler können Nahrung kriterienorientiert auswählen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/wah/wah4c.json"
+            },
+            {
+              "id": "wah4d",
+              "code": "WAH.4.4",
+              "name": "Nahrungszubereitung",
+              "beschreibung": "Die Schülerinnen und Schüler können Nahrung unter Berücksichtigung gesundheitlicher Aspekte zubereiten.",
+              "spieltyp": "lueckentext",
+              "datendatei": "data/wah/wah4d.json"
+            },
+            {
+              "id": "wah4e",
+              "code": "WAH.4.5",
+              "name": "Globale Herausforderungen der Ernährung",
+              "beschreibung": "Die Schülerinnen und Schüler können globale Herausforderungen der Ernährung von Menschen verstehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah4e.json"
+            }
+          ]
+        },
+        {
+          "id": "wah5",
+          "code": "WAH.5",
+          "name": "Haushalten und Zusammenleben gestalten",
+          "kompetenzen": [
+            {
+              "id": "wah5a",
+              "code": "WAH.5.1",
+              "name": "Planung und Durchführung von Alltagsarbeiten",
+              "beschreibung": "Die Schülerinnen und Schüler können Arbeiten des privaten Alltags situativ planen sowie zielgerichtet und effizient durchführen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/wah/wah5a.json"
+            },
+            {
+              "id": "wah5b",
+              "code": "WAH.5.2",
+              "name": "Soziale, rechtliche und ökonomische Aspekte im Alltag",
+              "beschreibung": "Die Schülerinnen und Schüler können soziale, rechtliche und ökonomische Aspekte im Alltag und im Zusammenleben recherchieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/wah/wah5b.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "mi",
       "name": "Medien und Informatik",
       "kuerzel": "MI",
@@ -74,6 +1918,749 @@
               "beschreibung": "Die Schülerinnen und Schüler verstehen Aufbau und Funktionsweise von informationsverarbeitenden Systemen und können Konzepte der sicheren Datenverarbeitung anwenden.",
               "spieltyp": "quiz",
               "datendatei": "data/mi/mi2c.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mu",
+      "name": "Musik",
+      "kuerzel": "MU",
+      "farbe": "#F44336",
+      "icon": "🎵",
+      "bereiche": [
+        {
+          "id": "mu1",
+          "code": "MU.1",
+          "name": "Singen und Sprechen",
+          "kompetenzen": [
+            {
+              "id": "mu1a",
+              "code": "MU.1.A.1",
+              "name": "Stimme im Ensemble",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Stimme im chorischen Singen und im mehrstimmigen Sprechen differenziert einsetzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu1a.json"
+            },
+            {
+              "id": "mu1b",
+              "code": "MU.1.B.1",
+              "name": "Stimme als Ausdrucksmittel",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre Stimme als Ausdrucksmöglichkeit erfahren und einsetzen.",
+              "spieltyp": "memory",
+              "datendatei": "data/mu/mu1b.json"
+            },
+            {
+              "id": "mu1c",
+              "code": "MU.1.C.1",
+              "name": "Lieder und Verse",
+              "beschreibung": "Die Schülerinnen und Schüler kennen Lieder und Verse verschiedener Zeiten, Stile und Kulturen, singen und tragen diese vor.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/mu/mu1c.json"
+            }
+          ]
+        },
+        {
+          "id": "mu2",
+          "code": "MU.2",
+          "name": "Hören und Sich-Orientieren",
+          "kompetenzen": [
+            {
+              "id": "mu2a",
+              "code": "MU.2.A.1",
+              "name": "Klangquellen, Höreindrücke und Notation",
+              "beschreibung": "Die Schülerinnen und Schüler können Klangquellen, Musik und Höreindrücke differenziert wahrnehmen, beschreiben und einordnen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu2a.json"
+            },
+            {
+              "id": "mu2b",
+              "code": "MU.2.B.1",
+              "name": "Begegnung mit Musik in Geschichte und Gegenwart",
+              "beschreibung": "Die Schülerinnen und Schüler können Musik aus verschiedenen Zeiten, Kulturen und Räumen erkennen, einordnen und beschreiben.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mu/mu2b.json"
+            },
+            {
+              "id": "mu2c",
+              "code": "MU.2.C.1",
+              "name": "Wirkung von Musik",
+              "beschreibung": "Die Schülerinnen und Schüler können die Wirkung von Musik und deren Verwendung reflektieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu2c.json"
+            }
+          ]
+        },
+        {
+          "id": "mu3",
+          "code": "MU.3",
+          "name": "Bewegen und Tanzen",
+          "kompetenzen": [
+            {
+              "id": "mu3a",
+              "code": "MU.3.A.1",
+              "name": "Körperwahrnehmung",
+              "beschreibung": "Die Schülerinnen und Schüler können ihren Körper als Ausdrucksmittel einsetzen und in Verbindung mit Musik differenziert wahrnehmen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mu/mu3a.json"
+            },
+            {
+              "id": "mu3b",
+              "code": "MU.3.B.1",
+              "name": "Darstellende Bewegung",
+              "beschreibung": "Die Schülerinnen und Schüler können sich in der Gruppe und allein zu Musik und aus dem eigenen Bewegungsrepertoire tänzerisch bewegen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu3b.json"
+            },
+            {
+              "id": "mu3c",
+              "code": "MU.3.C.1",
+              "name": "Tänze aus verschiedenen Zeiten, Kulturen und Stilen",
+              "beschreibung": "Die Schülerinnen und Schüler kennen Tänze aus verschiedenen Zeiten, Kulturen und Stilen und können diese ausführen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mu/mu3c.json"
+            }
+          ]
+        },
+        {
+          "id": "mu4",
+          "code": "MU.4",
+          "name": "Musizieren",
+          "kompetenzen": [
+            {
+              "id": "mu4a",
+              "code": "MU.4.A.1",
+              "name": "Instrumente",
+              "beschreibung": "Die Schülerinnen und Schüler können Instrumente spielen und ihren Körper als Instrument einsetzen.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/mu/mu4a.json"
+            },
+            {
+              "id": "mu4b",
+              "code": "MU.4.B.1",
+              "name": "Musikalisches Zusammenspiel",
+              "beschreibung": "Die Schülerinnen und Schüler können sich auf ein musikalisches Zusammenspiel konzentrieren und dabei auf andere hören.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu4b.json"
+            },
+            {
+              "id": "mu4c",
+              "code": "MU.4.C.1",
+              "name": "Praxis des musikalischen Wissens",
+              "beschreibung": "Die Schülerinnen und Schüler können Hör-, Sing- und Musiziererfahrungen mit theoretischen Grundlagen verbinden.",
+              "spieltyp": "memory",
+              "datendatei": "data/mu/mu4c.json"
+            }
+          ]
+        },
+        {
+          "id": "mu5",
+          "code": "MU.5",
+          "name": "Gestaltungsprozesse",
+          "kompetenzen": [
+            {
+              "id": "mu5a",
+              "code": "MU.5.A.1",
+              "name": "Experimentieren und Improvisieren",
+              "beschreibung": "Die Schülerinnen und Schüler können zu bestehender Musik und zu Themen musikalisch experimentieren und improvisieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu5a.json"
+            },
+            {
+              "id": "mu5b",
+              "code": "MU.5.B.1",
+              "name": "Klanggestaltung zu Bildern, Szenen, Texten",
+              "beschreibung": "Die Schülerinnen und Schüler können Musik allein oder in der Gruppe zu Themen und Bildern, Szenen und Geschichten entwickeln.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/mu/mu5b.json"
+            },
+            {
+              "id": "mu5c",
+              "code": "MU.5.C.1",
+              "name": "Gestaltungsprozesse",
+              "beschreibung": "Die Schülerinnen und Schüler können musikalische Ideen entwickeln und umsetzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/mu/mu5c.json"
+            }
+          ]
+        },
+        {
+          "id": "mu6",
+          "code": "MU.6",
+          "name": "Praxis des musikalischen Wissens",
+          "kompetenzen": [
+            {
+              "id": "mu6a",
+              "code": "MU.6.A.1",
+              "name": "Rhythmus, Melodie und Harmonie",
+              "beschreibung": "Die Schülerinnen und Schüler können Rhythmus, Melodie und Harmonie erkennen, benennen und verstehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/mu/mu6a.json"
+            },
+            {
+              "id": "mu6b",
+              "code": "MU.6.B.1",
+              "name": "Stimme, Instrumente, Ensemble und Orchester",
+              "beschreibung": "Die Schülerinnen und Schüler können die unterschiedlichen Stimmen, Instrumente und Instrumentengruppen erkennen, benennen und in ihren Eigenschaften beschreiben.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/mu/mu6b.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bg",
+      "name": "Bildnerisches Gestalten",
+      "kuerzel": "BG",
+      "farbe": "#E91E63",
+      "icon": "🎨",
+      "bereiche": [
+        {
+          "id": "bg1",
+          "code": "BG.1",
+          "name": "Wahrnehmung und Kommunikation",
+          "kompetenzen": [
+            {
+              "id": "bg1a1",
+              "code": "BG.1.A.1",
+              "name": "Vorstellungen aufbauen und weiterentwickeln",
+              "beschreibung": "Die Schülerinnen und Schüler können bildhaft anschauliche Vorstellungen aufbauen, weiterentwickeln und darüber diskutieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bg/bg1a1.json"
+            },
+            {
+              "id": "bg1a2",
+              "code": "BG.1.A.2",
+              "name": "Bilder wahrnehmen und reflektieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Bilder wahrnehmen, beobachten und darüber reflektieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bg/bg1a2.json"
+            },
+            {
+              "id": "bg1a3",
+              "code": "BG.1.A.3",
+              "name": "Ästhetische Urteile bilden",
+              "beschreibung": "Die Schülerinnen und Schüler können ästhetische Urteile bilden und begründen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bg/bg1a3.json"
+            },
+            {
+              "id": "bg1b1",
+              "code": "BG.1.B.1",
+              "name": "Prozesse dokumentieren und präsentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können bildnerische Prozesse und Produkte dokumentieren, präsentieren und darüber kommunizieren.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bg/bg1b1.json"
+            }
+          ]
+        },
+        {
+          "id": "bg2",
+          "code": "BG.2",
+          "name": "Prozesse und Produkte",
+          "kompetenzen": [
+            {
+              "id": "bg2a1",
+              "code": "BG.2.A.1",
+              "name": "Eigenständige Bildideen entwickeln",
+              "beschreibung": "Die Schülerinnen und Schüler können eigenständige Bildideen zu unterschiedlichen Situationen und Themen alleine oder in Gruppen entwickeln.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bg/bg2a1.json"
+            },
+            {
+              "id": "bg2a2",
+              "code": "BG.2.A.2",
+              "name": "Bildnerische Prozesse realisieren",
+              "beschreibung": "Die Schülerinnen und Schüler können eigenständig bildnerische Prozesse alleine oder in Gruppen realisieren und ihre Bildsprache erweitern.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/bg/bg2a2.json"
+            },
+            {
+              "id": "bg2b1",
+              "code": "BG.2.B.1",
+              "name": "Grundelemente gezielt nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können die Wirkung bildnerischer Grundelemente untersuchen und für ihre Bildidee nutzen.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bg/bg2b1.json"
+            },
+            {
+              "id": "bg2c1",
+              "code": "BG.2.C.1",
+              "name": "Verfahren für Bildideen nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können die Wirkung bildnerischer Verfahren untersuchen und für ihre Bildidee nutzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bg/bg2c1.json"
+            },
+            {
+              "id": "bg2c2",
+              "code": "BG.2.C.2",
+              "name": "Kunstorientierte Methoden anwenden",
+              "beschreibung": "Die Schülerinnen und Schüler können kunstorientierte Methoden anwenden.",
+              "spieltyp": "memory",
+              "datendatei": "data/bg/bg2c2.json"
+            },
+            {
+              "id": "bg2d1",
+              "code": "BG.2.D.1",
+              "name": "Materialien und Werkzeuge einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Eigenschaften und Wirkungen von Materialien und Werkzeugen erproben und im bildnerischen Prozess einsetzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bg/bg2d1.json"
+            }
+          ]
+        },
+        {
+          "id": "bg3",
+          "code": "BG.3",
+          "name": "Kontexte und Orientierung",
+          "kompetenzen": [
+            {
+              "id": "bg3a1",
+              "code": "BG.3.A.1",
+              "name": "Kunstwerke lesen und vergleichen",
+              "beschreibung": "Die Schülerinnen und Schüler können Kunstwerke aus verschiedenen Kulturen und Zeiten sowie Bilder aus dem Alltag lesen, einordnen und vergleichen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bg/bg3a1.json"
+            },
+            {
+              "id": "bg3b1",
+              "code": "BG.3.B.1",
+              "name": "Wirkung und Funktion erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler können Wirkung und Funktion von Kunstwerken und Bildern erkennen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bg/bg3b1.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ttg",
+      "name": "Textiles und Technisches Gestalten",
+      "kuerzel": "TTG",
+      "farbe": "#3F51B5",
+      "icon": "✂️",
+      "bereiche": [
+        {
+          "id": "ttg1",
+          "code": "TTG.1",
+          "name": "Wahrnehmung und Kommunikation",
+          "kompetenzen": [
+            {
+              "id": "ttg1a1",
+              "code": "TTG.1.A.1",
+              "name": "Spielerisch und forschend handeln",
+              "beschreibung": "Die Schülerinnen und Schüler können spielerisch und forschend handeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg1a1.json"
+            },
+            {
+              "id": "ttg1b1",
+              "code": "TTG.1.B.1",
+              "name": "Prozesse und Produkte begutachten",
+              "beschreibung": "Die Schülerinnen und Schüler können Gestaltungs- bzw. Designprozesse und Produkte begutachten und weiterentwickeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg1b1.json"
+            },
+            {
+              "id": "ttg1b2",
+              "code": "TTG.1.B.2",
+              "name": "Prozesse dokumentieren und praesentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können Gestaltungs- bzw. Designprozesse und Produkte dokumentieren und präsentieren.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/ttg/ttg1b2.json"
+            }
+          ]
+        },
+        {
+          "id": "ttg2",
+          "code": "TTG.2",
+          "name": "Prozesse und Produkte",
+          "kompetenzen": [
+            {
+              "id": "ttg2a1",
+              "code": "TTG.2.A.1",
+              "name": "Eigenstaendige Produktideen entwickeln",
+              "beschreibung": "Die Schülerinnen und Schüler können eigenständige Produktideen zu unterschiedlichen Themen alleine oder in Gruppen entwickeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg2a1.json"
+            },
+            {
+              "id": "ttg2a2",
+              "code": "TTG.2.A.2",
+              "name": "Textile und technische Loesungen entwerfen",
+              "beschreibung": "Die Schülerinnen und Schüler können textile und technische Problemstellungen erkennen, dazu Ideen entwickeln und Lösungen entwerfen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/ttg/ttg2a2.json"
+            },
+            {
+              "id": "ttg2a3",
+              "code": "TTG.2.A.3",
+              "name": "Experimente fuer Produktideen nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Experimente und Erkundungen zu Lern- und Arbeitsgegenständen durchführen und daraus eigene Produktideen entwickeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg2a3.json"
+            },
+            {
+              "id": "ttg2b1",
+              "code": "TTG.2.B.1",
+              "name": "Funktionen und Konstruktionen entwickeln",
+              "beschreibung": "Die Schülerinnen und Schüler können Funktionen verstehen und eigene Konstruktionen in den Themenfeldern Spiel/Freizeit, Mode/Bekleidung, Bau/Wohnbereich, Mechanik/Transport und Elektrizität/Energie entwickeln.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/ttg/ttg2b1.json"
+            },
+            {
+              "id": "ttg2c1",
+              "code": "TTG.2.C.1",
+              "name": "Gestaltungselemente bewusst einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können die Gestaltungselemente Material, Oberfläche, Form und Farbe bewusst einsetzen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/ttg/ttg2c1.json"
+            },
+            {
+              "id": "ttg2d1",
+              "code": "TTG.2.D.1",
+              "name": "Handwerkliche Verfahren ausfuehren",
+              "beschreibung": "Die Schülerinnen und Schüler können handwerkliche Verfahren ausführen und bewusst einsetzen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/ttg/ttg2d1.json"
+            },
+            {
+              "id": "ttg2e1",
+              "code": "TTG.2.E.1",
+              "name": "Materialien, Werkzeuge und Maschinen einsetzen",
+              "beschreibung": "Die Schülerinnen und Schüler kennen Materialien, Werkzeuge und Maschinen und können diese sachgerecht einsetzen.",
+              "spieltyp": "memory",
+              "datendatei": "data/ttg/ttg2e1.json"
+            }
+          ]
+        },
+        {
+          "id": "ttg3",
+          "code": "TTG.3",
+          "name": "Kontexte und Orientierung",
+          "kompetenzen": [
+            {
+              "id": "ttg3a1",
+              "code": "TTG.3.A.1",
+              "name": "Materialerfahrungen fuer Ausdruck nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Erfahrungen mit Bewegungen und Handlungen an Materialien und Objekten für den eigenen Ausdruck nutzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg3a1.json"
+            },
+            {
+              "id": "ttg3a2",
+              "code": "TTG.3.A.2",
+              "name": "Objekte als Ausdruckstraeger erkennen",
+              "beschreibung": "Die Schülerinnen und Schüler können Objekte als Ausdrucksträger erkennen und deren kulturelle oder historische Bedeutung einschätzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg3a2.json"
+            },
+            {
+              "id": "ttg3b1",
+              "code": "TTG.3.B.1",
+              "name": "Berufs- und Ausbildungsmoeglichkeiten erklaeren",
+              "beschreibung": "Die Schülerinnen und Schüler können Ausbildungs- und Berufsmöglichkeiten in Bezug auf Gestaltung und Technik erklären.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/ttg/ttg3b1.json"
+            },
+            {
+              "id": "ttg3b2",
+              "code": "TTG.3.B.2",
+              "name": "Produktionsweisen vergleichen",
+              "beschreibung": "Die Schülerinnen und Schüler können handwerkliche und industrielle Produktion vergleichen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg3b2.json"
+            },
+            {
+              "id": "ttg3b3",
+              "code": "TTG.3.B.3",
+              "name": "Herstellung, Gebrauch und Wiederverwertung beschreiben",
+              "beschreibung": "Die Schülerinnen und Schüler können Materialien und Produkte in Bezug auf Herstellung, Gebrauch und Entsorgung bzw. Wiederverwertung beschreiben.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/ttg/ttg3b3.json"
+            },
+            {
+              "id": "ttg3b4",
+              "code": "TTG.3.B.4",
+              "name": "Technische Entwicklungen einschaetzen",
+              "beschreibung": "Die Schülerinnen und Schüler können technische Entwicklungen und deren Auswirkungen auf Alltag und Gestaltung einschätzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/ttg/ttg3b4.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bs",
+      "name": "Bewegung und Sport",
+      "kuerzel": "BS",
+      "farbe": "#8BC34A",
+      "icon": "⚽",
+      "bereiche": [
+        {
+          "id": "bs1",
+          "code": "BS.1",
+          "name": "Laufen, Springen, Werfen",
+          "kompetenzen": [
+            {
+              "id": "bs1a",
+              "code": "BS.1.A.1",
+              "name": "Laufen",
+              "beschreibung": "Die Schülerinnen und Schüler können schnell, rhythmisch, über Hindernisse, lang und sich orientierend laufen. Sie kennen die leistungsbestimmenden Merkmale und wissen, wie sie ihre Laufleistungen verbessern können.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs1a.json"
+            },
+            {
+              "id": "bs1b",
+              "code": "BS.1.B.1",
+              "name": "Springen",
+              "beschreibung": "Die Schülerinnen und Schüler können vielseitig weit und hoch springen. Sie kennen die leistungsbestimmenden Merkmale und können ihre Leistung realistisch einschätzen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/bs/bs1b.json"
+            },
+            {
+              "id": "bs1c",
+              "code": "BS.1.C.1",
+              "name": "Werfen",
+              "beschreibung": "Die Schülerinnen und Schüler können Gegenstände weit werfen, stossen, schleudern und kennen die leistungsbestimmenden Merkmale.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bs/bs1c.json"
+            }
+          ]
+        },
+        {
+          "id": "bs2",
+          "code": "BS.2",
+          "name": "Bewegen an Geräten",
+          "kompetenzen": [
+            {
+              "id": "bs2a",
+              "code": "BS.2.A.1",
+              "name": "Grundbewegungen an Geräten",
+              "beschreibung": "Die Schülerinnen und Schüler können Grundbewegungen wie Balancieren, Rollen-Drehen, Schaukeln-Schwingen, Springen, Stützen und Klettern verantwortungsbewusst ausführen. Sie kennen Qualitätsmerkmale und können einander helfen und sichern.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bs/bs2a.json"
+            },
+            {
+              "id": "bs2b",
+              "code": "BS.2.B.1",
+              "name": "Beweglichkeit, Kraft und Körperspannung",
+              "beschreibung": "Die Schülerinnen und Schüler können Körperspannung aufbauen, ihren Körper stützen und die Gelenke in funktionellem Umfang bewegen. Sie wissen, wie sie Beweglichkeit und Kraft trainieren können.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs2b.json"
+            }
+          ]
+        },
+        {
+          "id": "bs3",
+          "code": "BS.3",
+          "name": "Darstellen und Tanzen",
+          "kompetenzen": [
+            {
+              "id": "bs3a",
+              "code": "BS.3.A.1",
+              "name": "Körperwahrnehmung",
+              "beschreibung": "Die Schülerinnen und Schüler können ihren Körper wahrnehmen, gezielt steuern und sich in der Bewegungsausführung korrigieren.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs3a.json"
+            },
+            {
+              "id": "bs3b",
+              "code": "BS.3.B.1",
+              "name": "Darstellen und Gestalten",
+              "beschreibung": "Die Schülerinnen und Schüler können sich mit dem Körper und mit Materialien ausdrücken, eine Bewegungsfolge choreografieren und präsentieren.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/bs/bs3b.json"
+            },
+            {
+              "id": "bs3c",
+              "code": "BS.3.C.1",
+              "name": "Tanzen",
+              "beschreibung": "Die Schülerinnen und Schüler können Bewegungsmuster erkennen, Bewegungsfolgen und Tänze zu Musik rhythmisch gestalten und wiedergeben. Sie gehen respektvoll miteinander um.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bs/bs3c.json"
+            }
+          ]
+        },
+        {
+          "id": "bs4",
+          "code": "BS.4",
+          "name": "Spielen",
+          "kompetenzen": [
+            {
+              "id": "bs4a",
+              "code": "BS.4.A.1",
+              "name": "Bewegungsspiele",
+              "beschreibung": "Die Schülerinnen und Schüler können Spiele spielen, weiterentwickeln und erfinden, indem sie gemeinsam Vereinbarungen treffen und einhalten.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bs/bs4a.json"
+            },
+            {
+              "id": "bs4b",
+              "code": "BS.4.B.1",
+              "name": "Sportspiele",
+              "beschreibung": "Die Schülerinnen und Schüler können technische und taktische Handlungsmuster in verschiedenen Sportspielen anwenden. Sie kennen die Regeln, können selbstständig und fair spielen und Emotionen reflektieren.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bs/bs4b.json"
+            },
+            {
+              "id": "bs4c",
+              "code": "BS.4.C.1",
+              "name": "Kampfspiele",
+              "beschreibung": "Die Schülerinnen und Schüler können gewandt und mit Strategie fair kämpfen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs4c.json"
+            }
+          ]
+        },
+        {
+          "id": "bs5",
+          "code": "BS.5",
+          "name": "Gleiten, Rollen, Fahren",
+          "kompetenzen": [
+            {
+              "id": "bs5a",
+              "code": "BS.5.1",
+              "name": "Gleiten, Rollen, Fahren",
+              "beschreibung": "Die Schülerinnen und Schüler können verantwortungsbewusst auf verschiedenen Unterlagen gleiten, rollen und fahren.",
+              "spieltyp": "zuordnung-bild",
+              "datendatei": "data/bs/bs5a.json"
+            }
+          ]
+        },
+        {
+          "id": "bs6",
+          "code": "BS.6",
+          "name": "Bewegen im Wasser",
+          "kompetenzen": [
+            {
+              "id": "bs6a",
+              "code": "BS.6.A.1",
+              "name": "Schwimmen",
+              "beschreibung": "Die Schülerinnen und Schüler können sicher schwimmen. Sie kennen technische Merkmale verschiedener Schwimmtechniken und wenden sie an.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs6a.json"
+            },
+            {
+              "id": "bs6b",
+              "code": "BS.6.B.1",
+              "name": "Ins Wasser springen und Tauchen",
+              "beschreibung": "Die Schülerinnen und Schüler können fuss- und kopfwärts ins Wasser springen und tauchen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/bs/bs6b.json"
+            },
+            {
+              "id": "bs6c",
+              "code": "BS.6.C.1",
+              "name": "Sicherheit im Wasser",
+              "beschreibung": "Die Schülerinnen und Schüler können eine Situation im, am und auf dem Wasser bezüglich Sicherheit einschätzen und in Gefahrensituationen verantwortungsbewusst handeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bs/bs6c.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo",
+      "name": "Berufliche Orientierung",
+      "kuerzel": "BO",
+      "farbe": "#00BCD4",
+      "icon": "💼",
+      "bereiche": [
+        {
+          "id": "bo1",
+          "code": "BO.1",
+          "name": "Persönlichkeitsprofil",
+          "kompetenzen": [
+            {
+              "id": "bo1a",
+              "code": "BO.1.1",
+              "name": "Persönlichkeitsprofil beschreiben und nutzen",
+              "beschreibung": "Die Schülerinnen und Schüler können ihr Persönlichkeitsprofil beschreiben und nutzen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bo/bo1a.json"
+            }
+          ]
+        },
+        {
+          "id": "bo2",
+          "code": "BO.2",
+          "name": "Bildungswege, Berufs- und Arbeitswelt",
+          "kompetenzen": [
+            {
+              "id": "bo2a",
+              "code": "BO.2.1",
+              "name": "Überblick über das schweizerische Bildungssystem",
+              "beschreibung": "Die Schülerinnen und Schüler können sich mit Hilfe von Informations- und Beratungsquellen einen Überblick über das schweizerische Bildungssystem verschaffen.",
+              "spieltyp": "zuordnung",
+              "datendatei": "data/bo/bo2a.json"
+            },
+            {
+              "id": "bo2b",
+              "code": "BO.2.2",
+              "name": "Bezug zur Arbeitswelt herstellen",
+              "beschreibung": "Die Schülerinnen und Schüler können einen persönlichen Bezug zur Arbeitswelt herstellen und Schlüsse für ihre Bildungs- und Berufswahl ziehen.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bo/bo2b.json"
+            }
+          ]
+        },
+        {
+          "id": "bo3",
+          "code": "BO.3",
+          "name": "Entscheidung und Umgang mit Schwierigkeiten",
+          "kompetenzen": [
+            {
+              "id": "bo3a",
+              "code": "BO.3.1",
+              "name": "Prioritäten setzen und Entscheidungen treffen",
+              "beschreibung": "Die Schülerinnen und Schüler können Prioritäten setzen, sich entscheiden und zugleich gegenüber Alternativen offen bleiben.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bo/bo3a.json"
+            },
+            {
+              "id": "bo3b",
+              "code": "BO.3.2",
+              "name": "Herausforderungen erkennen und Lösungen entwickeln",
+              "beschreibung": "Die Schülerinnen und Schüler können mögliche Herausforderungen im Bildungs- und Berufswahlprozess erkennen, Frustrationen benennen, eigene Ressourcen miteinbeziehen und Lösungsmöglichkeiten entwickeln.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bo/bo3b.json"
+            }
+          ]
+        },
+        {
+          "id": "bo4",
+          "code": "BO.4",
+          "name": "Planung, Umsetzung und Dokumentation",
+          "kompetenzen": [
+            {
+              "id": "bo4a",
+              "code": "BO.4.1",
+              "name": "Ziele setzen und Bewerbungsprozess planen",
+              "beschreibung": "Die Schülerinnen und Schüler können im Rahmen des Bildungs- und Berufswahlentscheids Ziele setzen, den konkreten Bewerbungsprozess planen und nach Bedarf neue Ziele setzen sowie Alternativen planen.",
+              "spieltyp": "sortieren",
+              "datendatei": "data/bo/bo4a.json"
+            },
+            {
+              "id": "bo4b",
+              "code": "BO.4.2",
+              "name": "Geplante Schritte umsetzen und Übergang vorbereiten",
+              "beschreibung": "Die Schülerinnen und Schüler können ihre geplanten Schritte im Hinblick auf ihre Ausbildungsziele umsetzen und den Übergang vorbereiten.",
+              "spieltyp": "quiz",
+              "datendatei": "data/bo/bo4b.json"
+            },
+            {
+              "id": "bo4c",
+              "code": "BO.4.3",
+              "name": "Berufswahlprozess dokumentieren",
+              "beschreibung": "Die Schülerinnen und Schüler können ihren Berufswahlprozess nachvollziehbar dokumentieren und daraus ihre Bewerbungsunterlagen zusammenstellen.",
+              "spieltyp": "memory",
+              "datendatei": "data/bo/bo4c.json"
             }
           ]
         }

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de6c1",
+  "kompetenz_code": "D.6.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist eine Metapher?",
+        "optionen": [
+          "Eine genaue Zeitangabe",
+          "Ein sprachliches Bild mit übertragener Bedeutung",
+          "Ein sachliches Diagramm",
+          "Ein Kapitel ohne Inhalt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Metaphern übertragen Bedeutung und erzeugen Wirkung durch ein Bild."
+      },
+      {
+        "frage": "Welche Aussage ist eher wörtlich als übertragen gemeint?",
+        "optionen": [
+          "\"Sie hat ein Herz aus Stein.\"",
+          "\"Der Wind sang durch die Bäume.\"",
+          "\"Der Zug fährt um 7.32 Uhr ab.\"",
+          "\"Seine Worte waren Gift.\""
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Zugabfahrt ist eine direkte, wörtliche Aussage."
+      },
+      {
+        "frage": "Warum kann die Erzählperspektive die Wirkung eines Textes stark verändern?",
+        "optionen": [
+          "Weil Perspektive bestimmt, was Lesende erfahren und wie nah sie Figuren kommen",
+          "Weil dadurch nur die Seitenzahl wächst",
+          "Weil Perspektive nur in Sachtexten vorkommt",
+          "Weil alle Figuren dann gleich sprechen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Perspektive steuert Informationen, Nähe und Blickwinkel."
+      },
+      {
+        "frage": "Welches Merkmal passt besonders gut zur Gattung Gedicht?",
+        "optionen": [
+          "Tabellen und Quellenangaben",
+          "Rhythmus, Klang oder verdichtete Sprache",
+          "Eine Schritt-für-Schritt-Anleitung",
+          "Ausschliesslich sachliche Definitionen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gedichte arbeiten oft mit Klang, Rhythmus und verdichteter Sprache."
+      },
+      {
+        "frage": "Eine Figur sagt: \"Mir geht es gut\", obwohl sie weint. Welche Wirkung entsteht?",
+        "optionen": [
+          "Eine Spannung zwischen Gesagtem und tatsächlichem Gefühl",
+          "Eine mathematische Erklärung",
+          "Eine genaue geografische Beschreibung",
+          "Gar keine"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Unterschied zwischen Aussage und Situation erzeugt Bedeutung und Wirkung."
+      },
+      {
+        "frage": "Was hilft, ein unbekanntes literarisches Genre zu erschliessen?",
+        "optionen": [
+          "Auf typische Merkmale von Form, Sprache und Inhalt achten",
+          "Nur den Preis des Buches ansehen",
+          "Nur das Erscheinungsjahr merken",
+          "Das Cover ignorieren und sonst nichts lesen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Genres erkennt man an wiederkehrenden Merkmalen."
+      },
+      {
+        "frage": "Warum sind Vergleiche und Metaphern in literarischen Texten wichtig?",
+        "optionen": [
+          "Weil sie einen Text immer länger machen",
+          "Weil sie Vorstellungen, Stimmungen und Wirkungen erzeugen",
+          "Weil sie nur schwere Wörter ersetzen",
+          "Weil sie ausschliesslich in Theaterstücken vorkommen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sprachliche Bilder gestalten literarische Texte bewusst und ästhetisch."
+      },
+      {
+        "frage": "Welche Aussage zeigt Verständnis für literarische Wirkung?",
+        "optionen": [
+          "\"Die kurze, abgehackte Sprache macht die Szene hektisch.\"",
+          "\"Der Text hat Absätze, also ist er literarisch.\"",
+          "\"Ein Roman wirkt immer gleich wie ein Bericht.\"",
+          "\"Figurenperspektiven sind unwichtig.\""
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wirkung entsteht durch bewusste Gestaltung von Sprache und Form."
+      }
+    ]
+  }
+}

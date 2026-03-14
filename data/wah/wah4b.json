@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "wah4b",
+  "kompetenz_code": "WAH.4.2",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Essgewohnheiten werden durch Familie, Freunde und {Kultur} mitgepr\u00e4gt.",
+        "hinweise": ["gesellschaftlicher Hintergrund"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Mit Sehen, Riechen und Schmecken pr\u00fcft man die {sensorischen} Eigenschaften eines Lebensmittels.",
+        "hinweise": ["mit den Sinnen wahrgenommen"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "An heissen Tagen ist {Wasser} meist das beste Getr\u00e4nk zum Durstl\u00f6schen.",
+        "hinweise": ["empfohlenes Getr\u00e4nk ohne Zucker"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Vor dem Sport eignet sich oft eine leichte {Zwischenmahlzeit} besser als ein sehr schweres Essen.",
+        "hinweise": ["kleiner Snack"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Gemeinsame Mahlzeiten k\u00f6nnen das soziale {Zusammenleben} st\u00e4rken.",
+        "hinweise": ["Miteinander im Alltag"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Zuckerhaltige Getr\u00e4nke sollten nicht die wichtigste Quelle f\u00fcr {Fl\u00fcssigkeit} sein.",
+        "hinweise": ["was der K\u00f6rper zum Trinken braucht"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Der Geruch eines Lebensmittels kann ein Hinweis auf seine {Frische} sein.",
+        "hinweise": ["Gegenteil von verdorben"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      },
+      {
+        "text": "Situation, Aktivit\u00e4t und Wetter beeinflussen, was und wie viel wir {trinken}.",
+        "hinweise": ["Verb zum Fl\u00fcssigkeitskonsum"],
+        "anweisung": "F\u00fclle die L\u00fccken zu Essen, Trinken und Einfl\u00fcssen auf die Ern\u00e4hrung."
+      }
+    ]
+  }
+}

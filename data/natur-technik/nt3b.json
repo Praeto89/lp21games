@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt3b",
+  "kompetenz_code": "NT.3.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Nach welcher Gr?sse ist das moderne Periodensystem der Elemente geordnet?",
+        "optionen": [
+          "Nach der Atommasse allein",
+          "Nach der Ordnungszahl",
+          "Nach der Farbe der Stoffe",
+          "Nach der Dichte der Metalle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Entscheidend ist die Ordnungszahl, also die Zahl der Protonen im Atomkern."
+      },
+      {
+        "frage": "Wodurch wird festgelegt, zu welchem Element ein Atom geh?rt?",
+        "optionen": [
+          "Durch die Zahl der Protonen",
+          "Durch die Gr?sse der Elektronenh?lle",
+          "Durch die Form des Gef?sses",
+          "Durch die Temperatur im Raum"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Protonenzahl bestimmt das Element eindeutig."
+      },
+      {
+        "frage": "Welche Aussage ?ber Neutronen stimmt?",
+        "optionen": [
+          "Sie tragen eine positive Ladung",
+          "Sie sind elektrisch neutral",
+          "Sie bewegen sich nur ausserhalb des Kerns",
+          "Sie kommen nur in Metallen vor"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Neutronen sind ungeladen und befinden sich zusammen mit Protonen im Kern."
+      },
+      {
+        "frage": "Welche Elektronen sind f?r viele chemische Reaktionen besonders wichtig?",
+        "optionen": [
+          "Die Elektronen der innersten Schale",
+          "Die Elektronen der ?ussersten Schale",
+          "Nur freie Elektronen in Luft",
+          "Elektronen spielen keine Rolle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Aussenelektronen bestimmen oft, wie Atome Bindungen eingehen."
+      },
+      {
+        "frage": "Was geschieht bei einer chemischen Reaktion mit den Atomen?",
+        "optionen": [
+          "Sie verschwinden",
+          "Sie werden neu angeordnet",
+          "Sie werden zu Licht",
+          "Sie ?ndern ihre Protonenzahl"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Atome bleiben erhalten, werden aber anders verbunden oder angeordnet."
+      },
+      {
+        "frage": "Woran erkennt man in einem Energiediagramm eine exotherme Reaktion?",
+        "optionen": [
+          "Die Produkte liegen energetisch tiefer als die Ausgangsstoffe",
+          "Es gibt gar keine Aktivierungsenergie",
+          "Die Reaktion braucht immer Strom",
+          "Die Achsen fehlen vollst?ndig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei exothermen Reaktionen wird Energie an die Umgebung abgegeben."
+      },
+      {
+        "frage": "Warum sind Atommodelle trotz ihrer Grenzen n?tzlich?",
+        "optionen": [
+          "Weil sie unsichtbare Teilchen vereinfacht darstellen",
+          "Weil sie echte Fotos von Atomen sind",
+          "Weil man ohne sie keine Stoffe ordnen kann",
+          "Weil sie immer endg?ltig korrekt sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Modelle helfen beim Erkl?ren und Vorhersagen, auch wenn sie vereinfacht sind."
+      },
+      {
+        "frage": "Warum bleibt bei einer chemischen Reaktion die Gesamtmasse in einem geschlossenen System erhalten?",
+        "optionen": [
+          "Weil Atome nicht aus dem Nichts entstehen oder verschwinden",
+          "Weil jede Reaktion leichter wird",
+          "Weil nur Wasser reagiert",
+          "Weil die Temperatur gleich bleibt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Stoffe ?ndern sich, aber die beteiligten Atome bleiben insgesamt erhalten."
+      }
+    ]
+  }
+}

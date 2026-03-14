@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg2a3",
+  "kompetenz_code": "TTG.2.A.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wann ist ein Experiment in TTG besonders hilfreich?",
+        "optionen": [
+          "Wenn nur geraten wird",
+          "Wenn eine Eigenschaft oder Funktion gezielt untersucht wird",
+          "Wenn das Resultat schon feststeht",
+          "Wenn man keine Beobachtungen notiert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Experimente helfen, wenn eine konkrete Frage zu Material, Verbindung, Form oder Funktion untersucht wird."
+      },
+      {
+        "frage": "Was ist bei einem fairen Materialvergleich wichtig?",
+        "optionen": [
+          "Nur eines der Materialien zu testen",
+          "Moeglichst gleiche Bedingungen zu waehlen",
+          "Nur auf die Farbe zu achten",
+          "Das teuerste Material zu bevorzugen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Vergleiche sind nur aussagekraeftig, wenn Bedingungen wie Groesse, Belastung oder Werkzeug moeglichst gleich sind."
+      },
+      {
+        "frage": "Warum wird bei einem Versuch oft nur ein Faktor veraendert?",
+        "optionen": [
+          "Damit man erkennen kann, was die Veraenderung bewirkt",
+          "Damit der Versuch laenger dauert",
+          "Damit die Klasse mehr Material verbraucht",
+          "Damit keine Skizze noetig ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wenn mehrere Faktoren gleichzeitig wechseln, ist kaum erkennbar, wodurch das Resultat entsteht."
+      },
+      {
+        "frage": "Welche Notiz hilft am meisten fuer spaetere Produktideen?",
+        "optionen": [
+          "Material blau",
+          "Filz daempft gut, saugt aber Wasser auf",
+          "Heute TTG",
+          "Material war auf dem Tisch"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beobachtungen sind wertvoll, wenn sie Eigenschaften oder Wirkungen konkret beschreiben."
+      },
+      {
+        "frage": "Wofuer eignet sich ein einfacher Test mit verschiedenen Verschlussarten?",
+        "optionen": [
+          "Um nur die schoenste Farbe zu finden",
+          "Um eine funktionale Loesung fuer ein Produkt zu begruenden",
+          "Um Theorie zu vermeiden",
+          "Um das Endprodukt zu ersetzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Erkundungen zeigen, welche Loesung im Alltag funktioniert und warum sie geeignet ist."
+      },
+      {
+        "frage": "Was bedeutet es, Ergebnisse fuer eine Produktidee zu nutzen?",
+        "optionen": [
+          "Die Resultate ignorieren",
+          "Eigenschaften in den Entwurf uebernehmen oder anpassen",
+          "Nur den Versuch wiederholen",
+          "Ein voellig anderes Thema waehlen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ergebnisse aus Tests beeinflussen Form, Materialwahl, Verbindung und Funktion des Produkts."
+      },
+      {
+        "frage": "Welche Frage passt zu einer Erkundung von Verbindungen?",
+        "optionen": [
+          "Welche Verbindung haelt Zug am besten stand?",
+          "Wer sitzt heute neben wem?",
+          "Welche Musik laeuft im Raum?",
+          "Wie heisst das Produkt spaeter?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Erkundungen beziehen sich auf konkrete Probleme wie Haltbarkeit, Stabilitaet oder Bedienbarkeit."
+      },
+      {
+        "frage": "Warum sind auch misslungene Tests nuetzlich?",
+        "optionen": [
+          "Sie zeigen, welche Wege weniger geeignet sind",
+          "Sie sind nur fuer die Note wichtig",
+          "Sie ersetzen jede Rueckmeldung",
+          "Sie bedeuten immer das Ende des Projekts"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Auch nicht funktionierende Versuche helfen, bessere Entscheidungen zu treffen."
+      },
+      {
+        "frage": "Welches Beispiel nutzt Erkundung sinnvoll fuer eine Produktidee?",
+        "optionen": [
+          "Mehrere Oberflaechen pruefen, bevor ein Griff gestaltet wird",
+          "Ein Produkt blind kopieren",
+          "Nur eine Endzeichnung ohne Test anfertigen",
+          "Ein Material zufaellig waehlen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Durch Testen von Oberflaechen laesst sich begruenden, welche Loesung fuer den Griff geeignet ist."
+      },
+      {
+        "frage": "Was ist das Ziel von Experimenten im Designprozess?",
+        "optionen": [
+          "Das Thema moeglichst unklar zu halten",
+          "Begruendete Entscheidungen fuer die weitere Entwicklung zu treffen",
+          "Nur moeglichst viele Proben zu produzieren",
+          "Jede Planung zu vermeiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Experimente sollen Entscheidungen stutzen, nicht nur beschaeftigen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "en5d1",
+  "kompetenz_code": "FS1E.5.D.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "My sister {doesn't like} spicy food.",
+        "hinweise": ["negative present simple"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "We {were waiting} at the bus stop when it started to rain.",
+        "hinweise": ["past continuous"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "If you need help, I {will explain} the task again.",
+        "hinweise": ["future with will"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "She has lived here {since} 2022.",
+        "hinweise": ["time marker"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "There {are} too many books on the desk.",
+        "hinweise": ["verb"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "I {have never seen} that film before.",
+        "hinweise": ["present perfect"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "You {mustn't} use your phone during the test.",
+        "hinweise": ["prohibition"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      },
+      {
+        "text": "The cake was made {by} my grandfather.",
+        "hinweise": ["preposition"],
+        "anweisung": "Ergänze die passende grammatische Form."
+      }
+    ]
+  }
+}

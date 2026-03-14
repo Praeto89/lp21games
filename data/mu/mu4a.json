@@ -1,0 +1,65 @@
+{
+  "kompetenz_id": "mu4a",
+  "kompetenz_code": "MU.4.A.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "anschlagen",
+      "streichen",
+      "zupfen",
+      "blasen"
+    ],
+    "elemente": [
+      {
+        "text": "Cajón",
+        "emoji": "🥁",
+        "kategorie": 0
+      },
+      {
+        "text": "Klavier",
+        "emoji": "🎹",
+        "kategorie": 0
+      },
+      {
+        "text": "Xylofon",
+        "emoji": "🎵",
+        "kategorie": 0
+      },
+      {
+        "text": "Geige",
+        "emoji": "🎻",
+        "kategorie": 1
+      },
+      {
+        "text": "Cello",
+        "emoji": "🎻",
+        "kategorie": 1
+      },
+      {
+        "text": "Gitarre",
+        "emoji": "🎸",
+        "kategorie": 2
+      },
+      {
+        "text": "Ukulele",
+        "emoji": "🎸",
+        "kategorie": 2
+      },
+      {
+        "text": "Trompete",
+        "emoji": "🎺",
+        "kategorie": 3
+      },
+      {
+        "text": "Blockflöte",
+        "emoji": "🎶",
+        "kategorie": 3
+      },
+      {
+        "text": "Mundharmonika",
+        "emoji": "🎵",
+        "kategorie": 3
+      }
+    ]
+  }
+}

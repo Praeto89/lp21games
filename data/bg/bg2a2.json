@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "bg2a2",
+  "kompetenz_code": "BG.2.A.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte für eine Collage zum Thema 'Stadtgeräusche'.",
+        "elemente": [
+          "Bildideen und passende Materialien sammeln",
+          "Ausschnitte auswählen und unterschiedliche Anordnungen testen",
+          "Die überzeugendste Komposition fixieren",
+          "Das Ergebnis überprüfen und bei Bedarf ergänzen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte für einen Linoldruck.",
+        "elemente": [
+          "Das Motiv planen und spiegelverkehrt übertragen",
+          "Druckplatte gezielt schneiden",
+          "Farbe aufwalzen und Probedruck machen",
+          "Gelungene Drucke auswählen und präsentieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Prozess für ein gezeichnetes Porträt.",
+        "elemente": [
+          "Proportionen locker vorzeichnen",
+          "Licht und Schatten grob anlegen",
+          "Details und Übergänge ausarbeiten",
+          "Wirkung prüfen und Korrekturen vornehmen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für eine Tonfigur.",
+        "elemente": [
+          "Körperhaltung und Grundform planen",
+          "Volumen aufbauen und stabilisieren",
+          "Details und Oberflächen gestalten",
+          "Trocknen lassen und das Ergebnis reflektieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte für eine fotografische Bildserie.",
+        "elemente": [
+          "Bildidee, Rollen und Schauplatz festlegen",
+          "Verschiedene Aufnahmen ausprobieren",
+          "Die aussagekräftigsten Bilder auswählen und ordnen",
+          "Serie präsentieren und Wirkung besprechen"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Prozess für ein Informationsplakat.",
+        "elemente": [
+          "Botschaft und Zielgruppe klären",
+          "Layoutvarianten skizzieren",
+          "Endfassung mit Farbe, Schrift und Bild umsetzen",
+          "Lesbarkeit und Wirkung anhand von Feedback überarbeiten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für ein konstruktives Objekt aus Karton.",
+        "elemente": [
+          "Formidee und Stabilität planen",
+          "Teile zuschneiden und Steck- oder Klebeverbindungen testen",
+          "Objekt sauber zusammenbauen",
+          "Standfestigkeit und Aussage überprüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte für eine Stop-Motion-Sequenz.",
+        "elemente": [
+          "Kurze Handlung und Figuren entwerfen",
+          "Szene aufbauen und Bild für Bild fotografieren",
+          "Aufnahmen in der richtigen Reihenfolge montieren",
+          "Tempo, Übergänge und Wirkung kontrollieren"
+        ]
+      }
+    ]
+  }
+}

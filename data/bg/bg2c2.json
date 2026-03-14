@@ -1,0 +1,41 @@
+{
+  "kompetenz_id": "bg2c2",
+  "kompetenz_code": "BG.2.C.2",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      {
+        "a": "Vergrößern",
+        "b": "Ein Detail wird dominant und erhält neue Bedeutung"
+      },
+      {
+        "a": "Verkleinern",
+        "b": "Ein Motiv wirkt fern, fragil oder spielzeughaft"
+      },
+      {
+        "a": "Ausschnitt wählen",
+        "b": "Der Blick wird bewusst gelenkt"
+      },
+      {
+        "a": "Verfremden",
+        "b": "Bekanntes erscheint ungewohnt"
+      },
+      {
+        "a": "Schichten",
+        "b": "Mehrere Bildebenen überlagern sich"
+      },
+      {
+        "a": "Wiederholen",
+        "b": "Rhythmus oder Muster entsteht"
+      },
+      {
+        "a": "Umdeuten",
+        "b": "Ein Alltagsgegenstand bekommt eine neue Funktion"
+      },
+      {
+        "a": "Spiegeln",
+        "b": "Symmetrie und irritierende Dopplungen entstehen"
+      }
+    ]
+  }
+}

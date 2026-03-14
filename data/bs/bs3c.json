@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs3c",
+  "kompetenz_code": "BS.3.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Rhythmus und Musik", "Tanzfolge gestalten", "Zusammen tanzen", "Respektvoll handeln"],
+    "elemente": [
+      { "text": "Im 8er-Takt mitzählen", "kategorie": 0 },
+      { "text": "Auf einen deutlichen Beat reagieren", "kategorie": 0 },
+      { "text": "Eine Schrittfolge wiederholen und sicher merken", "kategorie": 1 },
+      { "text": "Einen Raumweg in die Choreografie einbauen", "kategorie": 1 },
+      { "text": "Mit einer Partnerin oder einem Partner gleichzeitig starten", "kategorie": 2 },
+      { "text": "In einer Formation Abstände einhalten", "kategorie": 2 },
+      { "text": "Beim Tanzen niemanden auslachen", "kategorie": 3 },
+      { "text": "Unterschiedliche Tanzstile wertschätzen", "kategorie": 3 },
+      { "text": "Musikalische Akzente mit Bewegung betonen", "kategorie": 0 },
+      { "text": "Übergänge zwischen zwei Tanzteilen planen", "kategorie": 1 },
+      { "text": "Bei Partnerwechseln Blickkontakt aufnehmen", "kategorie": 2 },
+      { "text": "Rückmeldungen freundlich und konkret geben", "kategorie": 3 }
+    ]
+  }
+}

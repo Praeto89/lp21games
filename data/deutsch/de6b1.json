@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "de6b1",
+  "kompetenz_code": "D.6.B.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "Astrid Lindgren", "b": "Pippi Langstrumpf" },
+      { "a": "Cornelia Funke", "b": "Tintenherz" },
+      { "a": "Erich Kästner", "b": "Emil und die Detektive" },
+      { "a": "Michael Ende", "b": "Momo" },
+      { "a": "Franz Hohler", "b": "Tschipo" },
+      { "a": "Antoine de Saint-Exupéry", "b": "Der kleine Prinz" },
+      { "a": "J.K. Rowling", "b": "Harry Potter und der Stein der Weisen" },
+      { "a": "Mark Twain", "b": "Die Abenteuer des Tom Sawyer" }
+    ]
+  }
+}

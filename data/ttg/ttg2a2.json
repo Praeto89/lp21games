@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ttg2a2",
+  "kompetenz_code": "TTG.2.A.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte, um eine rutschfeste Handyhuelle zu entwickeln.",
+        "elemente": [
+          "Problem und Anforderungen klaeren",
+          "Materialien und Formen skizzieren",
+          "Proben testen und vergleichen",
+          "Passende Loesung ausarbeiten"
+        ]
+      },
+      {
+        "anweisung": "Wie gehst du bei einem wackeligen Smartphone-Staender vor?",
+        "elemente": [
+          "Ursache des Wackelns beobachten",
+          "Mehrere Konstruktionsideen entwerfen",
+          "Modelle testen",
+          "Stabilste Variante weiterentwickeln"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Entwicklung einer Tasche mit sicherem Verschluss.",
+        "elemente": [
+          "Nutzungsproblem beschreiben",
+          "Verschlussarten sammeln",
+          "Verschluesse praktisch pruefen",
+          "Geeignete Loesung in den Entwurf uebernehmen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte fuer eine transportfaehige Murmelbahn.",
+        "elemente": [
+          "Bedingungen fuer Transport und Spiel festlegen",
+          "Konstruktionsideen mit Skizzen planen",
+          "Verbindungen und Halt testen",
+          "Die beste Bauweise umsetzen"
+        ]
+      },
+      {
+        "anweisung": "Wie entsteht eine loesungsorientierte Idee fuer einen Schluesselanhaenger mit Reflektor?",
+        "elemente": [
+          "Sichtbarkeitsproblem erkennen",
+          "Moegliche Materialien und Befestigungen sammeln",
+          "Formen und Befestigung testen",
+          "Entwurf fuer die Herstellung festlegen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um eine Kabelordnung fuer den Schreibtisch zu entwickeln.",
+        "elemente": [
+          "Chaos und Bedarf analysieren",
+          "Moegliche Halterungen entwerfen",
+          "Groesse und Material pruefen",
+          "Praktische Loesung auswaehlen"
+        ]
+      },
+      {
+        "anweisung": "Wie entwickelst du eine textile Loesung fuer ein Sitzkissen, das nicht verrutscht?",
+        "elemente": [
+          "Nutzungssituation beobachten",
+          "Ideen fuer Form und Befestigung sammeln",
+          "Materialien und Unterseiten testen",
+          "Geeignete Variante naeher ausarbeiten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Entwicklung eines Kartenetuis, das schnell geoeffnet werden kann.",
+        "elemente": [
+          "Anforderungen an Zugriff und Schutz festhalten",
+          "Verschiedene Oeffnungsprinzipien skizzieren",
+          "Prototypen im Gebrauch testen",
+          "Beste Loesung verfeinern"
+        ]
+      }
+    ]
+  }
+}

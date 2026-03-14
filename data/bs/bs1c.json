@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs1c",
+  "kompetenz_code": "BS.1.C.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": ["Weitwurf", "Hochwurf", "Zielwurf", "Stossen oder Schleudern"],
+    "elemente": [
+      { "text": "Schlagball möglichst weit ins Feld werfen", "emoji": "🥎", "kategorie": 0 },
+      { "text": "Tennisball hochwerfen und sicher wieder fangen", "emoji": "🎾", "kategorie": 1 },
+      { "text": "Beanbag in einen Reifen treffen", "emoji": "🎯", "kategorie": 2 },
+      { "text": "Medizinball als Bruststoss nach vorne drücken", "emoji": "💪", "kategorie": 3 },
+      { "text": "Wurfstab möglichst weit in die Zone werfen", "emoji": "🥏", "kategorie": 0 },
+      { "text": "Ballon steil hochwerfen und unter dem Ball klatschen", "emoji": "🎈", "kategorie": 1 },
+      { "text": "Softball auf eine markierte Kiste werfen", "emoji": "📦", "kategorie": 2 },
+      { "text": "Kugel aus der Schulterposition stossen", "emoji": "⚫", "kategorie": 3 },
+      { "text": "Frisbee über eine grosse Distanz gleiten lassen", "emoji": "🥏", "kategorie": 0 },
+      { "text": "Basketball mit hohem Bogen in einen hohen Kasten werfen", "emoji": "🏀", "kategorie": 1 },
+      { "text": "Unihockeyball in eine kleine Toröffnung spielen", "emoji": "🥅", "kategorie": 2 },
+      { "text": "Schleuderball mit Rotationsbewegung beschleunigen", "emoji": "🌀", "kategorie": 3 }
+    ]
+  }
+}

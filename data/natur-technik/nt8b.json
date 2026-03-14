@@ -1,0 +1,46 @@
+{
+  "kompetenz_id": "nt8b",
+  "kompetenz_code": "NT.8.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Phasen des Zellzyklus in die richtige Reihenfolge.",
+        "elemente": [
+          "G1-Phase: Zelle wächst und erfüllt ihre Funktion",
+          "S-Phase: DNS wird verdoppelt (Replikation)",
+          "G2-Phase: Zelle bereitet sich auf die Teilung vor",
+          "Prophase: Chromosomen werden sichtbar, Kernhülle löst sich auf",
+          "Metaphase: Chromosomen ordnen sich in der Zellmitte an",
+          "Anaphase: Chromosomen werden zu den Polen gezogen",
+          "Telophase: Neue Kernhüllen bilden sich",
+          "Zytokinese: Zelle teilt sich in zwei Tochterzellen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte eines Keimungsexperiments mit Kresse.",
+        "elemente": [
+          "Hypothese aufstellen: Licht beeinflusst die Keimung",
+          "Versuchsgruppe (mit Licht) und Kontrollgruppe (ohne Licht) einrichten",
+          "Gleiche Anzahl Samen auf feuchte Watte legen",
+          "Versuchsgruppe ans Licht stellen, Kontrollgruppe abdunkeln",
+          "Täglich Wasser geben und Beobachtungen dokumentieren",
+          "Nach einer Woche Ergebnisse vergleichen und auswerten",
+          "Schlussfolgerung formulieren und Hypothese prüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte der Pflanzenentwicklung vom Samen zur Frucht.",
+        "elemente": [
+          "Samen nimmt Wasser auf (Quellung)",
+          "Keimwurzel durchbricht die Samenschale",
+          "Keimblätter entfalten sich über der Erde",
+          "Sprossachse streckt sich durch Zellteilung und Zellstreckung",
+          "Laubblätter differenzieren sich und beginnen Photosynthese",
+          "Blüte wird gebildet",
+          "Nach Bestäubung und Befruchtung entwickelt sich die Frucht mit Samen"
+        ]
+      }
+    ]
+  }
+}

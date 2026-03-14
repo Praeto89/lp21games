@@ -1,0 +1,38 @@
+{
+    "kompetenz_id":  "rzg72",
+    "kompetenz_code":  "RZG.7.2",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne die Arbeitsschritte zur Untersuchung einer populÃ¤ren Geschichtsdarstellung.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Ein geschichtliches Thema auswÃ¤hlen"
+                                                          },
+                                                          {
+                                                              "text":  "Unterschiedliche Materialien zum Thema suchen"
+                                                          },
+                                                          {
+                                                              "text":  "Die Materialien nach Quellenarten ordnen"
+                                                          },
+                                                          {
+                                                              "text":  "Eine populÃ¤re Geschichtsdarstellung zusammenfassen"
+                                                          },
+                                                          {
+                                                              "text":  "Weitere Quellen zum gleichen Thema finden"
+                                                          },
+                                                          {
+                                                              "text":  "Darstellung und Quellen vergleichen"
+                                                          },
+                                                          {
+                                                              "text":  "Den historischen Zusammenhang formulieren"
+                                                          },
+                                                          {
+                                                              "text":  "Den Nutzen der BeschÃ¤ftigung mit Geschichte reflektieren"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

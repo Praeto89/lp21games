@@ -1,0 +1,89 @@
+{
+  "kompetenz_id": "bo4a",
+  "kompetenz_code": "BO.4.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte für die Anfrage einer Schnupperlehre.",
+        "elemente": [
+          "Passenden Beruf und mögliche Betriebe auswählen",
+          "Informationen zum Betrieb recherchieren",
+          "Fragen oder Anfrage kurz vorbereiten",
+          "Telefonisch oder schriftlich anfragen",
+          "Termin bestätigen und notieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für ein Bewerbungsdossier.",
+        "elemente": [
+          "Anforderungen des Berufs oder der Stelle genau lesen",
+          "Lebenslauf aktualisieren",
+          "Motivationsschreiben passend formulieren",
+          "Zeugnisse und weitere Beilagen zusammenstellen",
+          "Dossier kontrollieren und versenden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, wenn du dein Ziel nach einer Erfahrung anpassen musst.",
+        "elemente": [
+          "Rückmeldungen und Beobachtungen auswerten",
+          "Prüfen, was gut passt und was nicht",
+          "Neues Ziel oder passende Alternative formulieren",
+          "Nächste Schritte festlegen",
+          "Neue Termine und Fristen einplanen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für die Anmeldung an einer weiterführenden Schule.",
+        "elemente": [
+          "Aufnahmebedingungen und Fristen klären",
+          "Benötigte Unterlagen sammeln",
+          "Anmeldeformular vollständig ausfüllen",
+          "Unterlagen fristgerecht einreichen",
+          "Bestätigung oder Rückmeldung prüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für die Vorbereitung auf eine Aufnahmeprüfung.",
+        "elemente": [
+          "Prüfungstermin und Prüfungsstoff kennen",
+          "Lernplan erstellen",
+          "Regelmässig üben",
+          "Probeaufgaben auswerten",
+          "Offene Fragen klären"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte nach einer Absage.",
+        "elemente": [
+          "Absage aufmerksam lesen",
+          "Wenn möglich Feedback einholen",
+          "Alternativen prüfen",
+          "Unterlagen oder Vorgehen verbessern",
+          "Neue Bewerbungen planen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um ein Brückenangebot zu prüfen.",
+        "elemente": [
+          "Eigenen Unterstützungsbedarf erkennen",
+          "Passende Angebote recherchieren",
+          "Beratungsgespräch nutzen",
+          "Geeignetes Angebot auswählen",
+          "Anmeldung vorbereiten und einreichen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für die Vorbereitung auf den Start in Lehre oder Schule.",
+        "elemente": [
+          "Informationen zum Start genau lesen",
+          "Arbeitsweg oder Schulweg planen",
+          "Benötigtes Material oder Kleidung organisieren",
+          "Offene Fragen rechtzeitig klären",
+          "Starttag vorbereitet antreten"
+        ]
+      }
+    ]
+  }
+}

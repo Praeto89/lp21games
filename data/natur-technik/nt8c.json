@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "nt8c",
+  "kompetenz_code": "NT.8.3",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Die {DNS} (Desoxyribonukleinsäure) ist der Träger der {Erbinformation} und hat die Form einer Doppelhelix.",
+        "hinweise": ["Abkürzung des Erbmoleküls", "Genetische Information"],
+        "anweisung": "Ergänze die Grundbegriffe der Genetik."
+      },
+      {
+        "text": "Ein {Gen} ist ein Abschnitt der DNS, der die Information für ein bestimmtes {Protein} enthält.",
+        "hinweise": ["Einheit der Vererbung", "Eiweiss"],
+        "anweisung": "Ergänze den Zusammenhang zwischen Gen und Genprodukt."
+      },
+      {
+        "text": "Eine {Mutation} ist eine zufällige Veränderung im Erbgut, die zu einer veränderten {Merkmalsausprägung} führen kann.",
+        "hinweise": ["Veränderung der DNS", "Sichtbare Eigenschaft"],
+        "anweisung": "Ergänze die Begriffe zu genetischen Veränderungen."
+      },
+      {
+        "text": "Bei der {Gentechnik} werden Gene gezielt verändert oder zwischen Organismen übertragen, um z.B. {GVO} (gentechnisch veränderte Organismen) herzustellen.",
+        "hinweise": ["Biotechnologisches Verfahren", "Abkürzung für veränderte Lebewesen"],
+        "anweisung": "Ergänze die Begriffe zur Gentechnologie."
+      },
+      {
+        "text": "Nach den {Mendelschen} Regeln werden Merkmale nach bestimmten {Wahrscheinlichkeiten} an die Nachkommen weitergegeben.",
+        "hinweise": ["Name des Entdeckers der Vererbungsregeln", "Mathematischer Begriff"],
+        "anweisung": "Ergänze die Begriffe zur klassischen Vererbungslehre."
+      },
+      {
+        "text": "Ein {dominantes} Allel setzt sich gegenüber einem {rezessiven} Allel in der Merkmalsausprägung durch.",
+        "hinweise": ["Vorherrschend", "Zurücktretend"],
+        "anweisung": "Ergänze die Fachbegriffe zu Vererbungsmustern."
+      },
+      {
+        "text": "Der {Genotyp} beschreibt die genetische Ausstattung eines Organismus, während der {Phänotyp} das äussere Erscheinungsbild bezeichnet.",
+        "hinweise": ["Erbbild", "Erscheinungsbild"],
+        "anweisung": "Ergänze die Begriffe zur Unterscheidung von Erbanlage und Erscheinung."
+      },
+      {
+        "text": "Bei der Zellteilung werden die {Chromosomen} gleichmässig auf die Tochterzellen verteilt, damit jede Zelle die vollständige {Erbinformation} erhält.",
+        "hinweise": ["Träger der Gene im Zellkern", "Genetische Gesamtinformation"],
+        "anweisung": "Ergänze die Begriffe zur Weitergabe der Erbinformation."
+      }
+    ]
+  }
+}

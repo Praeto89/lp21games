@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2c3",
+  "kompetenz_code": "MA.2.C.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bleibt bei einer Drehung eines Quadrats um 90° sicher gleich?",
+        "optionen": [
+          "Die Farbe der Umgebung",
+          "Die Form und die Seitenlängen",
+          "Die Lage der Eckpunkte im Raum bleibt unverändert",
+          "Die Figur wird größer"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Drehung verändert nur die Lage, nicht Form oder Größe."
+      },
+      {
+        "frage": "Welcher Punkt entsteht aus (3|1) nach einer 180°-Drehung um den Ursprung?",
+        "optionen": [
+          "(-3|-1)",
+          "(-1|-3)",
+          "(3|-1)",
+          "(-3|1)"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei einer 180°-Drehung wechseln beide Vorzeichen."
+      },
+      {
+        "frage": "Ein Rechteck ist 2 cm breit und 5 cm hoch. Was gilt nach einer 90°-Drehung?",
+        "optionen": [
+          "Es ist danach 2 cm breit und 5 cm hoch",
+          "Breite und Höhe tauschen ihre Rolle",
+          "Der Flächeninhalt halbiert sich",
+          "Es wird zum Quadrat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nach einer 90°-Drehung erscheinen Breite und Höhe vertauscht."
+      },
+      {
+        "frage": "Was bleibt bei einer Spiegelung einer Figur sicher erhalten?",
+        "optionen": [
+          "Die Orientierung links-rechts",
+          "Die Größe und Form",
+          "Die Lage im Koordinatensystem",
+          "Die Drehrichtung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Spiegelungen sind kongruente Abbildungen und erhalten Form und Größe."
+      },
+      {
+        "frage": "Wenn alle Ecken eines Würfels gleichmäßig abgeschliffen werden, hat der neue Körper ...",
+        "optionen": [
+          "weniger Flächen als vorher",
+          "mehr Flächen als vorher",
+          "gar keine Flächen mehr",
+          "nur noch Dreiecke als Flächen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Durch das Abschleifen entstehen zusätzliche Flächen an den Ecken."
+      },
+      {
+        "frage": "Welche Eigenschaft ändert sich bei einer Verschiebung eines Dreiecks nicht?",
+        "optionen": [
+          "Die Seitenlängen",
+          "Die Koordinaten aller Punkte",
+          "Die Lage im Raster",
+          "Die Position zum Ursprung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verschiebungen erhalten alle Längen und Winkel."
+      },
+      {
+        "frage": "Welcher Punkt entsteht aus (2|-1) nach einer 90°-Drehung gegen den Uhrzeigersinn um den Ursprung?",
+        "optionen": [
+          "(-1|-2)",
+          "(1|2)",
+          "(-2|1)",
+          "(2|1)"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei der 90°-Drehung gegen den Uhrzeigersinn wird aus (x|y) der Punkt (-y|x)."
+      },
+      {
+        "frage": "Wozu dient Kopfgeometrie besonders?",
+        "optionen": [
+          "Zum Auswendiglernen von Formeln",
+          "Zum Vorstellen und Beschreiben von Lageveränderungen",
+          "Nur zum Zeichnen mit dem Computer",
+          "Zum Umrechnen von Währungen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kopfgeometrie trainiert räumliches Vorstellungsvermögen und Lagebeziehungen."
+      }
+    ]
+  }
+}

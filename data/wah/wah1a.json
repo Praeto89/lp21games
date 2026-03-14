@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah1a",
+  "kompetenz_code": "WAH.1.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche T\u00e4tigkeit ist ein Beispiel f\u00fcr unbezahlte Arbeit?",
+        "optionen": [
+          "Zeitungen am Morgen gegen Lohn austragen",
+          "In einem Verein freiwillig Kinder trainieren",
+          "In einem Laden an der Kasse arbeiten",
+          "Einen Ferienjob im Restaurant machen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Freiwilligenarbeit wird in der Regel nicht bezahlt, ist aber f\u00fcr das Zusammenleben oft sehr wichtig."
+      },
+      {
+        "frage": "Warum hat Haus- und Betreuungsarbeit gesellschaftliche Bedeutung?",
+        "optionen": [
+          "Weil sie immer leicht und schnell erledigt ist",
+          "Weil sie nur in der Freizeit vorkommt",
+          "Weil sie den Alltag von Menschen und Familien erm\u00f6glicht",
+          "Weil sie nur von Fachpersonen gemacht werden darf"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Kochen, putzen, pflegen und betreuen sichern das t\u00e4gliche Leben und sind deshalb gesellschaftlich bedeutsam."
+      },
+      {
+        "frage": "Welche Aussage beschreibt Erwerbsarbeit am besten?",
+        "optionen": [
+          "Sie wird immer zu Hause erledigt",
+          "Sie wird gegen Lohn oder Einkommen geleistet",
+          "Sie ist immer freiwillig und unbezahlt",
+          "Sie kommt nur in B\u00fcros vor"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Erwerbsarbeit ist Arbeit, f\u00fcr die man bezahlt wird, zum Beispiel in einer Lehre oder in einem Beruf."
+      },
+      {
+        "frage": "Was kann Arbeit f\u00fcr eine Person pers\u00f6nlich bedeutsam machen?",
+        "optionen": [
+          "Nur ein m\u00f6glichst hoher Lohn",
+          "Das Gef\u00fchl, etwas Sinnvolles beizutragen und dazuzulernen",
+          "M\u00f6glichst wenig Kontakt mit anderen Menschen",
+          "Dass man nie Verantwortung \u00fcbernehmen muss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Arbeit kann Sinn geben, Selbstst\u00e4ndigkeit f\u00f6rdern und Lern- sowie Entwicklungsm\u00f6glichkeiten bieten."
+      },
+      {
+        "frage": "Warum kann Erwerbslosigkeit belastend sein?",
+        "optionen": [
+          "Weil man dann automatisch mehr Ferien hat",
+          "Weil Einkommen, Tagesstruktur und Selbstvertrauen darunter leiden k\u00f6nnen",
+          "Weil man keine Zeit mehr f\u00fcr Bewerbungen hat",
+          "Weil man dann keine Entscheidungen mehr treffen darf"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Fehlende Arbeit kann finanzielle Sorgen ausl\u00f6sen und auch das eigene Wohlbefinden beeinflussen."
+      },
+      {
+        "frage": "Welches Arbeitsmodell kann helfen, Erwerbs- und Betreuungsarbeit zu verbinden?",
+        "optionen": [
+          "Teilzeitarbeit",
+          "Nur Nachtarbeit",
+          "Ausschliesslich Akkordarbeit",
+          "Unbezahlte \u00dcberstunden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Teilzeitarbeit kann mehr Spielraum schaffen, um Beruf, Familie und andere Aufgaben besser zu koordinieren."
+      },
+      {
+        "frage": "Welche Aussage zur Bedeutung von Arbeit trifft zu?",
+        "optionen": [
+          "Wertvoll ist nur Arbeit, die hoch bezahlt wird",
+          "Arbeit ist nur dann wichtig, wenn Maschinen sie nicht erledigen k\u00f6nnen",
+          "Auch unbezahlte Arbeit kann f\u00fcr Menschen und Gesellschaft wertvoll sein",
+          "Arbeit hat nur f\u00fcr Erwachsene Bedeutung"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Arbeit wird nicht nur am Lohn gemessen. Auch Sorge-, Lern- und Freiwilligenarbeit haben grossen Wert."
+      },
+      {
+        "frage": "Welche Eigenschaft ist in vielen Arbeitsfeldern besonders wichtig?",
+        "optionen": [
+          "Unzuverl\u00e4ssigkeit",
+          "P\u00fcnktlichkeit und Verantwortungsbewusstsein",
+          "M\u00f6glichst wenig Zusammenarbeit",
+          "Immer alles allein entscheiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zuverl\u00e4ssigkeit, P\u00fcnktlichkeit und Verantwortung werden in den meisten Berufen gesch\u00e4tzt."
+      },
+      {
+        "frage": "Welche Situation zeigt, dass verschiedene Formen von Arbeit zusammenwirken?",
+        "optionen": [
+          "Eine Person geht nur ins Fitnessstudio",
+          "Jemand macht eine Lehre und betreut zu Hause regelm\u00e4ssig ein Geschwister",
+          "Eine Klasse hat am Nachmittag frei",
+          "Ein Computer ist ausgeschaltet"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Alltag treffen oft Erwerbsarbeit, Lernarbeit und Betreuungsarbeit gleichzeitig aufeinander."
+      },
+      {
+        "frage": "Warum ist Freiwilligenarbeit f\u00fcr eine Gemeinde oft wertvoll?",
+        "optionen": [
+          "Weil dadurch keine Regeln mehr gelten",
+          "Weil Vereine, Anl\u00e4sse oder Hilfsangebote ohne sie oft nicht funktionieren w\u00fcrden",
+          "Weil Freiwillige automatisch Fachpersonen ersetzen",
+          "Weil sie immer billiger als jede andere L\u00f6sung ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Viele soziale, kulturelle und sportliche Angebote sind auf freiwilliges Engagement angewiesen."
+      }
+    ]
+  }
+}

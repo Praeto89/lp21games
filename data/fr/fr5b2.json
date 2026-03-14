@@ -1,0 +1,19 @@
+{
+  "kompetenz_id": "fr5b2",
+  "kompetenz_code": "FS2F.5.B.2",
+  "typ": "wortspiel",
+  "spiel": {
+    "woerter": [
+      { "wort": "REFAIRE", "hinweis": "noch einmal machen; Präfix re-" },
+      { "wort": "IMPOLI", "hinweis": "unhöflich; Gegenteil mit im-" },
+      { "wort": "LECTEUR", "hinweis": "jemand, der liest; Suffix -eur" },
+      { "wort": "CHANTEUSE", "hinweis": "eine Frau, die singt; Suffix -euse" },
+      { "wort": "LENTEMENT", "hinweis": "Adverb zu lent" },
+      { "wort": "HEUREUSEMENT", "hinweis": "glücklicherweise; von heureux" },
+      { "wort": "IMPOSSIBLE", "hinweis": "nicht möglich; Präfix im-" },
+      { "wort": "JOURNALISTE", "hinweis": "Person aus Presse oder Medien" },
+      { "wort": "RÉVISION", "hinweis": "Wiederholung vor einem Test" },
+      { "wort": "DESSINATEUR", "hinweis": "Person, die zeichnet" }
+    ]
+  }
+}

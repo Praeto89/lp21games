@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg3b2",
+  "kompetenz_code": "TTG.3.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist typisch fuer handwerkliche Produktion?",
+        "optionen": [
+          "Individuelle Anpassung und Arbeit in kleineren Stueckzahlen",
+          "Ausschliesslich vollautomatische Fertigung",
+          "Immer identische Millionenserien",
+          "Keine Fachkenntnisse"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Handwerkliche Produktion erlaubt haeufig Anpassungen, Einzelstuecke und direkte Eingriffe waehrend des Herstellens."
+      },
+      {
+        "frage": "Was ist ein Vorteil industrieller Produktion?",
+        "optionen": [
+          "Jedes Produkt wird voellig anders",
+          "Viele gleiche Produkte koennen effizient hergestellt werden",
+          "Es braucht nie Maschinen",
+          "Qualitaet spielt keine Rolle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Industrielle Produktion ist auf wiederholbare, effiziente Herstellung groesserer Mengen ausgelegt."
+      },
+      {
+        "frage": "Welcher Punkt unterscheidet handwerkliche und industrielle Fertigung oft deutlich?",
+        "optionen": [
+          "Der Name des Produkts",
+          "Grad der Standardisierung",
+          "Die Raumtemperatur",
+          "Die Pausenlaenge"
+        ],
+        "korrekt": 1,
+        "erklaerung": "In der Industrie sind Masse und Prozesse meist staerker standardisiert als im Handwerk."
+      },
+      {
+        "frage": "Warum ist ein Prototyp in der Industrie wichtig?",
+        "optionen": [
+          "Damit man Serienfehler frueh erkennt und optimiert",
+          "Damit jede Maschine ersetzt wird",
+          "Damit keine Tests noetig sind",
+          "Damit nur ein Einzelstueck bleibt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Prototypen helfen, Produkte vor der Serienfertigung zu pruefen und zu verbessern."
+      },
+      {
+        "frage": "Welche Aussage zu Qualitaetssicherung stimmt?",
+        "optionen": [
+          "Sie ist nur im Handwerk noetig",
+          "Sie ist in Handwerk und Industrie wichtig, aber unterschiedlich organisiert",
+          "Sie betrifft nur das Aussehen",
+          "Sie spielt erst nach dem Verkauf eine Rolle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beide Produktionsformen brauchen Qualitaetssicherung, zum Beispiel durch Pruefen, Messen und Rueckmeldungen."
+      },
+      {
+        "frage": "Wann ist handwerkliche Fertigung besonders sinnvoll?",
+        "optionen": [
+          "Bei einem individuellen Einzelstueck",
+          "Wenn nur identische Massenware gesucht wird",
+          "Wenn keinerlei Gestaltung erwuenscht ist",
+          "Wenn nie auf Kundewuensche reagiert werden soll"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Einzelanfertigungen oder besondere Anpassungen sind oft Staerken des Handwerks."
+      },
+      {
+        "frage": "Was gehoert eher zur industriellen Produktion?",
+        "optionen": [
+          "Stuecklisten, standardisierte Teile und automatisierte Prozesse",
+          "Nur spontane Entscheidungen ohne Plan",
+          "Arbeiten ohne Messwerkzeuge",
+          "Fertigung von nur einem einzigen Produkt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Industrie arbeitet stark mit Planung, Standardisierung und oft mit automatisierten Anlagen."
+      },
+      {
+        "frage": "Welche Aussage beschreibt Nachhaltigkeit in der Produktion sinnvoll?",
+        "optionen": [
+          "Nur der Preis zaehlt",
+          "Materialeinsatz, Haltbarkeit und Transport sollten mitgedacht werden",
+          "Nachhaltigkeit betrifft nur Verpackung",
+          "Sie spielt in Gestaltung und Technik keine Rolle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nachhaltige Produktion betrachtet Ressourcen, Nutzungsdauer, Reparierbarkeit und Wege."
+      },
+      {
+        "frage": "Warum koennen Maschinen in der Industrie grosse Vorteile bringen?",
+        "optionen": [
+          "Sie machen Produkte oft gleichmaessiger und schneller herstellbar",
+          "Sie ersetzen jede Gestaltungsidee",
+          "Sie verhindern jede Kontrolle",
+          "Sie machen alle Berufe ueberfluessig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Maschinen ermoeglichen gleichbleibende Prozesse, hohe Praezision und groessere Mengen."
+      },
+      {
+        "frage": "Welche Aussage trifft insgesamt zu?",
+        "optionen": [
+          "Handwerk ist altmodisch, Industrie ist immer besser",
+          "Beide Produktionsweisen haben je nach Ziel unterschiedliche Staerken",
+          "Es gibt keine Unterschiede",
+          "Nur Handwerk braucht Fachwissen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Je nach Produkt, Menge, Anpassung und Aufwand sind handwerkliche oder industrielle Verfahren sinnvoller."
+      }
+    ]
+  }
+}

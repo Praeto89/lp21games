@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "en4a2",
+  "kompetenz_code": "FS1E.4.A.2",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "The street was {silent} when the old clock struck {midnight}.",
+        "hinweise": ["adjective", "time"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "A {silver} moon hung above the river like a {lamp}.",
+        "hinweise": ["colour adjective", "image"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "Suddenly, a dog barked {loudly} behind the {gate}.",
+        "hinweise": ["adverb", "place"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "I held the note in my hand and felt both {nervous} and {curious}.",
+        "hinweise": ["feeling", "feeling"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "The leaves danced {softly} across the empty {playground}.",
+        "hinweise": ["adverb", "place"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "In the distance, a train whistle sounded long and {lonely}.",
+        "hinweise": ["adjective"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "When the door opened, warm light spilled into the {darkness}.",
+        "hinweise": ["contrast word"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      },
+      {
+        "text": "I smiled because the adventure was only {beginning}.",
+        "hinweise": ["verb form"],
+        "anweisung": "Fülle die Lücken so, dass ein stimmungsvoller kreativer Text entsteht."
+      }
+    ]
+  }
+}

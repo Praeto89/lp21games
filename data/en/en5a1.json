@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en5a1",
+  "kompetenz_code": "FS1E.5.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Englisch", "Deutsch", "Französisch", "Italienisch"],
+    "elemente": [
+      { "text": "hello", "kategorie": 0 },
+      { "text": "thank you", "kategorie": 0 },
+      { "text": "please", "kategorie": 0 },
+      { "text": "Guten Tag", "kategorie": 1 },
+      { "text": "danke", "kategorie": 1 },
+      { "text": "Tschüss", "kategorie": 1 },
+      { "text": "bonjour", "kategorie": 2 },
+      { "text": "merci", "kategorie": 2 },
+      { "text": "au revoir", "kategorie": 2 },
+      { "text": "ciao", "kategorie": 3 },
+      { "text": "grazie", "kategorie": 3 },
+      { "text": "per favore", "kategorie": 3 }
+    ]
+  }
+}

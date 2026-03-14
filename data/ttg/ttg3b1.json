@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "ttg3b1",
+  "kompetenz_code": "TTG.3.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Textil und Mode",
+      "Holz und Bau",
+      "Metall und Technik",
+      "Design und Planung"
+    ],
+    "elemente": [
+      { "text": "Bekleidungsgestalter/in", "kategorie": 0 },
+      { "text": "Textiltechnologe/Textiltechnologin", "kategorie": 0 },
+      { "text": "Schneider/in im Theateratelier", "kategorie": 0 },
+      { "text": "Schreiner/in", "kategorie": 1 },
+      { "text": "Zimmermann/Zimmerin", "kategorie": 1 },
+      { "text": "Innenausbauer/in", "kategorie": 1 },
+      { "text": "Polymechaniker/in", "kategorie": 2 },
+      { "text": "Automatiker/in", "kategorie": 2 },
+      { "text": "Produktionsmechaniker/in", "kategorie": 2 },
+      { "text": "Produktdesigner/in", "kategorie": 3 },
+      { "text": "Innenarchitekt/in", "kategorie": 3 },
+      { "text": "Gestalter/in Werbetechnik", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "kompetenz_id": "nt8a",
+  "kompetenz_code": "NT.8.1",
+  "typ": "timeline",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Meilensteine der Evolutionsgeschichte chronologisch.",
+        "ereignisse": [
+          { "text": "Entstehung der Erde", "jahr": "ca. 4.6 Mrd. Jahre" },
+          { "text": "Erste einzellige Lebewesen (Prokaryoten)", "jahr": "ca. 3.8 Mrd. Jahre" },
+          { "text": "Erste Zellen mit Zellkern (Eukaryoten)", "jahr": "ca. 2 Mrd. Jahre" },
+          { "text": "Erste mehrzellige Organismen", "jahr": "ca. 600 Mio. Jahre" },
+          { "text": "Erste Fische (Wirbeltiere)", "jahr": "ca. 500 Mio. Jahre" },
+          { "text": "Erste Landpflanzen", "jahr": "ca. 470 Mio. Jahre" },
+          { "text": "Erste Dinosaurier", "jahr": "ca. 230 Mio. Jahre" },
+          { "text": "Erste Säugetiere", "jahr": "ca. 200 Mio. Jahre" },
+          { "text": "Aussterben der Dinosaurier", "jahr": "ca. 66 Mio. Jahre" },
+          { "text": "Erste Vorfahren des Menschen (Hominiden)", "jahr": "ca. 7 Mio. Jahre" }
+        ]
+      },
+      {
+        "anweisung": "Ordne die Entwicklung der Evolutionstheorie chronologisch.",
+        "ereignisse": [
+          { "text": "Carl von Linné entwickelt ein Klassifikationssystem für Lebewesen", "jahr": "1735" },
+          { "text": "Jean-Baptiste Lamarck veröffentlicht seine Theorie der Vererbung erworbener Eigenschaften", "jahr": "1809" },
+          { "text": "Charles Darwin veröffentlicht 'Die Entstehung der Arten'", "jahr": "1859" },
+          { "text": "Gregor Mendel entdeckt die Vererbungsregeln", "jahr": "1866" },
+          { "text": "Wiederentdeckung der Mendelschen Regeln", "jahr": "1900" },
+          { "text": "Moderne Synthese: Verbindung von Genetik und Evolution", "jahr": "1942" },
+          { "text": "Watson und Crick beschreiben die DNS-Struktur", "jahr": "1953" }
+        ]
+      },
+      {
+        "anweisung": "Ordne die Entwicklung der Wirbeltiere vom Wasser ans Land.",
+        "ereignisse": [
+          { "text": "Kiemenatmende Fische dominieren die Meere", "jahr": "Stufe 1" },
+          { "text": "Quastenflosser entwickeln kräftige Flossen", "jahr": "Stufe 2" },
+          { "text": "Erste Amphibien wagen sich an Land", "jahr": "Stufe 3" },
+          { "text": "Reptilien entwickeln wasserunabhängige Fortpflanzung (Eier mit Schale)", "jahr": "Stufe 4" },
+          { "text": "Säugetiere entwickeln Tragzeit und Brutpflege", "jahr": "Stufe 5" },
+          { "text": "Vögel erobern den Luftraum", "jahr": "Stufe 6" }
+        ]
+      }
+    ]
+  }
+}

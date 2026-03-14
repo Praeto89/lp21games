@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en6c1",
+  "kompetenz_code": "FS1E.6.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Medien", "Essen und Alltag", "Orte und Sehenswürdigkeiten", "Austausch und Begegnung"],
+    "elemente": [
+      { "text": "Watch a short BBC news clip for teens.", "kategorie": 0 },
+      { "text": "Listen to an Australian podcast.", "kategorie": 0 },
+      { "text": "Follow an English-speaking book review channel.", "kategorie": 0 },
+      { "text": "Read a recipe for pancakes on Shrove Tuesday.", "kategorie": 1 },
+      { "text": "Try scones with jam and cream.", "kategorie": 1 },
+      { "text": "Compare lunch habits in different countries.", "kategorie": 1 },
+      { "text": "Explore photos of the Golden Gate Bridge.", "kategorie": 2 },
+      { "text": "Look up the Sydney Opera House.", "kategorie": 2 },
+      { "text": "Visit the British Museum website.", "kategorie": 2 },
+      { "text": "Join an online exchange with a class in Dublin.", "kategorie": 3 },
+      { "text": "Prepare questions for a guest from Canada.", "kategorie": 3 },
+      { "text": "Compare school timetables with students in London.", "kategorie": 3 }
+    ]
+  }
+}

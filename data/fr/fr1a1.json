@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr1a1",
+  "kompetenz_code": "FS2F.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Du hörst: « Bonjour Léa, je t'attends devant la médiathèque à quatorze heures. » Was ist die Hauptinformation?",
+        "optionen": [
+          "Léa soll um 16 Uhr in die Bibliothek kommen.",
+          "Jemand wartet um 14 Uhr vor der Mediathek auf Léa.",
+          "Léa soll ein Buch zurückbringen.",
+          "Das Treffen findet morgen statt."
+        ],
+        "korrekt": 1,
+        "erklaerung": "« à quatorze heures » bedeutet um 14 Uhr, « devant la médiathèque » bedeutet vor der Mediathek."
+      },
+      {
+        "frage": "Du hörst: « Aujourd'hui, à la cantine, il y a du poulet avec du riz et une salade verte. » Was gibt es in der Mensa?",
+        "optionen": [
+          "Fisch mit Kartoffeln",
+          "Pasta mit Käse",
+          "Hähnchen mit Reis und Salat",
+          "Suppe mit Brot"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« du poulet avec du riz » heisst Hähnchen mit Reis."
+      },
+      {
+        "frage": "Du hörst: « Le train pour Genève a dix minutes de retard. » Welche Aussage stimmt?",
+        "optionen": [
+          "Der Zug nach Genf fällt aus.",
+          "Der Zug nach Genf fährt zehn Minuten später.",
+          "Der Zug nach Genf ist zu früh.",
+          "Der Zug nach Genf fährt von Gleis zehn."
+        ],
+        "korrekt": 1,
+        "erklaerung": "« a dix minutes de retard » bedeutet hat zehn Minuten Verspätung."
+      },
+      {
+        "frage": "Du hörst: « N'oublie pas ton maillot de bain; on va à la piscine après les cours. » Was soll die Person mitnehmen?",
+        "optionen": [
+          "Sportschuhe",
+          "Ein Badetuch",
+          "Einen Badeanzug oder eine Badehose",
+          "Ein Geschichtsbuch"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« maillot de bain » bedeutet Badekleidung."
+      },
+      {
+        "frage": "Du hörst: « Demain matin, le ciel sera gris et il pleuvra un peu. » Wie wird das Wetter?",
+        "optionen": [
+          "Sonnig und warm",
+          "Windig, aber trocken",
+          "Grau mit etwas Regen",
+          "Kalt und verschneit"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« le ciel sera gris » und « il pleuvra un peu » bedeuten grau und leicht regnerisch."
+      },
+      {
+        "frage": "Du hörst: « Madame Picard est absente, alors le cours de français commence à neuf heures. » Was ändert sich?",
+        "optionen": [
+          "Der Französischunterricht fällt ganz aus.",
+          "Der Unterricht beginnt um 9 Uhr.",
+          "Es gibt heute Mathematik statt Französisch.",
+          "Der Kurs beginnt schon um 8 Uhr."
+        ],
+        "korrekt": 1,
+        "erklaerung": "« commence à neuf heures » bedeutet beginnt um neun Uhr."
+      },
+      {
+        "frage": "Du hörst: « Samedi, nous visitons le musée d'histoire. Apportez un pique-nique et un crayon. » Was sollen die Lernenden mitbringen?",
+        "optionen": [
+          "Ein Picknick und einen Bleistift",
+          "Nur Geld für den Eintritt",
+          "Einen Regenschirm und ein Heft",
+          "Ein Sporttrikot"
+        ],
+        "korrekt": 0,
+        "erklaerung": "« un pique-nique et un crayon » heisst ein Picknick und einen Bleistift."
+      },
+      {
+        "frage": "Du hörst: « Ce soir, je ne peux pas venir au cinéma parce que je dois finir mes devoirs. » Warum kommt die Person nicht mit?",
+        "optionen": [
+          "Sie ist krank.",
+          "Sie hat kein Geld.",
+          "Sie muss ihre Hausaufgaben fertig machen.",
+          "Sie fährt zu ihren Grosseltern."
+        ],
+        "korrekt": 2,
+        "erklaerung": "« je dois finir mes devoirs » bedeutet, dass die Hausaufgaben zuerst erledigt werden müssen."
+      }
+    ]
+  }
+}

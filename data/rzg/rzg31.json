@@ -1,0 +1,97 @@
+{
+    "kompetenz_id":  "rzg31",
+    "kompetenz_code":  "RZG.3.1",
+    "typ":  "quiz",
+    "spiel":  {
+                  "fragen":  [
+                                 {
+                                     "frage":  "Was ist ein natÃ¼rliches System?",
+                                     "optionen":  [
+                                                      "Nur eine Stadt mit Strassen",
+                                                      "Ein Raum, in dem Klima, Wasser, Boden, Pflanzen und Tiere zusammenwirken",
+                                                      "Ausschliesslich ein FabrikgelÃ¤nde",
+                                                      "Nur ein touristischer Ort"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "NatÃ¼rliche Systeme bestehen aus mehreren Faktoren, die sich gegenseitig beeinflussen."
+                                 },
+                                 {
+                                     "frage":  "Welche Nutzung kann den Regenwald besonders stark gefÃ¤hrden?",
+                                     "optionen":  [
+                                                      "Kleine Wanderwege",
+                                                      "GrossflÃ¤chige Rodung fÃ¼r Viehzucht oder Plantagen",
+                                                      "Naturschutzgebiete",
+                                                      "Schulreisen mit FÃ¼hrung"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "GrossflÃ¤chige Rodung verÃ¤ndert das Ã–kosystem stark und verbraucht viele Ressourcen."
+                                 },
+                                 {
+                                     "frage":  "Was ist eine hÃ¤ufige Folge von Ãœberfischung?",
+                                     "optionen":  [
+                                                      "FischbestÃ¤nde kÃ¶nnen sich kaum noch erholen",
+                                                      "Es gibt mehr Korallenriffe",
+                                                      "Fische werden automatisch grÃ¶sser",
+                                                      "Meere werden sÃ¼ss"
+                                                  ],
+                                     "korrekt":  0,
+                                     "erklaerung":  "Wenn zu viele Fische gefangen werden, geraten BestÃ¤nde und Nahrungsketten unter Druck."
+                                 },
+                                 {
+                                     "frage":  "Warum werden Nationalparks eingerichtet?",
+                                     "optionen":  [
+                                                      "Damit Ã¼berall neue Hotels gebaut werden kÃ¶nnen",
+                                                      "Damit natÃ¼rliche LebensrÃ¤ume geschÃ¼tzt werden",
+                                                      "Damit dort nur Autos fahren dÃ¼rfen",
+                                                      "Damit Landwirtschaft intensiver betrieben wird"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Nationalparks schÃ¼tzen Natur und ermÃ¶glichen, natÃ¼rliche Prozesse langfristig zu erhalten."
+                                 },
+                                 {
+                                     "frage":  "Welcher Interessenkonflikt kann bei einem Staudamm entstehen?",
+                                     "optionen":  [
+                                                      "Zwischen Stromproduktion und Schutz von FlusslebensrÃ¤umen",
+                                                      "Zwischen Sonne und Mond",
+                                                      "Zwischen Wald und WÃ¼ste am gleichen Ort",
+                                                      "Zwischen Tag und Nacht"
+                                                  ],
+                                     "korrekt":  0,
+                                     "erklaerung":  "Ein Staudamm kann Energie liefern, aber Fische, Sedimente und Flusslandschaften stark verÃ¤ndern."
+                                 },
+                                 {
+                                     "frage":  "Was bedeutet Desertifikation?",
+                                     "optionen":  [
+                                                      "Ein Gebiet wird fruchtbarer",
+                                                      "Fruchtbares Land verÃ¶det und wird schwerer nutzbar",
+                                                      "Eine WÃ¼ste wird plÃ¶tzlich zum Meer",
+                                                      "Es entstehen automatisch Nationalparks"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Desertifikation beschreibt die VerÃ¶dung von BÃ¶den, oft durch Trockenheit und Ãœbernutzung."
+                                 },
+                                 {
+                                     "frage":  "Welches Beispiel steht fÃ¼r eine nachhaltige Nutzung eines Gebirgsraums?",
+                                     "optionen":  [
+                                                      "Neue Pisten ohne RÃ¼cksicht auf Schutzgebiete",
+                                                      "Lokale UnterkÃ¼nfte mit Anreise per Ã–V und markierten Wegen",
+                                                      "Bau von Hotels auf GletscherflÃ¤chen",
+                                                      "Unbegrenztes Befahren aller Alpwiesen"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Nachhaltige Nutzung schont Natur und stÃ¼tzt zugleich die lokale BevÃ¶lkerung."
+                                 },
+                                 {
+                                     "frage":  "Warum untersucht man den Nutzungswandel in Landschaften?",
+                                     "optionen":  [
+                                                      "Damit Karten unnÃ¶tig werden",
+                                                      "Um zu verstehen, wie Menschen Landschaften und Ressourcen im Lauf der Zeit verÃ¤ndert haben",
+                                                      "Weil sich Landschaften nie verÃ¤ndern",
+                                                      "Nur um Wetterberichte zu schreiben"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Der Blick auf den Nutzungswandel zeigt, wie aus NaturrÃ¤umen Kulturlandschaften werden."
+                                 }
+                             ]
+              }
+}

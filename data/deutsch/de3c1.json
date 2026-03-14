@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de3c1",
+  "kompetenz_code": "D.3.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Zustimmen und anknüpfen", "Nachfragen", "Argumentieren und widersprechen", "Moderieren"],
+    "elemente": [
+      { "text": "Ich sehe das ähnlich, weil ...", "kategorie": 0 },
+      { "text": "Wie Mia schon gesagt hat, ...", "kategorie": 0 },
+      { "text": "Daran möchte ich anknüpfen.", "kategorie": 0 },
+      { "text": "Kannst du dein Beispiel genauer erklären?", "kategorie": 1 },
+      { "text": "Was meinst du mit diesem Begriff?", "kategorie": 1 },
+      { "text": "Habe ich dich richtig verstanden, dass ...?", "kategorie": 1 },
+      { "text": "Ich bin anderer Meinung, weil ...", "kategorie": 2 },
+      { "text": "Dein Argument überzeugt mich nicht ganz, denn ...", "kategorie": 2 },
+      { "text": "Dafür spricht allerdings auch ...", "kategorie": 2 },
+      { "text": "Lasst uns zuerst die Argumente sammeln.", "kategorie": 3 },
+      { "text": "Wer möchte auf diesen Punkt reagieren?", "kategorie": 3 },
+      { "text": "Ich fasse kurz zusammen, was bisher gesagt wurde.", "kategorie": 3 }
+    ]
+  }
+}

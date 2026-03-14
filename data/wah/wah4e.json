@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah4e",
+  "kompetenz_code": "WAH.4.5",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum ist Hunger weltweit nicht nur ein Problem von zu wenig Nahrung?",
+        "optionen": [
+          "Weil Nahrung immer gerecht verteilt ist",
+          "Weil auch Armut, Verteilung und Konflikte eine Rolle spielen",
+          "Weil nur das Wetter entscheidend ist",
+          "Weil nur Grossst\u00e4dte betroffen sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ob Menschen genug zu essen haben, h\u00e4ngt auch von Einkommen, Verteilung, Infrastruktur und politischen Situationen ab."
+      },
+      {
+        "frage": "Welche Folge hat eine l\u00e4ngere D\u00fcrre oft f\u00fcr die Landwirtschaft?",
+        "optionen": [
+          "H\u00f6here Ertr\u00e4ge bei allen Pflanzen",
+          "Weniger Ernten und gr\u00f6ssere Unsicherheit bei der Versorgung",
+          "Mehr Wasser in den B\u00f6den",
+          "Automatisch tiefere Lebensmittelpreise"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wassermangel kann Ernten stark verringern und die Versorgung erschweren."
+      },
+      {
+        "frage": "Warum sind saisonale Lebensmittel oft sinnvoller?",
+        "optionen": [
+          "Weil sie immer gratis sind",
+          "Weil sie h\u00e4ufig weniger aufwendige Lagerung oder Beheizung brauchen",
+          "Weil sie nie transportiert werden m\u00fcssen",
+          "Weil sie automatisch bio sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Saisonale Produkte ben\u00f6tigen oft weniger Energie f\u00fcr Gew\u00e4chsh\u00e4user oder lange Lagerung."
+      },
+      {
+        "frage": "Wie l\u00e4sst sich Food Waste im Alltag verringern?",
+        "optionen": [
+          "Immer mehr einkaufen als n\u00f6tig",
+          "Mahlzeiten planen und Reste weiterverwenden",
+          "Lebensmittel bei Unsicherheit sofort wegwerfen",
+          "Nur Produkte mit grosser Verpackung kaufen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Planung, richtige Lagerung und kreative Restek\u00fcche helfen, Lebensmittelverluste zu reduzieren."
+      },
+      {
+        "frage": "Warum verbraucht die Produktion von Fleisch oft viele Ressourcen?",
+        "optionen": [
+          "Weil Tiere kein Futter brauchen",
+          "Weil f\u00fcr Futter, Wasser und Fl\u00e4chen zus\u00e4tzliche Ressourcen n\u00f6tig sind",
+          "Weil Fleisch immer regional ist",
+          "Weil es keinen Einfluss auf das Klima hat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Tierhaltung braucht oft viel Wasser, Futter und Landfl\u00e4che."
+      },
+      {
+        "frage": "Wozu kann Fairtrade beitragen?",
+        "optionen": [
+          "Zu besseren Preisen und Arbeitsbedingungen f\u00fcr Produzierende",
+          "Dazu, dass Produkte nie transportiert werden",
+          "Dazu, dass alle Lebensmittel gleich viel kosten",
+          "Dazu, dass Verpackung keine Rolle mehr spielt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fairtrade will Produzierende in Lieferketten st\u00e4rken und fairere Bedingungen f\u00f6rdern."
+      },
+      {
+        "frage": "Warum ist Biodiversit\u00e4t f\u00fcr die Ern\u00e4hrung wichtig?",
+        "optionen": [
+          "Weil nur eine Pflanzenart weltweit gen\u00fcgt",
+          "Weil vielf\u00e4ltige Arten Landwirtschaft widerstandsf\u00e4higer machen k\u00f6nnen",
+          "Weil Vielfalt nur f\u00fcr W\u00e4lder wichtig ist",
+          "Weil sie keinen Einfluss auf Ernten hat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Vielfalt bei Pflanzen, Tieren und Anbaumethoden kann Systeme stabiler gegen Krisen machen."
+      },
+      {
+        "frage": "Welche Entscheidung passt am ehesten zu einer nachhaltigeren Ern\u00e4hrung?",
+        "optionen": [
+          "H\u00e4ufig mehr pflanzliche Lebensmittel einbauen",
+          "Nur verpackte Einwegportionen kaufen",
+          "Essbares schneller entsorgen",
+          "M\u00f6glichst oft Lebensmittel mit Flugtransport w\u00e4hlen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine st\u00e4rker pflanzenbetonte Ern\u00e4hrung kann Ressourcen schonen."
+      },
+      {
+        "frage": "Was ist eine globale Herausforderung f\u00fcr die Ern\u00e4hrung von Menschen?",
+        "optionen": [
+          "Dass es nur in Europa Lebensmittel gibt",
+          "Klima\u00e4nderungen, Wasserknappheit und ungleiche Verteilung",
+          "Dass alle Menschen gleich essen wollen",
+          "Dass Superm\u00e4rkte immer leer sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Versorgungssicherheit h\u00e4ngt weltweit von Umwelt, Politik, Wirtschaft und Gerechtigkeit ab."
+      },
+      {
+        "frage": "Warum lohnt sich ein Blick auf die Herkunft von Lebensmitteln?",
+        "optionen": [
+          "Weil Herkunft Hinweise auf Transportwege und Produktionsbedingungen geben kann",
+          "Weil Herkunft immer den Geschmack bestimmt",
+          "Weil importierte Lebensmittel nie erlaubt sind",
+          "Weil Herkunft nur f\u00fcr Erwachsene wichtig ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Herkunft kann helfen, \u00f6kologische und soziale Auswirkungen besser einzusch\u00e4tzen."
+      }
+    ]
+  }
+}

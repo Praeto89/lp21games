@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg52",
+    "kompetenz_code":  "RZG.5.2",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne Meilensteine des wirtschaftlichen Wandels in der Schweiz.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Erste Schweizer Eisenbahn Spanisch-BrÃ¶tli-Bahn",
+                                                              "jahr":  "1847"
+                                                          },
+                                                          {
+                                                              "text":  "Fabrikgesetz verbessert den Arbeiterschutz",
+                                                              "jahr":  "1877"
+                                                          },
+                                                          {
+                                                              "text":  "Gotthardbahn wird erÃ¶ffnet",
+                                                              "jahr":  "1882"
+                                                          },
+                                                          {
+                                                              "text":  "Landesstreik fordert soziale Reformen",
+                                                              "jahr":  "1918"
+                                                          },
+                                                          {
+                                                              "text":  "EinfÃ¼hrung der AHV",
+                                                              "jahr":  "1948"
+                                                          },
+                                                          {
+                                                              "text":  "Hochkonjunktur und starke Zuwanderung",
+                                                              "jahr":  "1950er"
+                                                          },
+                                                          {
+                                                              "text":  "Ã–lkrise bremst das Wachstum",
+                                                              "jahr":  "1973"
+                                                          },
+                                                          {
+                                                              "text":  "PersonenfreizÃ¼gigkeit mit der EU tritt in Kraft",
+                                                              "jahr":  "2002"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

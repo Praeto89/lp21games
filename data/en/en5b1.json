@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "en5b1",
+  "kompetenz_code": "FS1E.5.B.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "assignment", "b": "Aufgabe" },
+      { "a": "backpack", "b": "Rucksack" },
+      { "a": "journey", "b": "Reise" },
+      { "a": "library", "b": "Bibliothek" },
+      { "a": "headphones", "b": "Kopfhörer" },
+      { "a": "weather forecast", "b": "Wettervorhersage" },
+      { "a": "cupboard", "b": "Schrank" },
+      { "a": "advice", "b": "Ratschlag" }
+    ]
+  }
+}

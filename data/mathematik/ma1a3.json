@@ -1,0 +1,70 @@
+{
+  "kompetenz_id": "ma1a3",
+  "kompetenz_code": "MA.1.A.3",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 180,
+    "aufgaben": [
+      {
+        "aufgabe": "7 · (-3) + 5 = ?",
+        "loesung": "-16",
+        "hinweis": "Multipliziere zuerst."
+      },
+      {
+        "aufgabe": "3/4 + 1/8 = ?",
+        "loesung": "0.875",
+        "hinweis": "Bringe die Brüche auf denselben Nenner."
+      },
+      {
+        "aufgabe": "5^2 - 3^2 = ?",
+        "loesung": "16",
+        "hinweis": "Berechne zuerst die Potenzen."
+      },
+      {
+        "aufgabe": "-4 · (-6) = ?",
+        "loesung": "24",
+        "hinweis": "Das Produkt zweier negativer Zahlen ist positiv."
+      },
+      {
+        "aufgabe": "3.6 : 0.6 = ?",
+        "loesung": "6",
+        "hinweis": "Überlege mit einer passenden Erweiterung."
+      },
+      {
+        "aufgabe": "2/3 von 27 = ?",
+        "loesung": "18",
+        "hinweis": "Teile zuerst durch 3."
+      },
+      {
+        "aufgabe": "1.2 + 0.35 = ?",
+        "loesung": "1.55",
+        "hinweis": "Schreibe die Stellenwerte sauber untereinander."
+      },
+      {
+        "aufgabe": "(-8) - 5 = ?",
+        "loesung": "-13",
+        "hinweis": "Subtrahieren heißt weiter nach links gehen."
+      },
+      {
+        "aufgabe": "4^3 = ?",
+        "loesung": "64",
+        "hinweis": "4^3 bedeutet 4 · 4 · 4."
+      },
+      {
+        "aufgabe": "7.5 · 0.4 = ?",
+        "loesung": "3",
+        "hinweis": "Vier Zehntel von 7.5."
+      },
+      {
+        "aufgabe": "45 : 0.5 = ?",
+        "loesung": "90",
+        "hinweis": "Durch 0.5 teilen heißt verdoppeln."
+      },
+      {
+        "aufgabe": "(-3)^2 = ?",
+        "loesung": "9",
+        "hinweis": "Die Klammer gehört zur Potenz."
+      }
+    ]
+  }
+}

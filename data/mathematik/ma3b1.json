@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma3b1",
+  "kompetenz_code": "MA.3.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Situation ist proportional?",
+        "optionen": [
+          "Taxi: 6 CHF Startpreis plus 3 CHF pro km",
+          "5 CHF pro kg Tomaten",
+          "Abo: 20 CHF pro Monat",
+          "30 CHF Eintritt plus 2 CHF Garderobe"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei konstantem Preis pro kg geht die Gerade durch den Ursprung."
+      },
+      {
+        "frage": "Was passiert bei gleicher Strecke mit der benötigten Zeit, wenn die Geschwindigkeit verdoppelt wird?",
+        "optionen": [
+          "Sie verdoppelt sich",
+          "Sie halbiert sich",
+          "Sie bleibt gleich",
+          "Sie vervierfacht sich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zeit und Geschwindigkeit sind bei fester Strecke indirekt proportional."
+      },
+      {
+        "frage": "Woran erkennt man eine lineare Zuordnung mit Grundgebühr?",
+        "optionen": [
+          "Die Werte wachsen unregelmäßig",
+          "Die Gerade geht durch den Ursprung",
+          "Die Werte wachsen in gleichen Schritten, aber nicht ab 0",
+          "Alle Werte sind gleich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Eine lineare Zuordnung mit Grundgebühr hat konstante Zuwächse und einen Startwert."
+      },
+      {
+        "frage": "Was bedeutet der y-Achsenabschnitt im Term y = 2x + 3?",
+        "optionen": [
+          "Die Steigung beträgt 3",
+          "Der Graph beginnt bei y = 3",
+          "Der Graph endet bei 3",
+          "x ist immer 3"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für x = 0 ist y = 3, daher schneidet der Graph dort die y-Achse."
+      },
+      {
+        "frage": "Welche Situation beschreibt eine indirekte Proportionalität?",
+        "optionen": [
+          "Je mehr Karten pro Person, desto mehr Personen",
+          "Je mehr Mitarbeitende, desto weniger Tage für dieselbe Arbeit",
+          "Je mehr Liter, desto höher der Preis pro Liter",
+          "Je höher die Zahl, desto kleiner ihr Quadrat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei gleicher Arbeitsmenge sinkt die benötigte Zeit mit mehr Personen."
+      },
+      {
+        "frage": "Was gilt bei gleichem Kapital für 10 % Zins im Vergleich zu 5 % Zins?",
+        "optionen": [
+          "Der Zins ist halb so groß",
+          "Der Zins ist gleich groß",
+          "Der Zins ist doppelt so groß",
+          "Das Kapital verschwindet"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Doppelt so hoher Zinssatz liefert doppelt so hohen Zins."
+      },
+      {
+        "frage": "Was kennzeichnet eine positive Steigung?",
+        "optionen": [
+          "Der Graph fällt von links nach rechts",
+          "Der Graph steigt von links nach rechts",
+          "Der Graph ist waagrecht",
+          "Der Graph ist immer gekrümmt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei positiver Steigung nimmt y zu, wenn x größer wird."
+      },
+      {
+        "frage": "Wie prüfst du am schnellsten, ob eine Zuordnung proportional ist?",
+        "optionen": [
+          "Du berechnest stets y + x",
+          "Du prüfst, ob y/x konstant ist",
+          "Du schaust nur auf den größten Wert",
+          "Du halbierst alle x-Werte"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei proportionalen Zuordnungen ist der Quotient y/x konstant."
+      }
+    ]
+  }
+}

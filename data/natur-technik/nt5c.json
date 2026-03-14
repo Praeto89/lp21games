@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "nt5c",
+  "kompetenz_code": "NT.5.3",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Passive Bauteile", "Aktive Bauteile", "Sensoren", "Schaltelemente"],
+    "elemente": [
+      { "text": "Widerstand (Festwiderstand)", "kategorie": 0 },
+      { "text": "LED (Leuchtdiode)", "kategorie": 1 },
+      { "text": "Fotowiderstand (LDR)", "kategorie": 2 },
+      { "text": "Reed-Kontakt", "kategorie": 3 },
+      { "text": "Transistor (NPN)", "kategorie": 1 },
+      { "text": "Thermistor (NTC)", "kategorie": 2 },
+      { "text": "Diode", "kategorie": 1 },
+      { "text": "Relais", "kategorie": 3 },
+      { "text": "Kondensator", "kategorie": 0 },
+      { "text": "Bimetallschalter", "kategorie": 3 },
+      { "text": "Potentiometer (variabler Widerstand)", "kategorie": 0 },
+      { "text": "Fotodiode", "kategorie": 2 }
+    ]
+  }
+}

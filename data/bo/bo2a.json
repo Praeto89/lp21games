@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "bo2a",
+  "kompetenz_code": "BO.2.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Informations- und Beratungsquelle",
+      "Ausbildung auf Sekundarstufe II",
+      "Weiterbildung oder Anschluss",
+      "Zwischenlösung oder Unterstützung"
+    ],
+    "elemente": [
+      { "text": "Berufsinformationszentrum (BIZ)", "kategorie": 0 },
+      { "text": "berufsberatung.ch", "kategorie": 0 },
+      { "text": "Berufsmesse", "kategorie": 0 },
+      { "text": "Informationsveranstaltung einer Schule oder eines Betriebs", "kategorie": 0 },
+      { "text": "Lehre mit EFZ", "kategorie": 1 },
+      { "text": "Lehre mit EBA", "kategorie": 1 },
+      { "text": "Gymnasium", "kategorie": 1 },
+      { "text": "Fachmittelschule", "kategorie": 1 },
+      { "text": "Berufsmaturität", "kategorie": 2 },
+      { "text": "Höhere Fachschule", "kategorie": 2 },
+      { "text": "Fachhochschule", "kategorie": 2 },
+      { "text": "Brückenangebot", "kategorie": 3 }
+    ]
+  }
+}

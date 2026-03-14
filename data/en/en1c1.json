@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en1c1",
+  "kompetenz_code": "FS1E.1.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "You hear: 'Could you turn the music down?' What is the best German meaning?",
+        "optionen": [
+          "Kannst du die Musik lauter machen?",
+          "Kannst du die Musik leiser machen?",
+          "Kannst du die Musik ausschalten und wegtragen?",
+          "Kannst du zur Musik tanzen?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Turn the music down' bedeutet, die Lautstärke zu reduzieren."
+      },
+      {
+        "frage": "You hear: 'The library will close in ten minutes.' What is meant?",
+        "optionen": [
+          "Die Bibliothek öffnet in zehn Minuten.",
+          "Die Bibliothek zieht in zehn Minuten um.",
+          "Die Bibliothek schliesst in zehn Minuten.",
+          "Die Bibliothek bleibt zehn Minuten länger offen."
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Aussage nennt klar das baldige Schliessen der Bibliothek."
+      },
+      {
+        "frage": "You hear: 'Don't forget to charge your laptop tonight.' Which German sentence fits best?",
+        "optionen": [
+          "Vergiss nicht, heute Abend deinen Laptop aufzuladen.",
+          "Vergiss nicht, heute Abend deinen Laptop zu verkaufen.",
+          "Vergiss nicht, heute Abend deinen Laptop auszuschalten.",
+          "Vergiss nicht, heute Abend deinen Laptop zu reparieren."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'To charge' heisst 'aufladen'."
+      },
+      {
+        "frage": "You hear: 'My cousin has just moved to London.' What is the best German meaning?",
+        "optionen": [
+          "Mein Cousin reist nächsten Monat nach London.",
+          "Mein Cousin ist gerade nach London gezogen.",
+          "Mein Cousin studiert schon lange in London.",
+          "Mein Cousin arbeitet heute in London."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Has just moved' beschreibt einen gerade erfolgten Umzug."
+      },
+      {
+        "frage": "You hear: 'The tickets were sold out before noon.' What does this mean?",
+        "optionen": [
+          "Die Tickets wurden erst nach Mittag verkauft.",
+          "Die Tickets waren vor Mittag ausverkauft.",
+          "Die Tickets kosteten am Mittag mehr.",
+          "Die Tickets konnten nur am Mittag gekauft werden."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Sold out' bedeutet 'ausverkauft'."
+      },
+      {
+        "frage": "You hear: 'You are not allowed to use your phone during the exam.' What is the message in German?",
+        "optionen": [
+          "Du sollst dein Handy während der Prüfung aufladen.",
+          "Du darfst dein Handy während der Prüfung nicht benutzen.",
+          "Du musst dein Handy während der Prüfung abgeben und danach kaufen.",
+          "Du kannst während der Prüfung am Handy nachschauen."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Are not allowed' drückt ein Verbot aus."
+      },
+      {
+        "frage": "You hear: 'The bus was delayed because of heavy rain.' Which German sentence is correct?",
+        "optionen": [
+          "Der Bus fuhr früher los, weil es stark regnete.",
+          "Der Bus hatte wegen starken Regens Verspätung.",
+          "Der Bus wurde gereinigt, weil es regnete.",
+          "Der Bus war leer, weil es stark regnete."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Was delayed' bedeutet, dass sich die Abfahrt oder Ankunft verspätet hat."
+      },
+      {
+        "frage": "You hear: 'She would rather stay at home than go out.' What is the best German meaning?",
+        "optionen": [
+          "Sie bleibt lieber zu Hause, als auszugehen.",
+          "Sie muss heute Abend unbedingt ausgehen.",
+          "Sie darf heute Abend nicht nach Hause.",
+          "Sie möchte zuerst einkaufen gehen."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Would rather' heisst 'lieber'."
+      }
+    ]
+  }
+}

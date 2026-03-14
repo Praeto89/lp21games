@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de2b1",
+  "kompetenz_code": "D.2.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "In einer Tabelle steht: Montag 12 Besucher, Dienstag 18, Mittwoch 15, Donnerstag 21. Welche Aussage stimmt?",
+        "optionen": [
+          "Am Dienstag waren am wenigsten Besucher da",
+          "Am Donnerstag waren die meisten Besucher da",
+          "Am Mittwoch kamen mehr Besucher als am Donnerstag",
+          "Montag und Dienstag hatten gleich viele Besucher"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Tabelle zeigt Donnerstag mit 21 als höchsten Wert."
+      },
+      {
+        "frage": "In einer Anleitung steht: \"Zuerst Wasser erhitzen, dann Tee fünf Minuten ziehen lassen, erst danach Zucker zugeben.\" Wann kommt der Zucker dazu?",
+        "optionen": [
+          "Vor dem Erhitzen",
+          "Während das Wasser noch kalt ist",
+          "Nach dem Ziehenlassen",
+          "Gar nicht"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Reihenfolge im Sachtext gibt klar an, dass Zucker erst danach hinzugefügt wird."
+      },
+      {
+        "frage": "Ein Artikel beschreibt ein Schulprojekt und daneben zeigt ein Foto Schülerinnen beim Pflanzen von Bäumen. Was kann das Foto im Sachtext leisten?",
+        "optionen": [
+          "Es ersetzt den ganzen Text",
+          "Es veranschaulicht die beschriebene Aktion",
+          "Es beweist, dass alle Aussagen falsch sind",
+          "Es ist nur Dekoration ohne Zusammenhang"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bilder und Text hängen zusammen und unterstützen das Verständnis."
+      },
+      {
+        "frage": "In einem Internetartikel steht: \"Mehrwegflaschen sparen Rohstoffe, weil sie mehrfach benutzt werden.\" Welche Kernaussage lässt sich entnehmen?",
+        "optionen": [
+          "Mehrwegflaschen sind schwerer als Einwegflaschen",
+          "Mehrwegflaschen schonen Ressourcen",
+          "Rohstoffe sind unwichtig",
+          "Flaschen können nur einmal verwendet werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Aussage verbindet Wiederverwendung direkt mit dem Sparen von Rohstoffen."
+      },
+      {
+        "frage": "Eine Grafik zeigt: Veloweg 35 %, Bus 25 %, Auto 20 %, zu Fuss 20 %. Welches Verkehrsmittel wird am häufigsten genutzt?",
+        "optionen": [
+          "Auto",
+          "Bus",
+          "Veloweg bzw. Velo",
+          "Zu Fuss"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Der grösste Anteil in der Grafik liegt beim Velo mit 35 %."
+      },
+      {
+        "frage": "Woran erkennst du in einem Sachtext am ehesten eine Meinung?",
+        "optionen": [
+          "An einer überprüfbaren Zahl",
+          "An einer wertenden Aussage wie \"die beste Lösung\"",
+          "An einer Tabellenüberschrift",
+          "An einem Quellennachweis"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wertende Formulierungen zeigen eher eine Meinung als eine überprüfbare Information."
+      },
+      {
+        "frage": "Ein Text und ein Diagramm behandeln denselben Schulweg. Warum ist es sinnvoll, beide zusammen zu lesen?",
+        "optionen": [
+          "Weil das Diagramm nur schöner aussieht",
+          "Weil Text und Diagramm unterschiedliche Informationen verknüpfen können",
+          "Weil Diagramme immer wichtiger sind als Texte",
+          "Weil Texte nie vollständig sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sachtexte enthalten oft Informationen in verschiedenen Darstellungsformen, die zusammengehören."
+      },
+      {
+        "frage": "Welcher Arbeitsschritt hilft dir, aus einem Sachtext eine eigene Meinung zu bilden?",
+        "optionen": [
+          "Nur die Überschrift lesen",
+          "Wichtige Aussagen prüfen und mit eigenem Wissen vergleichen",
+          "Alle schwierigen Begriffe ignorieren",
+          "Nur Bilder anschauen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine begründete eigene Meinung entsteht, wenn man Aussagen versteht und einordnet."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt9b",
+  "kompetenz_code": "NT.9.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was versteht man unter Lebensraumzerschneidung?",
+        "optionen": [
+          "Die Aufteilung zusammenhängender Lebensräume durch Strassen, Siedlungen oder Zäune",
+          "Das natürliche Entstehen neuer Lebensräume",
+          "Die Verbindung zweier Ökosysteme durch einen Korridor",
+          "Die Vergrösserung eines Naturschutzgebiets"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Lebensraumzerschneidung trennt Populationen voneinander, erschwert Wanderungen und verringert die genetische Vielfalt."
+      },
+      {
+        "frage": "Welche Rolle spielt der Boden in einem terrestrischen Ökosystem?",
+        "optionen": [
+          "Er ist Lebensraum, Wasserspeicher und Nährstofflieferant zugleich",
+          "Er dient nur als feste Unterlage für Pflanzen",
+          "Er hat keine Bedeutung für das Ökosystem",
+          "Er besteht nur aus Gestein und Sand"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Boden ist ein komplexes System aus Mineralien, Wasser, Luft und Lebewesen. Er speichert Wasser, liefert Nährstoffe und beherbergt zahllose Organismen."
+      },
+      {
+        "frage": "Warum ist der pH-Wert des Bodens für Pflanzen wichtig?",
+        "optionen": [
+          "Weil er die Verfügbarkeit von Nährstoffen beeinflusst",
+          "Weil er die Bodenfarbe bestimmt",
+          "Weil er den Wind beeinflusst",
+          "Weil er die Temperatur des Bodens regelt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der pH-Wert bestimmt, welche Nährstoffe gelöst und von Pflanzen aufgenommen werden können. Manche Pflanzen bevorzugen saure, andere basische Böden."
+      },
+      {
+        "frage": "Was zeigt ein Bodenprofil?",
+        "optionen": [
+          "Die verschiedenen Schichten (Horizonte) des Bodens von der Oberfläche bis zum Gestein",
+          "Nur die Farbe des Bodens",
+          "Die Temperatur in verschiedenen Tiefen",
+          "Die Pflanzenarten an der Oberfläche"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Bodenprofil zeigt die Schichtung: Humus (O-Horizont), Oberboden (A-Horizont), Unterboden (B-Horizont) und Ausgangsgestein (C-Horizont)."
+      },
+      {
+        "frage": "Welche Wechselwirkung besteht zwischen Pilzen und Baumwurzeln (Mykorrhiza)?",
+        "optionen": [
+          "Eine Symbiose: Der Pilz liefert Wasser und Mineralien, der Baum liefert Zucker",
+          "Der Pilz ist ein Parasit und schadet dem Baum",
+          "Es gibt keine Wechselwirkung",
+          "Der Baum frisst den Pilz"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mykorrhiza ist eine Symbiose: Das Pilzgeflecht vergrössert die Aufnahmefläche der Wurzeln für Wasser und Mineralien, während der Baum dem Pilz Zucker liefert."
+      },
+      {
+        "frage": "Was sind Destruenten und welche Rolle spielen sie?",
+        "optionen": [
+          "Zersetzer wie Bakterien und Pilze, die totes Material abbauen und Nährstoffe recyceln",
+          "Tiere, die andere Tiere jagen",
+          "Pflanzen, die Photosynthese betreiben",
+          "Steine, die den Boden stabilisieren"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Destruenten (Zersetzer) bauen organisches Material ab und führen die Nährstoffe dem Boden zu, wodurch der Stoffkreislauf geschlossen wird."
+      },
+      {
+        "frage": "Was versteht man unter nachhaltiger Bodennutzung?",
+        "optionen": [
+          "Bewirtschaftung, die den Boden langfristig fruchtbar und gesund erhält",
+          "Möglichst viel Dünger verwenden",
+          "Den Boden nur einmal nutzen und dann aufgeben",
+          "Den Boden komplett versiegeln"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nachhaltige Bodennutzung schont die Bodenfruchtbarkeit durch Fruchtwechsel, Zwischenbegrünung und massvollen Düngereinsatz."
+      },
+      {
+        "frage": "Welcher Faktor beschleunigt die Bodenerosion am stärksten?",
+        "optionen": [
+          "Das Entfernen der Pflanzendecke an Hängen",
+          "Das Pflanzen von Bäumen",
+          "Das Anlegen von Terrassen",
+          "Natürliche Mulchschichten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ohne Pflanzendecke fehlen Wurzeln, die den Boden festhalten. Wind und Wasser können den ungeschützten Boden dann leicht abtragen."
+      }
+    ]
+  }
+}

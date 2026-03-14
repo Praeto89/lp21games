@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ma1c1",
+  "kompetenz_code": "MA.1.C.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte zum Lösen von 3x + 5 = 20.",
+        "elemente": [
+          "5 von beiden Seiten abziehen",
+          "3x = 15 notieren",
+          "durch 3 teilen",
+          "x = 5 prüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für 1/4 + 1/2.",
+        "elemente": [
+          "gemeinsamen Nenner 4 wählen",
+          "1/2 in 2/4 umschreiben",
+          "Zähler addieren",
+          "3/4 notieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für 25 % von 80.",
+        "elemente": [
+          "100 % = 80 notieren",
+          "10 % = 8 bestimmen",
+          "5 % = 4 bestimmen",
+          "25 % = 20 zusammenfassen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um aus der Folge 4, 7, 10, 13 einen Term zu finden.",
+        "elemente": [
+          "Zuwachs +3 erkennen",
+          "erste Zahl mit n = 1 verbinden",
+          "Term 3n + 1 aufstellen",
+          "mit n = 4 prüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um negative Zahlen zu ordnen.",
+        "elemente": [
+          "Zahlen am Zahlenstrahl markieren",
+          "Lage links und rechts vergleichen",
+          "von klein nach groß ordnen",
+          "Ergebnis notieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Lösen von 2(x - 1) = 8.",
+        "elemente": [
+          "beide Seiten durch 2 teilen",
+          "x - 1 = 4 notieren",
+          "1 addieren",
+          "x = 5 prüfen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um 3 200 000 in wissenschaftliche Schreibweise zu bringen.",
+        "elemente": [
+          "Dezimalpunkt nach die erste Ziffer setzen",
+          "3.2 notieren",
+          "Anzahl Verschiebungen zählen",
+          "3.2 · 10^6 schreiben"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für 2^3 · 2^2.",
+        "elemente": [
+          "gleiche Basis erkennen",
+          "Exponenten addieren",
+          "2^5 notieren",
+          "Wert 32 berechnen"
+        ]
+      }
+    ]
+  }
+}

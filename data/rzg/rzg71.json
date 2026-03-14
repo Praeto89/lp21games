@@ -1,0 +1,38 @@
+{
+    "kompetenz_id":  "rzg71",
+    "kompetenz_code":  "RZG.7.1",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne die Schritte, um einen historischen Lernort sinnvoll zu nutzen.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Eine Forschungsfrage zum historischen Ort formulieren"
+                                                          },
+                                                          {
+                                                              "text":  "Vorab Informationen und einen Lageplan sammeln"
+                                                          },
+                                                          {
+                                                              "text":  "Am Ort den Standort und wichtige Punkte markieren"
+                                                          },
+                                                          {
+                                                              "text":  "Ein Denkmal oder Objekt genau beobachten"
+                                                          },
+                                                          {
+                                                              "text":  "Notizen, Skizzen oder Fotos anfertigen"
+                                                          },
+                                                          {
+                                                              "text":  "Mit Tafeln oder Quellen klÃ¤ren, woran der Ort erinnert"
+                                                          },
+                                                          {
+                                                              "text":  "Eine kurze FÃ¼hrung zu ausgewÃ¤hlten Stationen vorbereiten"
+                                                          },
+                                                          {
+                                                              "text":  "Die Ergebnisse der Klasse prÃ¤sentieren"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

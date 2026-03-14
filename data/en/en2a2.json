@@ -1,0 +1,57 @@
+{
+  "kompetenz_id": "en2a2",
+  "kompetenz_code": "FS1E.2.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Read the sentence: 'The wind whispered through the empty street.' What effect does this image create?",
+        "optionen": ["It makes the street feel calm or eerie", "It explains a scientific fact", "It turns the street into a classroom", "It removes all atmosphere"],
+        "korrekt": 0,
+        "erklaerung": "Die Personifikation des Windes erzeugt eine stimmungsvolle, leicht unheimliche Szene."
+      },
+      {
+        "frage": "In a poem, the words 'again and again' are repeated. What is the main effect?",
+        "optionen": ["The text becomes shorter", "The repetition emphasises the idea", "The meaning disappears", "The poem changes into a report"],
+        "korrekt": 1,
+        "erklaerung": "Wiederholung verstärkt eine Aussage und macht sie einprägsam."
+      },
+      {
+        "frage": "Why can the short sentence 'Then the lights went out.' feel dramatic in a story?",
+        "optionen": ["Because it slows the plot completely", "Because short sentences can create sudden tension", "Because it explains the weather", "Because it turns the story into a dialogue"],
+        "korrekt": 1,
+        "erklaerung": "Kurze Sätze wirken oft abrupt und erhöhen die Spannung."
+      },
+      {
+        "frage": "Read: 'Her smile was as bright as glass in the sun.' Which stylistic device is used?",
+        "optionen": ["A simile", "A timetable", "A command", "A question tag"],
+        "korrekt": 0,
+        "erklaerung": "Das Signalwort 'as ... as' zeigt einen Vergleich, also eine Simile."
+      },
+      {
+        "frage": "What effect can rhyme have in a poem?",
+        "optionen": ["It makes the text sound more musical", "It removes all rhythm", "It makes every poem factual", "It hides the last line"],
+        "korrekt": 0,
+        "erklaerung": "Reime unterstützen Klang, Rhythmus und Merkbarkeit."
+      },
+      {
+        "frage": "Read: 'It was a golden summer evening.' Which mood do the adjectives create?",
+        "optionen": ["Cold and unfriendly", "Warm and positive", "Angry and loud", "Strictly formal"],
+        "korrekt": 1,
+        "erklaerung": "'Golden' und 'summer' schaffen eine warme, angenehme Stimmung."
+      },
+      {
+        "frage": "Read: 'Everyone laughed. Mia stared at the floor.' What does this contrast highlight?",
+        "optionen": ["That Mia feels included", "That the room is empty", "That Mia seems isolated or uncomfortable", "That the story takes place outdoors"],
+        "korrekt": 2,
+        "erklaerung": "Der Gegensatz zwischen der Gruppe und Mia macht ihre Unsicherheit sichtbar."
+      },
+      {
+        "frage": "If a text is told in the first person with 'I', what effect is common?",
+        "optionen": ["The reader feels closer to the narrator", "The text becomes less personal", "The story loses all feelings", "The narrator knows nothing"],
+        "korrekt": 0,
+        "erklaerung": "Die Ich-Perspektive schafft meist Nähe zu Gedanken und Gefühlen der erzählenden Figur."
+      }
+    ]
+  }
+}

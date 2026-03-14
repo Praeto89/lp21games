@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg61",
+    "kompetenz_code":  "RZG.6.1",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne zentrale Ereignisse vom Beginn der Neuzeit bis heute.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Kolumbus erreicht Amerika",
+                                                              "jahr":  "1492"
+                                                          },
+                                                          {
+                                                              "text":  "Luther verÃ¶ffentlicht seine 95 Thesen",
+                                                              "jahr":  "1517"
+                                                          },
+                                                          {
+                                                              "text":  "UnabhÃ¤ngigkeitserklÃ¤rung der USA",
+                                                              "jahr":  "1776"
+                                                          },
+                                                          {
+                                                              "text":  "Beginn der FranzÃ¶sischen Revolution",
+                                                              "jahr":  "1789"
+                                                          },
+                                                          {
+                                                              "text":  "Wiener Kongress",
+                                                              "jahr":  "1815"
+                                                          },
+                                                          {
+                                                              "text":  "Beginn des Ersten Weltkriegs",
+                                                              "jahr":  "1914"
+                                                          },
+                                                          {
+                                                              "text":  "Ende des Zweiten Weltkriegs und GrÃ¼ndung der UNO",
+                                                              "jahr":  "1945"
+                                                          },
+                                                          {
+                                                              "text":  "Fall der Berliner Mauer",
+                                                              "jahr":  "1989"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

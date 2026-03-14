@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de5a1",
+  "kompetenz_code": "D.5.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Ersatzprobe", "Verschiebeprobe", "Erweiterungsprobe", "Weglassprobe"],
+    "elemente": [
+      { "text": "\"Der Hund\" wird durch \"er\" ersetzt.", "kategorie": 0 },
+      { "text": "\"interessant\" wird durch \"spannend\" ersetzt.", "kategorie": 0 },
+      { "text": "\"in der Schule\" wird durch \"dort\" ersetzt.", "kategorie": 0 },
+      { "text": "Die Wortgruppe \"am Nachmittag\" wird an den Satzanfang gestellt.", "kategorie": 1 },
+      { "text": "Das Objekt wird im Satz vorgezogen, um die Satzstruktur zu prüfen.", "kategorie": 1 },
+      { "text": "Ein Nebensatz wird testweise nach hinten verschoben.", "kategorie": 1 },
+      { "text": "Zum Nomen wird ein Adjektiv ergänzt: \"der Ball\" -> \"der rote Ball\".", "kategorie": 2 },
+      { "text": "Ein Satz wird mit einer genaueren Ortsangabe ergänzt.", "kategorie": 2 },
+      { "text": "Zu einem Verb wird testweise eine Ergänzung hinzugefügt.", "kategorie": 2 },
+      { "text": "Ein Adjektiv wird gestrichen, um zu prüfen, ob der Satz grammatisch bleibt.", "kategorie": 3 },
+      { "text": "Eine Wortgruppe wird weggelassen, um den Kern des Satzes zu erkennen.", "kategorie": 3 },
+      { "text": "Ein Einschub wird entfernt, um die Grundstruktur zu prüfen.", "kategorie": 3 }
+    ]
+  }
+}

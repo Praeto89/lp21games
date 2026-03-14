@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de1b1",
+  "kompetenz_code": "D.1.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "In der Durchsage heisst es: \"Der Treffpunkt für den Ausflug ist um 8.10 Uhr beim Bahnhof. Bitte Regenjacke mitnehmen.\" Welche Information ist für deine Vorbereitung am wichtigsten?",
+        "optionen": [
+          "Dass der Ausflug wahrscheinlich langweilig wird",
+          "Zeit, Ort und was man mitbringen muss",
+          "Dass die Lehrperson die Jacke schön findet",
+          "Dass man erst um 9.00 Uhr losgeht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wichtige Informationen aus Hörtexten sind hier Treffpunkt, Uhrzeit und Material."
+      },
+      {
+        "frage": "Eine Lehrperson sagt: \"Lest zuerst Seite 14, markiert zwei Fachbegriffe und besprecht sie danach zu zweit.\" Was ist der zweite Auftrag?",
+        "optionen": [
+          "Zu zweit besprechen",
+          "Seite 14 lesen",
+          "Zwei Fachbegriffe markieren",
+          "Ein Plakat gestalten"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Der Auftrag ist mehrteilig. Nach dem Lesen folgt das Markieren der Fachbegriffe."
+      },
+      {
+        "frage": "Du hörst in einem Podcast viele Zahlen und Namen. Welche Strategie hilft am besten, die wichtigsten Informationen festzuhalten?",
+        "optionen": [
+          "Alles wortwörtlich mitschreiben",
+          "Nur am Schluss zuhören",
+          "Stichwörter zu Personen, Daten und Orten notieren",
+          "Auf schwierige Wörter ganz verzichten"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Stichwörter helfen, zentrale Informationen aus einem Hörtext gezielt zu sichern."
+      },
+      {
+        "frage": "In einer Radiosendung wird erklärt, wie man einen Veloreifen flickt. Welche Information ist besonders wichtig, wenn du den Auftrag später ausführen willst?",
+        "optionen": [
+          "Welche Musik im Hintergrund lief",
+          "Die Reihenfolge der Arbeitsschritte",
+          "Die Stimme des Sprechers",
+          "Ob die Sendung live war"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Anleitungen ist die Reihenfolge entscheidend, damit die Aufgabe korrekt ausgeführt werden kann."
+      },
+      {
+        "frage": "Während eines Vortrags verstehst du einen wichtigen Begriff nicht. Was ist in Bezug auf Hörverstehen sinnvoll?",
+        "optionen": [
+          "Den Rest des Vortrags ignorieren",
+          "Die Lücke markieren und später nachfragen oder nachschlagen",
+          "Sofort die Klasse unterbrechen, egal an welcher Stelle",
+          "Annehmen, dass der Begriff sicher unwichtig ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Fehlende Informationen soll man erkennen und mit passenden Hilfsmitteln klären."
+      },
+      {
+        "frage": "Ein Nachrichtentext berichtet über ein Unwetter. Welche Notiz zeigt, dass du die Kernaussage verstanden hast?",
+        "optionen": [
+          "Der Sprecher hatte eine tiefe Stimme",
+          "Viele Regionen mussten wegen starkem Regen Strassen sperren",
+          "Das Studio war modern eingerichtet",
+          "Die Sendung dauerte genau sieben Minuten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Kernaussage fasst die zentrale Information des Hörtextes zusammen."
+      },
+      {
+        "frage": "Warum ist es bei mehrteiligen Hör-Aufträgen hilfreich, Signalwörter wie \"zuerst\", \"danach\" und \"zum Schluss\" zu beachten?",
+        "optionen": [
+          "Weil sie lustig klingen",
+          "Weil sie die Reihenfolge der Informationen markieren",
+          "Weil sie nur in Märchen vorkommen",
+          "Weil sie Fremdwörter ersetzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Signalwörter helfen, die Struktur eines Hörtextes zu erkennen."
+      },
+      {
+        "frage": "In einem Erklärvideo wird ein Experiment vorgestellt. Welche Frage passt am besten zum genauen Zuhören?",
+        "optionen": [
+          "Welche Marke hat die Kamera?",
+          "Welche Materialien werden benötigt und was passiert in welchem Schritt?",
+          "Wie alt ist die Person im Video?",
+          "Wie viele Klicks hat das Video?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für das Verstehen sind die Materialien und die Abfolge der Schritte entscheidend."
+      }
+    ]
+  }
+}

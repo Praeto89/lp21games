@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de3a1",
+  "kompetenz_code": "D.3.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Aussage beschreibt Standardsprache am besten?",
+        "optionen": [
+          "Eine Sprache, die nur in Büchern vorkommt",
+          "Eine überregionale Sprachform, die im Unterricht und in Präsentationen passend ist",
+          "Nur die Sprache von Nachrichtensprechern",
+          "Eine Geheimsprache für Erwachsene"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Standardsprache ist die gemeinsame Sprachform für viele öffentliche und schulische Situationen."
+      },
+      {
+        "frage": "Was hilft der Artikulation in einem Vortrag besonders?",
+        "optionen": [
+          "Möglichst leise sprechen",
+          "Deutlich sprechen und Endungen nicht verschlucken",
+          "Ganz ohne Pausen sprechen",
+          "Nur in Stichwörtern reden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Deutliche Artikulation macht Beiträge verständlich."
+      },
+      {
+        "frage": "Warum sind Sprechpausen sinnvoll?",
+        "optionen": [
+          "Weil man dann nichts mehr sagen muss",
+          "Weil sie das Verstehen erleichtern und Gedanken gliedern",
+          "Weil man dadurch schneller wirkt",
+          "Weil sie nur in Gedichten erlaubt sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Pausen helfen, Inhalte zu strukturieren und verständlich zu präsentieren."
+      },
+      {
+        "frage": "Welche Formulierung passt am besten zu einer Präsentation in der Schule?",
+        "optionen": [
+          "\"Ey, das ist voll krass, oder so.\"",
+          "\"Ich möchte euch nun die wichtigsten Ergebnisse zeigen.\"",
+          "\"Keine Ahnung, schaut halt selber.\"",
+          "\"Bro, das Thema ist easy.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für Präsentationen ist eine klare und angemessene Standardsprache passend."
+      },
+      {
+        "frage": "Was bedeutet es, die Stimme angemessen zu führen?",
+        "optionen": [
+          "Immer gleich laut und gleich schnell zu sprechen",
+          "Lautstärke, Tempo und Betonung der Situation anzupassen",
+          "Nur zu flüstern",
+          "Nur einzelne Wörter besonders laut zu sagen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Stimmführung hängt von Situation, Raum und Ziel des Sprechens ab."
+      },
+      {
+        "frage": "Welche Aussage zeigt einen passenden produktiven Wortschatz?",
+        "optionen": [
+          "\"Das Ding dort macht halt so Zeug.\"",
+          "\"Das Experiment zeigt, wie sich Wärme auf die Flüssigkeit auswirkt.\"",
+          "\"Ähm, ja, also, irgendwie halt.\"",
+          "\"Ich sage lieber gar nichts.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein passender Wortschatz macht Inhalte präzise und verständlich."
+      },
+      {
+        "frage": "Warum ist flüssiges Sprechen wichtig?",
+        "optionen": [
+          "Weil Unterbrüche immer Fehler sind",
+          "Weil Zuhörende dem Gedanken besser folgen können",
+          "Weil man dann automatisch recht hat",
+          "Weil Standardsprache keine Pausen erlaubt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Flüssiges Sprechen unterstützt Verständlichkeit und Wirkung."
+      },
+      {
+        "frage": "Welche Situation verlangt besonders bewusst eingesetzte Standardsprache?",
+        "optionen": [
+          "Ein lockeres Gespräch mit engen Freunden in der Pause",
+          "Ein vorbereiteter Podcast für die Schulhomepage",
+          "Ein privater Chat mit einer Freundin",
+          "Ein Witz unter Geschwistern zuhause"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Öffentliche und vorbereitete Sprechsituationen verlangen eine angemessene Standardsprache."
+      }
+    ]
+  }
+}

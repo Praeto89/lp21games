@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "fr3b1",
+  "kompetenz_code": "FS2F.3.B.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Bonjour, je m'appelle {Nora} et j'ai {treize} ans.",
+        "hinweise": ["Vorname", "Alter in Worten"],
+        "anweisung": "Ergänze wichtige Bausteine für eine kurze persönliche Vorstellung."
+      },
+      {
+        "text": "J'habite à {Baar} et je vais au {collège}.",
+        "hinweise": ["Wohnort", "Schulstufe"],
+        "anweisung": "Ergänze die Orts- und Schulangabe."
+      },
+      {
+        "text": "Après l'école, je joue souvent au {basket} avec mes amis.",
+        "hinweise": ["Sportart"],
+        "anweisung": "Ergänze eine Aktivität für einen zusammenhängenden Satz."
+      },
+      {
+        "text": "Le week-end, j'aime {lire} parce que cela me {détend}.",
+        "hinweise": ["Hobby im Infinitiv", "Wirkung des Hobbys"],
+        "anweisung": "Vervollständige den Satz mit einer passenden Begründung."
+      },
+      {
+        "text": "D'abord, je fais mes devoirs; ensuite, je {prépare} mon sac.",
+        "hinweise": ["Tätigkeit nach ensuite"],
+        "anweisung": "Ergänze einen Satz mit einer logischen Reihenfolge."
+      },
+      {
+        "text": "Dans ma chambre, il y a un {bureau} et une grande {étagère}.",
+        "hinweise": ["Möbelstück", "zweites Möbelstück"],
+        "anweisung": "Fülle die Lücken mit passenden Wörtern aus einem Zimmerbeschrieb."
+      },
+      {
+        "text": "Mon plat préféré est la {pizza} parce qu'elle est {délicieuse}.",
+        "hinweise": ["Gericht", "Adjektiv"],
+        "anweisung": "Ergänze einen kurzen Meinungssatz."
+      },
+      {
+        "text": "Pour venir chez moi, tu prends le {bus} puis tu tournes à {gauche}.",
+        "hinweise": ["Verkehrsmittel", "Richtung"],
+        "anweisung": "Ergänze eine einfache Wegbeschreibung."
+      }
+    ]
+  }
+}

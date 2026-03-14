@@ -1,0 +1,65 @@
+{
+  "kompetenz_id": "mu6b",
+  "kompetenz_code": "MU.6.B.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "Singstimme",
+      "Streichinstrument",
+      "Blasinstrument",
+      "Tasten- und Schlaginstrument"
+    ],
+    "elemente": [
+      {
+        "text": "Sopran",
+        "emoji": "🎤",
+        "kategorie": 0
+      },
+      {
+        "text": "Alt",
+        "emoji": "🎤",
+        "kategorie": 0
+      },
+      {
+        "text": "Tenor",
+        "emoji": "🎤",
+        "kategorie": 0
+      },
+      {
+        "text": "Bass",
+        "emoji": "🎤",
+        "kategorie": 0
+      },
+      {
+        "text": "Geige",
+        "emoji": "🎻",
+        "kategorie": 1
+      },
+      {
+        "text": "Cello",
+        "emoji": "🎻",
+        "kategorie": 1
+      },
+      {
+        "text": "Trompete",
+        "emoji": "🎺",
+        "kategorie": 2
+      },
+      {
+        "text": "Klarinette",
+        "emoji": "🎶",
+        "kategorie": 2
+      },
+      {
+        "text": "Klavier",
+        "emoji": "🎹",
+        "kategorie": 3
+      },
+      {
+        "text": "Schlagzeug",
+        "emoji": "🥁",
+        "kategorie": 3
+      }
+    ]
+  }
+}

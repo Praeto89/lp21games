@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "fr1c1",
+  "kompetenz_code": "FS2F.1.C.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "Le bus arrive dans cinq minutes.", "b": "Der Bus kommt in fünf Minuten." },
+      { "a": "Apporte ton cahier rouge, s'il te plaît.", "b": "Bring bitte dein rotes Heft mit." },
+      { "a": "La réunion commence après la pause.", "b": "Die Besprechung beginnt nach der Pause." },
+      { "a": "On se retrouve devant le gymnase.", "b": "Wir treffen uns vor der Turnhalle." },
+      { "a": "Il faut rendre le livre avant vendredi.", "b": "Das Buch muss vor Freitag abgegeben werden." },
+      { "a": "Le match est annulé à cause de la pluie.", "b": "Das Spiel ist wegen des Regens abgesagt." },
+      { "a": "Votre table est près de la fenêtre.", "b": "Ihr Tisch ist in der Nähe des Fensters." },
+      { "a": "Le musée ferme à dix-sept heures.", "b": "Das Museum schliesst um 17 Uhr." }
+    ]
+  }
+}

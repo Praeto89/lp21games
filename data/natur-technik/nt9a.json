@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "nt9a",
+  "kompetenz_code": "NT.9.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Abiotische Faktoren", "Biotische Faktoren", "Leitorganismen (gute Wasserqualität)", "Leitorganismen (schlechte Wasserqualität)"],
+    "elemente": [
+      { "text": "Wassertemperatur", "kategorie": 0 },
+      { "text": "Strömungsgeschwindigkeit", "kategorie": 0 },
+      { "text": "pH-Wert des Wassers", "kategorie": 0 },
+      { "text": "Sauerstoffgehalt", "kategorie": 0 },
+      { "text": "Konkurrenz zwischen Fischarten um Nahrung", "kategorie": 1 },
+      { "text": "Räuber-Beute-Beziehung (Hecht frisst Rotauge)", "kategorie": 1 },
+      { "text": "Nahrungskette: Alge → Wasserfloh → Fisch", "kategorie": 1 },
+      { "text": "Eintagsfliegenlarve (Ephemeroptera)", "kategorie": 2 },
+      { "text": "Steinfliegenlarve (Plecoptera)", "kategorie": 2 },
+      { "text": "Bachflohkrebs (Gammarus)", "kategorie": 2 },
+      { "text": "Schlammröhrenwurm (Tubifex)", "kategorie": 3 },
+      { "text": "Rattenschwanzlarve (Eristalis)", "kategorie": 3 }
+    ]
+  }
+}

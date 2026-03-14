@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma1c2",
+  "kompetenz_code": "MA.1.C.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welcher Term beschreibt die Folge 3, 6, 9, 12, ... bei n = 1, 2, 3, 4?",
+        "optionen": [
+          "n + 3",
+          "2n + 1",
+          "3n",
+          "3n - 1"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Jeder Folgewert ist das Dreifache der Positionsnummer."
+      },
+      {
+        "frage": "Ein Muster startet mit 4 Kästchen und wächst pro Stufe um 3 Kästchen. Welcher Term passt?",
+        "optionen": [
+          "3n + 1",
+          "4n",
+          "n + 3",
+          "3n - 3"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei n = 1 ergibt 3n + 1 genau 4 Kästchen."
+      },
+      {
+        "frage": "Was bleibt bei einer arithmetischen Folge immer gleich?",
+        "optionen": [
+          "Der Quotient zweier Nachbarzahlen",
+          "Die Differenz zweier Nachbarzahlen",
+          "Die erste Zahl",
+          "Die Anzahl Glieder"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei einer arithmetischen Folge ist die Differenz konstant."
+      },
+      {
+        "frage": "Wie kann man alle geraden Zahlen mit einem Term darstellen?",
+        "optionen": [
+          "2n",
+          "2n + 1",
+          "n/2",
+          "n + 2"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Alle geraden Zahlen sind Vielfache von 2."
+      },
+      {
+        "frage": "Was bedeutet die Variable n in einem Folgeterm wie 5n - 2?",
+        "optionen": [
+          "Die kleinste Zahl der Folge",
+          "Die Nummer der Stufe oder des Glieds",
+          "Immer die Zahl 5",
+          "Die Differenz der Folge"
+        ],
+        "korrekt": 1,
+        "erklaerung": "n steht für die Position in der Folge."
+      },
+      {
+        "frage": "Welcher Zusammenhang passt zu 2n + 3?",
+        "optionen": [
+          "Drei weniger als die Stufennummer",
+          "Doppelte Stufennummer plus drei",
+          "Die Stufennummer mal drei",
+          "Immer drei"
+        ],
+        "korrekt": 1,
+        "erklaerung": "2n + 3 bedeutet: n verdoppeln und dann 3 dazuzählen."
+      },
+      {
+        "frage": "Welche Darstellung hilft besonders, eine Folge zu verallgemeinern?",
+        "optionen": [
+          "Ein einzelner Wert",
+          "Ein Term mit einer Variablen",
+          "Nur die erste Zahl",
+          "Ein zufällig gewählter Graph"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Term beschreibt alle Glieder der Folge auf einmal."
+      },
+      {
+        "frage": "Welche Folge passt zu dem Term 4n - 1?",
+        "optionen": [
+          "3, 7, 11, 15, ...",
+          "4, 8, 12, 16, ...",
+          "1, 4, 9, 16, ...",
+          "5, 9, 13, 18, ..."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Für n = 1, 2, 3, 4 entstehen die Werte 3, 7, 11 und 15."
+      }
+    ]
+  }
+}

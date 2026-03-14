@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr1a2",
+  "kompetenz_code": "FS2F.1.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Hörtextausschnitt: « Pluie, pluie, pluie sur le toit. » Welche Wirkung hat die Wiederholung?",
+        "optionen": [
+          "Sie macht den Satz lustiger.",
+          "Sie erzeugt Rhythmus und betont das Geräusch des Regens.",
+          "Sie erklärt eine Regel.",
+          "Sie zeigt einen Ortswechsel."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Wiederholung von « pluie » verstärkt Klang und Stimmung."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Chut, la nuit parle doucement. » Welche Stimmung entsteht?",
+        "optionen": [
+          "Hektisch und laut",
+          "Ruhig und geheimnisvoll",
+          "Wütend und streng",
+          "Sachlich und nüchtern"
+        ],
+        "korrekt": 1,
+        "erklaerung": "« Chut » und « doucement » schaffen eine leise, geheimnisvolle Atmosphäre."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Boum, boum, mon cœur accélère. » Was bewirkt « Boum, boum »?",
+        "optionen": [
+          "Es zeigt Langeweile.",
+          "Es wirkt wie ein Herzschlag und verstärkt Spannung.",
+          "Es beschreibt ein Tier.",
+          "Es kündigt Regen an."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Lautmalerei « Boum, boum » lässt den Herzschlag hörbar werden."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Le vent danse dans les branches. » Was ist die Wirkung dieses Bildes?",
+        "optionen": [
+          "Der Satz klingt technischer.",
+          "Der Wind wird als lebendig und beweglich dargestellt.",
+          "Der Satz erklärt eine Wetterkarte.",
+          "Die Aussage wird genauer messbar."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Verb « danse » macht den Wind bildhaft und lebendig."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Viens, viens, encore un pas! » Warum passt dieser Ausschnitt gut zu einer aufmunternden Szene?",
+        "optionen": [
+          "Weil die Wiederholung drängt und motiviert.",
+          "Weil der Satz besonders höflich ist.",
+          "Weil er eine Wegbeschreibung enthält.",
+          "Weil er absichtlich monoton klingt."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Wiederholung von « viens » wirkt antreibend und ermutigend."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Sous la lune bleue, la ville dort. » Welche Wirkung hat das Bild?",
+        "optionen": [
+          "Es wirkt poetisch und ruhig.",
+          "Es klingt wie eine Nachrichtensendung.",
+          "Es beschreibt ein Experiment.",
+          "Es formuliert eine Anweisung."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mondbild und ruhende Stadt schaffen eine poetische Abendstimmung."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Toc, toc, quelqu'un frappe à la porte. » Was leistet « Toc, toc »?",
+        "optionen": [
+          "Es übersetzt den Satz ins Deutsche.",
+          "Es imitiert das Klopfen und macht die Szene anschaulich.",
+          "Es markiert einen Zeitsprung.",
+          "Es macht die Aussage unklar."
+        ],
+        "korrekt": 1,
+        "erklaerung": "« Toc, toc » ist Lautmalerei und stellt das Geräusch direkt dar."
+      },
+      {
+        "frage": "Hörtextausschnitt: « Je cours, je vole, je rêve. » Welche Wirkung hat diese Aufzählung?",
+        "optionen": [
+          "Sie verlangsamt den Text stark.",
+          "Sie zeigt Bewegung und steigert das Gefühl von Freiheit.",
+          "Sie erklärt die Grammatik des Verbs.",
+          "Sie beschreibt einen Stundenplan."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mehrere kurze Verben nacheinander erzeugen Tempo und Dynamik."
+      }
+    ]
+  }
+}

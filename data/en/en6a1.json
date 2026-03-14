@@ -1,0 +1,57 @@
+{
+  "kompetenz_id": "en6a1",
+  "kompetenz_code": "FS1E.6.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "What does the abbreviation UK stand for?",
+        "optionen": ["United Kingdom", "United Kenya", "Universal Kingdom", "Union of Kings"],
+        "korrekt": 0,
+        "erklaerung": "UK ist die gebräuchliche Abkürzung für United Kingdom."
+      },
+      {
+        "frage": "Which city is the capital of Ireland?",
+        "optionen": ["Manchester", "Dublin", "Cardiff", "Vancouver"],
+        "korrekt": 1,
+        "erklaerung": "Dublin ist die Hauptstadt Irlands."
+      },
+      {
+        "frage": "What does the British English word queue mean?",
+        "optionen": ["A loud argument", "A line of people waiting", "A city map", "A quick snack"],
+        "korrekt": 1,
+        "erklaerung": "Queue bedeutet eine Schlange von wartenden Personen."
+      },
+      {
+        "frage": "In British English, what is a flat?",
+        "optionen": ["A bicycle", "An apartment", "A school uniform", "A train ticket"],
+        "korrekt": 1,
+        "erklaerung": "Flat ist die britische Bezeichnung für Wohnung bzw. Apartment."
+      },
+      {
+        "frage": "Which celebration takes place on 31 October in many English-speaking countries?",
+        "optionen": ["Halloween", "Thanksgiving", "Guy Fawkes Night", "St Patrick's Day"],
+        "korrekt": 0,
+        "erklaerung": "Halloween wird am 31. Oktober gefeiert."
+      },
+      {
+        "frage": "Which famous landmark is in Sydney?",
+        "optionen": ["Big Ben", "The Sydney Opera House", "The White House", "The Tower of London"],
+        "korrekt": 1,
+        "erklaerung": "Das Sydney Opera House ist eines der bekanntesten Wahrzeichen Australiens."
+      },
+      {
+        "frage": "What colour are many school buses in the United States?",
+        "optionen": ["Green", "Red", "Yellow", "Purple"],
+        "korrekt": 2,
+        "erklaerung": "Viele amerikanische Schulbusse sind traditionell gelb."
+      },
+      {
+        "frage": "Which animal is strongly associated with Australia?",
+        "optionen": ["Kangaroo", "Penguin", "Camel", "Moose"],
+        "korrekt": 0,
+        "erklaerung": "Das Känguru ist ein typisches Symbol Australiens."
+      }
+    ]
+  }
+}

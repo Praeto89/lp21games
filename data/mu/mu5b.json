@@ -1,0 +1,65 @@
+{
+  "kompetenz_id": "mu5b",
+  "kompetenz_code": "MU.5.B.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "Spannung",
+      "Ruhe",
+      "Freude",
+      "Trauer"
+    ],
+    "elemente": [
+      {
+        "text": "pochender Rhythmus mit Crescendo",
+        "emoji": "🥁",
+        "kategorie": 0
+      },
+      {
+        "text": "steigende Tonfolge vor dem Höhepunkt",
+        "emoji": "🎶",
+        "kategorie": 0
+      },
+      {
+        "text": "plötzlicher lauter Akkord",
+        "emoji": "🎹",
+        "kategorie": 0
+      },
+      {
+        "text": "leise schwebende Klangfläche",
+        "emoji": "🎵",
+        "kategorie": 1
+      },
+      {
+        "text": "einzelne helle Glockentöne",
+        "emoji": "🎶",
+        "kategorie": 1
+      },
+      {
+        "text": "leichter Tanzrhythmus in Dur",
+        "emoji": "🎸",
+        "kategorie": 2
+      },
+      {
+        "text": "klatschender Offbeat mit viel Bewegung",
+        "emoji": "🎤",
+        "kategorie": 2
+      },
+      {
+        "text": "schneller Refrain zum Mitsingen",
+        "emoji": "🎵",
+        "kategorie": 2
+      },
+      {
+        "text": "langsame Melodie in tiefer Lage",
+        "emoji": "🎻",
+        "kategorie": 3
+      },
+      {
+        "text": "ruhiger Puls mit wenig Tönen",
+        "emoji": "🎹",
+        "kategorie": 3
+      }
+    ]
+  }
+}

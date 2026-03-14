@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de6a2",
+  "kompetenz_code": "D.6.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was gehört zu einem literarischen Gespräch?",
+        "optionen": [
+          "Nur den Klappentext vorlesen",
+          "Über verschiedene Deutungen eines Textes sprechen",
+          "Nur entscheiden, ob das Buch dick genug ist",
+          "Ausschliesslich Rechtschreibfehler suchen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im literarischen Gespräch werden unterschiedliche Verstehensweisen sichtbar gemacht."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, das eigene erste Textverständnis zu hinterfragen?",
+        "optionen": [
+          "Weil erste Eindrücke immer falsch sind",
+          "Weil andere Lesarten neue Bedeutungen sichtbar machen können",
+          "Weil man Texte nie verstehen kann",
+          "Weil nur die Lehrperson den Text deuten darf"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Literarische Texte lassen oft mehrere Deutungen zu."
+      },
+      {
+        "frage": "Welche Aussage zeigt, dass jemand Nicht-Verstandenes produktiv ins Gespräch einbringt?",
+        "optionen": [
+          "\"Diese Stelle verstehe ich nicht ganz. Warum reagiert die Figur so?\"",
+          "\"Ich sage lieber gar nichts mehr.\"",
+          "\"Das muss man nicht verstehen.\"",
+          "\"Alle anderen sollen raten, was ich meine.\""
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nicht-Verstandenes zu benennen ist ein wichtiger Teil literarischer Gespräche."
+      },
+      {
+        "frage": "Was ist eine hilfreiche Reaktion auf eine andere Deutung im Gespräch?",
+        "optionen": [
+          "\"Das ist sicher falsch.\"",
+          "\"Interessant, welche Textstelle stützt deine Sicht?\"",
+          "\"Nur meine Meinung zählt.\"",
+          "\"Darüber darf man nicht diskutieren.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Literarische Gespräche stützen Deutungen mit Beobachtungen aus dem Text."
+      },
+      {
+        "frage": "Welche Frage passt besonders gut zu einem literarischen Gespräch?",
+        "optionen": [
+          "Wie viele Seiten hat das Buch genau?",
+          "Wie wirkt diese Szene auf mich und warum?",
+          "Wie teuer war das Buch im Laden?",
+          "Wie heisst der Verlag?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wirkung und Verstehen stehen bei literarischen Gesprächen im Zentrum."
+      },
+      {
+        "frage": "Was bedeutet es, Ambivalenzen in einem Text auszuhalten?",
+        "optionen": [
+          "Nur eindeutige Lösungen zu akzeptieren",
+          "Widersprüchliche oder unklare Stellen als Teil des Textes stehen zu lassen",
+          "Schwierige Stellen einfach zu löschen",
+          "Jede Figur sofort als gut oder böse festzulegen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Literarische Texte sind oft mehrdeutig. Diese Mehrdeutigkeit gehört zum Verstehen dazu."
+      },
+      {
+        "frage": "Welche Aussage zeigt reflektiertes Leseverhalten?",
+        "optionen": [
+          "\"Ich lese nur, wenn ich dazu gezwungen werde, und denke nie darüber nach.\"",
+          "\"Ich merke, dass ich abends eher ruhige Texte lese als am Morgen.\"",
+          "\"Ich lese immer dasselbe Buch gleichzeitig.\"",
+          "\"Ich beachte nie, wo oder wie ich lese.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zum literarischen Gespräch gehört auch die Reflexion über das eigene Lesen."
+      },
+      {
+        "frage": "Woran erkennt man eine begründete literarische Deutung?",
+        "optionen": [
+          "Sie stützt sich auf Textstellen und Beobachtungen",
+          "Sie behauptet einfach etwas",
+          "Sie ignoriert alle Figuren",
+          "Sie bezieht sich nur auf das Cover"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Deutungen werden im Gespräch mit Hinweisen aus dem Text begründet."
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en3c1",
+  "kompetenz_code": "FS1E.3.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Sprechen", "Beim Sprechen", "Bei Unsicherheit"],
+    "elemente": [
+      { "text": "Write key words on a small card.", "kategorie": 0 },
+      { "text": "Rehearse useful phrases aloud.", "kategorie": 0 },
+      { "text": "Think about the order of your ideas.", "kategorie": 0 },
+      { "text": "Speak in short, clear sentences.", "kategorie": 1 },
+      { "text": "Look at the listeners from time to time.", "kategorie": 1 },
+      { "text": "Use gestures to support meaning.", "kategorie": 1 },
+      { "text": "Slow down and take a breath.", "kategorie": 2 },
+      { "text": "Say: 'Let me think for a second.'", "kategorie": 2 },
+      { "text": "Paraphrase a missing word with easier English.", "kategorie": 2 },
+      { "text": "Ask: 'Could you repeat that, please?'", "kategorie": 2 },
+      { "text": "Start with a simple sentence you know well.", "kategorie": 2 },
+      { "text": "Self-correct calmly if you notice a mistake.", "kategorie": 2 }
+    ]
+  }
+}

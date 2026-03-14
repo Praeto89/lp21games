@@ -1,0 +1,63 @@
+{
+  "kompetenz_id": "nt2b",
+  "kompetenz_code": "NT.2.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Filtration",
+      "Destillation",
+      "Sedimentation oder Dekantieren",
+      "Magnettrennung"
+    ],
+    "elemente": [
+      {
+        "text": "Kaffee mit Filter zubereiten",
+        "kategorie": 0
+      },
+      {
+        "text": "Sand aus Wasser mit Filterpapier trennen",
+        "kategorie": 0
+      },
+      {
+        "text": "Tee mit einem Papierfilter kl?ren",
+        "kategorie": 0
+      },
+      {
+        "text": "Salzwasser entsalzen und wieder Trinkwasser gewinnen",
+        "kategorie": 1
+      },
+      {
+        "text": "Alkohol und Wasser ?ber ihre Siedepunkte trennen",
+        "kategorie": 1
+      },
+      {
+        "text": "Roh?l in verschiedene Fraktionen aufteilen",
+        "kategorie": 1
+      },
+      {
+        "text": "?l von Wasser vorsichtig abgiessen",
+        "kategorie": 2
+      },
+      {
+        "text": "Schlamm in einem Becken absinken lassen",
+        "kategorie": 2
+      },
+      {
+        "text": "Schmutzteilchen in der Kl?ranlage zuerst absetzen lassen",
+        "kategorie": 2
+      },
+      {
+        "text": "Eisensp?ne aus Sand entfernen",
+        "kategorie": 3
+      },
+      {
+        "text": "Stahlteile im Recycling mit einem Magnet abscheiden",
+        "kategorie": 3
+      },
+      {
+        "text": "Schrauben aus S?gemehl herausziehen",
+        "kategorie": 3
+      }
+    ]
+  }
+}

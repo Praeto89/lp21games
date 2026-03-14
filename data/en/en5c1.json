@@ -1,0 +1,72 @@
+{
+  "kompetenz_id": "en5c1",
+  "kompetenz_code": "FS1E.5.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Why is it important to pronounce word endings clearly when you speak English?",
+        "optionen": [
+          "They often help listeners understand grammar and meaning.",
+          "They are never heard anyway.",
+          "They only matter in singing.",
+          "They make every sentence longer."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Endungen tragen oft wichtige Informationen, zum Beispiel bei Verbformen oder Mehrzahl."
+      },
+      {
+        "frage": "Which syllable is stressed in the word hotel?",
+        "optionen": ["The first syllable", "The second syllable", "Both syllables equally", "The last letter only"],
+        "korrekt": 1,
+        "erklaerung": "Hotel wird im Englischen auf der zweiten Silbe betont: ho-TEL."
+      },
+      {
+        "frage": "What does a comma usually signal when you read a sentence aloud?",
+        "optionen": ["A short pause", "A change to another language", "A louder voice immediately", "The end of the whole text"],
+        "korrekt": 0,
+        "erklaerung": "Ein Komma markiert oft eine kurze Sprechpause."
+      },
+      {
+        "frage": "Which pair helps you notice an important vowel difference in English?",
+        "optionen": ["ship and sheep", "book and page", "red and blue", "walk and run"],
+        "korrekt": 0,
+        "erklaerung": "Ship und sheep zeigen den Unterschied zwischen kurzem und langem i-Laut."
+      },
+      {
+        "frage": "Why is it useful to speak in small thought groups instead of one very long stream?",
+        "optionen": [
+          "It helps listeners follow the meaning more easily.",
+          "It removes all rhythm from speech.",
+          "It means you never need punctuation.",
+          "It makes the text less clear."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Sinnvolle Sprechgruppen verbessern Verständlichkeit und Intonation."
+      },
+      {
+        "frage": "How does your voice often move at the end of a yes-no question such as 'Are you ready?'",
+        "optionen": ["It often rises slightly.", "It always becomes silent.", "It always drops to a whisper.", "It turns into singing."],
+        "korrekt": 0,
+        "erklaerung": "Bei vielen Entscheidungsfragen steigt die Intonation am Satzende an."
+      },
+      {
+        "frage": "Which words are usually stressed more strongly in a sentence?",
+        "optionen": ["Content words such as nouns and main verbs", "Only articles and prepositions", "Only punctuation marks", "Only words with three letters"],
+        "korrekt": 0,
+        "erklaerung": "Bedeutungstragende Wörter erhalten im Englischen meist stärkere Betonung."
+      },
+      {
+        "frage": "Why should you avoid speaking too fast and too softly?",
+        "optionen": [
+          "Because clear pace and volume make you easier to understand.",
+          "Because English must always sound dramatic.",
+          "Because fast speakers are always wrong.",
+          "Because quiet voices cannot read aloud."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verständlichkeit hängt stark von angemessenem Tempo und gut hörbarer Lautstärke ab."
+      }
+    ]
+  }
+}

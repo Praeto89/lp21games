@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "wah4d",
+  "kompetenz_code": "WAH.4.4",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Vor dem Kochen werden die {H\u00e4nde} gr\u00fcndlich gewaschen.",
+        "hinweise": ["wichtig f\u00fcr die K\u00fcchenhygiene"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Rohes Poulet sollte auf einem separaten {Schneidebrett} vorbereitet werden.",
+        "hinweise": ["Unterlage zum Schneiden"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Gem\u00fcse bleibt oft n\u00e4hrstoffschonender, wenn es kurz {ged\u00e4mpft} statt lange gekocht wird.",
+        "hinweise": ["Garmethode mit Wasserdampf"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Beim Erhitzen von Fleisch oder Eiern ist eine ausreichende {Kerntemperatur} wichtig.",
+        "hinweise": ["Temperatur im Innern"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Vitamine bleiben besser erhalten, wenn Gem\u00fcse nicht zu lange in Wasser {kocht}.",
+        "hinweise": ["Verb f\u00fcr Garen im Wasser"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Eine saubere Arbeitsfl\u00e4che verbessert die {Hygiene} in der K\u00fcche.",
+        "hinweise": ["Sauberkeit und Gesundheitsschutz"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Ein Rezept hilft dabei, Mengen und Arbeitsschritte richtig zu {planen}.",
+        "hinweise": ["vorher durchdenken und ordnen"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      },
+      {
+        "text": "Wer Reste rasch abk\u00fchlt und k\u00fchl lagert, verl\u00e4ngert ihre {Haltbarkeit}.",
+        "hinweise": ["Zeit, in der etwas essbar bleibt"],
+        "anweisung": "Erg\u00e4nze die Begriffe zur gesunden und hygienischen Zubereitung von Nahrung."
+      }
+    ]
+  }
+}

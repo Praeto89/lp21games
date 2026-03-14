@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs3a",
+  "kompetenz_code": "BS.3.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bedeutet Körperwahrnehmung im Sportunterricht?",
+        "optionen": [
+          "Nur die Muskeln anzuspannen",
+          "Den eigenen Körper, seine Lage und seine Bewegung bewusst zu spüren",
+          "Sich nur im Spiegel anzuschauen",
+          "Bewegungen möglichst schnell zu beenden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Körperwahrnehmung heisst, Stellung, Spannung, Tempo und Bewegungsrichtung bewusst wahrzunehmen."
+      },
+      {
+        "frage": "Was hilft bei einer stabilen Gleichgewichtshaltung?",
+        "optionen": [
+          "Ein fester Blickpunkt und eine gespannte Körpermitte",
+          "Geschlossene Augen und lockere Körperhaltung",
+          "Möglichst grosse Seitbewegungen",
+          "Der Kopf weit nach hinten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Fokuspunkt und Körperspannung unterstützen die Balance deutlich."
+      },
+      {
+        "frage": "Woran erkennst du, dass du eine Bewegung gezielt steuerst?",
+        "optionen": [
+          "Du führst sie immer gleich hektisch aus",
+          "Du kannst Tempo, Richtung oder Spannung bewusst anpassen",
+          "Du machst sie nur mit Hilfe anderer",
+          "Du vermeidest jede Rückmeldung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gezielte Steuerung zeigt sich darin, dass du Bewegungen bewusst verändern und kontrollieren kannst."
+      },
+      {
+        "frage": "Was ist bei einer sicheren Landung nach einem Sprung wichtig?",
+        "optionen": [
+          "Steife Knie und gestreckter Oberkörper",
+          "Gebeugte Knie und kontrollierte Körperspannung",
+          "Landung nur auf einem Fuss ohne Vorbereitung",
+          "Sofortige Drehung nach hinten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine weiche Landung mit gebeugten Gelenken schützt den Körper und verbessert die Kontrolle."
+      },
+      {
+        "frage": "Wie kannst du eine Bewegungsausführung sinnvoll korrigieren?",
+        "optionen": [
+          "Indem du Hinweise aufnimmst und den nächsten Versuch bewusst veränderst",
+          "Indem du immer genau gleich weitermachst",
+          "Indem du nur auf andere achtest",
+          "Indem du die Übung gar nicht mehr machst"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Korrigieren bedeutet, Rückmeldungen zu nutzen und die Bewegung im nächsten Versuch gezielt anzupassen."
+      },
+      {
+        "frage": "Weshalb ist die Atmung bei Bewegungen und Darstellung wichtig?",
+        "optionen": [
+          "Sie hat keinen Einfluss",
+          "Sie hilft bei Rhythmus, Spannung und Konzentration",
+          "Sie soll möglichst angehalten werden",
+          "Sie ist nur beim Schwimmen wichtig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bewusste Atmung unterstützt Rhythmus, Bewegungskontrolle und Körperspannung."
+      },
+      {
+        "frage": "Welche Rückmeldung ist im Unterricht am hilfreichsten?",
+        "optionen": [
+          "Du warst irgendwie gut",
+          "Beim Drehen blieb dein Oberkörper ruhig, achte noch auf die Landung",
+          "Mach einfach etwas anderes",
+          "Ich sage lieber gar nichts"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Konkrete und sachliche Rückmeldungen helfen, Bewegungen gezielt zu verbessern."
+      },
+      {
+        "frage": "Was unterstützt das Wahrnehmen von Rhythmus in einer Bewegung?",
+        "optionen": [
+          "Mitzählen oder auf musikalische Akzente achten",
+          "Nur auf die Schuhe schauen",
+          "Jede Bewegung gleich schnell machen",
+          "Die Musik komplett ignorieren"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Rhythmus wird klarer, wenn man zählt oder musikalische Impulse bewusst aufnimmt."
+      },
+      {
+        "frage": "Wann ist es sinnvoll, eine Bewegung langsamer zu üben?",
+        "optionen": [
+          "Wenn Kontrolle und Präzision noch fehlen",
+          "Nur wenn die Musik sehr laut ist",
+          "Nie, langsamer üben bringt nichts",
+          "Nur direkt vor der Pause"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Langsameres Üben macht Bewegungsdetails sichtbar und verbessert die Kontrolle."
+      },
+      {
+        "frage": "Welche Aussage passt zur Selbstwahrnehmung im Sport?",
+        "optionen": [
+          "Ich bemerke nur Fehler anderer",
+          "Ich spüre, wann Spannung, Haltung oder Tempo angepasst werden müssen",
+          "Selbstwahrnehmung braucht man nur im Tanz",
+          "Korrekturen kann nur die Lehrperson vornehmen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zur Kompetenz gehört, die eigene Bewegung zu spüren und selbstständig zu verbessern."
+      }
+    ]
+  }
+}

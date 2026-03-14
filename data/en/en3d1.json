@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en3d1",
+  "kompetenz_code": "FS1E.3.D.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche englische Formulierung passt am besten zu: 'Kannst du mir bitte den Link schicken?'",
+        "optionen": [
+          "Can you send me the link, please?",
+          "Do you like this link very much?",
+          "Must you open the link now?",
+          "Will the link send you later?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die höfliche Bitte wird mit 'Can you ... , please?' passend übertragen."
+      },
+      {
+        "frage": "Welche Übersetzung passt zu: 'Der Unterricht beginnt heute zehn Minuten später.'",
+        "optionen": [
+          "Class starts ten minutes earlier today.",
+          "The classroom is ten minutes away today.",
+          "Class starts ten minutes later today.",
+          "Today's class lasts ten minutes."
+        ],
+        "korrekt": 2,
+        "erklaerung": "'Später' wird hier korrekt mit 'later' wiedergegeben."
+      },
+      {
+        "frage": "Welche englische Aussage passt zu: 'Wir treffen uns vor dem Haupteingang.'",
+        "optionen": [
+          "We are meeting in front of the main entrance.",
+          "We are leaving through the back door.",
+          "We are waiting inside the sports hall.",
+          "We are buying tickets at the station."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Vor dem Haupteingang' heisst 'in front of the main entrance'."
+      },
+      {
+        "frage": "Welche Übersetzung ist richtig für: 'Ich habe mein Heft zu Hause vergessen.'",
+        "optionen": [
+          "I lost my book on the train.",
+          "I left my notebook at home.",
+          "I wrote in my notebook at home.",
+          "I need a new notebook tomorrow."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Etwas zu Hause vergessen' wird idiomatisch mit 'leave something at home' ausgedrückt."
+      },
+      {
+        "frage": "Welche englische Formulierung passt zu: 'Der Film war lustiger als erwartet.'",
+        "optionen": [
+          "The film was funnier than expected.",
+          "The film was more serious than usual.",
+          "The film was longer than expected.",
+          "The film was too loud for us."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Vergleich 'lustiger als erwartet' wird mit 'funnier than expected' passend wiedergegeben."
+      },
+      {
+        "frage": "Welche Übersetzung passt zu: 'Bitte trage deinen Namen oben rechts ein.'",
+        "optionen": [
+          "Please draw your name in blue.",
+          "Please write your name in the top right corner.",
+          "Please hide your name on the back.",
+          "Please read your name aloud now."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Oben rechts' entspricht 'in the top right corner'."
+      },
+      {
+        "frage": "Welche englische Aussage passt zu: 'Sie kann heute wegen ihres verletzten Knies nicht mitspielen.'",
+        "optionen": [
+          "She can play today despite her knee.",
+          "She cannot play today because of her injured knee.",
+          "She will train her knee after the match.",
+          "She likes watching the game every day."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Aussage gibt korrekt wieder, dass sie wegen der Verletzung nicht spielen kann."
+      },
+      {
+        "frage": "Welche Übersetzung ist richtig für: 'Wie lange dauert die Führung?'",
+        "optionen": [
+          "How late is the guide?",
+          "Where does the guide wait?",
+          "How long does the tour last?",
+          "Why does the tour stop?"
+        ],
+        "korrekt": 2,
+        "erklaerung": "'Wie lange dauert ...?' wird passend mit 'How long does ... last?' ausgedrückt."
+      }
+    ]
+  }
+}

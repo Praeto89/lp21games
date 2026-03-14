@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bo3b",
+  "kompetenz_code": "BO.3.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist nach einer Absage bei einer Bewerbung ein sinnvoller erster Schritt?",
+        "optionen": [
+          "Alles abbrechen",
+          "Die Rückmeldung prüfen und nächste Schritte planen",
+          "Nie mehr eine Bewerbung schreiben",
+          "Nur andere beschuldigen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nach einer Absage hilft es, ruhig zu analysieren, was passiert ist, und daraus konkrete nächste Schritte abzuleiten."
+      },
+      {
+        "frage": "Was ist eine persönliche Ressource im Bildungs- und Berufswahlprozess?",
+        "optionen": [
+          "Die Anzahl Ferienwochen",
+          "Eigene Stärken, Unterstützungspersonen und hilfreiche Erfahrungen",
+          "Nur die Grösse eines Betriebs",
+          "Die Farbe der Bewerbungsmappe"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ressourcen sind alles, was bei Herausforderungen hilft: Fähigkeiten, Motivation, Erfahrungen oder unterstützende Personen."
+      },
+      {
+        "frage": "Warum ist es wichtig, Frustrationen zu benennen?",
+        "optionen": [
+          "Damit man länger blockiert bleibt",
+          "Damit man Gefühle ernst nimmt und gezielter nach Lösungen suchen kann",
+          "Damit man keine Hilfe annehmen muss",
+          "Damit man gar nichts mehr ändert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer Frust oder Unsicherheit benennen kann, versteht die Situation besser und kann konkrete Unterstützung oder Strategien nutzen."
+      },
+      {
+        "frage": "Welche Schwierigkeit ist ein äusserer Faktor?",
+        "optionen": [
+          "Ich bin im Zeitmanagement noch unsicher.",
+          "In meiner Region gibt es nur wenige offene Lehrstellen in diesem Beruf.",
+          "Ich kenne meine Interessen noch nicht gut genug.",
+          "Ich habe meine Unterlagen noch nicht fertig."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Äussere Faktoren liegen nicht direkt in der eigenen Person, zum Beispiel die Lage auf dem Lehrstellenmarkt."
+      },
+      {
+        "frage": "Welche Reaktion zeigt lösungsorientiertes Handeln?",
+        "optionen": [
+          "Ich bleibe beim Problem stehen.",
+          "Ich suche Unterstützung, passe meine Strategie an und prüfe Alternativen.",
+          "Ich ignoriere alle Rückmeldungen.",
+          "Ich warte einfach ab."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Lösungsorientiertes Handeln bedeutet, aktiv nach nächsten Schritten, Unterstützung und Alternativen zu suchen."
+      },
+      {
+        "frage": "Wofür kann ein Gespräch mit Lehrpersonen, Eltern oder der Berufsberatung hilfreich sein?",
+        "optionen": [
+          "Damit jemand anders alle Entscheidungen übernimmt",
+          "Damit man die Situation aus einer anderen Perspektive betrachtet und neue Möglichkeiten erkennt",
+          "Damit man gar nichts mehr selbst tun muss",
+          "Damit man jede Rückmeldung ignorieren kann"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gespräche mit Unterstützungspersonen helfen, Situationen einzuordnen, Ressourcen zu erkennen und neue Wege zu sehen."
+      },
+      {
+        "frage": "Welche Aussage zeigt ressourcenorientiertes Denken?",
+        "optionen": [
+          "Ich kann nichts beeinflussen.",
+          "Ich nutze meine Genauigkeit und verbessere mein Motivationsschreiben gezielt.",
+          "Ich gebe nach der ersten Schwierigkeit auf.",
+          "Ich brauche keine Rückmeldungen."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ressourcenorientiert denkt, wer vorhandene Stärken erkennt und gezielt für die nächsten Schritte einsetzt."
+      },
+      {
+        "frage": "Du bist nach mehreren Schnuppertagen noch unsicher. Was ist am sinnvollsten?",
+        "optionen": [
+          "Zufällig entscheiden",
+          "Beobachtungen vergleichen, Rückmeldungen einholen und weitere passende Optionen prüfen",
+          "Alle bisherigen Erfahrungen vergessen",
+          "Nur nach dem Arbeitsweg entscheiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unsicherheit ist normal. Hilfreich ist, Erfahrungen systematisch zu vergleichen und weitere passende Wege offen zu halten."
+      },
+      {
+        "frage": "Was hilft bei Zeitdruck im Bewerbungsprozess besonders?",
+        "optionen": [
+          "Fristen ignorieren",
+          "Aufgaben priorisieren und einen realistischen Plan mit Unterstützung erstellen",
+          "Warten, bis jemand anderes alles erledigt",
+          "Mehrere Termine gleichzeitig vergessen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Zeitdruck hilft Struktur: Prioritäten setzen, Fristen notieren und nötigenfalls Unterstützung organisieren."
+      },
+      {
+        "frage": "Was bedeutet es, Lösungsmöglichkeiten zu entwickeln?",
+        "optionen": [
+          "Nur über das Problem zu sprechen",
+          "Konkrete Wege und nächste Schritte zu formulieren, die aus einer Schwierigkeit herausführen",
+          "Alle Ziele sofort aufzugeben",
+          "Niemals Alternativen mitzudenken"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Lösungen entstehen, wenn Probleme analysiert und daraus umsetzbare nächste Schritte und Alternativen entwickelt werden."
+      }
+    ]
+  }
+}

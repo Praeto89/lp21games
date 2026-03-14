@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en3a1",
+  "kompetenz_code": "FS1E.3.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Beginn und Kontakt", "Meinung und Reaktion", "Nachfragen und Klären", "Vorschlagen und Planen"],
+    "elemente": [
+      { "text": "Hi, nice to see you.", "kategorie": 0 },
+      { "text": "Good morning, everyone.", "kategorie": 0 },
+      { "text": "I think the blue poster looks better.", "kategorie": 1 },
+      { "text": "That sounds good to me.", "kategorie": 1 },
+      { "text": "I agree with your idea.", "kategorie": 1 },
+      { "text": "Sorry, can you repeat that?", "kategorie": 2 },
+      { "text": "What do you mean by deadline?", "kategorie": 2 },
+      { "text": "Could you speak a bit more slowly, please?", "kategorie": 2 },
+      { "text": "Shall we meet after school?", "kategorie": 3 },
+      { "text": "Let's split the task into two parts.", "kategorie": 3 },
+      { "text": "How about Friday afternoon?", "kategorie": 3 },
+      { "text": "We could start with the introduction.", "kategorie": 3 }
+    ]
+  }
+}

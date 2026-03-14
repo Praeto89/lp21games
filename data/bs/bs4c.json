@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs4c",
+  "kompetenz_code": "BS.4.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist das wichtigste Ziel bei Kampfspielen im Unterricht?",
+        "optionen": [
+          "Den anderen um jeden Preis zu besiegen",
+          "Fair, kontrolliert und mit klaren Regeln zu kämpfen",
+          "Möglichst harte Techniken zu testen",
+          "Ohne Stoppsignal weiterzumachen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kampfspiele im Schulsport sollen fair, sicher und kontrolliert bleiben."
+      },
+      {
+        "frage": "Was bedeutet Strategie in einem Kampfspiel?",
+        "optionen": [
+          "Nur stark zu drücken",
+          "Bewegungen und Reaktionen gezielt zu planen",
+          "Die Regeln zu vergessen",
+          "Sich gar nicht zu bewegen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Strategie heisst, passende Aktionen vorauszuplanen und auf den Gegner oder die Gegnerin zu reagieren."
+      },
+      {
+        "frage": "Wann musst du ein Kampfspiel sofort unterbrechen?",
+        "optionen": [
+          "Wenn jemand lacht",
+          "Wenn ein Stoppsignal gegeben wird oder sich jemand unsicher fühlt",
+          "Wenn du gerade im Vorteil bist",
+          "Nur wenn die Zeit abgelaufen ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Stoppsignal oder Unsicherheit haben immer Vorrang vor dem Spiel."
+      },
+      {
+        "frage": "Wie verhältst du dich fair gegenüber einer schwächeren Person?",
+        "optionen": [
+          "Ich nutze jeden Grössen- oder Kraftvorteil voll aus",
+          "Ich passe Intensität und Tempo an und halte die Regeln ein",
+          "Ich lache über Fehler",
+          "Ich ignoriere alle Vereinbarungen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Fairness bedeutet, Verantwortung zu übernehmen und die eigene Kraft kontrolliert einzusetzen."
+      },
+      {
+        "frage": "Welche Haltung passt zu gewandtem Kämpfen?",
+        "optionen": [
+          "Starres Stehen ohne Reaktion",
+          "Aufmerksam bleiben, ausweichen und günstig reagieren",
+          "Nur rückwärts laufen",
+          "Sofort zu Boden gehen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gewandtheit zeigt sich in Beweglichkeit, Reaktionsfähigkeit und kontrolliertem Handeln."
+      },
+      {
+        "frage": "Warum braucht es vor Kampfspielen klare Regeln?",
+        "optionen": [
+          "Damit niemand weiss, was gilt",
+          "Damit Sicherheit, Fairness und Vergleichbarkeit gewährleistet sind",
+          "Damit das Spiel länger dauert",
+          "Damit nur die Stärksten mitmachen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Klare Regeln schützen alle Beteiligten und machen das Spiel fair."
+      },
+      {
+        "frage": "Was ist bei Halte- oder Ziehspielen wichtig?",
+        "optionen": [
+          "Ruckartig an Gelenken ziehen",
+          "Kontrolliert arbeiten und empfindliche Körperstellen schützen",
+          "Den Gegner überraschen, auch wenn es weh tut",
+          "Nur mit voller Kraft beginnen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sicherheit bedeutet, kontrolliert zu handeln und empfindliche Bereiche zu schützen."
+      },
+      {
+        "frage": "Wie gehst du mit einer Niederlage in einem Kampfspiel sinnvoll um?",
+        "optionen": [
+          "Ich diskutiere jede Entscheidung aggressiv",
+          "Ich akzeptiere das Ergebnis und lerne aus dem Kampf",
+          "Ich verlasse sofort das Feld",
+          "Ich verweigere den Handschlag"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zum fairen Kämpfen gehört, Ergebnisse respektvoll anzunehmen."
+      },
+      {
+        "frage": "Welche Aussage zu Emotionen trifft zu?",
+        "optionen": [
+          "Wut darf immer ausgelebt werden",
+          "Gefühle sind normal, müssen aber kontrolliert bleiben",
+          "Emotionen haben keinen Einfluss auf Kampfspiele",
+          "Nur Sieger dürfen Gefühle zeigen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kampfspiele können emotional sein, aber Selbstkontrolle bleibt zentral."
+      },
+      {
+        "frage": "Was zeigt, dass du verantwortungsvoll kämpfst?",
+        "optionen": [
+          "Ich beachte Tempo, Regeln und den Zustand meines Gegenübers",
+          "Ich höre nur auf mich selbst",
+          "Ich kämpfe auch bei Schmerzen weiter",
+          "Ich wechsle ständig die Regeln"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verantwortungsvoll kämpfen heisst, Sicherheit, Regeln und das Gegenüber im Blick zu behalten."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bg1a2",
+  "kompetenz_code": "BG.1.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist bei einer sorgfältigen Bildbetrachtung der sinnvollste erste Schritt?",
+        "optionen": [
+          "Genau beobachten, bevor man bewertet",
+          "Sofort sagen, ob das Bild schön oder hässlich ist",
+          "Direkt die Note schätzen",
+          "Nur nach dem Namen der Künstlerin oder des Künstlers fragen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beobachtung kommt vor Bewertung, weil erst sichtbare Merkmale beschrieben werden sollten."
+      },
+      {
+        "frage": "Welche Aussage ist eine Beobachtung und noch keine Deutung?",
+        "optionen": [
+          "Das Bild ist traurig.",
+          "Im Vordergrund liegt ein roter Ball neben einem dunklen Schatten.",
+          "Die Malerin war sicher wütend.",
+          "Das Werk kritisiert die Gesellschaft."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Beobachtung beschreibt, was sichtbar ist, ohne sofort Bedeutung hineinzuinterpretieren."
+      },
+      {
+        "frage": "Wodurch kann in einem Bild räumliche Tiefe entstehen?",
+        "optionen": [
+          "Durch Überschneidungen und Größenunterschiede",
+          "Nur durch die Verwendung der Farbe Schwarz",
+          "Ausschließlich durch Text im Bild",
+          "Nur durch gleich große Formen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Überlagerung, Größenverhältnisse und Staffelung lassen Vorder- und Hintergrund räumlich wirken."
+      },
+      {
+        "frage": "Was verändert ein starker Hell-Dunkel-Kontrast besonders deutlich?",
+        "optionen": [
+          "Die Lesbarkeit von Tabellen",
+          "Die Stimmung und die Blickführung im Bild",
+          "Die Bildgröße auf dem Papier",
+          "Die Anzahl der dargestellten Motive"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Hell-Dunkel-Kontraste lenken Aufmerksamkeit und erzeugen eine bestimmte Atmosphäre."
+      },
+      {
+        "frage": "Warum ist der Vergleich von zwei Bildern oft hilfreich?",
+        "optionen": [
+          "Weil man dann weniger genau hinschauen muss",
+          "Weil Unterschiede und Gemeinsamkeiten klarer sichtbar werden",
+          "Weil beide Bilder dadurch automatisch gleich gut sind",
+          "Weil der Inhalt dann nicht mehr wichtig ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Vergleiche schärfen die Wahrnehmung für Aufbau, Farbe, Wirkung und Absicht."
+      },
+      {
+        "frage": "Welche Frage unterstützt eine reflektierte Bildbetrachtung besonders?",
+        "optionen": [
+          "Wie wirken Farbwahl und Ausschnitt zusammen?",
+          "Wie alt ist das Papier genau in Gramm?",
+          "Wer hat die wenigsten Fehler gemacht?",
+          "Welche Marke hatte der Pinsel?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Reflexion verbindet Beobachtung mit der Frage, wie Gestaltung Wirkung erzeugt."
+      },
+      {
+        "frage": "Was bedeutet optische Farbmischung?",
+        "optionen": [
+          "Farben werden nur auf der Palette vermischt.",
+          "Kleine Farbflächen wirken aus der Distanz wie ein neuer Farbton.",
+          "Es dürfen nur Primärfarben verwendet werden.",
+          "Alle Farben werden mit Weiß aufgehellt."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei optischer Farbmischung entsteht der Eindruck einer Mischfarbe im Auge der Betrachtenden."
+      },
+      {
+        "frage": "Wenn eine Bilderfolge dieselbe Person mehrfach in leicht veränderter Position zeigt, wirkt das oft wie ...",
+        "optionen": [
+          "vollständige Bewegungslosigkeit",
+          "eine Bewegung oder Handlung in der Zeit",
+          "ein mathematisches Diagramm",
+          "ein rein dekoratives Muster ohne Bedeutung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wiederholte Figuren in veränderten Positionen können Bewegungsabläufe sichtbar machen."
+      },
+      {
+        "frage": "Welche Beobachtung beschreibt eine Oberflächenwirkung?",
+        "optionen": [
+          "Die Struktur wirkt rau, weil kurze unregelmäßige Spuren sichtbar sind.",
+          "Das Bild ist bestimmt von einer berühmten Person gemalt worden.",
+          "Die Aussage des Bildes ist eindeutig politisch.",
+          "Die Figur im Bild heißt wahrscheinlich Lea."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Oberflächenwirkungen werden an sichtbaren Spuren, Materialität und Texturen erkannt."
+      },
+      {
+        "frage": "Was gehört zu einer reflektierten Bildwahrnehmung?",
+        "optionen": [
+          "Nur das eigene Gefühl nennen",
+          "Beobachtungen mit einer begründeten Deutung verbinden",
+          "Das Bild ohne Hinsehen bewerten",
+          "Sich nur auf den Titel verlassen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reflexion verbindet genaue Wahrnehmung mit nachvollziehbaren Überlegungen zur Bedeutung und Wirkung."
+      }
+    ]
+  }
+}

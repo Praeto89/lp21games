@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "en5b2",
+  "kompetenz_code": "FS1E.5.B.2",
+  "typ": "wortspiel",
+  "spiel": {
+    "woerter": [
+      { "wort": "UNHAPPY", "hinweis": "Adjective with a negative prefix" },
+      { "wort": "HELPFUL", "hinweis": "Adjective with the suffix -ful" },
+      { "wort": "WRITER", "hinweis": "Person who writes" },
+      { "wort": "REWRITE", "hinweis": "Write again with the prefix re-" },
+      { "wort": "HOPELESS", "hinweis": "Adjective with the suffix -less" },
+      { "wort": "FRIENDLY", "hinweis": "Adjective from friend" },
+      { "wort": "NOISY", "hinweis": "Adjective from noise" },
+      { "wort": "IMPOSSIBLE", "hinweis": "Negative adjective with im-" }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "kompetenz_id": "mu3a",
+  "kompetenz_code": "MU.3.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "kraftvoll und geerdet",
+      "leicht und federnd",
+      "fliessend",
+      "kantig und akzentuiert"
+    ],
+    "elemente": [
+      {
+        "text": "tiefe Kniebeuge mit festem Stand",
+        "kategorie": 0
+      },
+      {
+        "text": "starke Stampfschritte im Puls",
+        "kategorie": 0
+      },
+      {
+        "text": "federnde Hüpfer auf den Ballen",
+        "kategorie": 1
+      },
+      {
+        "text": "kleine Sprünge mit viel Luftigkeit",
+        "kategorie": 1
+      },
+      {
+        "text": "langsamer Armkreis ohne Stopp",
+        "kategorie": 2
+      },
+      {
+        "text": "Wellenbewegung durch den Oberkörper",
+        "kategorie": 2
+      },
+      {
+        "text": "Richtungswechsel mit klaren Stopps",
+        "kategorie": 3
+      },
+      {
+        "text": "Ellbogenbewegungen mit harten Akzenten",
+        "kategorie": 3
+      },
+      {
+        "text": "gleitender Schritt über den Boden",
+        "kategorie": 2
+      },
+      {
+        "text": "kurzes Tippen auf Zehenspitzen",
+        "kategorie": 1
+      }
+    ]
+  }
+}

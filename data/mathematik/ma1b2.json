@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma1b2",
+  "kompetenz_code": "MA.1.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wie beurteilst du die Aussage 3(x + 2) = 3x + 2?",
+        "optionen": [
+          "Immer richtig",
+          "Nur für x = 0 richtig",
+          "Falsch, richtig wäre 3x + 6",
+          "Nur für negative x falsch"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Beim Ausmultiplizieren muss 3 mit beiden Summanden multipliziert werden."
+      },
+      {
+        "frage": "Warum sind 2/3 und 4/6 gleich groß?",
+        "optionen": [
+          "Weil beide Nenner gerade sind",
+          "Weil Zähler und Nenner mit 2 erweitert wurden",
+          "Weil 4 kleiner als 6 ist",
+          "Weil Brüche nie verglichen werden können"
+        ],
+        "korrekt": 1,
+        "erklaerung": "4/6 entsteht aus 2/3 durch Erweitern mit 2 und bleibt gleichwertig."
+      },
+      {
+        "frage": "Welche Zahl erfüllt die Ungleichung x + 4 < 10?",
+        "optionen": [
+          "7",
+          "6",
+          "5",
+          "10"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Nur 5 ergibt links 9 und damit einen Wert kleiner als 10."
+      },
+      {
+        "frage": "Welche Begründung zeigt, dass 17 eine Primzahl ist?",
+        "optionen": [
+          "17 ist ungerade",
+          "17 hat genau die Teiler 1 und 17",
+          "17 ist größer als 10",
+          "17 endet nicht auf 0"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Primzahl hat genau zwei positive Teiler."
+      },
+      {
+        "frage": "Wenn a > b und b > c gilt, was folgt dann?",
+        "optionen": [
+          "a = c",
+          "a < c",
+          "a > c",
+          "Es folgt nichts"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Größer-als-Beziehung ist transitiv."
+      },
+      {
+        "frage": "Warum ist -2 größer als -5?",
+        "optionen": [
+          "Weil -2 weiter links liegt",
+          "Weil -2 näher bei 0 liegt",
+          "Weil 5 größer als 2 ist",
+          "Weil negative Zahlen nicht verglichen werden können"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Auf dem Zahlenstrahl liegt -2 rechts von -5 und ist daher größer."
+      },
+      {
+        "frage": "Welche Potenzregel stimmt?",
+        "optionen": [
+          "2^3 · 2^2 = 2^6",
+          "2^3 · 2^2 = 4^5",
+          "2^3 · 2^2 = 2^5",
+          "2^3 · 2^2 = 2^1"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Bei gleicher Basis werden die Exponenten addiert."
+      },
+      {
+        "frage": "Welche Probe zeigt, dass x = 4 die Gleichung 2x - 1 = 7 erfüllt?",
+        "optionen": [
+          "2 · 4 - 1 = 7",
+          "4 - 1 = 7",
+          "2 + 4 = 7",
+          "4^2 - 1 = 7"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Probe setzt den Wert für x in die Gleichung ein."
+      }
+    ]
+  }
+}

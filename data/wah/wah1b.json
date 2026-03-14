@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "wah1b",
+  "kompetenz_code": "WAH.1.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Arbeitsalltag",
+      "Einfl\u00fcsse auf die Berufswahl",
+      "Rechte und Pflichten",
+      "Gestaltungsspielr\u00e4ume"
+    ],
+    "elemente": [
+      { "text": "Schichtarbeit in einem Spital", "kategorie": 0 },
+      { "text": "Kundenkontakt an der Verkaufstheke", "kategorie": 0 },
+      { "text": "L\u00e4rm und Wetter auf einer Baustelle", "kategorie": 0 },
+      { "text": "Eltern empfehlen einen bestimmten Beruf", "kategorie": 1 },
+      { "text": "Interesse an Technik f\u00f6rdert den Wunsch nach einer Lehre im Maschinenbereich", "kategorie": 1 },
+      { "text": "Vorbilder in Social Media beeinflussen einen Berufswunsch", "kategorie": 1 },
+      { "text": "Anspruch auf Pausen w\u00e4hrend der Arbeitszeit", "kategorie": 2 },
+      { "text": "Pflicht, Sicherheitsregeln am Arbeitsplatz einzuhalten", "kategorie": 2 },
+      { "text": "Im Lehrvertrag sind Ferien und Arbeitszeit geregelt", "kategorie": 2 },
+      { "text": "Weiterbildung kann neue Berufswege er\u00f6ffnen", "kategorie": 3 },
+      { "text": "Im Team die Reihenfolge von Aufgaben mitbestimmen", "kategorie": 3 },
+      { "text": "An einzelnen Tagen im Homeoffice arbeiten", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "kompetenz_id": "bg2c1",
+  "kompetenz_code": "BG.2.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Zeichnen und Malen",
+      "Drucken",
+      "Collagieren und Montieren",
+      "Plastisch und Bauen",
+      "Inszenieren und Fotografieren"
+    ],
+    "elemente": [
+      { "text": "Schraffur zur Tonwertabstufung", "kategorie": 0 },
+      { "text": "Nass-in-nass-Verlauf", "kategorie": 0 },
+      { "text": "Lasur über trockener Farbschicht", "kategorie": 0 },
+      { "text": "Monotypie", "kategorie": 1 },
+      { "text": "Zweifarbendruck mit passgenauer Platte", "kategorie": 1 },
+      { "text": "Stempeldruck mit Alltagsformen", "kategorie": 1 },
+      { "text": "Bildfragmente neu zusammensetzen", "kategorie": 2 },
+      { "text": "Digitale Fotomontage", "kategorie": 2 },
+      { "text": "Materialmix aus Papier, Stoff und Schrift", "kategorie": 2 },
+      { "text": "Drahtgerüst für eine Figur", "kategorie": 3 },
+      { "text": "Kartonkörper stabil konstruieren", "kategorie": 3 },
+      { "text": "Ton zu einem Hohlkörper aufbauen", "kategorie": 3 },
+      { "text": "Tableau vivant zu einem Gemälde", "kategorie": 4 },
+      { "text": "Fotoroman mit Rollen und Requisiten", "kategorie": 4 },
+      { "text": "Kurzer Stop-Motion-Clip", "kategorie": 4 }
+    ]
+  }
+}

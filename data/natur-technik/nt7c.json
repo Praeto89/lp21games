@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt7c",
+  "kompetenz_code": "NT.7.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Verhütungsmethode schützt gleichzeitig vor sexuell übertragbaren Krankheiten?",
+        "optionen": [
+          "Das Kondom",
+          "Die Antibabypille",
+          "Die Spirale",
+          "Die Kalendermethode"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Das Kondom ist die einzige weit verbreitete Verhütungsmethode, die auch vor sexuell übertragbaren Infektionen (STI) schützt."
+      },
+      {
+        "frage": "Wie wirkt die Antibabypille?",
+        "optionen": [
+          "Sie verhindert den Eisprung durch Hormone",
+          "Sie tötet Spermien ab",
+          "Sie blockiert die Eileiter mechanisch",
+          "Sie verstärkt die Immunabwehr"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Pille enthält Hormone (Östrogen und/oder Gestagen), die den Eisprung unterdrücken und so eine Befruchtung verhindern."
+      },
+      {
+        "frage": "Was ist HIV?",
+        "optionen": [
+          "Ein Virus, das das Immunsystem angreift und zu AIDS führen kann",
+          "Eine Bakterieninfektion der Haut",
+          "Ein Pilz, der die Lunge befällt",
+          "Eine genetische Erkrankung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "HIV (Humanes Immundefizienz-Virus) schwächt das Immunsystem. Ohne Behandlung kann es zur Immunschwäche AIDS führen."
+      },
+      {
+        "frage": "Wer trägt die Verantwortung für Empfängnisverhütung?",
+        "optionen": [
+          "Beide Partner gemeinsam",
+          "Nur die Frau",
+          "Nur der Mann",
+          "Niemand, das regelt sich von selbst"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beide Partner tragen gemeinsam Verantwortung für die Verhütung und sollten sich darüber austauschen."
+      },
+      {
+        "frage": "Was ist eine mögliche Nebenwirkung hormoneller Verhütungsmittel?",
+        "optionen": [
+          "Kopfschmerzen, Stimmungsschwankungen oder Übelkeit",
+          "Verbessertes Sehvermögen",
+          "Schnelleres Haarwachstum",
+          "Stärkere Knochen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Hormonelle Verhütungsmittel können verschiedene Nebenwirkungen haben, darunter Kopfschmerzen, Stimmungsschwankungen, Übelkeit oder ein erhöhtes Thromboserisiko."
+      },
+      {
+        "frage": "Welche Aussage über Chlamydien ist richtig?",
+        "optionen": [
+          "Sie sind eine häufige, bakterielle STI, die mit Antibiotika behandelt werden kann",
+          "Sie sind ein Virus und unheilbar",
+          "Sie werden nur durch Blut übertragen",
+          "Sie betreffen nur ältere Menschen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Chlamydien sind eine der häufigsten sexuell übertragbaren Infektionen, verursacht durch Bakterien, und lassen sich gut mit Antibiotika behandeln."
+      },
+      {
+        "frage": "Welche Informationsquelle ist für die Sexualaufklärung besonders vertrauenswürdig?",
+        "optionen": [
+          "Beratungsstellen wie Lust und Frust oder die Webseite feel-ok.ch",
+          "Anonyme Kommentare in sozialen Medien",
+          "Filme und Serien auf Streaming-Plattformen",
+          "Gerüchte von Mitschülern"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fachberatungsstellen und geprüfte Webseiten bieten sachliche und altersgerechte Informationen zur Sexualaufklärung."
+      },
+      {
+        "frage": "Was bedeutet 'Safer Sex'?",
+        "optionen": [
+          "Schutzmassnahmen ergreifen, um das Risiko von STI und ungewollter Schwangerschaft zu verringern",
+          "Nur verheiratete Paare haben Sex",
+          "Sex nur am Wochenende",
+          "Auf Verhütung komplett verzichten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Safer Sex umfasst Schutzmassnahmen wie die Verwendung von Kondomen, um Infektionsrisiken und ungewollte Schwangerschaften zu minimieren."
+      }
+    ]
+  }
+}

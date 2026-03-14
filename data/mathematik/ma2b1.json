@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2b1",
+  "kompetenz_code": "MA.2.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was passiert mit dem Flächeninhalt eines Rechtecks, wenn beide Seitenlängen verdoppelt werden?",
+        "optionen": [
+          "Er halbiert sich",
+          "Er verdoppelt sich",
+          "Er vervierfacht sich",
+          "Er bleibt gleich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Verdoppeln mal verdoppeln ergibt den Flächenfaktor 4."
+      },
+      {
+        "frage": "Ein Würfel bekommt doppelt so lange Kanten. Wie verändert sich sein Volumen?",
+        "optionen": [
+          "Es verdoppelt sich",
+          "Es vervierfacht sich",
+          "Es verachtfacht sich",
+          "Es bleibt gleich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Das Volumen wächst mit dem Kubus des Streckfaktors: 2³ = 8."
+      },
+      {
+        "frage": "Welche Figur hat bei gleichem Umfang den größten Flächeninhalt unter den Rechtecken?",
+        "optionen": [
+          "Ein sehr langes Rechteck",
+          "Ein Quadrat",
+          "Ein Dreieck",
+          "Eine Raute"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unter allen Rechtecken mit gleichem Umfang hat das Quadrat die größte Fläche."
+      },
+      {
+        "frage": "Was bleibt gleich, wenn die Spitze eines Dreiecks parallel zur Grundlinie verschoben wird und die Höhe gleich bleibt?",
+        "optionen": [
+          "Die Winkel ändern sich nicht",
+          "Die Seitenlängen bleiben alle gleich",
+          "Der Flächeninhalt bleibt gleich",
+          "Der Umfang bleibt gleich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Bei gleicher Grundseite und gleicher Höhe bleibt der Flächeninhalt unverändert."
+      },
+      {
+        "frage": "Welche Beobachtung spricht dafür, dass π bei allen Kreisen gleich ist?",
+        "optionen": [
+          "Der Quotient Umfang : Durchmesser ist immer ungefähr gleich",
+          "Alle Kreise haben denselben Radius",
+          "Kreise haben immer dieselbe Farbe",
+          "Der Umfang ist immer doppelt so groß wie die Fläche"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Für jeden Kreis ist Umfang geteilt durch Durchmesser ungefähr 3.14."
+      },
+      {
+        "frage": "Wenn zwei Geraden beide senkrecht auf derselben Geraden stehen, dann sind sie ...",
+        "optionen": [
+          "parallel",
+          "identisch",
+          "immer windschief",
+          "kreisförmig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "In der Ebene sind zwei Geraden parallel, wenn beide zu einer dritten senkrecht sind."
+      },
+      {
+        "frage": "Eine Figur wird mit dem Faktor 0.5 verkleinert. Wie verändert sich ihre Fläche?",
+        "optionen": [
+          "Sie wird halb so groß",
+          "Sie wird ein Viertel so groß",
+          "Sie bleibt gleich",
+          "Sie wird doppelt so groß"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Flächenfaktor ist 0.5² = 0.25."
+      },
+      {
+        "frage": "Welcher Zusammenhang hilft beim Erforschen von Kreisen besonders?",
+        "optionen": [
+          "Je größer der Durchmesser, desto kleiner der Umfang",
+          "Umfang und Durchmesser wachsen proportional",
+          "Die Fläche wächst linear mit dem Radius",
+          "Alle Kreise haben denselben Umfang"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Umfang ist π-mal der Durchmesser und damit proportional dazu."
+      }
+    ]
+  }
+}

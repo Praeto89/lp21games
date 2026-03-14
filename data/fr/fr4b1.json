@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr4b1",
+  "kompetenz_code": "FS2F.4.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Planen", "Schreiben", "Überarbeiten"],
+    "elemente": [
+      { "text": "Ziel und Textsorte klären", "kategorie": 0 },
+      { "text": "Wichtige Wörter und Redemittel sammeln", "kategorie": 0 },
+      { "text": "Stichworte in eine sinnvolle Reihenfolge bringen", "kategorie": 0 },
+      { "text": "Mit einer passenden Anrede beginnen", "kategorie": 1 },
+      { "text": "Einfache Satzverknüpfungen wie et, mais, puis nutzen", "kategorie": 1 },
+      { "text": "Bekannten Wortschatz gezielt einsetzen", "kategorie": 1 },
+      { "text": "Auf eine passende Schlussformel achten", "kategorie": 1 },
+      { "text": "Den Text noch einmal laut oder leise durchlesen", "kategorie": 2 },
+      { "text": "Verbformen und Artikel prüfen", "kategorie": 2 },
+      { "text": "Fehlende Wörter ergänzen", "kategorie": 2 },
+      { "text": "Mit einer Checkliste aus anderen Sprachen vergleichen", "kategorie": 2 },
+      { "text": "Rückmeldungen aus dem Tandem verbessern", "kategorie": 2 }
+    ]
+  }
+}

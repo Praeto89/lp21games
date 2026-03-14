@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de1d1",
+  "kompetenz_code": "D.1.D.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Hören", "Während des Hörens", "Nach dem Hören", "Wenig hilfreich"],
+    "elemente": [
+      { "text": "Eine Leitfrage zum Hörtext notieren", "kategorie": 0 },
+      { "text": "Überlegen, welches Ziel das Zuhören hat", "kategorie": 0 },
+      { "text": "Vorwissen zum Thema aktivieren", "kategorie": 0 },
+      { "text": "Wichtige Stichwörter mitschreiben", "kategorie": 1 },
+      { "text": "Auf Signalwörter wie \"zuerst\" oder \"deshalb\" achten", "kategorie": 1 },
+      { "text": "Unklare Stellen markieren", "kategorie": 1 },
+      { "text": "Die Kernaussage in eigenen Worten zusammenfassen", "kategorie": 2 },
+      { "text": "Prüfen, welche Informationen für das Ziel besonders relevant waren", "kategorie": 2 },
+      { "text": "Mit Leitfragen das eigene Verständnis einschätzen", "kategorie": 2 },
+      { "text": "Nebenbei ständig aufs Handy schauen", "kategorie": 3 },
+      { "text": "Bei Verständnisproblemen sofort aufgeben", "kategorie": 3 },
+      { "text": "Nur auf einzelne lustige Wörter achten", "kategorie": 3 }
+    ]
+  }
+}

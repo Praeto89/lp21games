@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "bg2a1",
+  "kompetenz_code": "BG.2.A.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "Natur",
+      "Alltag",
+      "Kultur und Geschichte",
+      "Fantasie und Zukunft"
+    ],
+    "elemente": [
+      { "text": "Blattadern als Liniennetz für ein Muster", "emoji": "🌿", "kategorie": 0 },
+      { "text": "Wolkenformen als Ausgangspunkt für Figuren", "emoji": "☁️", "kategorie": 0 },
+      { "text": "Steinrisse als Vorlage für Oberflächen", "emoji": "🪨", "kategorie": 0 },
+      { "text": "Rushhour im Bus als Szenenidee", "emoji": "🚌", "kategorie": 1 },
+      { "text": "Snack-Verpackungen für eine Collage aus Konsumzeichen", "emoji": "🥤", "kategorie": 1 },
+      { "text": "Treffpunkt auf dem Pausenplatz als Bildgeschichte", "emoji": "🏫", "kategorie": 1 },
+      { "text": "Neuinterpretation eines antiken Mosaiks", "emoji": "🏺", "kategorie": 2 },
+      { "text": "Ein Plakat im Stil eines historischen Reiseposters", "emoji": "🧳", "kategorie": 2 },
+      { "text": "Eine Szene, die von einem japanischen Holzschnitt inspiriert ist", "emoji": "🖼️", "kategorie": 2 },
+      { "text": "Schwimmende Stadt im Jahr 2200", "emoji": "🚀", "kategorie": 3 },
+      { "text": "Tier-Maschine als Fantasiewesen", "emoji": "🤖", "kategorie": 3 },
+      { "text": "Selbstporträt aus einer Traumwelt", "emoji": "🌌", "kategorie": 3 }
+    ]
+  }
+}

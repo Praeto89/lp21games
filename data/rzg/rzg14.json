@@ -1,0 +1,63 @@
+{
+    "kompetenz_id":  "rzg14",
+    "kompetenz_code":  "RZG.1.4",
+    "typ":  "zuordnung",
+    "spiel":  {
+                  "kategorien":  [
+                                     "NatÃ¼rliche Ressource",
+                                     "Erneuerbarer EnergietrÃ¤ger",
+                                     "Nicht erneuerbarer EnergietrÃ¤ger",
+                                     "Folge oder Konflikt"
+                                 ],
+                  "elemente":  [
+                                   {
+                                       "text":  "Wasser",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Boden",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Mineralische Rohstoffe",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Sonnenenergie",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Wasserkraft",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Holz",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "ErdÃ¶l",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Erdgas",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Kohle",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "LandschaftszerstÃ¶rung durch Tagebau",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "Streit um Trinkwasser",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "AbhÃ¤ngigkeit von Importen",
+                                       "kategorie":  3
+                                   }
+                               ]
+              }
+}

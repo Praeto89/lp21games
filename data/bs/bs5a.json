@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs5a",
+  "kompetenz_code": "BS.5.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": ["Auf Rädern", "Auf Kufen oder Brettern", "Technik und Gleichgewicht", "Sicherheit"],
+    "elemente": [
+      { "text": "Mit Inline-Skates sicher anrollen", "emoji": "🛼", "kategorie": 0 },
+      { "text": "Mit dem Kickboard kontrolliert beschleunigen", "emoji": "🛴", "kategorie": 0 },
+      { "text": "Mit dem Fahrrad einen Slalom fahren", "emoji": "🚲", "kategorie": 0 },
+      { "text": "Auf dem Rollbrett mit einem Fuss anschieben", "emoji": "🛹", "kategorie": 0 },
+      { "text": "Auf Schlittschuhen über das Eis gleiten", "emoji": "⛸️", "kategorie": 1 },
+      { "text": "Auf Ski im Pflug bremsen", "emoji": "🎿", "kategorie": 1 },
+      { "text": "Auf dem Snowboard quer zum Hang anhalten", "emoji": "🏂", "kategorie": 1 },
+      { "text": "Das Gewicht über der Standfläche halten", "emoji": "⚖️", "kategorie": 2 },
+      { "text": "Die Knie leicht beugen, um Stösse abzufangen", "emoji": "🦵", "kategorie": 2 },
+      { "text": "Den Blick in Fahrtrichtung richten", "emoji": "👀", "kategorie": 2 },
+      { "text": "Helm und passende Schutzausrüstung tragen", "emoji": "🪖", "kategorie": 3 },
+      { "text": "Tempo, Untergrund und andere Personen berücksichtigen", "emoji": "⚠️", "kategorie": 3 }
+    ]
+  }
+}

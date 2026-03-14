@@ -1,0 +1,64 @@
+{
+  "kompetenz_id": "mu1c",
+  "kompetenz_code": "MU.1.C.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "Tradition und Brauchtum",
+      "Kulturell geprägte Gesangsformen",
+      "Aktuelle Bühnen- und Sprechformen"
+    ],
+    "elemente": [
+      {
+        "text": "Volkslied",
+        "emoji": "🎵",
+        "kategorie": 0
+      },
+      {
+        "text": "Kanon",
+        "emoji": "🎶",
+        "kategorie": 0
+      },
+      {
+        "text": "Wiegenlied",
+        "emoji": "🎵",
+        "kategorie": 0
+      },
+      {
+        "text": "Jodellied",
+        "emoji": "🎤",
+        "kategorie": 1
+      },
+      {
+        "text": "Gospel",
+        "emoji": "🎶",
+        "kategorie": 1
+      },
+      {
+        "text": "Call-and-response-Gesang",
+        "emoji": "🎤",
+        "kategorie": 1
+      },
+      {
+        "text": "Rap-Verse",
+        "emoji": "🎤",
+        "kategorie": 2
+      },
+      {
+        "text": "Spoken Word",
+        "emoji": "🎵",
+        "kategorie": 2
+      },
+      {
+        "text": "Pop-Ballade",
+        "emoji": "🎶",
+        "kategorie": 2
+      },
+      {
+        "text": "Musical-Song",
+        "emoji": "🎤",
+        "kategorie": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "fr3d1",
+  "kompetenz_code": "FS2F.3.D.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "Der Film beginnt um halb acht.", "b": "Le film commence à sept heures et demie." },
+      { "a": "Wir treffen uns vor dem Bahnhof.", "b": "On se retrouve devant la gare." },
+      { "a": "Sie hätte gern ein Wasser.", "b": "Elle voudrait de l'eau." },
+      { "a": "Das Museum ist montags geschlossen.", "b": "Le musée est fermé le lundi." },
+      { "a": "Bitte warten Sie hier.", "b": "Veuillez attendre ici." },
+      { "a": "Der Bus fährt von Perron drei.", "b": "Le bus part du quai trois." },
+      { "a": "Er braucht Hilfe beim Ticketautomaten.", "b": "Il a besoin d'aide pour le distributeur de billets." },
+      { "a": "Heute gibt es kein Training.", "b": "Aujourd'hui, il n'y a pas d'entraînement." }
+    ]
+  }
+}

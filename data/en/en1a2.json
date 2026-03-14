@@ -1,0 +1,57 @@
+{
+  "kompetenz_id": "en1a2",
+  "kompetenz_code": "FS1E.1.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "A storyteller whispers and speaks very slowly before saying, 'The door began to move.' What effect does this create?",
+        "optionen": ["Humour", "Suspense", "Boredom", "Relief"],
+        "korrekt": 1,
+        "erklaerung": "Leises und langsames Sprechen baut Spannung auf und macht die Szene unheimlich."
+      },
+      {
+        "frage": "In a spoken poem, the line 'We will rise' is repeated three times. What is the main effect?",
+        "optionen": ["It makes the poem easier to forget", "It weakens the message", "It creates emphasis and rhythm", "It changes the topic completely"],
+        "korrekt": 2,
+        "erklaerung": "Wiederholungen verstärken eine Aussage und geben dem Text einen klaren Rhythmus."
+      },
+      {
+        "frage": "A speaker suddenly talks faster and louder while telling the most important moment of a story. What does that usually show?",
+        "optionen": ["Excitement", "Sleepiness", "Confusion about the topic", "A spelling mistake"],
+        "korrekt": 0,
+        "erklaerung": "Mehr Tempo und Lautstärke lassen einen Moment lebendig und spannend wirken."
+      },
+      {
+        "frage": "Why can a short pause before the last word of a sentence be effective in spoken texts?",
+        "optionen": ["It hides the meaning", "It adds emphasis and expectation", "It makes the sentence shorter", "It removes all emotion"],
+        "korrekt": 1,
+        "erklaerung": "Eine Pause lenkt die Aufmerksamkeit auf das, was danach kommt."
+      },
+      {
+        "frage": "Soft background sounds and a calm voice are used in an audio text about the sea at sunset. Which mood fits best?",
+        "optionen": ["Peaceful", "Aggressive", "Chaotic", "Embarrassed"],
+        "korrekt": 0,
+        "erklaerung": "Ruhige Geräusche und eine sanfte Stimme erzeugen eine friedliche Stimmung."
+      },
+      {
+        "frage": "Someone says, 'Great, another test,' with a long sigh and a flat voice. What is the speaker really expressing?",
+        "optionen": ["Joy", "Annoyance", "Pride", "Curiosity"],
+        "korrekt": 1,
+        "erklaerung": "Tonfall und Seufzen zeigen, dass die Aussage ironisch gemeint ist."
+      },
+      {
+        "frage": "A slam poet strongly stresses the words 'now' and 'change'. Why might they do that?",
+        "optionen": ["To highlight key ideas", "To hide the rhyme", "To slow down the recording device", "To make the poem less clear"],
+        "korrekt": 0,
+        "erklaerung": "Betonte Schlüsselwörter tragen die Hauptaussage des Textes."
+      },
+      {
+        "frage": "A radio story uses a cheerful voice, quick rhythm and playful sound effects. What overall effect is most likely?",
+        "optionen": ["It sounds formal and distant", "It feels playful and lively", "It becomes frightening", "It turns into a factual report"],
+        "korrekt": 1,
+        "erklaerung": "Stimme, Tempo und Geräusche zusammen erzeugen hier einen verspielten Eindruck."
+      }
+    ]
+  }
+}

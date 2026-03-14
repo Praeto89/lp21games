@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ma2c2",
+  "kompetenz_code": "MA.2.C.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte zum Konstruieren einer Mittelsenkrechten.",
+        "elemente": [
+          "Zirkelradius größer als halbe Strecke wählen",
+          "von beiden Endpunkten Kreisbögen schlagen",
+          "die beiden Schnittpunkte markieren",
+          "Schnittpunkte mit einer Geraden verbinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Konstruieren einer Winkelhalbierenden.",
+        "elemente": [
+          "Zirkelspitze in die Winkelspitze setzen",
+          "Bogen über beide Schenkel schlagen",
+          "von den beiden Schnittpunkten neue Bögen schlagen",
+          "Winkelspitze mit dem neuen Schnittpunkt verbinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Konstruieren eines gleichseitigen Dreiecks über der Strecke AB.",
+        "elemente": [
+          "Zirkel auf die Länge AB einstellen",
+          "Kreisbogen um A zeichnen",
+          "Kreisbogen um B zeichnen",
+          "Schnittpunkt mit A und B verbinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Spiegeln eines Punktes an einer Achse.",
+        "elemente": [
+          "Lot vom Punkt auf die Achse zeichnen",
+          "Abstand des Punktes zur Achse messen",
+          "denselben Abstand auf der anderen Seite abtragen",
+          "Bildpunkt beschriften"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Zeichnen einer Senkrechten durch einen Punkt auf einer Geraden.",
+        "elemente": [
+          "Geodreieck an die Gerade anlegen",
+          "90°-Marke auf den Punkt setzen",
+          "Senkrechte durch den Punkt ziehen",
+          "Zeichnung kontrollieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Zeichnen eines Rechtecks mit 6 cm und 4 cm Seitenlänge.",
+        "elemente": [
+          "Strecke AB = 6 cm zeichnen",
+          "in A und B Senkrechten errichten",
+          "auf beiden Senkrechten 4 cm abtragen",
+          "die neuen Punkte verbinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Messen eines Winkels mit dem Geodreieck.",
+        "elemente": [
+          "Nullpunkt auf den Scheitel legen",
+          "Grundlinie an einen Schenkel anlegen",
+          "passende Skala wählen",
+          "Gradzahl am zweiten Schenkel ablesen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte zum Einzeichnen eines Punktes im Koordinatensystem.",
+        "elemente": [
+          "x-Wert auf der x-Achse suchen",
+          "parallel zur y-Achse nach oben oder unten gehen",
+          "y-Wert erreichen",
+          "Punkt markieren und beschriften"
+        ]
+      }
+    ]
+  }
+}

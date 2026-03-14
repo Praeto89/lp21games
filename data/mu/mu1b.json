@@ -1,0 +1,41 @@
+{
+  "kompetenz_id": "mu1b",
+  "kompetenz_code": "MU.1.B.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      {
+        "a": "Lautstaerke",
+        "b": "verändert die Wirkung von leise bis kraftvoll"
+      },
+      {
+        "a": "Artikulation",
+        "b": "beschreibt, ob Silben und Toene weich oder deutlich getrennt klingen"
+      },
+      {
+        "a": "Tempo",
+        "b": "gibt an, wie schnell gesprochen oder gesungen wird"
+      },
+      {
+        "a": "Klangfarbe",
+        "b": "meint den hellen, dunklen, rauen oder weichen Stimmklang"
+      },
+      {
+        "a": "Betonung",
+        "b": "hebt wichtige Woerter oder Toene hervor"
+      },
+      {
+        "a": "Pause",
+        "b": "schafft Spannung, Gliederung und Wirkung"
+      },
+      {
+        "a": "Atmung",
+        "b": "traegt den Klang und hilft bei langen Phrasen"
+      },
+      {
+        "a": "Registerwechsel",
+        "b": "veraendert den Ausdruck zwischen Brust- und Kopfstimme"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de4a1",
+  "kompetenz_code": "D.4.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Woran erkennt man eine geläufige und leserliche Handschrift?",
+        "optionen": [
+          "Buchstaben sind klar erkennbar und der Text ist ohne Mühe lesbar",
+          "Die Schrift ist möglichst winzig",
+          "Alle Wörter stehen schräg übereinander",
+          "Die Geschwindigkeit ist wichtiger als die Lesbarkeit"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine persönliche Handschrift soll vor allem leserlich und flüssig sein."
+      },
+      {
+        "frage": "Warum ist automatisiertes Schreiben wichtig?",
+        "optionen": [
+          "Damit man nie mehr über Sprache nachdenken muss",
+          "Damit mehr Aufmerksamkeit für Ideen, Planung und Formulierungen bleibt",
+          "Damit alle Texte gleich aussehen",
+          "Damit man nur noch tippen muss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn Grundfertigkeiten sicher sind, bleibt mehr Kapazität für höhere Schreibprozesse."
+      },
+      {
+        "frage": "Welche Tastaturstrategie hilft beim flüssigen Schreiben am meisten?",
+        "optionen": [
+          "Mit einem Finger nach jedem Buchstaben suchen",
+          "Wichtige Tasten sicher finden und auf den Textfluss achten",
+          "Nur Grossbuchstaben verwenden",
+          "Den Text erst am Schluss lesen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Geläufiges Tippen unterstützt den Schreibfluss."
+      },
+      {
+        "frage": "Was hilft, beim Schreiben nicht ständig den Faden zu verlieren?",
+        "optionen": [
+          "Nach jedem Satz das Thema wechseln",
+          "Ideen und Formulierungen zügig festhalten",
+          "Nur die Überschrift schreiben",
+          "Jeden Satz sofort zehnmal korrigieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Schreibflüssigkeit hilft, Gedanken zusammenhängend zu entwickeln."
+      },
+      {
+        "frage": "Welche Aussage passt zu einer angemessenen Schreibflüssigkeit?",
+        "optionen": [
+          "Ich kann schreiben oder tippen, ohne bei jedem Wort lange zu stocken",
+          "Ich denke nie über Inhalte nach",
+          "Ich schreibe absichtlich unleserlich",
+          "Ich tippe nur einzelne Stichwörter"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Schreibflüssigkeit bedeutet, dass die Technik den Denkprozess unterstützt."
+      },
+      {
+        "frage": "Wann ist Handschrift besonders sinnvoll?",
+        "optionen": [
+          "Wenn ich schnelle Notizen oder Skizzen direkt im Heft festhalten will",
+          "Wenn ich gar nichts notieren möchte",
+          "Wenn die Schrift nicht lesbar sein soll",
+          "Nur bei Prüfungen in Mathematik"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Handschrift bleibt für Notizen, Entwürfe und kurze Texte wichtig."
+      },
+      {
+        "frage": "Was gehört zu einem gelingenden Schreibprozess?",
+        "optionen": [
+          "Nur auf die Schriftform achten",
+          "Technik, Wortschatz und Formulieren zusammen nutzen",
+          "Den Text nie mehr überarbeiten",
+          "Sofort am ersten Satz aufhören"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Grundfertigkeiten und sprachliche Mittel greifen beim Schreiben ineinander."
+      },
+      {
+        "frage": "Welche Schreibsituation profitiert besonders von sicherer Tastaturnutzung?",
+        "optionen": [
+          "Ein längerer Bericht am Computer",
+          "Ein Gespräch auf dem Pausenplatz",
+          "Ein Hörverstehensauftrag ohne Text",
+          "Ein Fussballmatch"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei längeren digitalen Texten ist eine geläufige Tastaturnutzung besonders hilfreich."
+      }
+    ]
+  }
+}

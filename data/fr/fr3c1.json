@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr3c1",
+  "kompetenz_code": "FS2F.3.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Zeit gewinnen", "Verstehen sichern", "Gespräch weiterführen"],
+    "elemente": [
+      { "text": "Euh...", "kategorie": 0 },
+      { "text": "Alors, laisse-moi réfléchir...", "kategorie": 0 },
+      { "text": "Un moment, s'il te plaît.", "kategorie": 0 },
+      { "text": "Tu peux répéter, s'il te plaît ?", "kategorie": 1 },
+      { "text": "Plus lentement, s'il te plaît.", "kategorie": 1 },
+      { "text": "Si je comprends bien, ...", "kategorie": 1 },
+      { "text": "Et toi ?", "kategorie": 2 },
+      { "text": "Qu'est-ce que tu aimes faire ?", "kategorie": 2 },
+      { "text": "Pourquoi ?", "kategorie": 2 },
+      { "text": "Moi aussi, j'aime ça.", "kategorie": 2 },
+      { "text": "Et après ?", "kategorie": 2 },
+      { "text": "Tu peux donner un exemple ?", "kategorie": 2 }
+    ]
+  }
+}

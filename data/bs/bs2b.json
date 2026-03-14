@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs2b",
+  "kompetenz_code": "BS.2.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum ist Körperspannung beim Turnen wichtig?",
+        "optionen": [
+          "Sie macht Bewegungen nur langsamer",
+          "Sie stabilisiert den Körper und erleichtert kontrollierte Bewegungen",
+          "Sie ersetzt jedes Aufwärmen",
+          "Sie ist nur beim Sitzen nötig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Körperspannung hilft, den Körper stabil zu halten und Bewegungen sauber auszuführen."
+      },
+      {
+        "frage": "Welche Übung trainiert Beweglichkeit besonders passend?",
+        "optionen": [
+          "Kontrollierte Schulter- und Hüftmobilisation",
+          "Nur langes Sitzen",
+          "Kräftiges Ziehen in den Schmerz hinein",
+          "Ausschliesslich Sprinten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beweglichkeit wird mit kontrollierten Mobilisations- und Dehnübungen verbessert, nicht mit schmerzhaftem Ziehen."
+      },
+      {
+        "frage": "Wie sieht ein sauberer Unterarmstütz aus?",
+        "optionen": [
+          "Das Becken hängt tief durch",
+          "Kopf, Rumpf und Beine bilden möglichst eine Linie",
+          "Die Knie bleiben immer am Boden",
+          "Die Schultern sind weit hinter den Ellbogen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Unterarmstütz soll der Körper stabil und möglichst gerade ausgerichtet sein."
+      },
+      {
+        "frage": "Warum wärmst du dich vor Kraft- und Beweglichkeitstraining auf?",
+        "optionen": [
+          "Damit die Muskeln und Gelenke vorbereitet sind",
+          "Damit das Training kürzer wird",
+          "Damit Dehnen unnötig wird",
+          "Damit du sofort maximale Belastung einsetzen kannst"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Aufwärmen bereitet Muskeln, Kreislauf und Gelenke auf die Belastung vor."
+      },
+      {
+        "frage": "Was bedeutet es, Gelenke in funktionellem Umfang zu bewegen?",
+        "optionen": [
+          "So weit wie möglich, auch mit Schmerzen",
+          "So, dass die Bewegung kontrolliert und sinnvoll für die Aufgabe bleibt",
+          "Nur ganz kleine Bewegungen zu machen",
+          "Gelenke beim Training möglichst zu vermeiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Funktionell bedeutet: passend, kontrolliert und ohne riskante Überdehnung."
+      },
+      {
+        "frage": "Welche Aussage zum Krafttraining im Zyklus 3 ist sinnvoll?",
+        "optionen": [
+          "Nur Maximalgewichte bringen Fortschritt",
+          "Saubere Technik ist wichtiger als möglichst viel Gewicht",
+          "Pausen sind überflüssig",
+          "Kraft braucht keine Körperspannung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Schulsport stehen saubere Technik, Körperkontrolle und altersgerechte Belastung im Vordergrund."
+      },
+      {
+        "frage": "Worauf achtest du beim Dehnen besonders?",
+        "optionen": [
+          "Auf ruhige, kontrollierte Bewegung ohne Federn in den Schmerz",
+          "Auf möglichst ruckartige Bewegungen",
+          "Auf das Anhalten des Atems",
+          "Darauf, dass die Haltung instabil bleibt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Dehnen soll kontrolliert, ruhig und ohne schmerzhafte Überlastung erfolgen."
+      },
+      {
+        "frage": "Welche Muskelgruppen helfen besonders beim Stützen und Halten?",
+        "optionen": [
+          "Nur die Hände",
+          "Rumpf, Schultern und Arme",
+          "Nur die Waden",
+          "Ausschliesslich die Nackenmuskeln"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für Stützpositionen arbeiten vor allem Rumpf, Schultergürtel und Arme zusammen."
+      },
+      {
+        "frage": "Wie verbesserst du Kraft und Beweglichkeit nachhaltig?",
+        "optionen": [
+          "Mit regelmässigem Training und genügend Erholung",
+          "Mit einer einmaligen sehr harten Einheit",
+          "Indem du nur anderen zuschaust",
+          "Indem du jede Pause auslässt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fortschritte entstehen durch wiederholtes Training mit passenden Pausen."
+      },
+      {
+        "frage": "Wann solltest du eine Übung abbrechen oder anpassen?",
+        "optionen": [
+          "Wenn sie stabil und kontrolliert gelingt",
+          "Wenn scharfer Schmerz oder Kontrollverlust auftritt",
+          "Wenn jemand schneller ist als du",
+          "Wenn die Lehrperson zählt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Schmerz, Unsicherheit oder Kontrollverlust sind klare Signale, eine Übung zu stoppen oder zu vereinfachen."
+      }
+    ]
+  }
+}

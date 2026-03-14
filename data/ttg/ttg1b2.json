@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ttg1b2",
+  "kompetenz_code": "TTG.1.B.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte einer einfachen Fotodokumentation in die richtige Reihenfolge.",
+        "elemente": [
+          "Arbeitsauftrag und Ziel klaeren",
+          "Wichtige Arbeitsschritte fotografieren",
+          "Zu den Bildern kurze Notizen ergaenzen",
+          "Dokumentation praesentieren"
+        ]
+      },
+      {
+        "anweisung": "Bringe die Vorbereitung einer kurzen Werkpraesentation in die richtige Reihenfolge.",
+        "elemente": [
+          "Produkt und Zielgruppe festlegen",
+          "Die wichtigsten Informationen auswaehlen",
+          "Praesentation mit Bildern oder Skizzen gestalten",
+          "Vortrag ueben"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um aus Feedback Lernschritte abzuleiten.",
+        "elemente": [
+          "Rueckmeldungen sammeln",
+          "Staerken und Schwierigkeiten sortieren",
+          "Ein konkretes Verbesserungsziel formulieren",
+          "Beim naechsten Entwurf anwenden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeit an einem Portfolio-Eintrag.",
+        "elemente": [
+          "Produktphase auswaehlen",
+          "Skizze, Foto oder Probe einkleben",
+          "Entscheidungen und Beobachtungen aufschreiben",
+          "Erkenntnisse zusammenfassen"
+        ]
+      },
+      {
+        "anweisung": "Wie entsteht ein aussagekraeftiges Prozessplakat?",
+        "elemente": [
+          "Material fuer das Plakat sammeln",
+          "Arbeitsschritte zeitlich ordnen",
+          "Texte und Bilder uebersichtlich anordnen",
+          "Plakat erklaeren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte fuer eine digitale Bilderserie zum Werkprozess.",
+        "elemente": [
+          "Fotos auswaehlen",
+          "Bilder in eine sinnvolle Reihenfolge bringen",
+          "Zu jedem Bild eine passende Bildlegende schreiben",
+          "Datei speichern und teilen"
+        ]
+      },
+      {
+        "anweisung": "Wie gehst du bei einer Produktbeschreibung vor?",
+        "elemente": [
+          "Name und Zweck des Produkts nennen",
+          "Materialien und Verfahren beschreiben",
+          "Besondere Entscheidungen begruenden",
+          "Ergebnis knapp zusammenfassen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um einen Designprozess rueckblickend zu praesentieren.",
+        "elemente": [
+          "Ausgangsidee zeigen",
+          "Versuche und Veraenderungen erlaeutern",
+          "Endprodukt mit Kriterien beurteilen",
+          "Naechste Verbesserungsmoeglichkeit nennen"
+        ]
+      }
+    ]
+  }
+}

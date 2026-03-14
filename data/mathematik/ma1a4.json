@@ -1,0 +1,70 @@
+{
+  "kompetenz_id": "ma1a4",
+  "kompetenz_code": "MA.1.A.4",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 180,
+    "aufgaben": [
+      {
+        "aufgabe": "3x + 5 = 26. x = ?",
+        "loesung": "7",
+        "hinweis": "Mache zuerst die +5 rückgängig."
+      },
+      {
+        "aufgabe": "2(a - 4) = 18. a = ?",
+        "loesung": "13",
+        "hinweis": "Teile zuerst durch 2."
+      },
+      {
+        "aufgabe": "5 + 2 · 6 = ?",
+        "loesung": "17",
+        "hinweis": "Punkt vor Strich."
+      },
+      {
+        "aufgabe": "(5 + 2) · 6 = ?",
+        "loesung": "42",
+        "hinweis": "Beachte die Klammer."
+      },
+      {
+        "aufgabe": "4y - 9 = 19. y = ?",
+        "loesung": "7",
+        "hinweis": "Addiere zuerst 9."
+      },
+      {
+        "aufgabe": "6(z + 1) = 30. z = ?",
+        "loesung": "4",
+        "hinweis": "Teile zuerst durch 6."
+      },
+      {
+        "aufgabe": "12 : 3 + 4 · 2 = ?",
+        "loesung": "12",
+        "hinweis": "Rechne Division und Multiplikation vor der Addition."
+      },
+      {
+        "aufgabe": "0.4x = 3.2. x = ?",
+        "loesung": "8",
+        "hinweis": "Teile durch 0.4."
+      },
+      {
+        "aufgabe": "2x + 7 = x + 15. x = ?",
+        "loesung": "8",
+        "hinweis": "Bringe x auf eine Seite und die Zahlen auf die andere."
+      },
+      {
+        "aufgabe": "3^2 + 4^2 = ?",
+        "loesung": "25",
+        "hinweis": "Berechne beide Quadrate."
+      },
+      {
+        "aufgabe": "5(2 + 3) - 4 = ?",
+        "loesung": "21",
+        "hinweis": "Klammer zuerst."
+      },
+      {
+        "aufgabe": "18 : (3 · 2) = ?",
+        "loesung": "3",
+        "hinweis": "Berechne zuerst die Klammer."
+      }
+    ]
+  }
+}

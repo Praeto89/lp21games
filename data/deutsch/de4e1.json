@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de4e1",
+  "kompetenz_code": "D.4.E.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Frage hilft beim inhaltlichen Überarbeiten eines Textes am meisten?",
+        "optionen": [
+          "Ist meine Schrift gross genug?",
+          "Erfüllt mein Text das Schreibziel?",
+          "Ist das Blatt sauber genug?",
+          "Wie viele Buchstaben hat der Titel?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim inhaltlichen Überarbeiten geht es darum, ob der Text zum Ziel und zur Textsorte passt."
+      },
+      {
+        "frage": "Was bedeutet es, die Leserperspektive einzunehmen?",
+        "optionen": [
+          "Nur an die eigene Meinung zu denken",
+          "Zu prüfen, ob Lesende alles verstehen und dem Text folgen können",
+          "Den Text heimlich jemand anderem zu schicken",
+          "Nur auf die Länge des Textes zu achten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Leserperspektive heisst, den Text aus Sicht der Zielgruppe zu betrachten."
+      },
+      {
+        "frage": "Ein Bericht ist unübersichtlich. Welche Überarbeitung hilft inhaltlich?",
+        "optionen": [
+          "Absätze und passende Zwischentitel ergänzen",
+          "Alle Satzzeichen löschen",
+          "Nur die Schriftart ändern",
+          "Mehr Rechtschreibfehler einbauen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Textstrukturierende Mittel verbessern Aufbau und Verständlichkeit."
+      },
+      {
+        "frage": "Warum ist Rückmeldung von anderen beim Überarbeiten nützlich?",
+        "optionen": [
+          "Weil man dann gar nicht mehr selbst denken muss",
+          "Weil andere Unklarheiten und Stärken oft schneller bemerken",
+          "Weil nur andere die Textsorte kennen",
+          "Weil der Text dadurch automatisch perfekt wird"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Austausch hilft, Unstimmigkeiten und gute Stellen bewusster wahrzunehmen."
+      },
+      {
+        "frage": "Welche Änderung ist typisch für inhaltliches Überarbeiten?",
+        "optionen": [
+          "Ein zusätzliches Beispiel einfügen, damit ein Argument klarer wird",
+          "Die Handschrift kleiner machen",
+          "Alle Nomen unterstreichen",
+          "Nur Tippfehler zählen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Inhaltliches Überarbeiten verbessert Aussagen, Aufbau und Verständlichkeit."
+      },
+      {
+        "frage": "Was passt zu einem bewussten Überarbeitungsprozess?",
+        "optionen": [
+          "Jede Rückmeldung sofort ablehnen",
+          "Positive Aspekte und Unstimmigkeiten gezielt besprechen",
+          "Den Text nie mehr anschauen",
+          "Nur den ersten Satz lesen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Überarbeiten werden Stärken und Schwächen mit Kriterien erkannt."
+      },
+      {
+        "frage": "Welche Hilfe ist bei der inhaltlichen Überarbeitung sinnvoll?",
+        "optionen": [
+          "Wörterbuch oder seriöse Internetquelle",
+          "Nur ein leerer Bildschirm",
+          "Ausschliesslich farbige Stifte",
+          "Gar keine Hilfsmittel"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Hilfsmittel helfen, Informationen zu prüfen und passende Alternativen zu finden."
+      },
+      {
+        "frage": "Wann ist eine inhaltliche Überarbeitung gelungen?",
+        "optionen": [
+          "Wenn der Text länger geworden ist, egal wie",
+          "Wenn Aufbau, Informationen und Wirkung besser zum Schreibziel passen",
+          "Wenn jedes Wort ersetzt wurde",
+          "Wenn keine Absätze mehr vorhanden sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Entscheidend ist die bessere Passung von Inhalt, Struktur und Schreibziel."
+      }
+    ]
+  }
+}

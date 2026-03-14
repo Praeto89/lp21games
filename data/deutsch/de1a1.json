@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de1a1",
+  "kompetenz_code": "D.1.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Fachsprache", "Jugendsprache", "Standardsprache", "Mundart"],
+    "elemente": [
+      { "text": "Photosynthese", "kategorie": 0 },
+      { "text": "Subjekt", "kategorie": 0 },
+      { "text": "Zellkern", "kategorie": 0 },
+      { "text": "cringe", "kategorie": 1 },
+      { "text": "lost", "kategorie": 1 },
+      { "text": "stabil", "kategorie": 1 },
+      { "text": "Könnten Sie das bitte genauer erklären?", "kategorie": 2 },
+      { "text": "Wir treffen uns nach dem Unterricht.", "kategorie": 2 },
+      { "text": "Ich bin mit diesem Vorschlag nicht einverstanden.", "kategorie": 2 },
+      { "text": "Grüezi mitenand", "kategorie": 3 },
+      { "text": "Ich gang hei.", "kategorie": 3 },
+      { "text": "Es isch mega streng gsi.", "kategorie": 3 }
+    ]
+  }
+}

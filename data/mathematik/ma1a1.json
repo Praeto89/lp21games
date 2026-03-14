@@ -1,0 +1,62 @@
+{
+  "kompetenz_id": "ma1a1",
+  "kompetenz_code": "MA.1.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Begriff",
+      "Symbol",
+      "Zahlendarstellung"
+    ],
+    "elemente": [
+      {
+        "text": "Variable",
+        "kategorie": 0
+      },
+      {
+        "text": "Quadratwurzel",
+        "kategorie": 0
+      },
+      {
+        "text": "Primzahl",
+        "kategorie": 0
+      },
+      {
+        "text": "Ungleichung",
+        "kategorie": 0
+      },
+      {
+        "text": "%",
+        "kategorie": 1
+      },
+      {
+        "text": "≈",
+        "kategorie": 1
+      },
+      {
+        "text": "√",
+        "kategorie": 1
+      },
+      {
+        "text": "≤",
+        "kategorie": 1
+      },
+      {
+        "text": "0,75",
+        "kategorie": 2
+      },
+      {
+        "text": "-12",
+        "kategorie": 2
+      },
+      {
+        "text": "3/5",
+        "kategorie": 2
+      },
+      {
+        "text": "1,2 · 10^3",
+        "kategorie": 2
+      }
+    ]
+  }
+}

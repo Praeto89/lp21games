@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt5a",
+  "kompetenz_code": "NT.5.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wann bewegt sich ein K?rper gleichf?rmig?",
+        "optionen": [
+          "Wenn er in gleichen Zeiten gleiche Strecken zur?cklegt",
+          "Wenn er dauernd anh?lt",
+          "Wenn er nur bergauf f?hrt",
+          "Wenn er seine Masse verliert"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gleichf?rmige Bewegung bedeutet konstante Geschwindigkeit."
+      },
+      {
+        "frage": "Welche Wirkung kann eine Kraft haben?",
+        "optionen": [
+          "Sie kann Geschwindigkeit, Richtung oder Form eines K?rpers ?ndern",
+          "Sie kann Materie verschwinden lassen",
+          "Sie macht jeden K?rper durchsichtig",
+          "Sie ver?ndert nur Farben"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kr?fte k?nnen K?rper beschleunigen, abbremsen, umlenken oder verformen."
+      },
+      {
+        "frage": "Wie h?ngt die Gewichtskraft von der Masse ab?",
+        "optionen": [
+          "Je gr?sser die Masse, desto gr?sser die Gewichtskraft",
+          "Die Gewichtskraft ist immer gleich",
+          "Sie h?ngt nur von der Farbe ab",
+          "Sie nimmt bei schwereren K?rpern ab"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Auf der Erde ist die Gewichtskraft proportional zur Masse."
+      },
+      {
+        "frage": "Warum sind Gurte im Auto wichtig?",
+        "optionen": [
+          "Weil der K?rper bei abruptem Bremsen seine Bewegung beibehalten will",
+          "Weil der Motor sonst nicht startet",
+          "Weil sie die Reifen k?hlen",
+          "Weil sie die Masse des Autos verringern"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Gurt sch?tzt vor den Folgen der Tr?gheit bei starken Geschwindigkeits?nderungen."
+      },
+      {
+        "frage": "Warum ist ein langer Schraubenschl?ssel oft praktischer als ein kurzer?",
+        "optionen": [
+          "Er vergr?ssert den Hebelarm und senkt die n?tige Kraft",
+          "Er macht die Schraube leichter",
+          "Er stoppt die Reibung ganz",
+          "Er entfernt das Gewinde"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein gr?sserer Hebelarm erm?glicht dieselbe Wirkung mit kleinerer Kraft."
+      },
+      {
+        "frage": "Was ist typisch f?r eine schiefe Ebene?",
+        "optionen": [
+          "Sie verringert die n?tige Kraft, verl?ngert aber den Weg",
+          "Sie verk?rzt immer den Weg",
+          "Sie macht Reibung unm?glich",
+          "Sie wirkt nur unter Wasser"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Einfache Maschinen sparen keine Arbeit, sondern tauschen Kraft gegen Weg."
+      },
+      {
+        "frage": "Was gilt auch f?r einen Flaschenzug?",
+        "optionen": [
+          "Weniger Zugkraft bedeutet meist einen l?ngeren Zugweg",
+          "Er hebt Lasten ohne jede Arbeit",
+          "Er funktioniert nur mit Elektrizit?t",
+          "Er vergr?ssert die Last"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beim Flaschenzug wird Kraft gegen Weg getauscht."
+      },
+      {
+        "frage": "Woran erkennt man eine beschleunigte Bewegung?",
+        "optionen": [
+          "Die Geschwindigkeit ?ndert sich",
+          "Die Masse wird kleiner",
+          "Der K?rper bleibt stehen",
+          "Die Temperatur sinkt immer"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beschleunigung bedeutet jede ?nderung der Geschwindigkeit, auch beim Abbremsen oder Umlenken."
+      }
+    ]
+  }
+}

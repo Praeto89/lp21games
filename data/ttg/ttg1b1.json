@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg1b1",
+  "kompetenz_code": "TTG.1.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Worauf achtest du zuerst, wenn du ein Sitzkissen beurteilst?",
+        "optionen": [
+          "Nur auf den Namen des Produkts",
+          "Auf Funktion, Verarbeitung und Wirkung",
+          "Nur auf den Preis",
+          "Nur auf die Verpackung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Begutachten zaehlen Funktion, Gestaltung und technische Ausfuehrung gemeinsam."
+      },
+      {
+        "frage": "Was bedeutet es, ein Produkt weiterzuentwickeln?",
+        "optionen": [
+          "Es unveraendert kopieren",
+          "Nach einer Beurteilung gezielt verbessern",
+          "Nur groesser machen",
+          "Es sofort wegwerfen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Weiterentwickeln heisst, Erkenntnisse aus Tests und Rueckmeldungen in eine verbesserte Version umzusetzen."
+      },
+      {
+        "frage": "Welcher Hinweis zeigt einen technischen Mangel bei einer Tasche?",
+        "optionen": [
+          "Die Farbe passt gut",
+          "Die Naehte halten die Belastung nicht aus",
+          "Das Muster ist abwechslungsreich",
+          "Das Logo ist klein"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn die Naehte einer Belastung nicht standhalten, ist die technische Qualitaet ungenuegend."
+      },
+      {
+        "frage": "Warum ist die Zielgruppe wichtig, wenn du ein Produkt beurteilst?",
+        "optionen": [
+          "Weil Produkte immer nur fuer Erwachsene gedacht sind",
+          "Weil Gestaltung und Funktion zu den Nutzenden passen muessen",
+          "Weil Zielgruppen nichts mit Design zu tun haben",
+          "Weil nur die Lehrperson die Zielgruppe festlegt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Produkt muss auf die Beduerfnisse der Nutzenden abgestimmt sein, zum Beispiel in Groesse, Material oder Wirkung."
+      },
+      {
+        "frage": "Welche Rueckmeldung hilft bei der Verbesserung eines Werkstuecks am meisten?",
+        "optionen": [
+          "Ist halt okay",
+          "Der Griff liegt gut in der Hand, aber die Kanten sollten sauberer geschliffen werden",
+          "Mir gefaellt Blau nicht",
+          "Ich haette etwas anderes gemacht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Praezise Rueckmeldungen mit Starken und Verbesserungsmoeglichkeiten sind fuer die Weiterentwicklung am nuetzlichsten."
+      },
+      {
+        "frage": "Welcher Zusammenhang ist ein Beispiel fuer aesthetische und technische Ueberlegungen?",
+        "optionen": [
+          "Ein duennes Material sieht leicht aus, ist aber fuer einen Hocker zu instabil",
+          "Ein Produkt hat einen langen Namen",
+          "Ein Tisch steht im Klassenzimmer",
+          "Ein Stoff ist im Regal einsortiert"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gute Gestaltung verbindet Wirkung mit Funktion. Ein Material kann schoen wirken, aber technisch ungeeignet sein."
+      },
+      {
+        "frage": "Was zeigt gute Ergonomie bei einem selbstgebauten Gegenstand?",
+        "optionen": [
+          "Er sieht nur interessant aus",
+          "Er laesst sich angenehm und sicher benutzen",
+          "Er ist moeglichst schwer",
+          "Er braucht viele Einzelteile"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ergonomie beschreibt, wie gut ein Produkt zu den Bewegungen und Beduerfnissen des Menschen passt."
+      },
+      {
+        "frage": "Wann ist ein Vergleich zwischen zwei Entwuerfen besonders fair?",
+        "optionen": [
+          "Wenn nur die schoenere Farbe zaehlt",
+          "Wenn dieselben Kriterien verwendet werden",
+          "Wenn nur die eigene Meinung zaehlt",
+          "Wenn die teurere Version gewinnt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kriterien wie Stabilitaet, Wirkung, Genauigkeit oder Bedienbarkeit machen einen Vergleich nachvollziehbar."
+      },
+      {
+        "frage": "Was ist ein sinnvoller Grund, ein Werkstueck zu ueberarbeiten?",
+        "optionen": [
+          "Es soll nur komplizierter aussehen",
+          "Die Funktion ist noch nicht zuverlaessig",
+          "Es war zu schnell fertig",
+          "Jemand anderes hat Rot gewaehlt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn ein Produkt seine Aufgabe noch nicht sicher erfuellt, ist eine Ueberarbeitung sinnvoll."
+      },
+      {
+        "frage": "Was gehoert zu einer reflektierten Beurteilung eines Prozesses?",
+        "optionen": [
+          "Nur das Endprodukt anschauen",
+          "Auch Entscheidungen, Tests und Veraenderungen waehrend der Arbeit bedenken",
+          "Nur die schwierigste Stelle nennen",
+          "Nur die Meinung der Lehrperson wiederholen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gestaltungsprozesse werden besser, wenn auch Zwischenschritte, Probleme und Loesungen betrachtet werden."
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "fr2c1",
+  "kompetenz_code": "FS2F.2.C.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "Entrée libre pour les moins de seize ans.", "b": "Eintritt frei für unter Sechzehnjährige." },
+      { "a": "Merci d'éteindre votre téléphone portable.", "b": "Bitte schalten Sie Ihr Handy aus." },
+      { "a": "Rendez-vous à la gare à 7 h 45.", "b": "Treffpunkt am Bahnhof um 7.45 Uhr." },
+      { "a": "La boutique est fermée le lundi matin.", "b": "Das Geschäft ist am Montagmorgen geschlossen." },
+      { "a": "N'oubliez pas de signer la feuille.", "b": "Vergesst nicht, das Blatt zu unterschreiben." },
+      { "a": "Le match commence plus tard que prévu.", "b": "Das Spiel beginnt später als geplant." },
+      { "a": "Merci de déposer les vélos devant le bâtiment B.", "b": "Bitte stellt die Velos vor Gebäude B ab." },
+      { "a": "Nous cherchons deux élèves pour aider au buffet.", "b": "Wir suchen zwei Schülerinnen oder Schüler für das Buffet." }
+    ]
+  }
+}

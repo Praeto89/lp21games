@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt6c",
+  "kompetenz_code": "NT.6.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was versteht man unter dem Brennpunkt einer Sammellinse?",
+        "optionen": [
+          "Der Punkt, in dem parallel einfallende Lichtstrahlen nach der Brechung zusammentreffen",
+          "Der Mittelpunkt der Linse",
+          "Der Punkt, an dem die Linse am dünnsten ist",
+          "Der Rand der Linse"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Parallel einfallende Lichtstrahlen werden von einer Sammellinse so gebrochen, dass sie sich im Brennpunkt treffen."
+      },
+      {
+        "frage": "Was passiert mit Licht, wenn es von einem optisch dichteren in ein optisch dünneres Medium übergeht und der Einfallswinkel gross genug ist?",
+        "optionen": [
+          "Es wird total reflektiert",
+          "Es wird vollständig absorbiert",
+          "Es wird langsamer",
+          "Es ändert seine Farbe"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei der Totalreflexion wird das Licht vollständig zurückgeworfen, wenn der Grenzwinkel überschritten wird. Dieses Prinzip nutzen z.B. Glasfaserkabel."
+      },
+      {
+        "frage": "Wie entsteht ein Spiegelbild?",
+        "optionen": [
+          "Durch Reflexion der Lichtstrahlen an einer glatten Oberfläche",
+          "Durch Brechung des Lichts im Spiegel",
+          "Durch Absorption aller Lichtstrahlen",
+          "Durch Streuung des Lichts"
+        ],
+        "korrekt": 0,
+        "erklaerung": "An einer glatten, spiegelnden Oberfläche werden Lichtstrahlen nach dem Reflexionsgesetz zurückgeworfen, wobei ein virtuelles Bild entsteht."
+      },
+      {
+        "frage": "Was ist ein typisches Merkmal einer Zerstreuungslinse (Konkavlinse)?",
+        "optionen": [
+          "Sie ist in der Mitte dünner als am Rand und zerstreut Lichtstrahlen",
+          "Sie ist in der Mitte dicker und bündelt Lichtstrahlen",
+          "Sie hat keinen Brennpunkt",
+          "Sie absorbiert alles Licht"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Zerstreuungslinse ist in der Mitte dünner und lenkt parallele Lichtstrahlen so ab, dass sie auseinanderlaufen (divergieren)."
+      },
+      {
+        "frage": "Welches optische Gerät nutzt eine Kombination aus Objektiv und Okular, um weit entfernte Objekte vergrössert darzustellen?",
+        "optionen": [
+          "Ein Fernrohr (Teleskop)",
+          "Ein Mikroskop",
+          "Eine Lupe",
+          "Ein Prisma"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Fernrohr nutzt zwei Linsensysteme: Das Objektiv erzeugt ein Zwischenbild, das vom Okular vergrössert betrachtet wird."
+      },
+      {
+        "frage": "Warum erscheint ein Löffel im Wasserglas an der Wasseroberfläche 'geknickt'?",
+        "optionen": [
+          "Weil das Licht beim Übergang von Wasser zu Luft gebrochen wird",
+          "Weil der Löffel sich im Wasser verbiegt",
+          "Weil Wasser das Licht absorbiert",
+          "Weil das Auge unter Wasser anders funktioniert"
+        ],
+        "korrekt": 0,
+        "erklaerung": "An der Grenzfläche zwischen Wasser und Luft ändert das Licht seine Richtung (Brechung), wodurch der Löffel versetzt erscheint."
+      },
+      {
+        "frage": "Welches Prinzip nutzt die Kamera, um ein Bild auf dem Sensor zu erzeugen?",
+        "optionen": [
+          "Eine Sammellinse erzeugt ein reelles, umgekehrtes Bild auf dem Sensor",
+          "Ein Spiegel projiziert das Bild direkt",
+          "Licht wird im Gehäuse gespeichert",
+          "Der Sensor erzeugt das Licht selbst"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Kameralinse (Sammellinse) bricht das Licht so, dass ein verkleinertes, umgekehrtes, reelles Bild auf dem Sensor entsteht."
+      },
+      {
+        "frage": "Wo wird Totalreflexion technisch genutzt?",
+        "optionen": [
+          "In Glasfaserkabeln zur Datenübertragung",
+          "In Glühbirnen zur Lichterzeugung",
+          "In Batterien zur Energiespeicherung",
+          "In Thermometern zur Temperaturmessung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "In Glasfasern wird Licht durch Totalreflexion an der Innenwand der Faser weitergeleitet, was schnelle Datenübertragung ermöglicht."
+      }
+    ]
+  }
+}

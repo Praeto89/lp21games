@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu4b",
+  "kompetenz_code": "MU.4.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wozu dient ein gemeinsames Einzählen vor dem Musizieren?",
+        "optionen": [
+          "Es bestimmt nur die Lautstärke",
+          "Es hilft allen, gleichzeitig und im gleichen Tempo zu beginnen",
+          "Es ersetzt jede Probe",
+          "Es ist nur bei Soli wichtig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein gemeinsamer Einsatz braucht eine gemeinsame Orientierung im Puls."
+      },
+      {
+        "frage": "Was ist in einem Ensemble besonders wichtig, wenn eine Person die Melodie spielt?",
+        "optionen": [
+          "Die Begleitung spielt möglichst lauter",
+          "Die anderen hören hin und passen ihre Lautstärke an",
+          "Alle spielen eine andere Tonart",
+          "Niemand zählt innerlich mit"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gutes Zusammenspiel braucht Balance zwischen Melodie und Begleitung."
+      },
+      {
+        "frage": "Wie reagiert ein Ensemble sinnvoll, wenn jemand leicht zu schnell wird?",
+        "optionen": [
+          "Alle werden sofort auch schneller",
+          "Die Gruppe hält den gemeinsamen Puls und hört bewusst aufeinander",
+          "Alle stoppen abrupt",
+          "Nur die lautesten Instrumente spielen weiter"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der gemeinsame Puls stabilisiert das Tempo auch bei kleinen Unsicherheiten."
+      },
+      {
+        "frage": "Warum ist Blickkontakt mit der Leitung oder den Mitspielenden hilfreich?",
+        "optionen": [
+          "Damit man weniger üben muss",
+          "Weil Einsätze, Abschlüsse und Wechsel klarer werden",
+          "Damit man die Noten nicht mehr braucht",
+          "Weil er den Puls ersetzt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Visuelle Zeichen unterstützen gemeinsames Timing und Formverläufe."
+      },
+      {
+        "frage": "Was beschreibt ein Ostinato im Zusammenspiel?",
+        "optionen": [
+          "ein wiederholtes rhythmisches oder melodisches Muster",
+          "eine sehr laute Schlussnote",
+          "eine Solostelle ohne Begleitung",
+          "ein zufälliger Fehler"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ostinati geben Ensembles oft Halt und Struktur."
+      },
+      {
+        "frage": "Weshalb zählt man Pausen im Ensemble genau mit?",
+        "optionen": [
+          "Damit der Wiedereinsatz im richtigen Moment kommt",
+          "Damit man länger nicht spielen muss",
+          "Weil Pausen nur bei Schlagzeug wichtig sind",
+          "Damit das Stück automatisch langsamer wird"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Pausen gehören genauso zum Timing wie gespielte Töne."
+      },
+      {
+        "frage": "Was hilft bei einer schwierigen Übergangsstelle am meisten?",
+        "optionen": [
+          "Den Abschnitt gezielt langsam proben",
+          "Nur den Anfang des Stücks wiederholen",
+          "Die Stelle überspringen",
+          "Immer lauter spielen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Schwierige Stellen werden sicherer, wenn man sie isoliert und bewusst probt."
+      },
+      {
+        "frage": "Welche Rolle spielt das Zuhören im Ensemble?",
+        "optionen": [
+          "Es ist unwichtig, solange man die eigenen Noten kennt",
+          "Es hilft, Timing, Dynamik und Einsätze aufeinander abzustimmen",
+          "Es ist nur bei Chören nötig",
+          "Es ersetzt die eigene Vorbereitung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zusammenspiel entsteht erst durch Hören auf das, was die anderen tun."
+      },
+      {
+        "frage": "Wie bleibt eine Begleitfigur unter einer Singstimme musikalisch sinnvoll?",
+        "optionen": [
+          "Sie bleibt rhythmisch stabil und deckt den Gesang nicht zu",
+          "Sie spielt ständig frei gegen die Stimme",
+          "Sie wechselt bei jeder Zeile das Tempo",
+          "Sie spielt nur im ersten Takt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Begleitung soll tragen und stützen, nicht den Hauptklang verdecken."
+      },
+      {
+        "frage": "Was ist für ein gutes musikalisches Zusammenspiel am ehesten entscheidend?",
+        "optionen": [
+          "nur technische Schwierigkeit",
+          "gemeinsamer Puls, Aufmerksamkeit und Reaktion aufeinander",
+          "möglichst viele Soli",
+          "ein besonders schnelles Ende"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ensemblearbeit lebt von gemeinsamem Timing und gegenseitigem Hören."
+      }
+    ]
+  }
+}

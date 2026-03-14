@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr6b1",
+  "kompetenz_code": "FS2F.6.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Eine Austauschschülerin isst erst um 13.30 Uhr zu Mittag. Wie reagierst du offen und respektvoll?",
+        "optionen": [
+          "Ich sage, dass das sicher falsch ist.",
+          "Ich frage interessiert nach ihren Gewohnheiten und vergleiche sie mit meinen.",
+          "Ich lache über die ungewohnte Zeit.",
+          "Ich erkläre, dass nur mein Zeitplan normal ist."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Offenheit zeigt sich darin, Unterschiede interessiert wahrzunehmen statt sie abzuwerten."
+      },
+      {
+        "frage": "Jemand spricht Französisch mit einem Akzent aus Québec. Was ist eine passende Haltung?",
+        "optionen": [
+          "Ich höre aufmerksam zu und frage höflich nach, wenn ich etwas nicht verstehe.",
+          "Ich behaupte, das sei kein richtiges Französisch.",
+          "Ich höre sofort nicht mehr zu.",
+          "Ich korrigiere jedes ungewohnte Wort."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Respekt gegenüber Vielfalt heisst, unterschiedliche Varianten ernst zu nehmen."
+      },
+      {
+        "frage": "Ein Mitschüler sagt: « In Frankreich ist doch alles gleich. » Was wäre eine reflektierte Antwort?",
+        "optionen": [
+          "Ja, sicher.",
+          "Vielleicht, aber es gibt regionale, soziale und sprachliche Unterschiede.",
+          "Darüber darf man nicht sprechen.",
+          "Nur Essen ist unterschiedlich."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kulturelle Räume sind vielfältig; einfache Verallgemeinerungen greifen zu kurz."
+      },
+      {
+        "frage": "Im Austauschprojekt gelten andere Klassenregeln. Wie gehst du damit um?",
+        "optionen": [
+          "Ich urteile sofort, dass unsere Regeln besser sind.",
+          "Ich frage nach den Gründen und beobachte zuerst.",
+          "Ich weigere mich mitzumachen.",
+          "Ich ignoriere alle Unterschiede."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Verstehen beginnt damit, Unterschiede zuerst wahrzunehmen und einzuordnen."
+      },
+      {
+        "frage": "Du bist unsicher, wie man sich bei einer Begegnung begrüsst. Was ist am respektvollsten?",
+        "optionen": [
+          "Ich mache einfach irgendetwas.",
+          "Ich beobachte, frage bei Bedarf nach und respektiere persönliche Grenzen.",
+          "Ich lache über andere Begrüssungsformen.",
+          "Ich zwinge alle, meine Form zu übernehmen."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Respektvolle Begegnungen verbinden Beobachtung, Nachfragen und Rücksicht."
+      },
+      {
+        "frage": "Auf einem frankophonen Social-Media-Post siehst du Französisch neben Arabisch und Deutsch. Was zeigt das?",
+        "optionen": [
+          "Dass nur eine Sprache erlaubt sein sollte",
+          "Dass Mehrsprachigkeit in vielen Lebenswelten normal ist",
+          "Dass der Post falsch geschrieben ist",
+          "Dass Französisch unwichtig geworden ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mehrsprachige Kommunikation ist in vielen Regionen gelebter Alltag."
+      },
+      {
+        "frage": "Etwas wirkt in einer anderen Kultur zuerst ungewohnt. Wie reagierst du reflektiert?",
+        "optionen": [
+          "Ich nenne es sofort komisch oder falsch.",
+          "Ich beschreibe erst, was ich beobachte, und frage nach dem Hintergrund.",
+          "Ich ziehe mich ohne Erklärung zurück.",
+          "Ich mache ein Klischee daraus."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reflexion beginnt mit genauer Beobachtung statt vorschnellem Urteil."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, die eigene Haltung gegenüber dem französischsprachigen Kulturraum zu reflektieren?",
+        "optionen": [
+          "Damit ich Vorurteile erkenne und offener werde",
+          "Damit ich alles genauso mache wie andere",
+          "Damit ich Unterschiede komplett vergesse",
+          "Damit nur noch eine Kultur wichtig ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Reflexion der eigenen Haltung hilft, Vorurteile abzubauen und Begegnungen bewusster zu gestalten."
+      }
+    ]
+  }
+}

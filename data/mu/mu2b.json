@@ -1,0 +1,63 @@
+{
+  "kompetenz_id": "mu2b",
+  "kompetenz_code": "MU.2.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Europäische Kunstmusik",
+      "Jazz und Blues",
+      "Pop, Rock und Hip-Hop",
+      "Traditionsmusik weltweit"
+    ],
+    "elemente": [
+      {
+        "text": "Gregorianischer Choral",
+        "kategorie": 0
+      },
+      {
+        "text": "Sinfonie von Mozart",
+        "kategorie": 0
+      },
+      {
+        "text": "Opernarie",
+        "kategorie": 0
+      },
+      {
+        "text": "Blues-Song mit 12-Takt-Schema",
+        "kategorie": 1
+      },
+      {
+        "text": "Swing-Big-Band",
+        "kategorie": 1
+      },
+      {
+        "text": "Jazz-Improvisation über Akkorde",
+        "kategorie": 1
+      },
+      {
+        "text": "Rocksong mit E-Gitarre",
+        "kategorie": 2
+      },
+      {
+        "text": "Hip-Hop-Track mit Beat und Rap",
+        "kategorie": 2
+      },
+      {
+        "text": "Elektronischer Dance-Track",
+        "kategorie": 2
+      },
+      {
+        "text": "Gamelan-Ensemble",
+        "kategorie": 3
+      },
+      {
+        "text": "Samba-Batucada",
+        "kategorie": 3
+      },
+      {
+        "text": "Jodelgesang aus dem Alpenraum",
+        "kategorie": 3
+      }
+    ]
+  }
+}

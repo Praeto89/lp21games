@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bg3a1",
+  "kompetenz_code": "BG.3.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was hilft am meisten, um ein Kunstwerk aus einer anderen Zeit sinnvoll einzuordnen?",
+        "optionen": [
+          "Nur den eigenen ersten Eindruck notieren",
+          "Entstehungszeit, Ort, Material und Funktion berücksichtigen",
+          "Nur die Größe des Bildes messen",
+          "Ausschließlich den Preis des Werks kennen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kunstwerke werden verständlicher, wenn man sie in ihren historischen und kulturellen Kontext stellt."
+      },
+      {
+        "frage": "Wenn du Hokusais 'Große Welle' mit einem modernen Surfplakat vergleichst, worauf solltest du zuerst achten?",
+        "optionen": [
+          "Auf Bildaufbau, Farbwahl und Aussageabsicht",
+          "Nur auf die Papiergröße",
+          "Nur darauf, welches Bild älter ist",
+          "Nur auf die Anzahl der Personen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Vergleich wird aussagekräftig, wenn Gestaltung und Funktion beider Bilder betrachtet werden."
+      },
+      {
+        "frage": "Welches Detail kann auf einen religiösen Kontext in einem mittelalterlichen Bild hinweisen?",
+        "optionen": [
+          "Ein Heiligenschein oder symbolische Attribute",
+          "Ein QR-Code im unteren Rand",
+          "Ein Markenlogo auf der Kleidung",
+          "Eine Sprechblase wie im Comic"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Religiöse Bilder arbeiten oft mit Symbolen und Zeichen, die auf Heilige oder biblische Themen verweisen."
+      },
+      {
+        "frage": "Warum kann der Vergleich eines eigenen Selbstporträts mit einem Werk von Frida Kahlo spannend sein?",
+        "optionen": [
+          "Weil dann beide Bilder gleich aussehen müssen",
+          "Weil man sehen kann, wie Identität über Symbole und Inszenierung gezeigt wird",
+          "Weil nur berühmte Werke wichtige Themen haben",
+          "Weil eigene Arbeiten danach nicht mehr bewertet werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Vergleich zeigt, wie unterschiedlich persönliche Erfahrungen und Symbole bildnerisch umgesetzt werden können."
+      },
+      {
+        "frage": "Welche Aussage vergleicht zwei Bilder wirklich miteinander?",
+        "optionen": [
+          "Bild A ist groß.",
+          "Beide Bilder nutzen starke Kontraste, aber nur eines lenkt den Blick auf eine einzelne Figur.",
+          "Bild B hängt im Museum.",
+          "Mir gefällt das erste Bild besser."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Vergleich benennt Gemeinsamkeiten und Unterschiede anhand konkreter Merkmale."
+      },
+      {
+        "frage": "Wenn auf einer Museumsbeschriftung 'Holzschnitt' steht, was sagt das über das Werk aus?",
+        "optionen": [
+          "Es ist eine Drucktechnik und kein direkt gemaltes Unikat",
+          "Es ist automatisch eine Skulptur aus Holz",
+          "Es wurde nur mit Bleistift gemacht",
+          "Es stammt immer aus dem 21. Jahrhundert"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Bezeichnung 'Holzschnitt' verweist auf das Verfahren und damit auch auf Möglichkeiten der Vervielfältigung."
+      },
+      {
+        "frage": "Welche Frage hilft besonders, ein Alltagsbild kritisch zu lesen?",
+        "optionen": [
+          "Wer hat das Bild gemacht und zu welchem Zweck?",
+          "Welche Schuhgröße hat die Hauptfigur?",
+          "Wie schwer ist das Plakat?",
+          "Wie oft wurde das Bild schon kopiert?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Alltagsbilder lassen sich besser verstehen, wenn Herkunft, Ziel und Absicht mitgedacht werden."
+      },
+      {
+        "frage": "Was ist sinnvoll, wenn du ein Comicbild mit Picassos 'Guernica' vergleichst?",
+        "optionen": [
+          "Nur prüfen, welches Bild realistischer ist",
+          "Auf Ausdruck, Verzerrung, Komposition und Wirkung achten",
+          "Nur die Anzahl der Farben zählen",
+          "Nur den Entstehungsort auswendig lernen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Auch sehr unterschiedliche Bildarten lassen sich über Gestaltungsmittel und Wirkung miteinander vergleichen."
+      },
+      {
+        "frage": "Warum ist kultureller Kontext bei der Bilddeutung wichtig?",
+        "optionen": [
+          "Weil Farben, Zeichen und Motive in verschiedenen Kulturen Unterschiedliches bedeuten können",
+          "Weil Bilder ohne Kontext nie sichtbar sind",
+          "Weil Kunst immer dieselbe Botschaft hat",
+          "Weil nur Fachleute Bilder verstehen dürfen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bedeutungen von Symbolen und Bildtraditionen entstehen in kulturellen Zusammenhängen."
+      },
+      {
+        "frage": "Was passiert, wenn ein Protestplakat bewusst ein berühmtes Kunstwerk zitiert?",
+        "optionen": [
+          "Es verliert automatisch jede eigene Aussage",
+          "Es erzeugt neue Bedeutung durch Bezug, Vergleich und Umdeutung",
+          "Es wird immer als Fälschung gewertet",
+          "Es darf nicht mehr öffentlich gezeigt werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bildzitate nutzen bekannte Vorlagen, um aktuelle Aussagen zu verstärken oder kritisch zu verändern."
+      }
+    ]
+  }
+}

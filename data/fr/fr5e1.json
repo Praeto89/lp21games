@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5e1",
+  "kompetenz_code": "FS2F.5.E.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Apostroph", "Accent aigu", "Accent grave", "Satzzeichen"],
+    "elemente": [
+      { "text": "j'aime", "kategorie": 0 },
+      { "text": "l'école", "kategorie": 0 },
+      { "text": "c'est", "kategorie": 0 },
+      { "text": "école", "kategorie": 1 },
+      { "text": "préférer", "kategorie": 1 },
+      { "text": "téléphone", "kategorie": 1 },
+      { "text": "père", "kategorie": 2 },
+      { "text": "très", "kategorie": 2 },
+      { "text": "après", "kategorie": 2 },
+      { "text": "Tu viens ?", "kategorie": 3 },
+      { "text": "Quel beau match !", "kategorie": 3 },
+      { "text": "Bonjour, Léa.", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs6c",
+  "kompetenz_code": "BS.6.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was tust du vor einem Sprung ins Wasser immer zuerst?",
+        "optionen": [
+          "Die Wassertiefe und den freien Raum prüfen",
+          "Möglichst schnell anlaufen",
+          "Andere vom Rand schubsen",
+          "Die Augen schliessen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vor jedem Sprung muss klar sein, dass Tiefe und Sprungbereich sicher sind."
+      },
+      {
+        "frage": "Welche Regel gilt für offenes Gewässer besonders?",
+        "optionen": [
+          "Immer allein weit hinausschwimmen",
+          "Wetter, Temperatur und Strömung beachten",
+          "Nur auf die Lufttemperatur schauen",
+          "Sofort losschwimmen, ohne zu prüfen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "In Seen oder Flüssen sind Strömung, Wetter und Temperatur wichtige Sicherheitsfaktoren."
+      },
+      {
+        "frage": "Wie handelst du bei einem Notfall am Wasser am sinnvollsten?",
+        "optionen": [
+          "Unüberlegt hineinspringen",
+          "Hilfe alarmieren und wenn möglich Rettungsmittel vom Ufer einsetzen",
+          "Den Notfall ignorieren",
+          "Erst ein Video aufnehmen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eigenschutz ist zentral. Alarmieren und Rettungsmittel einsetzen ist oft sicherer als unüberlegtes Hineinspringen."
+      },
+      {
+        "frage": "Warum kann kaltes Wasser gefährlich sein?",
+        "optionen": [
+          "Weil man darin immer schneller schwimmt",
+          "Weil der Körper schneller auskühlt und verkrampfen kann",
+          "Weil man darin nicht untergehen kann",
+          "Weil es nur für Erwachsene gefährlich ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kaltes Wasser belastet Kreislauf und Muskeln stark und kann schnell zu Problemen führen."
+      },
+      {
+        "frage": "Was ist bei Schwimmen mit anderen wichtig?",
+        "optionen": [
+          "Sich gegenseitig im Blick behalten",
+          "Immer getrennt voneinander schwimmen",
+          "Niemandem sagen, wohin man geht",
+          "Nur Wettkämpfe machen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gemeinsames Schwimmen ist sicherer, wenn man aufeinander achtet."
+      },
+      {
+        "frage": "Wie verhältst du dich in einem überfüllten Schwimmbad sicher?",
+        "optionen": [
+          "Ich springe überall hinein",
+          "Ich achte auf markierte Zonen und nehme Rücksicht auf andere",
+          "Ich tauche direkt unter andere Personen",
+          "Ich renne am Beckenrand"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Rücksicht und das Einhalten der Baderegeln verhindern Unfälle."
+      },
+      {
+        "frage": "Was ist ein geeignetes Rettungsmittel vom Ufer aus?",
+        "optionen": [
+          "Ein Ball, der sofort untergeht",
+          "Eine Stange, ein Ring oder ein Wurfgerät",
+          "Nur die eigene Hand im Wasser",
+          "Gar nichts"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Rettungsgeräte helfen, ohne das eigene Risiko unnötig zu erhöhen."
+      },
+      {
+        "frage": "Warum ist Rennen am Beckenrand verboten?",
+        "optionen": [
+          "Weil der Boden trocken bleibt",
+          "Weil man leicht ausrutschen und andere gefährden kann",
+          "Weil man dann langsamer schwimmt",
+          "Weil es nur bei Wettkämpfen erlaubt ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nasse Oberflächen sind rutschig und erhöhen die Unfallgefahr stark."
+      },
+      {
+        "frage": "Was machst du, wenn du dich im Wasser unsicher fühlst?",
+        "optionen": [
+          "Ich schwimme weiter in die Tiefe",
+          "Ich suche Halt, bleibe ruhig und signalisiere Hilfe",
+          "Ich tauche unter, damit mich niemand sieht",
+          "Ich ignoriere das Gefühl"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ruhe bewahren, sichern und Hilfe signalisieren ist in Unsicherheitssituationen entscheidend."
+      },
+      {
+        "frage": "Welche Aussage zeigt verantwortungsbewusstes Verhalten am Wasser?",
+        "optionen": [
+          "Ich achte auf Regeln, andere Personen und meine eigenen Grenzen",
+          "Ich probiere zuerst und denke danach nach",
+          "Ich springe auch bei gesperrten Zonen hinein",
+          "Ich überschätze mich lieber"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verantwortungsvoll handeln heisst, Regeln, Umgebung und die eigene Leistungsfähigkeit realistisch einzuschätzen."
+      }
+    ]
+  }
+}

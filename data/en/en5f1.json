@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en5f1",
+  "kompetenz_code": "FS1E.5.F.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Which learning goal is most useful?",
+        "optionen": [
+          "I want to be better at everything somehow.",
+          "I will learn ten travel words by Friday and use them in three sentences.",
+          "I hope English becomes easy on its own.",
+          "I will only study when I feel stressed."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein gutes Ziel ist konkret, realistisch und überprüfbar."
+      },
+      {
+        "frage": "Why are short, regular practice sessions often better than one very long session?",
+        "optionen": [
+          "Because spaced practice helps memory over time.",
+          "Because long sessions are never allowed.",
+          "Because short sessions remove all mistakes immediately.",
+          "Because regular practice only works for grammar."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verteiltes Lernen unterstützt die langfristige Speicherung."
+      },
+      {
+        "frage": "You feel nervous before speaking. What is a good plan?",
+        "optionen": [
+          "Avoid speaking tasks completely.",
+          "Prepare a few key phrases and practise with a partner.",
+          "Memorise the whole dictionary.",
+          "Only use German during the activity."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Konkrete Vorbereitung und Übung senken Unsicherheit."
+      },
+      {
+        "frage": "What belongs in a learning journal or reflection note?",
+        "optionen": [
+          "Only the date",
+          "What worked well and what is still difficult",
+          "Only your best marks",
+          "A list of words you already know perfectly"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reflexion hilft, Fortschritte und nächste Schritte sichtbar zu machen."
+      },
+      {
+        "frage": "Why is it useful to look at your mistakes after a test or task?",
+        "optionen": [
+          "To spot patterns and improve specific areas",
+          "To punish yourself for every error",
+          "To prove that learning does not work",
+          "To avoid asking questions next time"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fehleranalyse zeigt, woran man gezielt weiterarbeiten kann."
+      },
+      {
+        "frage": "What is a sensible revision plan before a vocabulary quiz next week?",
+        "optionen": [
+          "Study everything once very late at night.",
+          "Review the words in several short sessions during the week.",
+          "Wait until the teacher repeats them.",
+          "Only look at the easiest words."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mehrere kurze Wiederholungen sind meist wirksamer als einmaliges Pauken."
+      },
+      {
+        "frage": "After a listening task, what is worth reflecting on?",
+        "optionen": [
+          "Which strategy helped you understand the main idea",
+          "Only how long the audio was",
+          "Whether your neighbour finished first",
+          "How many times the teacher smiled"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wer wirksame Strategien erkennt, kann sie gezielter wieder einsetzen."
+      },
+      {
+        "frage": "Why do different tasks need different learning strategies?",
+        "optionen": [
+          "Because reading, listening and speaking place different demands on learners",
+          "Because one strategy always works for absolutely everything",
+          "Because strategies only matter in tests",
+          "Because planning is less useful than luck"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Je nach Aufgabe helfen unterschiedliche Vorgehensweisen."
+      }
+    ]
+  }
+}

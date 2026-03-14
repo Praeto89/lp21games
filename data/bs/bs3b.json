@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "bs3b",
+  "kompetenz_code": "BS.3.B.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte, um aus einer Idee eine kurze Bewegungsfolge zu gestalten.",
+        "elemente": [
+          "Ein Thema oder Gefühl wählen",
+          "Passende Bewegungen sammeln",
+          "Die Bewegungen in eine Reihenfolge bringen",
+          "Die Folge mehrmals üben"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für eine Präsentation mit einem Tuch als Material.",
+        "elemente": [
+          "Tuch aufnehmen und Ausgangsform finden",
+          "Bewegung des Tuchs mit dem Körper verbinden",
+          "Tempo und Raumwege festlegen",
+          "Die Folge gemeinsam präsentieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für ein kurzes Gruppenbild in einer Choreografie.",
+        "elemente": [
+          "Positionen der Gruppe festlegen",
+          "Absprechen, wer welche Form zeigt",
+          "Gleichzeitig in die Form wechseln",
+          "Das Bild kurz halten und bewusst auflösen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Arbeitsschritte beim Einbauen eines Kanons.",
+        "elemente": [
+          "Eine kurze Bewegungsfolge festlegen",
+          "Startabstände zwischen den Personen bestimmen",
+          "Die Folge zeitversetzt beginnen",
+          "Auf gemeinsame Endposition achten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für eine Improvisation zu einem vorgegebenen Thema.",
+        "elemente": [
+          "Das Thema oder Bild kurz besprechen",
+          "Eigene Bewegungsideen ausprobieren",
+          "Spannende Ideen auswählen",
+          "Die besten Ideen zu einer Folge verbinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für sinnvolles Partnerfeedback nach einer Aufführung.",
+        "elemente": [
+          "Die Aufführung aufmerksam beobachten",
+          "Auf Ausdruck, Raum und Klarheit achten",
+          "Eine konkrete Rückmeldung formulieren",
+          "Die Rückmeldung in die nächste Probe aufnehmen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für einen sicheren und klaren Auftritt.",
+        "elemente": [
+          "Startposition ruhig einnehmen",
+          "Blick und Körperspannung aufbauen",
+          "Die Bewegungsfolge konzentriert ausführen",
+          "Die Schlussposition deutlich halten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um Musik passend in eine Choreografie einzubeziehen.",
+        "elemente": [
+          "Auf Takt und Stimmung der Musik hören",
+          "Bewegungen zur Musik auswählen",
+          "Übergänge an musikalischen Stellen festlegen",
+          "Die Folge mit Musik durchspielen"
+        ]
+      }
+    ]
+  }
+}

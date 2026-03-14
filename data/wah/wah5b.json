@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah5b",
+  "kompetenz_code": "WAH.5.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was sollte vor dem Abschluss eines Handy-Abos besonders gepr\u00fcft werden?",
+        "optionen": [
+          "Nur die Farbe des Logos",
+          "Laufzeit, K\u00fcndigungsfrist und Gesamtkosten",
+          "Nur ob Freundinnen und Freunde dasselbe Abo haben",
+          "Nur ob im Shop Musik l\u00e4uft"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Abos sind Vertragsdauer, monatliche Kosten und K\u00fcndigungsregeln zentral."
+      },
+      {
+        "frage": "Wozu dient eine Haftpflichtversicherung grunds\u00e4tzlich?",
+        "optionen": [
+          "Sie ersetzt automatisch jedes kaputte eigene Ger\u00e4t",
+          "Sie kann Sch\u00e4den decken, die man anderen zuf\u00fcgt",
+          "Sie bezahlt immer Ferienreisen",
+          "Sie ist nur f\u00fcr Unternehmen erlaubt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Haftpflichtversicherungen sind daf\u00fcr da, berechtigte Schadenersatzforderungen gegen\u00fcber Dritten abzudecken."
+      },
+      {
+        "frage": "Warum helfen klare Abmachungen in einer WG oder Familie?",
+        "optionen": [
+          "Weil dann niemand mehr kommunizieren muss",
+          "Weil Aufgaben, Kosten und Erwartungen transparenter werden",
+          "Weil Regeln immer Konflikte erzeugen",
+          "Weil Abmachungen nur f\u00fcr Erwachsene gelten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Transparente Absprachen erleichtern ein faires Zusammenleben."
+      },
+      {
+        "frage": "Welche Information steht typischerweise in einem Mietvertrag?",
+        "optionen": [
+          "Die Lieblingsfarbe der Mieterin oder des Mieters",
+          "Mietzins, K\u00fcndigungsfrist und Regeln zur Wohnung",
+          "Nur die Anzahl Zimmerpflanzen",
+          "Nur die \u00d6ffnungszeiten des n\u00e4chsten Ladens"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mietvertr\u00e4ge regeln zentrale Punkte wie Kosten, Dauer und Pflichten."
+      },
+      {
+        "frage": "Wo kann man bei Budgetproblemen oder Schuldenfragen Hilfe holen?",
+        "optionen": [
+          "Nur bei Werbeanzeigen im Internet",
+          "Bei Beratungsstellen wie Budget- oder Schuldenberatung",
+          "Nur bei Online-Shops",
+          "Nur bei Sportvereinen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beratungsstellen bieten sachliche Unterst\u00fctzung bei Geldfragen und Problemen im Alltag."
+      },
+      {
+        "frage": "Was hilft, Streit \u00fcber Haushaltsaufgaben zu vermeiden?",
+        "optionen": [
+          "Gar nichts absprechen",
+          "Aufgaben klar verteilen und regelm\u00e4ssig \u00fcberpr\u00fcfen",
+          "Immer dieselbe Person alles machen lassen",
+          "Nur spontan entscheiden, wenn jemand reklamiert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Klare Verteilung und regelm\u00e4ssige Absprachen sind meist fairer und praktischer."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, Unterlagen wie Vertr\u00e4ge oder Rechnungen aufzubewahren?",
+        "optionen": [
+          "Weil Papier immer dekorativ ist",
+          "Weil man Rechte, Fristen und Zahlungen bei Problemen nachweisen kann",
+          "Weil man sie sonst nicht mehr lesen darf",
+          "Weil nur Erwachsene Belege brauchen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Dokumente sind wichtig, um Vereinbarungen und Zahlungen belegen zu k\u00f6nnen."
+      },
+      {
+        "frage": "Was ist bei Online-Vertr\u00e4gen besonders wichtig?",
+        "optionen": [
+          "AGB, Kosten und Kontaktangaben pr\u00fcfen",
+          "Nur auf das Produktfoto schauen",
+          "Nur die Anzahl Likes beachten",
+          "Immer sofort auf Bezahlen klicken"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vor dem Abschluss sollte klar sein, wer anbietet, was es kostet und welche Regeln gelten."
+      },
+      {
+        "frage": "Welcher Umgang mit gemeinsamen Kosten ist im Alltag sinnvoll?",
+        "optionen": [
+          "Niemand spricht dar\u00fcber",
+          "Kosten transparent festhalten und fair aufteilen",
+          "Immer alles einer Person \u00fcberlassen",
+          "Belege sofort wegwerfen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Transparenz und Nachvollziehbarkeit helfen, Konflikte zu vermeiden."
+      },
+      {
+        "frage": "Was ist ein Beispiel f\u00fcr verantwortungsvolles Recherchieren im Alltag?",
+        "optionen": [
+          "Nur den ersten Werbesatz glauben",
+          "Mehrere verlässliche Informations- und Beratungsangebote vergleichen",
+          "Auf Vertr\u00e4ge ganz verzichten",
+          "Nur Freundinnen und Freunde nach rechtlichen Fragen fragen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wichtige Alltagsfragen sollten mit zuverl\u00e4ssigen Quellen und passenden Beratungsstellen gekl\u00e4rt werden."
+      }
+    ]
+  }
+}

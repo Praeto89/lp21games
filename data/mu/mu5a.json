@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu5a",
+  "kompetenz_code": "MU.5.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was hilft einer Gruppenimprovisation am meisten, damit sie zusammenhängend klingt?",
+        "optionen": [
+          "eine einfache Abmachung zu Einsatz oder Material",
+          "völlige Regellosigkeit ohne Zuhören",
+          "nur ein einziges Instrument",
+          "möglichst viele Tempi gleichzeitig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Klare Regeln geben Freiheit, ohne das Zusammenspiel zu verlieren."
+      },
+      {
+        "frage": "Wie kann man ein vorhandenes rhythmisches Motiv kreativ weiterentwickeln?",
+        "optionen": [
+          "nur exakt wiederholen, nie verändern",
+          "Tempo, Dynamik oder Akzente verändern",
+          "den Puls vollständig ignorieren",
+          "alles gleichzeitig abbrechen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Variation ist ein zentrales Mittel beim Experimentieren und Improvisieren."
+      },
+      {
+        "frage": "Was bedeutet Call and Response?",
+        "optionen": [
+          "eine Person spielt oder singt vor, andere antworten",
+          "alle beginnen völlig zufällig",
+          "nur das Schlagzeug darf antworten",
+          "eine Aufnahme wird rückwärts abgespielt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Das Wechselspiel von Ruf und Antwort ist eine häufige Improvisationsform."
+      },
+      {
+        "frage": "Welche Idee passt gut zu einer musikalischen Improvisation zum Thema \"Gewitter\"?",
+        "optionen": [
+          "gleichbleibend helle Triangelschläge ohne Veränderung",
+          "rollende Rhythmen, plötzliche Akzente und Crescendi",
+          "nur eine ruhige Tonleiter aufwärts",
+          "ausschliesslich gesprochener Text ohne Klang"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kontraste und Energie helfen, Naturereignisse musikalisch darzustellen."
+      },
+      {
+        "frage": "Weshalb lohnt es sich, beim Experimentieren verschiedene Klangquellen zu testen?",
+        "optionen": [
+          "Weil nur Instrumente aus dem Orchester erlaubt sind",
+          "Weil unterschiedliche Materialien neue Klänge und Ideen eröffnen",
+          "Weil dann kein Rhythmus mehr nötig ist",
+          "Weil Notenlesen dadurch überflüssig wird"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unterschiedliche Klangquellen erweitern das musikalische Ausdrucksrepertoire."
+      },
+      {
+        "frage": "Was ist eine grafische Notation?",
+        "optionen": [
+          "eine Zeichnung oder Symbolfolge, die Klangideen sichtbar macht",
+          "nur traditionelle Notenschrift mit fünf Linien",
+          "eine Liste von Instrumentennamen",
+          "eine Tanzanleitung ohne Musik"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Grafische Notation kann improvisierte oder ungewohnte Klänge festhalten."
+      },
+      {
+        "frage": "Wie entsteht in einer Improvisation ein deutlicher Kontrast?",
+        "optionen": [
+          "wenn alles immer gleich bleibt",
+          "durch Gegensätze wie laut und leise oder dicht und offen",
+          "nur durch schnelleres Spiel",
+          "nur durch längere Pausen am Schluss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kontraste machen musikalische Entwicklungen hörbar."
+      },
+      {
+        "frage": "Was ist sinnvoll, wenn in einer freien Improvisation einzelne Stimmen alles überdecken?",
+        "optionen": [
+          "noch lauter spielen",
+          "Räume lassen und auf Balance achten",
+          "alle anderen stoppen",
+          "die Musik komplett beenden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Improvisation braucht nicht nur Ideen, sondern auch gegenseitiges Zuhören."
+      },
+      {
+        "frage": "Warum kann eine Audioaufnahme nach einer Improvisation hilfreich sein?",
+        "optionen": [
+          "Sie zeigt, welche Ideen tragfähig waren",
+          "Sie ersetzt jede weitere Probe",
+          "Sie macht alle Entscheidungen automatisch richtig",
+          "Sie ist nur für Profis nützlich"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Aufnahmen helfen, gelungene Momente wiederzufinden und weiterzuentwickeln."
+      },
+      {
+        "frage": "Wodurch wird aus Experimentieren eher musikalisches Gestalten?",
+        "optionen": [
+          "durch bewusstes Auswählen und Ordnen von Ideen",
+          "durch möglichst viel Zufall ohne Rückblick",
+          "durch das Verbot von Wiederholungen",
+          "durch nur einen einzigen Ton"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Musikalische Gestaltung entsteht, wenn ausprobierte Ideen gezielt weitergeführt werden."
+      }
+    ]
+  }
+}

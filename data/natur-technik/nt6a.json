@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt6a",
+  "kompetenz_code": "NT.6.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum haben Beutetiere wie Hasen die Augen oft seitlich am Kopf?",
+        "optionen": [
+          "Für ein möglichst grosses Gesichtsfeld zur Feindvermeidung",
+          "Damit sie besser riechen können",
+          "Weil sie im Dunkeln besser sehen",
+          "Damit sie schneller laufen können"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Seitlich stehende Augen ermöglichen ein Gesichtsfeld von fast 360°, was die Feindwahrnehmung verbessert."
+      },
+      {
+        "frage": "Was versteht man unter einem Reiz in der Biologie?",
+        "optionen": [
+          "Eine Veränderung in der Umwelt, die von einem Sinnesorgan aufgenommen wird",
+          "Eine Bewegung des Körpers",
+          "Ein elektrisches Signal im Gehirn",
+          "Eine chemische Substanz im Blut"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Reiz ist eine Veränderung in der Umwelt (z.B. Licht, Schall, Druck), die ein Sinnesorgan wahrnimmt."
+      },
+      {
+        "frage": "In welcher Reihenfolge läuft eine Reiz-Reaktions-Kette ab?",
+        "optionen": [
+          "Reiz → Rezeptor → sensorischer Nerv → Gehirn → motorischer Nerv → Effektor",
+          "Effektor → Gehirn → Rezeptor → Reiz",
+          "Gehirn → Reiz → Rezeptor → Effektor",
+          "Rezeptor → Effektor → Gehirn → Reiz"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Reiz wird vom Rezeptor aufgenommen, über sensorische Nerven zum Gehirn geleitet, das eine Reaktion über motorische Nerven an den Effektor (z.B. Muskel) sendet."
+      },
+      {
+        "frage": "Warum nehmen verschiedene Menschen denselben Geruch unterschiedlich wahr?",
+        "optionen": [
+          "Weil die Wahrnehmung individuell verschieden ist und von Erfahrung und Genetik abhängt",
+          "Weil Gerüche sich ständig verändern",
+          "Weil nur Kinder gut riechen können",
+          "Weil Gerüche keine echten Reize sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Sinneswahrnehmung ist subjektiv und wird durch genetische Unterschiede, Erfahrungen und den aktuellen Zustand beeinflusst."
+      },
+      {
+        "frage": "Welcher Sinn ist bei Fledermäusen besonders stark ausgeprägt?",
+        "optionen": [
+          "Das Gehör (Echoortung)",
+          "Der Sehsinn",
+          "Der Geschmackssinn",
+          "Der Tastsinn"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fledermäuse nutzen Ultraschall-Echoortung, um sich im Dunkeln zu orientieren und Beute zu finden."
+      },
+      {
+        "frage": "Was ist ein Reflex?",
+        "optionen": [
+          "Eine schnelle, unwillkürliche Reaktion auf einen Reiz",
+          "Eine bewusste Entscheidung",
+          "Eine langsame Gewöhnung an einen Reiz",
+          "Ein Lernvorgang im Gehirn"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Reflexe sind automatische Reaktionen, die ohne bewusstes Nachdenken ablaufen, z.B. das Zurückziehen der Hand von einer heissen Herdplatte."
+      },
+      {
+        "frage": "Welches Sinnesorgan enthält Rezeptoren für den Gleichgewichtssinn?",
+        "optionen": [
+          "Das Innenohr (Vestibularorgan)",
+          "Die Netzhaut im Auge",
+          "Die Geschmacksknospen auf der Zunge",
+          "Die Haut an den Fingerspitzen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Im Innenohr befinden sich die Bogengänge und Maculaorgane, die Drehbewegungen und Lageänderungen registrieren."
+      },
+      {
+        "frage": "Warum haben Raubtiere wie Katzen die Augen frontal (vorne am Kopf)?",
+        "optionen": [
+          "Für räumliches Sehen und genaue Entfernungseinschätzung bei der Jagd",
+          "Damit sie ein grösseres Gesichtsfeld haben",
+          "Weil sie im Dunkeln nichts sehen",
+          "Damit sie Farben besser unterscheiden können"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Frontal stehende Augen ermöglichen binokulares (räumliches) Sehen, was für das Einschätzen von Entfernungen bei der Jagd wichtig ist."
+      }
+    ]
+  }
+}

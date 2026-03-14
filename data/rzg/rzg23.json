@@ -1,0 +1,62 @@
+{
+    "kompetenz_id":  "rzg23",
+    "kompetenz_code":  "RZG.2.3",
+    "typ":  "zuordnung",
+    "spiel":  {
+                  "kategorien":  [
+                                     "StÃ¤dtischer Raum",
+                                     "LÃ¤ndlicher Raum",
+                                     "Beides oder Wechselwirkung"
+                                 ],
+                  "elemente":  [
+                                   {
+                                       "text":  "Hohe Bebauungsdichte",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Grosses Kulturangebot",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Zentrumsfunktion mit vielen Dienstleistungsjobs",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Segregation in Quartieren",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Viele Landwirtschaftsbetriebe",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Weite Wege zu EinkaufsmÃ¶glichkeiten",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Kleine Siedlungen mit viel Freiraum",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Erholungsraum mit Feldern und WÃ¤ldern",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Pendlerstrom ins Zentrum",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Landflucht",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Agglomeration wÃ¤chst am Stadtrand",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "GemÃ¼se und Milch kommen aus dem Umland in die Stadt",
+                                       "kategorie":  2
+                                   }
+                               ]
+              }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt5b",
+  "kompetenz_code": "NT.5.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Wirkung von elektrischem Strom zeigt ein Toaster besonders deutlich?",
+        "optionen": [
+          "Die W?rmewirkung",
+          "Die magnetische Wirkung",
+          "Die chemische Wirkung",
+          "Die optische T?uschung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Im Toaster wird elektrische Energie haupts?chlich in W?rme umgewandelt."
+      },
+      {
+        "frage": "Was passiert in einer einfachen Serienschaltung, wenn eine Lampe defekt ist?",
+        "optionen": [
+          "Alle Lampen gehen aus",
+          "Nur die hellste Lampe bleibt an",
+          "Alle Lampen leuchten heller",
+          "Nichts ver?ndert sich"
+        ],
+        "korrekt": 0,
+        "erklaerung": "In der Serienschaltung ist der Stromkreis an einer Stelle unterbrochen und der Strom fliesst nirgends mehr."
+      },
+      {
+        "frage": "Was ist typisch f?r eine Parallelschaltung?",
+        "optionen": [
+          "Jeder Zweig kann unabh?ngig weiter funktionieren",
+          "Es gibt nur einen einzigen Stromweg",
+          "Alle Lampen m?ssen gleich hell sein",
+          "Sie braucht keinen Strom"
+        ],
+        "korrekt": 0,
+        "erklaerung": "In der Parallelschaltung bilden die Zweige mehrere Wege f?r den Strom."
+      },
+      {
+        "frage": "Wie wird die Stromst?rke korrekt gemessen?",
+        "optionen": [
+          "Mit einem Amperemeter in Reihe",
+          "Mit einem Voltmeter in Reihe",
+          "Mit einem Thermometer parallel",
+          "Mit einer Waage an der Batterie"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Amperemeter wird in Reihe geschaltet, damit der Strom durch das Messger?t fliesst."
+      },
+      {
+        "frage": "Wie wird die elektrische Spannung an einem Bauteil gemessen?",
+        "optionen": [
+          "Mit einem Voltmeter parallel zum Bauteil",
+          "Mit einem Voltmeter in Reihe",
+          "Mit einem Amperemeter parallel",
+          "Mit einer Stoppuhr"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Spannung misst man zwischen zwei Punkten, also parallel zum Bauteil."
+      },
+      {
+        "frage": "Was geschieht bei gleicher Spannung, wenn der Widerstand gr?sser wird?",
+        "optionen": [
+          "Die Stromst?rke nimmt ab",
+          "Die Stromst?rke nimmt zu",
+          "Die Spannung verschwindet",
+          "Die Batterie wird magnetisch"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gr?sserer Widerstand hemmt bei gleicher Spannung den Stromfluss st?rker."
+      },
+      {
+        "frage": "Welcher Satz beschreibt Elektromotor und Generator richtig?",
+        "optionen": [
+          "Ein Motor wandelt Strom in Bewegung um, ein Generator Bewegung in Strom",
+          "Beide machen genau dasselbe",
+          "Beide wandeln nur W?rme in Licht um",
+          "Nur Generatoren brauchen Magnetfelder"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Motor und Generator arbeiten in entgegengesetzter Richtung der Energieumwandlung."
+      },
+      {
+        "frage": "Warum leuchten in einer Serienschaltung mit mehreren gleichen Lampen die einzelnen Lampen oft schw?cher?",
+        "optionen": [
+          "Weil sich die elektrische Energie auf mehrere Lampen verteilt",
+          "Weil mehr Lampen die Batterie leichter machen",
+          "Weil Strom in Reihe schneller fliesst",
+          "Weil Lampen in Serie automatisch k?lter werden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mehrere Lampen in Reihe ver?ndern Strom und Spannungsverteilung, weshalb einzelne Lampen meist schw?cher leuchten."
+      }
+    ]
+  }
+}

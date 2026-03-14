@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt2a",
+  "kompetenz_code": "NT.2.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was beschreibt die Dichte eines Stoffes?",
+        "optionen": [
+          "Wie schnell ein Stoff fliesst",
+          "Wie viel Masse in einem bestimmten Volumen steckt",
+          "Wie stark ein Stoff leuchtet",
+          "Wie laut ein Stoff klingt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Dichte verkn?pft Masse und Volumen und hilft beim Unterscheiden von Stoffen."
+      },
+      {
+        "frage": "Welcher pH-Wert kennzeichnet eine saure L?sung?",
+        "optionen": [
+          "pH 2",
+          "pH 7",
+          "pH 9",
+          "pH 12"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Saure L?sungen haben einen pH-Wert unter 7."
+      },
+      {
+        "frage": "Welche Eigenschaft eignet sich gut, um einen reinen Stoff zu erkennen?",
+        "optionen": [
+          "Seine Lieblingsfarbe",
+          "Eine typische Schmelz- oder Siedetemperatur",
+          "Die Gr?sse des Beh?lters",
+          "Die Tageszeit der Messung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reine Stoffe besitzen charakteristische Schmelz- und Siedepunkte."
+      },
+      {
+        "frage": "Welches Ger?t benutzt man, um die Masse einer Stoffprobe zu bestimmen?",
+        "optionen": [
+          "Thermometer",
+          "Waage",
+          "Stoppuhr",
+          "Messzylinder"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mit einer Waage misst man die Masse."
+      },
+      {
+        "frage": "Welcher Stoff l?st sich in Wasser deutlich besser als Sand?",
+        "optionen": [
+          "Zucker",
+          "Kies",
+          "Glas",
+          "Kreide"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Zucker ist in Wasser gut l?slich, Sand praktisch nicht."
+      },
+      {
+        "frage": "Wie werden Teilchen in einem Gas im Teilchenmodell beschrieben?",
+        "optionen": [
+          "Sie sitzen fest auf ihren Pl?tzen",
+          "Sie sind weit auseinander und bewegen sich frei",
+          "Sie existieren nur beim Erhitzen",
+          "Sie haben keine Masse"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Gas sind Teilchen weit voneinander entfernt und bewegen sich ungeordnet im Raum."
+      },
+      {
+        "frage": "Wo zeigt das Teilchenmodell eine Grenze?",
+        "optionen": [
+          "Es kann Zustands?nderungen ?berhaupt nicht beschreiben",
+          "Es erkl?rt nicht alle Eigenschaften wie elektrische Ladung oder Magnetismus gleich gut",
+          "Es gilt nur f?r Wasser",
+          "Es funktioniert nur mit echten Fotos von Teilchen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Modelle vereinfachen. F?r manche Eigenschaften braucht man erweiterte Modelle."
+      },
+      {
+        "frage": "Warum sind Modelle in Naturwissenschaft und Technik trotzdem n?tzlich?",
+        "optionen": [
+          "Weil sie unsichtbare Vorg?nge vereinfacht darstellbar machen",
+          "Weil sie immer exakt so aussehen wie die Wirklichkeit",
+          "Weil sie Experimente ersetzen",
+          "Weil sie nur f?r Pr?fungen erfunden wurden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Modelle machen komplexe oder unsichtbare Vorg?nge verst?ndlich, auch wenn sie vereinfacht sind."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma3c1",
+  "kompetenz_code": "MA.3.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welches Diagramm eignet sich am besten, um eine Entwicklung über die Zeit darzustellen?",
+        "optionen": [
+          "Kreisdiagramm",
+          "Liniendiagramm",
+          "Punktspiegelung",
+          "Netz"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Liniendiagramme zeigen Veränderungen im Zeitverlauf besonders klar."
+      },
+      {
+        "frage": "Wie groß ist das arithmetische Mittel der Daten 5, 7, 7, 9?",
+        "optionen": [
+          "6",
+          "7",
+          "7.5",
+          "8"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Summe 28 geteilt durch 4 ergibt 7."
+      },
+      {
+        "frage": "Bei 20 Versuchen tritt ein Ereignis 12-mal ein. Wie groß ist die relative Häufigkeit in Prozent?",
+        "optionen": [
+          "40 %",
+          "50 %",
+          "60 %",
+          "80 %"
+        ],
+        "korrekt": 2,
+        "erklaerung": "12 von 20 entspricht 60 %."
+      },
+      {
+        "frage": "Zwei Klassen haben denselben Durchschnitt, aber sehr unterschiedliche Einzelwerte. Was zeigt das?",
+        "optionen": [
+          "Der Durchschnitt allein beschreibt nicht die ganze Verteilung",
+          "Die Daten sind identisch",
+          "Beide Klassen haben gleich viele Lernende",
+          "Der Median muss 0 sein"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Neben dem Durchschnitt ist auch die Streuung wichtig."
+      },
+      {
+        "frage": "Wie lautet der Median der geordneten Daten 2, 3, 8, 9, 10?",
+        "optionen": [
+          "3",
+          "5",
+          "8",
+          "9"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Der mittlere Wert ist 8."
+      },
+      {
+        "frage": "Wofür eignet sich ein Kreisdiagramm besonders?",
+        "optionen": [
+          "Für Lagepläne",
+          "Für Teile eines Ganzen",
+          "Für Koordinaten",
+          "Für Konstruktionen mit Zirkel"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Kreisdiagramm zeigt Anteile am Gesamtwert."
+      },
+      {
+        "frage": "Welcher Lageparameter reagiert stärker auf einen extrem großen Ausreißer?",
+        "optionen": [
+          "Der Median",
+          "Der Modus",
+          "Das arithmetische Mittel",
+          "Keiner von beiden"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Das arithmetische Mittel wird von Ausreißern stark beeinflusst."
+      },
+      {
+        "frage": "Was passiert mit experimentellen Wahrscheinlichkeiten bei sehr vielen Wiederholungen meist?",
+        "optionen": [
+          "Sie werden zufälliger",
+          "Sie nähern sich einem stabilen Wert",
+          "Sie werden immer 100 %",
+          "Sie verschwinden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mit vielen Versuchen stabilisiert sich die relative Häufigkeit."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "de4f1",
+  "kompetenz_code": "D.4.F.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Nach dem {Essen} räumen wir gemeinsam den Raum auf.",
+        "hinweise": ["nominalisiertes Verb", "grossgeschrieben nach Präposition und Artikel"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Die {Hoffnung} auf einen Sieg gab das Team nicht auf.",
+        "hinweise": ["Nomen mit Nachmorphem", "endet auf -ung"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Sehr geehrte Frau Keller, könnten {Sie} mir die Unterlagen senden?",
+        "hinweise": ["Höflichkeitspronomen", "wird grossgeschrieben"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Wenn ich unsicher bin, schaue ich im {Wörterbuch} nach.",
+        "hinweise": ["Hilfsmittel beim Überarbeiten", "enthält schwierige Schreibungen"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Die Klasse {fährt} morgen mit dem Zug ins Lager.",
+        "hinweise": ["Form von fahren", "Wortstamm hilft beim Prüfen"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Beim {Lesen} markiere ich Stellen, die ich später sprachformal prüfen will.",
+        "hinweise": ["nominalisiertes Verb", "nach Präposition und Artikel"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "Wir schreiben {rennen} mit Doppelkonsonant.",
+        "hinweise": ["Verb", "nach kurzem betonten Vokal folgen zwei n"],
+        "anweisung": "Ergänze die korrekte Form."
+      },
+      {
+        "text": "In der Mitte des Tisches steht eine grosse {Schüssel}.",
+        "hinweise": ["Nomen", "enthält Doppelkonsonant"],
+        "anweisung": "Ergänze die korrekte Form."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bo4b",
+  "kompetenz_code": "BO.4.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was gehört zu einer guten Vorbereitung auf eine Schnupperlehre?",
+        "optionen": [
+          "Nur schauen, ob die Pause lang genug ist",
+          "Pünktlichkeit, passende Kleidung und vorbereitete Fragen",
+          "Ohne Anmeldung erscheinen",
+          "Während der Arbeit möglichst wenig zuhören"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine gute Vorbereitung zeigt Interesse und Verlässlichkeit: pünktlich sein, informiert erscheinen und Fragen mitbringen."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, nach einer Schnupperlehre Rückmeldungen zu notieren?",
+        "optionen": [
+          "Damit man sie sofort vergisst",
+          "Damit man Beobachtungen später mit den eigenen Zielen vergleichen kann",
+          "Damit man keine weiteren Informationen braucht",
+          "Damit man nur auf einzelne Kleinigkeiten achtet"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Notizen helfen, Eindrücke festzuhalten und später begründet zu entscheiden oder nächste Schritte zu planen."
+      },
+      {
+        "frage": "Was ist vor dem Übergang in eine Lehre oder Schule besonders wichtig?",
+        "optionen": [
+          "Fristen, Startinformationen und Anforderungen kennen",
+          "Nur auf Gerüchte hören",
+          "Material erst nach dem ersten Tag suchen",
+          "Sich auf nichts vorbereiten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wer den Übergang gut vorbereitet, kennt Termine, Anforderungen, Material und organisatorische Punkte."
+      },
+      {
+        "frage": "Wenn dir für dein Ausbildungsziel noch ein Schritt fehlt, was ist am sinnvollsten?",
+        "optionen": [
+          "Den Schritt ignorieren",
+          "Den fehlenden Schritt konkret planen und umsetzen",
+          "Auf Zufall hoffen",
+          "Nur andere dafür verantwortlich machen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Umsetzung von Ausbildungszielen gelingt, wenn fehlende Schritte rechtzeitig erkannt und konkret geplant werden."
+      },
+      {
+        "frage": "Welche Frage hilft nach einer praktischen Erfahrung bei der Vorbereitung des Übergangs?",
+        "optionen": [
+          "Welche Aufgaben passten zu meinen Stärken, und was brauche ich für den nächsten Schritt?",
+          "Wie schnell war die Pause vorbei?",
+          "Welche Farbe hatten die Wände?",
+          "Wie kann ich alle Rückmeldungen ausblenden?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wichtig ist, die Erfahrung auf die eigenen Ziele zu beziehen und daraus nächste Lern- oder Bewerbungsschritte abzuleiten."
+      },
+      {
+        "frage": "Was zeigt Selbstständigkeit im Übergangsprozess?",
+        "optionen": [
+          "Ich warte, bis andere alles für mich erledigen.",
+          "Ich behalte Fristen im Blick, frage bei Unklarheiten nach und bereite Unterlagen vor.",
+          "Ich ignoriere Informationen.",
+          "Ich reagiere erst am letzten Tag."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zum Übergang gehört, Verantwortung für Termine, Unterlagen und offene Fragen zu übernehmen."
+      },
+      {
+        "frage": "Was sollte man tun, wenn sich das ursprüngliche Ausbildungsziel nicht realisieren lässt?",
+        "optionen": [
+          "Gar nichts mehr planen",
+          "Alternative Wege prüfen und den Übergang neu vorbereiten",
+          "Alle bisherigen Erfahrungen wegwerfen",
+          "Sofort irgendeinen Beruf wählen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Übergang kann auch über Alternativen gelingen. Wichtig ist, neue Wege realistisch zu prüfen und zu planen."
+      },
+      {
+        "frage": "Warum lohnt es sich, vor dem Start Fragen zum Betrieb oder zur Schule zu klären?",
+        "optionen": [
+          "Damit Unsicherheiten kleiner werden und der Einstieg besser gelingt",
+          "Damit man später keine Verantwortung hat",
+          "Damit man keine Unterlagen mehr braucht",
+          "Damit man keine Vorbereitung machen muss"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Offene Fragen rechtzeitig zu klären hilft, Missverständnisse zu vermeiden und sicherer in den neuen Abschnitt zu starten."
+      },
+      {
+        "frage": "Wer kann beim Übergang sinnvoll unterstützen?",
+        "optionen": [
+          "Nur Zufallsbekanntschaften",
+          "Lehrpersonen, Eltern, Berufsberatung oder zuständige Personen im Betrieb oder an der Schule",
+          "Niemand",
+          "Nur Social-Media-Kommentare"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unterstützungspersonen helfen bei Planung, Rückfragen, Unterlagen und realistischen nächsten Schritten."
+      },
+      {
+        "frage": "Was ist ein Zeichen dafür, dass du den Übergang aktiv vorbereitest?",
+        "optionen": [
+          "Ich sammle Informationen, organisiere Unterlagen und plane die ersten Tage.",
+          "Ich kümmere mich erst nach dem Start darum.",
+          "Ich verlasse mich nur auf andere.",
+          "Ich warte ab, ob sich etwas ergibt."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Aktive Vorbereitung zeigt sich darin, dass Informationen, Unterlagen und organisatorische Fragen rechtzeitig geklärt werden."
+      }
+    ]
+  }
+}

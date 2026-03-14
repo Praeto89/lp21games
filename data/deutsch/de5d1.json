@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "de5d1",
+  "kompetenz_code": "D.5.D.1",
+  "typ": "wortspiel",
+  "spiel": {
+    "woerter": [
+      { "wort": "PRONOMEN", "hinweis": "Wortart, die Nomen ersetzt oder begleitet" },
+      { "wort": "PRAEPOSITION", "hinweis": "Wortart wie in, auf, unter oder wegen" },
+      { "wort": "PARTIKEL", "hinweis": "Restkategorie für unveränderliche Wörter wie ja oder doch" },
+      { "wort": "INDIKATIV", "hinweis": "Verbmodus für die Wirklichkeitsform" },
+      { "wort": "IMPERATIV", "hinweis": "Verbform für Aufforderungen" },
+      { "wort": "KONJUNKTIV", "hinweis": "Verbmodus für Möglichkeiten oder indirekte Rede" },
+      { "wort": "AKTIV", "hinweis": "Handlungsform: Das Subjekt tut etwas" },
+      { "wort": "PASSIV", "hinweis": "Handlungsform: Mit etwas wird etwas getan" }
+    ]
+  }
+}

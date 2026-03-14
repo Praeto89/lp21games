@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg51",
+    "kompetenz_code":  "RZG.5.1",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne wichtige Stationen der Schweizer Geschichte chronologisch.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Bundesbrief von 1291",
+                                                              "jahr":  "1291"
+                                                          },
+                                                          {
+                                                              "text":  "Schlacht am Morgarten",
+                                                              "jahr":  "1315"
+                                                          },
+                                                          {
+                                                              "text":  "Zweiter Kappelerkrieg und konfessionelle Spaltung",
+                                                              "jahr":  "1531"
+                                                          },
+                                                          {
+                                                              "text":  "WestfÃ¤lischer Frieden anerkennt die UnabhÃ¤ngigkeit der Eidgenossenschaft",
+                                                              "jahr":  "1648"
+                                                          },
+                                                          {
+                                                              "text":  "GrÃ¼ndung der Helvetischen Republik",
+                                                              "jahr":  "1798"
+                                                          },
+                                                          {
+                                                              "text":  "Sonderbundskrieg",
+                                                              "jahr":  "1847"
+                                                          },
+                                                          {
+                                                              "text":  "Bundesstaat Schweiz entsteht",
+                                                              "jahr":  "1848"
+                                                          },
+                                                          {
+                                                              "text":  "Frauenstimmrecht auf Bundesebene",
+                                                              "jahr":  "1971"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

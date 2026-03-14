@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs4b",
+  "kompetenz_code": "BS.4.B.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": ["Ballkontrolle und Zuspiel", "Angreifen", "Verteidigen", "Regeln und Spielkultur"],
+    "elemente": [
+      { "text": "Im Fussball einen flachen Pass in den Lauf spielen", "emoji": "⚽", "kategorie": 0 },
+      { "text": "Im Basketball den Ball kontrolliert prellen", "emoji": "🏀", "kategorie": 0 },
+      { "text": "Mit einem Doppelpass eine Lücke nutzen", "emoji": "⚽", "kategorie": 1 },
+      { "text": "Im Unihockey nach dem Zuspiel in freien Raum starten", "emoji": "🏑", "kategorie": 1 },
+      { "text": "Im Handball zwischen Gegner und Tor bleiben", "emoji": "🥅", "kategorie": 2 },
+      { "text": "Im Volleyball das Feld nach dem Aufschlag absichern", "emoji": "🏐", "kategorie": 2 },
+      { "text": "Ein Foul sofort zugeben", "emoji": "🤝", "kategorie": 3 },
+      { "text": "Die abgesprochenen Regeln selbstständig einhalten", "emoji": "📏", "kategorie": 3 },
+      { "text": "Einen Ball mit dem Innenrist sauber annehmen", "emoji": "⚽", "kategorie": 0 },
+      { "text": "Einen schnellen Gegenangriff gezielt abschliessen", "emoji": "🏃", "kategorie": 1 },
+      { "text": "In der Verteidigung mit Abstand und Armen aktiv stören", "emoji": "🛡️", "kategorie": 2 },
+      { "text": "Nach einem Spiel Sieg und Niederlage fair annehmen", "emoji": "🤝", "kategorie": 3 }
+    ]
+  }
+}

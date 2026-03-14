@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr6c1",
+  "kompetenz_code": "FS2F.6.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Beobachten", "Vergleichen", "Kontakt aufnehmen", "Erfahrungen austauschen"],
+    "elemente": [
+      { "text": "In einem Video auf Begrüssungen achten", "kategorie": 0 },
+      { "text": "Notieren, welche Sprachen auf einem Poster vorkommen", "kategorie": 0 },
+      { "text": "Eine Speisekarte aus Lausanne genau anschauen", "kategorie": 0 },
+      { "text": "Schulweg in Zug und Genf gegenüberstellen", "kategorie": 1 },
+      { "text": "Freizeitgewohnheiten vergleichen", "kategorie": 1 },
+      { "text": "Gemeinsamkeiten und Unterschiede in Stundenplänen sammeln", "kategorie": 1 },
+      { "text": "Im Videocall eine einfache Frage stellen", "kategorie": 2 },
+      { "text": "Eine kurze Nachricht an eine Partnerklasse senden", "kategorie": 2 },
+      { "text": "Sich auf Französisch vorstellen", "kategorie": 2 },
+      { "text": "Nach dem Austausch berichten, was überrascht hat", "kategorie": 3 },
+      { "text": "Erlebnisse im Lerntagebuch festhalten", "kategorie": 3 },
+      { "text": "Mit der Klasse über Gemeinsamkeiten sprechen", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "bg1b1",
+  "kompetenz_code": "BG.1.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Dokumentation",
+      "Präsentation",
+      "Fachsprache",
+      "Austausch über Bedeutung"
+    ],
+    "elemente": [
+      { "text": "Entwurfsskizzen chronologisch sammeln", "kategorie": 0 },
+      { "text": "Arbeitsfotos mit kurzen Notizen ergänzen", "kategorie": 0 },
+      { "text": "Materialproben in ein Prozessheft kleben", "kategorie": 0 },
+      { "text": "Entscheidungen in einem Portfolio festhalten", "kategorie": 0 },
+      { "text": "Titel und Hängung für eine Werkschau wählen", "kategorie": 1 },
+      { "text": "Einen Audiokommentar zum eigenen Werk aufnehmen", "kategorie": 1 },
+      { "text": "Ein Einladungsplakat für die Ausstellung gestalten", "kategorie": 1 },
+      { "text": "Kontrast, Rhythmus und Ausschnitt benennen", "kategorie": 2 },
+      { "text": "Vordergrund und Hintergrund fachlich unterscheiden", "kategorie": 2 },
+      { "text": "Die Wirkung eines Symbols im Klassenfeedback erläutern", "kategorie": 3 },
+      { "text": "Über verschiedene Deutungen eines Bildes sprechen", "kategorie": 3 },
+      { "text": "Begründen, warum ein Motiv mehrfach auftaucht", "kategorie": 3 }
+    ]
+  }
+}

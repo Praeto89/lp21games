@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt4b",
+  "kompetenz_code": "NT.4.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum h?lt eine Thermoskanne Getr?nke l?nger warm als eine einfache Glaskanne?",
+        "optionen": [
+          "Weil sie W?rme besser isoliert",
+          "Weil sie das Wasser kocht",
+          "Weil sie schwerer ist",
+          "Weil sie Strom erzeugt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gute Isolation verlangsamt die W?rme?bertragung an die Umgebung."
+      },
+      {
+        "frage": "Was geschieht bei fast jeder Energieumwandlung zus?tzlich?",
+        "optionen": [
+          "Ein Teil wird in thermische Energie umgewandelt",
+          "Masse verschwindet",
+          "Zeit stoppt kurz",
+          "Es entsteht immer Licht"
+        ],
+        "korrekt": 0,
+        "erklaerung": "W?rmeverluste treten bei fast allen realen Energieumwandlungen auf."
+      },
+      {
+        "frage": "Welche Form von Energie speichert eine Batterie haupts?chlich?",
+        "optionen": [
+          "Chemische Energie",
+          "Schallenergie",
+          "Lageenergie",
+          "Kernenergie"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Batterie speichert chemische Energie und stellt sie als elektrische Energie bereit."
+      },
+      {
+        "frage": "Wozu dient ein Generator in einem Kraftwerk?",
+        "optionen": [
+          "Er wandelt Bewegung in elektrische Energie um",
+          "Er speichert alle Abf?lle",
+          "Er filtert Wasser",
+          "Er misst die Luftfeuchtigkeit"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Im Kraftwerk wird mechanische Bewegung des Generators in Strom umgewandelt."
+      },
+      {
+        "frage": "Was beschreibt der Wirkungsgrad eines Energiewandlers?",
+        "optionen": [
+          "Wie gross der Anteil der nutzbaren Energie ist",
+          "Wie laut ein Ger?t ist",
+          "Wie schwer ein Ger?t ist",
+          "Wie oft ein Ger?t eingeschaltet wird"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Wirkungsgrad vergleicht nutzbare Energie mit zugef?hrter Energie."
+      },
+      {
+        "frage": "Warum gibt es kein Perpetuum mobile?",
+        "optionen": [
+          "Weil reale Systeme nie ohne Verluste arbeiten",
+          "Weil R?der immer quadratisch sein m?ssen",
+          "Weil Energie nicht gemessen werden kann",
+          "Weil W?rme unbegrenzt nutzbar ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Jeder reale Energiewandler hat Verluste, daher l?uft keine Maschine ewig ohne Energiezufuhr."
+      },
+      {
+        "frage": "Warum wird elektrische Energie im Netz oft mit hoher Spannung transportiert?",
+        "optionen": [
+          "Damit bei gleicher Leistung weniger Leitungsverluste entstehen",
+          "Damit Lampen bunter leuchten",
+          "Damit Kabel schwerer werden",
+          "Damit Stromkreise nicht mehr messbar sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Hohe Spannung erm?glicht bei gleicher Leistung kleinere Str?me und damit geringere W?rmeverluste in Leitungen."
+      },
+      {
+        "frage": "Welches Verhalten spart im Alltag meist Energie?",
+        "optionen": [
+          "Ger?te ganz ausschalten statt im Stand-by lassen",
+          "Fenster im Winter dauerhaft kippen",
+          "Den K?hlschrank lange offen lassen",
+          "Wasser immer ohne Deckel kochen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bewusstes Verhalten reduziert unn?tige Energieverluste im Alltag."
+      }
+    ]
+  }
+}

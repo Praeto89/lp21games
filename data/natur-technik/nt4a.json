@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt4a",
+  "kompetenz_code": "NT.4.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Energieumwandlung findet beim Velofahren nach einem Fr?hst?ck statt?",
+        "optionen": [
+          "Chemische Energie der Nahrung wird unter anderem in Bewegungsenergie umgewandelt",
+          "Bewegungsenergie wird zu Nahrung",
+          "Elektrische Energie wird zu Licht",
+          "Es findet keine Umwandlung statt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der K?rper wandelt chemische Energie aus der Nahrung unter anderem in Bewegung und W?rme um."
+      },
+      {
+        "frage": "Was macht ein Generator?",
+        "optionen": [
+          "Er wandelt Bewegungsenergie in elektrische Energie um",
+          "Er speichert nur W?rme",
+          "Er verhindert jede Reibung",
+          "Er erzeugt Stoffe aus dem Nichts"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Generatoren nutzen Bewegung, um elektrische Energie bereitzustellen."
+      },
+      {
+        "frage": "Was besagt das Prinzip der Energieerhaltung?",
+        "optionen": [
+          "Energie kann nicht erzeugt oder vernichtet, nur umgewandelt werden",
+          "Energie verschwindet bei jeder Reaktion",
+          "Nur Strom bleibt erhalten",
+          "W?rme ist keine Energieform"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Energie ?ndert ihre Form, die Gesamtenergie bleibt aber erhalten."
+      },
+      {
+        "frage": "Welche Energieumwandlungskette ist korrekt?",
+        "optionen": [
+          "Sonnenenergie -> elektrische Energie -> Licht und W?rme einer Lampe",
+          "W?rme -> Sonne -> Batterie",
+          "Bewegung -> Wasser -> Holz",
+          "Elektrizit?t -> nichts"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Solaranlage kann Sonnenenergie in elektrische Energie umwandeln, die eine Lampe in Licht und W?rme abgibt."
+      },
+      {
+        "frage": "Was bedeutet Leistung in der Physik?",
+        "optionen": [
+          "Energie pro Zeit",
+          "Masse pro Volumen",
+          "Kraft pro Fl?che",
+          "Weg pro Masse"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Leistung beschreibt, wie schnell Energie umgewandelt oder Arbeit verrichtet wird."
+      },
+      {
+        "frage": "Zwei Wasserkocher ben?tigen gleich viel Energie f?r dieselbe Wassermenge. Welcher hat die gr?ssere Leistung?",
+        "optionen": [
+          "Der langsamere",
+          "Der schnellere",
+          "Beide automatisch gleich",
+          "Keiner von beiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer dieselbe Energie in k?rzerer Zeit umsetzt, hat die gr?ssere Leistung."
+      },
+      {
+        "frage": "Wann verrichtet man mechanische Arbeit?",
+        "optionen": [
+          "Wenn eine Kraft einen K?rper entlang eines Weges bewegt",
+          "Wenn man nur an etwas denkt",
+          "Wenn ein Gegenstand still auf dem Boden liegt",
+          "Wenn Temperatur gemessen wird"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mechanische Arbeit setzt Kraft und Weg voraus."
+      },
+      {
+        "frage": "Welches Beispiel zeigt eine Energieumwandlung in einem lebenden System?",
+        "optionen": [
+          "Die Verdauung wandelt chemische Energie in nutzbare Energie und W?rme um",
+          "Ein Stein verdaut Zucker",
+          "Ein Lineal speichert Sonnenlicht als Nahrung",
+          "Ein Magnet atmet Sauerstoff ein"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Lebewesen wandeln Energie fortlaufend um, etwa aus Nahrung in Bewegung, Aufbau und W?rme."
+      }
+    ]
+  }
+}

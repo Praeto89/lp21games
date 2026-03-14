@@ -1,0 +1,31 @@
+{
+  "kompetenz_id": "ttg2b1",
+  "kompetenz_code": "TTG.2.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Spiel/Freizeit",
+      "Mode/Bekleidung",
+      "Bau/Wohnbereich",
+      "Mechanik/Transport",
+      "Elektrizitaet/Energie"
+    ],
+    "elemente": [
+      { "text": "Murmelbahn mit Kurven", "kategorie": 0 },
+      { "text": "Jonglierball", "kategorie": 0 },
+      { "text": "Wurfspiel fuer den Pausenplatz", "kategorie": 0 },
+      { "text": "Turnbeutel mit Kordelzug", "kategorie": 1 },
+      { "text": "Stirnband aus dehnbarem Stoff", "kategorie": 1 },
+      { "text": "Guertel mit verstellbarem Verschluss", "kategorie": 1 },
+      { "text": "Sitzkissen fuer einen Hocker", "kategorie": 2 },
+      { "text": "Stifthalter fuer den Schreibtisch", "kategorie": 2 },
+      { "text": "Kissenbezug fuer das Zimmer", "kategorie": 2 },
+      { "text": "Fahrzeug mit Achsen und Raedern", "kategorie": 3 },
+      { "text": "Seilzugmodell", "kategorie": 3 },
+      { "text": "Klappmechanismus fuer eine Bruecke", "kategorie": 3 },
+      { "text": "Einfacher Stromkreis mit LED", "kategorie": 4 },
+      { "text": "Batteriehalter fuer ein Lernmodell", "kategorie": 4 },
+      { "text": "Windradmodell zur Energieumwandlung", "kategorie": 4 }
+    ]
+  }
+}

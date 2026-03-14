@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en6b1",
+  "kompetenz_code": "FS1E.6.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "A classmate speaks English with a strong accent. What is the most respectful reaction?",
+        "optionen": [
+          "Listen carefully and respond respectfully.",
+          "Laugh because it sounds different.",
+          "Say their English is wrong without listening.",
+          "Ignore the person completely."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Unterschiedliche Akzente gehören zur sprachlichen Vielfalt und verdienen Respekt."
+      },
+      {
+        "frage": "Someone shares a tradition from their family. What is a good response?",
+        "optionen": [
+          "Ask interested questions without judging.",
+          "Say your own tradition is better.",
+          "Change the topic immediately.",
+          "Call it strange before understanding it."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Neugier und Respekt fördern interkulturelles Lernen."
+      },
+      {
+        "frage": "You see an unfamiliar festival in a video. What is the best first step?",
+        "optionen": [
+          "Learn about the context before judging it.",
+          "Decide immediately that it makes no sense.",
+          "Assume everyone in that country celebrates it in the same way.",
+          "Ignore all cultural information."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kulturelle Praktiken versteht man besser, wenn man ihren Hintergrund kennt."
+      },
+      {
+        "frage": "Why should we avoid saying that all English-speaking people are the same?",
+        "optionen": [
+          "Because English is spoken in many countries and communities.",
+          "Because only one English-speaking country exists.",
+          "Because culture never changes.",
+          "Because languages have no connection to people."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der englischsprachige Raum ist vielfältig und nicht einheitlich."
+      },
+      {
+        "frage": "If you do not understand a cultural reference in a text, what is sensible?",
+        "optionen": [
+          "Ask politely or look it up in a reliable source.",
+          "Pretend it must be stupid.",
+          "Skip the whole text forever.",
+          "Assume your first guess is always correct."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nachfragen oder Recherchieren hilft, Missverständnisse zu vermeiden."
+      },
+      {
+        "frage": "When comparing two festivals, what is a respectful approach?",
+        "optionen": [
+          "Notice similarities and differences without ranking them.",
+          "Decide that only your own festival matters.",
+          "Make jokes about unfamiliar customs.",
+          "Refuse to compare anything."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Respektvolle Vergleiche beschreiben, statt abzuwerten."
+      },
+      {
+        "frage": "Why can two people from the same country still have different opinions and habits?",
+        "optionen": [
+          "Because people have individual experiences and identities.",
+          "Because culture controls everyone in exactly the same way.",
+          "Because only tourists have different views.",
+          "Because language decides every opinion."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kultur beeinflusst Menschen, bestimmt sie aber nicht vollständig."
+      },
+      {
+        "frage": "For a project about English-speaking cultures, which source choice is strongest?",
+        "optionen": [
+          "Reliable sources and authentic voices from different contexts",
+          "Only one random social media comment",
+          "A meme without context",
+          "Your first stereotype"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gute Quellen helfen, differenziert und fair über Kulturen zu sprechen."
+      }
+    ]
+  }
+}

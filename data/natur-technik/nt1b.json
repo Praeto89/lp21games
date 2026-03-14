@@ -1,0 +1,63 @@
+{
+  "kompetenz_id": "nt1b",
+  "kompetenz_code": "NT.1.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Mechanische Prinzipien",
+      "W?rmetechnik",
+      "Elektrische Bauteile und Energie",
+      "Informations- und Ortungstechnik"
+    ],
+    "elemente": [
+      {
+        "text": "Fahrradschaltung",
+        "kategorie": 0
+      },
+      {
+        "text": "Handbohrmaschine mit Kurbel",
+        "kategorie": 0
+      },
+      {
+        "text": "Zapfenzieher mit Hebelarm",
+        "kategorie": 0
+      },
+      {
+        "text": "W?rmepumpe",
+        "kategorie": 1
+      },
+      {
+        "text": "Induktionsherd",
+        "kategorie": 1
+      },
+      {
+        "text": "Backofen",
+        "kategorie": 1
+      },
+      {
+        "text": "Solarzelle",
+        "kategorie": 2
+      },
+      {
+        "text": "LED-Lampe",
+        "kategorie": 2
+      },
+      {
+        "text": "Sicherungsautomat",
+        "kategorie": 2
+      },
+      {
+        "text": "GPS-Navigationsger?t",
+        "kategorie": 3
+      },
+      {
+        "text": "Endoskop",
+        "kategorie": 3
+      },
+      {
+        "text": "Flachbildschirm",
+        "kategorie": 3
+      }
+    ]
+  }
+}

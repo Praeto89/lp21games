@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "nt7a",
+  "kompetenz_code": "NT.7.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Bewegungsapparat", "Atmungssystem", "Verdauungssystem", "Herz-Kreislauf-System"],
+    "elemente": [
+      { "text": "Agonist und Antagonist arbeiten zusammen (z.B. Bizeps und Trizeps)", "kategorie": 0 },
+      { "text": "Röhrenknochen sind leicht und stabil durch Hohlräume", "kategorie": 0 },
+      { "text": "Lungenalveolen vergrössern die Oberfläche für den Gasaustausch", "kategorie": 1 },
+      { "text": "Das Zwerchfell ist der wichtigste Atemmuskel", "kategorie": 1 },
+      { "text": "Zotten im Dünndarm vergrössern die Resorptionsfläche", "kategorie": 2 },
+      { "text": "Enzyme spalten Nährstoffe in kleinere Bausteine", "kategorie": 2 },
+      { "text": "Arterien transportieren sauerstoffreiches Blut vom Herzen weg", "kategorie": 3 },
+      { "text": "Die Herzklappen verhindern den Rückfluss des Blutes", "kategorie": 3 },
+      { "text": "Gelenke ermöglichen Bewegung in bestimmte Richtungen", "kategorie": 0 },
+      { "text": "Die Bronchien verzweigen sich bis zu den Alveolen", "kategorie": 1 },
+      { "text": "Kapillaren ermöglichen den Stoffaustausch zwischen Blut und Gewebe", "kategorie": 3 },
+      { "text": "Die Magensäure tötet Bakterien ab und aktiviert Enzyme", "kategorie": 2 }
+    ]
+  }
+}

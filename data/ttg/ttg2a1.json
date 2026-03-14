@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg2a1",
+  "kompetenz_code": "TTG.2.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist ein guter Ausgangspunkt fuer eine eigenstaendige Produktidee?",
+        "optionen": [
+          "Nur ein Produkt aus dem Internet kopieren",
+          "Ein Beduerfnis, eine Nutzungssituation oder ein Thema untersuchen",
+          "Moeglichst viele Materialien kaufen",
+          "Auf die schwierigste Technik setzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Produktideen entstehen oft aus Beduerfnissen, Problemen oder Themen, die genauer untersucht werden."
+      },
+      {
+        "frage": "Warum sind mehrere erste Skizzen sinnvoll?",
+        "optionen": [
+          "Damit man spaeter eine Auswahl treffen und vergleichen kann",
+          "Damit das Heft voller aussieht",
+          "Weil eine gute Idee immer aus zehn gleichen Skizzen besteht",
+          "Weil Materialproben verboten sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mehrere Skizzen machen Unterschiede sichtbar und helfen, eine starke Idee gezielt auszuwaehlen."
+      },
+      {
+        "frage": "Was macht eine Produktidee eigenstaendig?",
+        "optionen": [
+          "Sie uebernimmt alles unveraendert",
+          "Sie verbindet eigene Entscheidungen zu Form, Material und Funktion",
+          "Sie vermeidet jede Rueckmeldung",
+          "Sie ist nur moeglichst kompliziert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eigenstaendig wird eine Idee durch eigene Begruendungen, Variationen und Entscheidungen."
+      },
+      {
+        "frage": "Welche Ueberlegung gehoert frueh in die Entwicklung eines Produkts?",
+        "optionen": [
+          "Wer das Produkt nutzen soll",
+          "Welche Note es geben koennte",
+          "Ob es moeglichst teuer wird",
+          "Ob man auf eine Skizze verzichten kann"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Zielgruppe und Nutzung bestimmen viele weitere Entscheidungen, zum Beispiel Groesse, Material und Gestaltung."
+      },
+      {
+        "frage": "Wozu dient eine Materialprobe in der Ideenphase?",
+        "optionen": [
+          "Nur zur Dekoration des Portfolios",
+          "Zum Ueberpruefen, ob Material und Idee zusammenpassen",
+          "Zum Messen der Zeugnisnote",
+          "Zum Ersetzen der Skizze"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Materialproben zeigen, wie ein Werkstoff aussieht, sich anfuehlt und sich bearbeiten laesst."
+      },
+      {
+        "frage": "Was ist bei einer Gruppenidee besonders wichtig?",
+        "optionen": [
+          "Dass eine Person immer alles bestimmt",
+          "Dass Anforderungen gemeinsam geklaert und Rollen abgesprochen werden",
+          "Dass niemand dokumentiert",
+          "Dass nur die schnellste Loesung zaehlt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gemeinsame Kriterien und abgesprochene Rollen machen die Zusammenarbeit zielgerichtet."
+      },
+      {
+        "frage": "Wann ist eine Produktidee fuer den Unterricht realistisch?",
+        "optionen": [
+          "Wenn sie mit Zeit, Material und vorhandenen Verfahren umsetzbar ist",
+          "Wenn sie auf keinen Fall fertig werden kann",
+          "Wenn sie nur aus Profimaschinen besteht",
+          "Wenn sie keinerlei Planung braucht"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine gute Idee ist kreativ, aber auch praktisch umsetzbar."
+      },
+      {
+        "frage": "Welche Frage hilft bei der Auswahl zwischen zwei Entwuerfen am meisten?",
+        "optionen": [
+          "Welcher Entwurf erfuellt die Kriterien besser?",
+          "Welcher Entwurf hat mehr Linien?",
+          "Welcher Entwurf ist schwieriger zu erklaeren?",
+          "Welcher Entwurf sieht zufaellig aus?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kriterien wie Funktion, Wirkung, Stabilitaet oder Aufwand helfen bei einer begruendeten Auswahl."
+      },
+      {
+        "frage": "Was gehoert zu einer guten Produktidee fuer eine Aufbewahrungsloesung?",
+        "optionen": [
+          "Nur eine auffaellige Farbe",
+          "Eine klare Vorstellung davon, was aufbewahrt werden soll",
+          "Nur ein passender Produktname",
+          "Ein moeglichst fragiler Aufbau"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Aufbewahrungsprodukten muessen Inhalt, Groesse, Zugriff und Schutz mitgedacht werden."
+      },
+      {
+        "frage": "Warum ist Ueberarbeiten ein normaler Teil der Ideenentwicklung?",
+        "optionen": [
+          "Weil die erste Idee immer falsch ist",
+          "Weil Ideen durch Tests, Feedback und neue Beobachtungen besser werden",
+          "Weil man sonst nie anfangen darf",
+          "Weil nur die Lehrperson Ideen veraendern darf"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Produktideen entstehen selten in einem Schritt. Ueberarbeitung gehoert zum Designprozess."
+      }
+    ]
+  }
+}

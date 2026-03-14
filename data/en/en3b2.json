@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en3b2",
+  "kompetenz_code": "FS1E.3.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Why is it effective to vary your voice when reading a poem aloud?",
+        "optionen": [
+          "It makes the text sound more alive.",
+          "It hides the meaning of the poem.",
+          "It makes every line sound identical.",
+          "It removes all emotion."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Variation in Stimme und Intonation unterstützt die Wirkung eines Textes."
+      },
+      {
+        "frage": "What can a short pause after an important sentence do?",
+        "optionen": [
+          "It gives the audience time to absorb the idea.",
+          "It always confuses the audience.",
+          "It makes the text grammatically wrong.",
+          "It stops the presentation completely."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Pausen setzen Akzente und geben dem Publikum Zeit zum Mitdenken."
+      },
+      {
+        "frage": "If you strongly stress one word in the sentence 'This was the turning point,' what happens?",
+        "optionen": [
+          "The word becomes less important.",
+          "The key idea stands out more clearly.",
+          "The sentence changes language.",
+          "The sentence loses all rhythm."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Betonung lenkt die Aufmerksamkeit auf zentrale Wörter."
+      },
+      {
+        "frage": "Which choice makes a story sound more vivid?",
+        "optionen": [
+          "Using a few descriptive details",
+          "Reading every word in the same flat tone",
+          "Skipping all adjectives",
+          "Speaking as fast as possible"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Anschauliche Details helfen dem Publikum, Bilder im Kopf zu entwickeln."
+      },
+      {
+        "frage": "Why might a speaker slow down in an emotional moment?",
+        "optionen": [
+          "To give the moment more weight",
+          "To show they have forgotten the text",
+          "To end the performance early",
+          "To remove all feelings from the scene"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Langsameres Tempo kann Spannung oder Emotionalität verstärken."
+      },
+      {
+        "frage": "What is the best role of gestures in a short presentation?",
+        "optionen": [
+          "They should support the meaning naturally.",
+          "They should distract from the content.",
+          "They should replace all words.",
+          "They should be repeated without purpose."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Sinnvolle Gesten unterstreichen Aussagen, ohne vom Inhalt abzulenken."
+      },
+      {
+        "frage": "When reading a dialogue aloud, what helps the audience notice different speakers?",
+        "optionen": [
+          "Changing tone or rhythm slightly",
+          "Reading every line with exactly the same sound",
+          "Ignoring punctuation",
+          "Skipping direct speech"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kleine Unterschiede in Klang und Tempo machen Rollen hörbar."
+      },
+      {
+        "frage": "Why can repeating a phrase at the end of a speech be powerful?",
+        "optionen": [
+          "It makes the ending easier to remember.",
+          "It always shortens the speech.",
+          "It removes the main idea.",
+          "It turns the speech into a worksheet."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine gezielte Wiederholung gibt dem Schluss Nachdruck."
+      }
+    ]
+  }
+}

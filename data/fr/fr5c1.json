@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5c1",
+  "kompetenz_code": "FS2F.5.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Nasallaut", "Endkonsonant hörbar", "Endkonsonant stumm", "Frageintonation"],
+    "elemente": [
+      { "text": "bon", "kategorie": 0 },
+      { "text": "dans", "kategorie": 0 },
+      { "text": "manger", "kategorie": 0 },
+      { "text": "minute", "kategorie": 1 },
+      { "text": "sport", "kategorie": 1 },
+      { "text": "avec", "kategorie": 1 },
+      { "text": "petit", "kategorie": 2 },
+      { "text": "froid", "kategorie": 2 },
+      { "text": "nez", "kategorie": 2 },
+      { "text": "Tu viens ?", "kategorie": 3 },
+      { "text": "On commence maintenant ?", "kategorie": 3 },
+      { "text": "C'est pour demain ?", "kategorie": 3 }
+    ]
+  }
+}

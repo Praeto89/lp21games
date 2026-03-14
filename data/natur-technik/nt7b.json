@@ -1,0 +1,44 @@
+{
+  "kompetenz_id": "nt7b",
+  "kompetenz_code": "NT.7.2",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne den Weg der Nahrung durch den Körper in die richtige Reihenfolge.",
+        "elemente": [
+          "Aufnahme der Nahrung durch den Mund",
+          "Mechanische Zerkleinerung durch Zähne und Speichel",
+          "Transport durch die Speiseröhre in den Magen",
+          "Chemische Zerlegung durch Magensäure und Enzyme",
+          "Aufspaltung und Resorption der Nährstoffe im Dünndarm",
+          "Wasserentzug und Eindickung im Dickdarm",
+          "Ausscheidung der unverdaulichen Reste"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte der Sauerstoffversorgung einer Muskelzelle.",
+        "elemente": [
+          "Einatmen: Luft gelangt über die Atemwege in die Lunge",
+          "Gasaustausch in den Lungenalveolen: Sauerstoff tritt ins Blut über",
+          "Sauerstoff bindet sich an Hämoglobin in den roten Blutkörperchen",
+          "Herz pumpt sauerstoffreiches Blut durch die Arterien",
+          "Kapillaren geben Sauerstoff an die Muskelzelle ab",
+          "In der Zelle wird Sauerstoff für die Zellatmung genutzt",
+          "Kohlendioxid wird als Abfallprodukt über das Blut zur Lunge transportiert"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte der Urinbildung in der Niere.",
+        "elemente": [
+          "Blut wird in den Nierenkörperchen (Glomeruli) gefiltert",
+          "Der Primärharn entsteht durch Filtration",
+          "Wichtige Stoffe wie Glucose und Wasser werden rückresorbiert",
+          "Der Sekundärharn (Urin) sammelt sich im Nierenbecken",
+          "Urin gelangt über die Harnleiter in die Blase",
+          "Urin wird über die Harnröhre ausgeschieden"
+        ]
+      }
+    ]
+  }
+}

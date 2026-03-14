@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu3b",
+  "kompetenz_code": "MU.3.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bedeutet es, eine Bewegung im Kanon zu tanzen?",
+        "optionen": [
+          "Alle tanzen genau gleichzeitig",
+          "Eine Gruppe beginnt zeitversetzt dieselbe Bewegung",
+          "Nur eine Person tanzt und alle anderen schauen zu",
+          "Die Musik wird rückwärts abgespielt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Bewegungskanon erscheint dieselbe Form zeitversetzt in mehreren Gruppen."
+      },
+      {
+        "frage": "Was macht ein klares Startbild in einer Tanzsequenz hilfreich?",
+        "optionen": [
+          "Es zeigt sofort Fokus und Richtung",
+          "Es ersetzt jede Probe",
+          "Es macht Musik überflüssig",
+          "Es ist nur für Profis wichtig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein klares Anfangsbild schafft Aufmerksamkeit und Orientierung."
+      },
+      {
+        "frage": "Weshalb ist die Nutzung verschiedener Ebenen im Tanz sinnvoll?",
+        "optionen": [
+          "Weil nur tiefe Bewegungen erlaubt sind",
+          "Weil hoch, mittel und tief den Ausdruck erweitern",
+          "Damit man weniger Platz braucht",
+          "Damit alle dieselbe Bewegung kleiner machen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unterschiedliche Ebenen machen Bewegungen vielfältiger und ausdrucksstärker."
+      },
+      {
+        "frage": "Was hilft in einer Gruppenimprovisation am meisten?",
+        "optionen": [
+          "möglichst niemanden beachten",
+          "Blickkontakt, Zuhören und klare Absprachen",
+          "ständig die Formation wechseln",
+          "nur die schnellsten Bewegungen wählen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Zusammenspiel braucht es Aufmerksamkeit für die anderen."
+      },
+      {
+        "frage": "Wie kann ein Solo trotz freier Bewegung gut verständlich wirken?",
+        "optionen": [
+          "durch ein wiederkehrendes Bewegungsmotiv",
+          "indem man jeden Schritt zufällig ändert",
+          "indem man nur ganz kurz beginnt und endet",
+          "durch völlige Regellosigkeit"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wiederkehrende Motive geben einem Solo Struktur."
+      },
+      {
+        "frage": "Was ist beim Spiegeln einer Partnerbewegung wichtig?",
+        "optionen": [
+          "beide tanzen absichtlich gegeneinander",
+          "Beobachtung, Timing und angepasste Seitenrichtung",
+          "nur eine Person bewegt die Arme",
+          "die Musik völlig zu ignorieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Spiegeln braucht es genaue Wahrnehmung und abgestimmte Reaktionen."
+      },
+      {
+        "frage": "Wie reagiert man passend, wenn die Musik plötzlich leiser wird?",
+        "optionen": [
+          "mit grösseren und härteren Bewegungen",
+          "mit feineren, kleineren oder ruhigeren Bewegungen",
+          "gar nicht mehr",
+          "nur mit Sprüngen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bewegungen können Dynamik und Charakter der Musik aufnehmen."
+      },
+      {
+        "frage": "Was hilft, in einer Choreografie Wege im Raum lesbar zu machen?",
+        "optionen": [
+          "klare Richtungen und bewusste Raumwege",
+          "ausschliesslich auf der Stelle zu bleiben",
+          "dauernd den Rücken zum Publikum zu drehen",
+          "jeden Weg zufällig zu ändern"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bewusste Wege durch den Raum machen Tanzformen nachvollziehbar."
+      },
+      {
+        "frage": "Weshalb sind Übergänge zwischen Bewegungen wichtig?",
+        "optionen": [
+          "Sie verbinden Teile der Sequenz sinnvoll",
+          "Sie dürfen nie geplant werden",
+          "Sie machen Tanz automatisch schneller",
+          "Sie ersetzen das Endbild"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Gute Übergänge lassen eine Sequenz zusammenhängend wirken."
+      },
+      {
+        "frage": "Wie kann man einen rhythmischen Akzent der Musik sichtbar machen?",
+        "optionen": [
+          "durch einen klaren Stopp, Sprung oder Richtungswechsel im selben Moment",
+          "indem man extra gegen den Puls arbeitet",
+          "nur durch Schliessen der Augen",
+          "gar nicht, Musik und Bewegung sind getrennt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Akzente werden deutlich, wenn Bewegung und Musik an derselben Stelle betont werden."
+      }
+    ]
+  }
+}

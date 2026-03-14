@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "bs6b",
+  "kompetenz_code": "BS.6.B.1",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne die Schritte für einen sicheren Sprung mit den Füssen voraus ins tiefe Wasser.",
+        "elemente": [
+          "Wassertiefe und freien Raum prüfen",
+          "Stabil an den Beckenrand stehen",
+          "Körperspannung halten und mit den Füssen voraus abspringen",
+          "Auftauchen und sich orientieren"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für einen gestreckten Sprung ins Wasser.",
+        "elemente": [
+          "Abstand zu anderen Personen kontrollieren",
+          "Aufrecht und gespannt an den Rand stellen",
+          "Mit beiden Füssen abspringen",
+          "Gestreckt eintauchen und kontrolliert auftauchen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für einen Kopfsprung vom Beckenrand.",
+        "elemente": [
+          "Nur bei genügender Tiefe und auf Freigabe vorbereiten",
+          "Arme nach vorne strecken und Blick zum Wasser richten",
+          "Sich gestreckt nach vorne abdrücken",
+          "Flach eintauchen und ausgleiten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um einen Tauchring vom Beckenboden zu holen.",
+        "elemente": [
+          "Ziel am Boden anvisieren",
+          "Tief einatmen und kontrolliert abtauchen",
+          "Den Ring greifen",
+          "Sich kräftig wieder nach oben abstossen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für ein Gleiten unter Wasser nach dem Abstossen.",
+        "elemente": [
+          "Hände über dem Kopf zur Stromlinienform schliessen",
+          "Sich kräftig von der Wand abstossen",
+          "Den Körper gestreckt halten und langsam ausatmen",
+          "Vor dem Luftbedarf auftauchen"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte, um durch einen Unterwasserreifen zu tauchen.",
+        "elemente": [
+          "Position des Reifens einschätzen",
+          "Tief einatmen und Richtung wählen",
+          "Kontrolliert hindurchtauchen",
+          "Auftauchen und Orientierung wiederfinden"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für einen sicheren Start einer Sprungübung mit Partnerbeobachtung.",
+        "elemente": [
+          "Absprechen, wer springt und wer beobachtet",
+          "Sicherstellen, dass die Zone frei ist",
+          "Sprung konzentriert ausführen",
+          "Nach dem Auftauchen das Becken zügig freigeben"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Schritte für kontrolliertes Auftauchen nach dem Tauchen.",
+        "elemente": [
+          "Nach dem Objekt oder der Übung den Körper nach oben ausrichten",
+          "Mit Armen oder Beinen aktiv nach oben arbeiten",
+          "Den Kopf ruhig zur Wasseroberfläche führen",
+          "Nach dem Auftauchen sofort orientieren und Platz machen"
+        ]
+      }
+    ]
+  }
+}

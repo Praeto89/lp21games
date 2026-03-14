@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de2d1",
+  "kompetenz_code": "D.2.D.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Lesen", "Beim Lesen", "Nach dem Lesen", "Reflexion über Strategien"],
+    "elemente": [
+      { "text": "Überschrift und Bilder anschauen", "kategorie": 0 },
+      { "text": "Leseziel festlegen", "kategorie": 0 },
+      { "text": "Vorwissen zum Thema sammeln", "kategorie": 0 },
+      { "text": "Schlüsselstellen markieren", "kategorie": 1 },
+      { "text": "Unbekannte Wörter aus dem Zusammenhang erschliessen", "kategorie": 1 },
+      { "text": "Randnotizen zu wichtigen Aussagen schreiben", "kategorie": 1 },
+      { "text": "Den Inhalt in eigenen Worten zusammenfassen", "kategorie": 2 },
+      { "text": "Eine begründete Meinung zum Text formulieren", "kategorie": 2 },
+      { "text": "Wichtige Informationen mit dem Leseziel abgleichen", "kategorie": 2 },
+      { "text": "Erklären, warum eine Markierstrategie hilfreich war", "kategorie": 3 },
+      { "text": "Beschreiben, welche Lesestrategie man verbessert einsetzen könnte", "kategorie": 3 },
+      { "text": "Begründen, warum man überfliegendes oder genaues Lesen gewählt hat", "kategorie": 3 }
+    ]
+  }
+}

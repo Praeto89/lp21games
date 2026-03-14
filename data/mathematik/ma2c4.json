@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2c4",
+  "kompetenz_code": "MA.2.C.4",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welcher Punkt liegt auf der y-Achse?",
+        "optionen": [
+          "(3|0)",
+          "(0|5)",
+          "(4|2)",
+          "(-2|1)"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Auf der y-Achse ist die x-Koordinate immer 0."
+      },
+      {
+        "frage": "P(2|3) wird 4 Einheiten nach rechts verschoben. Welche Koordinaten hat das Bild?",
+        "optionen": [
+          "(6|3)",
+          "(-2|3)",
+          "(2|7)",
+          "(4|1)"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nur die x-Koordinate wird um 4 erhöht."
+      },
+      {
+        "frage": "Auf einer Karte mit Maßstab 1:50 000 misst eine Strecke 2 cm. Wie weit ist sie in Wirklichkeit?",
+        "optionen": [
+          "100 m",
+          "500 m",
+          "1 km",
+          "10 km"
+        ],
+        "korrekt": 2,
+        "erklaerung": "2 cm entsprechen 100 000 cm = 1 km."
+      },
+      {
+        "frage": "Welche Koordinaten hat der Spiegelpunkt von (3|-4) an der x-Achse?",
+        "optionen": [
+          "(-3|-4)",
+          "(3|4)",
+          "(-3|4)",
+          "(4|3)"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Spiegelung an der x-Achse ändert nur die y-Koordinate ihr Vorzeichen."
+      },
+      {
+        "frage": "Wie heißt der Punkt (0|0)?",
+        "optionen": [
+          "Scheitel",
+          "Mittelpunkt",
+          "Ursprung",
+          "Nullstelle"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Der Punkt, an dem sich x- und y-Achse schneiden, heißt Ursprung."
+      },
+      {
+        "frage": "Ein Plan hat den Maßstab 1:200. Eine Wand ist im Plan 6 cm lang. Wie lang ist sie in Wirklichkeit?",
+        "optionen": [
+          "1.2 m",
+          "12 m",
+          "120 m",
+          "0.12 m"
+        ],
+        "korrekt": 1,
+        "erklaerung": "6 cm · 200 = 1200 cm = 12 m."
+      },
+      {
+        "frage": "Was liest man bei der Schreibweise (4|-2) zuerst ab?",
+        "optionen": [
+          "Die y-Koordinate",
+          "Die Höhe",
+          "Die x-Koordinate",
+          "Den Maßstab"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Koordinaten werden immer in der Reihenfolge x, dann y angegeben."
+      },
+      {
+        "frage": "Welche Punkte haben dieselbe x-Koordinate?",
+        "optionen": [
+          "(2|1) und (2|5)",
+          "(3|4) und (1|4)",
+          "(0|2) und (5|2)",
+          "(-1|0) und (0|-1)"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Dieselbe x-Koordinate bedeutet, dass die Punkte senkrecht übereinander liegen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en1b1",
+  "kompetenz_code": "FS1E.1.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Hören", "Während des Hörens", "Nach dem Hören"],
+    "elemente": [
+      { "text": "Read the title and guess the topic.", "kategorie": 0 },
+      { "text": "Think of words you already know about the topic.", "kategorie": 0 },
+      { "text": "Look at pictures or key words before the audio starts.", "kategorie": 0 },
+      { "text": "Listen for names, numbers and places.", "kategorie": 1 },
+      { "text": "Focus on stressed words and repeated ideas.", "kategorie": 1 },
+      { "text": "Ignore one unknown word if the main idea is still clear.", "kategorie": 1 },
+      { "text": "Write down short notes instead of full sentences.", "kategorie": 1 },
+      { "text": "Check whether your first prediction was correct.", "kategorie": 2 },
+      { "text": "Summarise the main message in one or two sentences.", "kategorie": 2 },
+      { "text": "Compare your notes with a partner.", "kategorie": 2 },
+      { "text": "Mark the parts you still do not understand.", "kategorie": 2 },
+      { "text": "Listen a second time for missing details.", "kategorie": 2 }
+    ]
+  }
+}

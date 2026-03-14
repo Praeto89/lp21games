@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2a2",
+  "kompetenz_code": "MA.2.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Abbildung erhält Form und Größe einer Figur immer?",
+        "optionen": [
+          "Streckung mit Faktor 2",
+          "Verschiebung",
+          "Verzerrung",
+          "Stauchung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei einer Verschiebung bleiben alle Längen und Winkel erhalten."
+      },
+      {
+        "frage": "P(2|1) wird 3 Einheiten nach links verschoben. Welche neuen Koordinaten hat der Punkt?",
+        "optionen": [
+          "(-1|1)",
+          "(5|1)",
+          "(2|-2)",
+          "(-1|-2)"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nur die x-Koordinate verändert sich um 3 nach links."
+      },
+      {
+        "frage": "Welcher Körper lässt sich zu einem Rechteck und zwei Kreisen auffalten?",
+        "optionen": [
+          "Würfel",
+          "Prisma",
+          "Zylinder",
+          "Pyramide"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein Zylinder besitzt einen Mantel in Rechteckform und zwei Kreisflächen."
+      },
+      {
+        "frage": "Was passiert bei einer Spiegelung an einer senkrechten Achse?",
+        "optionen": [
+          "Oben und unten werden vertauscht",
+          "Links und rechts werden vertauscht",
+          "Die Figur wird vergrößert",
+          "Die Figur verliert ihre Form"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine senkrechte Spiegelachse vertauscht die linke und rechte Seite."
+      },
+      {
+        "frage": "Welche Figur kann ohne Lücken und Überlappungen die Ebene parkettieren?",
+        "optionen": [
+          "Kreis",
+          "regelmäßiges Fünfeck",
+          "Quadrat",
+          "beliebiges Oval"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Quadrate schließen lückenlos aneinander an."
+      },
+      {
+        "frage": "Ein Dreieck wird mit dem Streckfaktor 2 vergrößert. Was passiert mit einer Seitenlänge?",
+        "optionen": [
+          "Sie bleibt gleich",
+          "Sie halbiert sich",
+          "Sie verdoppelt sich",
+          "Sie wird um 2 cm kürzer"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Bei einer Streckung mit Faktor 2 werden alle Längen verdoppelt."
+      },
+      {
+        "frage": "Welcher Körper hat dreieckige Seitenflächen, die in einer Spitze zusammenlaufen?",
+        "optionen": [
+          "Zylinder",
+          "Quader",
+          "Pyramide",
+          "Prisma"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Bei der Pyramide treffen sich die Seitenflächen in einer Spitze."
+      },
+      {
+        "frage": "Wie nennt man eine Drehung um 180° um einen Punkt auch?",
+        "optionen": [
+          "Verschiebung",
+          "Punktspiegelung",
+          "Scherung",
+          "Vergrößerung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine 180°-Drehung um einen Punkt entspricht einer Punktspiegelung."
+      }
+    ]
+  }
+}

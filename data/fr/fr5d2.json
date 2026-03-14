@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "fr5d2",
+  "kompetenz_code": "FS2F.5.D.2",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Je {vais} au cinéma avec mes amis.",
+        "hinweise": ["Verb aller im Präsens"],
+        "anweisung": "Ergänze die passende Verbform."
+      },
+      {
+        "text": "Hier, nous {avons mangé} à la cantine.",
+        "hinweise": ["passé composé von manger"],
+        "anweisung": "Setze die richtige Vergangenheitsform ein."
+      },
+      {
+        "text": "Ma sœur est {contente} parce qu'elle a une bonne note.",
+        "hinweise": ["Adjektiv, feminin"],
+        "anweisung": "Achte auf die Kongruenz mit dem Nomen."
+      },
+      {
+        "text": "Je {n'aime} pas le café.",
+        "hinweise": ["Verneinung mit aimer"],
+        "anweisung": "Ergänze die passende Negationsform."
+      },
+      {
+        "text": "Nous allons {faire} nos devoirs après le sport.",
+        "hinweise": ["Infinitiv nach aller"],
+        "anweisung": "Vervollständige die Konstruktion mit futur proche."
+      },
+      {
+        "text": "Dans la salle, il y a {des} affiches et {une} carte.",
+        "hinweise": ["Pluralartikel", "Singularartikel feminin"],
+        "anweisung": "Ergänze die passenden Artikel."
+      },
+      {
+        "text": "Tu {mets} ton casque avant de partir.",
+        "hinweise": ["Verb mettre im Präsens"],
+        "anweisung": "Setze die richtige Form des unregelmässigen Verbs ein."
+      },
+      {
+        "text": "Ils {sont arrivés} en avance pour le concert.",
+        "hinweise": ["passé composé mit être"],
+        "anweisung": "Achte auf Hilfsverb und Partizip."
+      }
+    ]
+  }
+}

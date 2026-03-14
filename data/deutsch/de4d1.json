@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "de4d1",
+  "kompetenz_code": "D.4.D.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Ich sammle zuerst Ideen; {danach} ordne ich sie zu Abschnitten.",
+        "hinweise": ["verbindet zwei Schritte", "Signalwort für die Reihenfolge"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Der Bericht braucht einen klaren {Titel}, damit sofort erkennbar ist, worum es geht.",
+        "hinweise": ["steht am Anfang", "macht das Thema sichtbar"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Mit {Absätzen} lässt sich ein längerer Text besser gliedern.",
+        "hinweise": ["strukturieren den Text", "mehrere Sinnteile"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Ich verwende ein passendes {Pronomen}, damit ich ein Nomen nicht ständig wiederholen muss.",
+        "hinweise": ["ersetzt ein Nomen", "zum Beispiel er oder sie"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Der Ausdruck {ausserdem} verbindet zwei inhaltlich passende Gedanken.",
+        "hinweise": ["Textverknüpfer", "fügt etwas hinzu"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Eine gute Einleitung macht das Thema deutlich und weckt {Interesse}.",
+        "hinweise": ["soll bei Lesenden entstehen", "Neugier ist ähnlich"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Wenn ich Beispiele passend auswähle, wirkt mein Text {verständlich}.",
+        "hinweise": ["gut zu verstehen", "Gegenteil von unklar"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      },
+      {
+        "text": "Mit dem Signalwort {dennoch} kann ich einen Gegensatz im Text markieren.",
+        "hinweise": ["zeigt einen Gegensatz", "ähnlich wie trotzdem"],
+        "anweisung": "Ergänze das passende Wort oder die passende Formulierung."
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5d1",
+  "kompetenz_code": "FS2F.5.D.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Nom", "Verbe au présent", "Verbe au passé composé", "Adjectif"],
+    "elemente": [
+      { "text": "la fenêtre", "kategorie": 0 },
+      { "text": "un devoir", "kategorie": 0 },
+      { "text": "le quartier", "kategorie": 0 },
+      { "text": "nous parlons", "kategorie": 1 },
+      { "text": "elle finit", "kategorie": 1 },
+      { "text": "ils prennent", "kategorie": 1 },
+      { "text": "j'ai visité", "kategorie": 2 },
+      { "text": "tu as choisi", "kategorie": 2 },
+      { "text": "nous avons regardé", "kategorie": 2 },
+      { "text": "rapide", "kategorie": 3 },
+      { "text": "content", "kategorie": 3 },
+      { "text": "française", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bo2b",
+  "kompetenz_code": "BO.2.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum ist es hilfreich, mit Menschen aus verschiedenen Berufen zu sprechen?",
+        "optionen": [
+          "Weil man dann keine eigenen Interessen mehr braucht",
+          "Weil man realistische Einblicke in Tätigkeiten und Anforderungen erhält",
+          "Weil man sofort einen Lehrvertrag bekommt",
+          "Weil Berufe nur über Erzählungen ausgewählt werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gespräche mit Berufsleuten helfen, Arbeitsalltag, Anforderungen und Entwicklungsmöglichkeiten besser einzuschätzen."
+      },
+      {
+        "frage": "Welche Aussage ist ein geschlechtsspezifisches Stereotyp?",
+        "optionen": [
+          "Ich informiere mich über verschiedene Berufe.",
+          "Pflegeberufe sind nur etwas für Frauen.",
+          "Ich vergleiche meine Stärken mit Berufsanforderungen.",
+          "Ich frage nach einem Schnuppertag."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Geschlechtsspezifische Stereotypen ordnen Berufe vorschnell einem Geschlecht zu. Sie engen die Berufswahl unnötig ein."
+      },
+      {
+        "frage": "Was bedeutet ein persönlicher Bezug zur Arbeitswelt?",
+        "optionen": [
+          "Nur Berufe aus dem Fernsehen zu kennen",
+          "Eigene Interessen, Erfahrungen und Ziele mit realen Berufen zu verbinden",
+          "Jeden Beruf gleich passend zu finden",
+          "Sich nur nach dem Lohn zu richten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein persönlicher Bezug entsteht, wenn man Berufe nicht nur kennt, sondern mit dem eigenen Profil und den eigenen Zielen in Verbindung bringt."
+      },
+      {
+        "frage": "Die Eltern empfehlen einen Beruf, der dich wenig interessiert. Was ist ein sinnvoller nächster Schritt?",
+        "optionen": [
+          "Sofort zusagen, ohne zu prüfen",
+          "Die Empfehlung anhören und mit den eigenen Interessen und Anforderungen vergleichen",
+          "Alle Gespräche vermeiden",
+          "Nur wegen des Familienwunsches entscheiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Rückmeldungen aus dem Umfeld sind wichtig, sollten aber mit dem eigenen Profil und realen Informationen abgeglichen werden."
+      },
+      {
+        "frage": "Warum lohnt es sich, auch geschlechtsuntypische Berufe zu prüfen?",
+        "optionen": [
+          "Weil man dann keine Bewerbung schreiben muss",
+          "Weil dadurch mehr passende Möglichkeiten sichtbar werden",
+          "Weil diese Berufe immer einfacher sind",
+          "Weil man dann keine Schnupperlehre braucht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer Stereotypen hinterfragt, erweitert den Blick und findet eher Berufe, die wirklich zu den eigenen Stärken und Interessen passen."
+      },
+      {
+        "frage": "Was ist eine biografische Prägung?",
+        "optionen": [
+          "Ein Zufall in der Stundenplanung",
+          "Ein Einfluss aus bisherigen Erfahrungen, Familie oder Umfeld auf die eigene Sichtweise",
+          "Eine Note im Zeugnis",
+          "Ein Formular der Berufsberatung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Biografische Prägungen entstehen durch Erlebnisse und Vorbilder im eigenen Umfeld und beeinflussen die Berufsvorstellungen."
+      },
+      {
+        "frage": "Welche Beobachtung nach einer Schnupperlehre hilft besonders bei der Berufswahl?",
+        "optionen": [
+          "Ob das Gebäude alt oder neu ist",
+          "Ob Tätigkeiten, Team und Anforderungen zu den eigenen Stärken und Interessen passen",
+          "Ob man in der Pause aufs Handy schauen durfte",
+          "Ob der Arbeitsweg nur fünf Minuten dauert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wichtige Hinweise liefern vor allem Tätigkeiten, Arbeitsumfeld und Anforderungen im Vergleich zum eigenen Profil."
+      },
+      {
+        "frage": "Was ist ein Beispiel für eine eigenständige Position?",
+        "optionen": [
+          "Ich übernehme einfach die Meinung anderer.",
+          "Ich begründe meinen Berufswunsch mit eigenen Interessen, Erfahrungen und Informationen.",
+          "Ich entscheide nach Zufall.",
+          "Ich wähle nur den beliebtesten Beruf der Klasse."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine eigenständige Position beruht auf eigenen Abklärungen und nachvollziehbaren Gründen."
+      },
+      {
+        "frage": "Welche Schlussfolgerung ist nach einer praktischen Erfahrung sinnvoll?",
+        "optionen": [
+          "Mir gefiel der Kundenkontakt, deshalb prüfe ich auch Berufe mit viel Kommunikation.",
+          "Ein Beruf passt sicher, wenn die Mittagspause gut war.",
+          "Ein einzelner Eindruck ersetzt alle weiteren Abklärungen.",
+          "Ich brauche keine Vergleiche mehr."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Praktische Erfahrungen helfen, aus konkreten Beobachtungen Schlüsse für weitere passende Berufe zu ziehen."
+      },
+      {
+        "frage": "Welche Entscheidung ist am besten begründet?",
+        "optionen": [
+          "Ich wähle den Beruf mit dem höchsten Prestige.",
+          "Ich wähle den Beruf, den meine Freunde spannend finden.",
+          "Ich wähle den Beruf, dessen Anforderungen gut zu meinen Stärken, Interessen und Erfahrungen passen.",
+          "Ich wähle den Beruf mit dem kürzesten Namen."
+        ],
+        "korrekt": 2,
+        "erklaerung": "Eine gute Berufswahl verbindet persönliche Voraussetzungen mit realen Anforderungen und eigenen Erfahrungen."
+      }
+    ]
+  }
+}

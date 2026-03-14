@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt1c",
+  "kompetenz_code": "NT.1.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was geh?rt zu einer nachhaltigen Beurteilung einer Technik?",
+        "optionen": [
+          "Nur der Kaufpreis",
+          "Umwelt, Gesellschaft und Nutzen zusammen betrachten",
+          "Nur die Farbe des Ger?ts",
+          "Nur die Werbung des Herstellers"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nachhaltigkeit bezieht ?kologische, soziale und wirtschaftliche Aspekte mit ein."
+      },
+      {
+        "frage": "Welche Aussage zu Antibiotika ist richtig?",
+        "optionen": [
+          "Sie helfen gegen viele bakterielle Infektionen",
+          "Sie heilen Grippeviren zuverl?ssig",
+          "Sie ersetzen Impfungen vollst?ndig",
+          "Sie wirken nur, wenn man sie vorbeugend nimmt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Antibiotika wirken gegen Bakterien, nicht gegen Viren wie jene der Grippe."
+      },
+      {
+        "frage": "Welches Problem ist typisch f?r Verbrennungsmotoren?",
+        "optionen": [
+          "Sie erzeugen weder Abgase noch W?rme",
+          "Sie stossen unter anderem CO2 und Schadstoffe aus",
+          "Sie funktionieren ohne Treibstoff",
+          "Sie k?nnen keine Bewegung erzeugen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Verbrennungsmotoren ben?tigen Treibstoff und setzen dabei Abgase frei."
+      },
+      {
+        "frage": "Welches Risiko kann durch zu viel D?nger entstehen?",
+        "optionen": [
+          "Gew?sser k?nnen ?berd?ngt werden",
+          "Steine l?sen sich im Regen auf",
+          "Metall wird magnetisch",
+          "B?den werden automatisch humusreicher"
+        ],
+        "korrekt": 0,
+        "erklaerung": "?bersch?ssige N?hrstoffe gelangen in Gew?sser und k?nnen dort Algenbl?ten f?rdern."
+      },
+      {
+        "frage": "Warum ist Quellenkritik bei Themen wie Gentechnik oder Nanostoffen wichtig?",
+        "optionen": [
+          "Weil Informationen interessengeleitet sein k?nnen",
+          "Weil Naturwissenschaften keine Daten nutzen",
+          "Weil Fachtexte immer falsch sind",
+          "Weil nur soziale Medien verl?sslich sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei kontroversen Themen vertreten Quellen oft bestimmte Interessen und m?ssen deshalb gepr?ft werden."
+      },
+      {
+        "frage": "Warum ist das Recycling von Elektronik sinnvoll?",
+        "optionen": [
+          "Weil dabei wertvolle Rohstoffe zur?ckgewonnen werden k?nnen",
+          "Weil Ger?te danach automatisch schneller laufen",
+          "Weil Strom dadurch kostenlos wird",
+          "Weil keine Produktion mehr n?tig ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Elektronik enth?lt Metalle und weitere Stoffe, die durch Recycling teilweise wieder genutzt werden k?nnen."
+      },
+      {
+        "frage": "Welcher m?gliche Nutzen der Gentechnik ist sachlich beschrieben?",
+        "optionen": [
+          "Die Herstellung bestimmter Medikamente",
+          "Die Abschaffung aller Krankheiten in einer Woche",
+          "Unendlich viel Energie aus Luft",
+          "Die sofortige Vermehrung aller Pflanzenarten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein realer Nutzen liegt zum Beispiel in der Herstellung bestimmter Medikamente wie Insulin."
+      },
+      {
+        "frage": "Was ist bei Rohstoffmangel besonders sinnvoll?",
+        "optionen": [
+          "Produkte h?ufiger wegwerfen",
+          "Ger?te reparieren, l?nger nutzen und recyceln",
+          "Nur noch Werbung ansehen",
+          "Mehr Verpackung verwenden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Lange Nutzung, Reparatur und Recycling entlasten knappe Rohstoffe besonders wirksam."
+      }
+    ]
+  }
+}

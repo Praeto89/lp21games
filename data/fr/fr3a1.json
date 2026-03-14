@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr3a1",
+  "kompetenz_code": "FS2F.3.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Kontakt aufnehmen", "Nachfragen", "Reagieren", "Gespräch beenden"],
+    "elemente": [
+      { "text": "Salut, tu vas bien ?", "kategorie": 0 },
+      { "text": "Je m'appelle Inès.", "kategorie": 0 },
+      { "text": "Tu veux venir avec nous ?", "kategorie": 0 },
+      { "text": "Tu peux répéter, s'il te plaît ?", "kategorie": 1 },
+      { "text": "À quelle heure ?", "kategorie": 1 },
+      { "text": "Qu'est-ce que tu veux dire ?", "kategorie": 1 },
+      { "text": "Bonne idée !", "kategorie": 2 },
+      { "text": "Moi aussi !", "kategorie": 2 },
+      { "text": "Je ne suis pas d'accord.", "kategorie": 2 },
+      { "text": "À demain !", "kategorie": 3 },
+      { "text": "Merci pour la discussion.", "kategorie": 3 },
+      { "text": "On se retrouve plus tard.", "kategorie": 3 }
+    ]
+  }
+}

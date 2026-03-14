@@ -1,0 +1,60 @@
+{
+  "kompetenz_id": "ma2a3",
+  "kompetenz_code": "MA.2.A.3",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 240,
+    "aufgaben": [
+      {
+        "aufgabe": "Wie groß ist der Umfang eines Rechtecks mit 8 cm und 5 cm Seitenlänge?",
+        "loesung": "26",
+        "hinweis": "Umfang = 2 · Länge + 2 · Breite."
+      },
+      {
+        "aufgabe": "Wie groß ist der Flächeninhalt eines Dreiecks mit Grundseite 12 cm und Höhe 5 cm?",
+        "loesung": "30",
+        "hinweis": "A = g · h / 2."
+      },
+      {
+        "aufgabe": "Wie groß ist das Volumen eines Quaders mit 7 cm, 3 cm und 2 cm Kantenlänge?",
+        "loesung": "42",
+        "hinweis": "V = Länge · Breite · Höhe."
+      },
+      {
+        "aufgabe": "Wie lang ist die Hypotenuse bei Katheten 6 cm und 8 cm?",
+        "loesung": "10",
+        "hinweis": "Nutze den Satz von Pythagoras."
+      },
+      {
+        "aufgabe": "Wie groß ist der Flächeninhalt eines Kreises mit Radius 5 cm? Nutze π = 3.14.",
+        "loesung": "78.5",
+        "hinweis": "A = πr²."
+      },
+      {
+        "aufgabe": "Wie groß ist der Umfang eines Kreises mit Radius 4 cm? Nutze π = 3.14.",
+        "loesung": "25.12",
+        "hinweis": "U = 2πr."
+      },
+      {
+        "aufgabe": "Wie groß ist der Flächeninhalt eines Trapezes mit parallelen Seiten 10 cm und 6 cm sowie Höhe 4 cm?",
+        "loesung": "32",
+        "hinweis": "A = (a + c) / 2 · h."
+      },
+      {
+        "aufgabe": "Wie groß ist das Volumen eines Zylinders mit Radius 3 cm und Höhe 10 cm? Nutze π = 3.14.",
+        "loesung": "282.6",
+        "hinweis": "V = πr²h."
+      },
+      {
+        "aufgabe": "Wie groß ist der Flächeninhalt eines Parallelogramms mit Grundseite 9 cm und Höhe 4 cm?",
+        "loesung": "36",
+        "hinweis": "A = g · h."
+      },
+      {
+        "aufgabe": "Ein Rechteck 3 cm mal 4 cm wird mit Faktor 2 vergrößert. Wie groß ist der neue Flächeninhalt?",
+        "loesung": "48",
+        "hinweis": "Die neuen Seitenlängen sind 6 cm und 8 cm."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de2a1",
+  "kompetenz_code": "D.2.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bedeutet ein Lesetempo, das dem Textverstehen dient?",
+        "optionen": [
+          "Immer möglichst schnell lesen",
+          "So lesen, dass man Inhalt und Zusammenhänge versteht",
+          "Jedes Wort laut buchstabieren",
+          "Nur die Überschrift lesen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Leseflüssigkeit ist dann sinnvoll, wenn Tempo und Verstehen zusammenpassen."
+      },
+      {
+        "frage": "Welche Technik hilft beim Vorlesen eines geübten Textes besonders?",
+        "optionen": [
+          "Ohne Satzzeichen zu lesen",
+          "Gleichmässig und ohne Betonung zu sprechen",
+          "Auf Satzzeichen und Sinnabschnitte zu achten",
+          "Sehr schnell zu lesen, damit man früher fertig ist"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Satzzeichen und Sinnabschnitte unterstützen eine passende Intonation."
+      },
+      {
+        "frage": "Du triffst im Text auf das Wort \"nachhaltig\". Was hilft am meisten, um die Bedeutung zu klären?",
+        "optionen": [
+          "Das Wort ignorieren",
+          "Den Satz und den Kontext rundherum beachten",
+          "Ein zufälliges anderes Wort ersetzen",
+          "Nur die Wortlänge einschätzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kontext hilft, unbekannte Wörter sinnvoll zu erschliessen."
+      },
+      {
+        "frage": "Warum ist flüssiges Lesen wichtig?",
+        "optionen": [
+          "Weil langsames Lesen grundsätzlich falsch ist",
+          "Weil dadurch mehr Aufmerksamkeit für den Inhalt bleibt",
+          "Weil man dann nie mehr üben muss",
+          "Weil Vorlesen immer benotet wird"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn Grundfertigkeiten automatisierter sind, bleibt mehr Kapazität für das Textverständnis."
+      },
+      {
+        "frage": "Welche Aussage passt zu gutem Vorlesen?",
+        "optionen": [
+          "Ich lese jede Zeile gleich betont",
+          "Ich beachte Figurenrede, Fragen und Ausrufe",
+          "Ich lese absichtlich unverständlich",
+          "Ich überspringe schwierige Wörter"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gutes Vorlesen zeigt Sinn, Stimmung und Satzart."
+      },
+      {
+        "frage": "Was hilft, wenn du beim stillen Lesen an einer komplizierten Stelle hängen bleibst?",
+        "optionen": [
+          "Die Passage noch einmal in Ruhe lesen",
+          "Das Buch sofort weglegen",
+          "Nur das letzte Wort anschauen",
+          "Annehmen, dass der Text falsch ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mehrfaches Lesen ist eine sinnvolle Strategie für schwierige Stellen."
+      },
+      {
+        "frage": "Welche Situation zeigt, dass jemand den rezeptiven Wortschatz aktiviert?",
+        "optionen": [
+          "Er oder sie erkennt ein Wort aus dem Fachunterricht im Text wieder",
+          "Er oder sie zählt nur die Buchstaben",
+          "Er oder sie liest ohne auf den Sinn zu achten",
+          "Er oder sie markiert nur die Überschrift"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vorwissen über Wörter und Begriffe unterstützt das schnelle Verstehen."
+      },
+      {
+        "frage": "Welche Lesepause ist sinnvoll?",
+        "optionen": [
+          "Eine Pause an einem Absatz oder Satzende",
+          "Eine Pause mitten im Wort",
+          "Gar keine Pause in einem langen Text",
+          "Nur vor Eigennamen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Absätze und Satzenden gliedern den Text und unterstützen das Verstehen."
+      }
+    ]
+  }
+}

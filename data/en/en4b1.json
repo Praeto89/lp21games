@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en4b1",
+  "kompetenz_code": "FS1E.4.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Planen", "Formulieren", "Überarbeiten"],
+    "elemente": [
+      { "text": "Brainstorm ideas before writing.", "kategorie": 0 },
+      { "text": "Choose the text type and the reader.", "kategorie": 0 },
+      { "text": "Make a short outline with key points.", "kategorie": 0 },
+      { "text": "Collect useful phrases and linking words.", "kategorie": 0 },
+      { "text": "Write a first draft.", "kategorie": 1 },
+      { "text": "Use short, clear sentences where possible.", "kategorie": 1 },
+      { "text": "Connect ideas with words like because, then or however.", "kategorie": 1 },
+      { "text": "Stay on topic while you write.", "kategorie": 1 },
+      { "text": "Read the text aloud to hear if it sounds right.", "kategorie": 2 },
+      { "text": "Check spelling and verb forms with a checklist.", "kategorie": 2 },
+      { "text": "Ask a partner for feedback.", "kategorie": 2 },
+      { "text": "Improve the ending or title after revising.", "kategorie": 2 }
+    ]
+  }
+}

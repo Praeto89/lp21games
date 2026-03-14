@@ -1,0 +1,54 @@
+{
+    "kompetenz_id":  "rzg43",
+    "kompetenz_code":  "RZG.4.3",
+    "typ":  "zuordnung",
+    "spiel":  {
+                  "kategorien":  [
+                                     "Standort bestimmen",
+                                     "Fortbewegen",
+                                     "Kartieren und dokumentieren"
+                                 ],
+                  "elemente":  [
+                                   {
+                                       "text":  "GPS-Koordinaten ablesen",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Eigenen Standort auf dem Stadtplan markieren",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Koordinaten eines Fundorts notieren",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Mit dem Kompass die Himmelsrichtung halten",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Einer Rallyekarte folgen",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Mit dem Verkehrsnetzplan umsteigen",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Mit einer Karten-App das Ziel im Quartier finden",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Den Schulweg in eine Karte einzeichnen",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Spielplatz, Wege und BÃ¤ume in einen Plan aufnehmen",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "LÃ¤rmquellen in der Umgebung auf einer Karte markieren",
+                                       "kategorie":  2
+                                   }
+                               ]
+              }
+}

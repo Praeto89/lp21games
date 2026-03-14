@@ -1,0 +1,63 @@
+{
+    "kompetenz_id":  "rzg41",
+    "kompetenz_code":  "RZG.4.1",
+    "typ":  "zuordnung",
+    "spiel":  {
+                  "kategorien":  [
+                                     "Kontinent",
+                                     "GewÃ¤sser",
+                                     "Gebirge oder Landschaft",
+                                     "Staat oder Ort"
+                                 ],
+                  "elemente":  [
+                                   {
+                                       "text":  "Europa",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Afrika",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Asien",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Pazifischer Ozean",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Nil",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Mittelmeer",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Alpen",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Sahara",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Anden",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Schweiz",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "ZÃ¼rich",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "Bern",
+                                       "kategorie":  3
+                                   }
+                               ]
+              }
+}

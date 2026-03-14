@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "wah4c",
+  "kompetenz_code": "WAH.4.3",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "N\u00e4hrwert und Gesundheit",
+      "Herkunft und Produktion",
+      "Haltbarkeit und Lagerung",
+      "Label und Orientierung"
+    ],
+    "elemente": [
+      { "text": "Zucker pro 100 Gramm", "kategorie": 0 },
+      { "text": "Eiweissgehalt eines Joghurts", "kategorie": 0 },
+      { "text": "Zutatenliste in absteigender Reihenfolge", "kategorie": 0 },
+      { "text": "Produkt aus der Schweiz", "kategorie": 1 },
+      { "text": "Aus Freilandhaltung", "kategorie": 1 },
+      { "text": "Palm\u00f6l aus kontrolliertem Anbau", "kategorie": 1 },
+      { "text": "Zu verbrauchen bis", "kategorie": 2 },
+      { "text": "Mindesthaltbarkeitsdatum", "kategorie": 2 },
+      { "text": "K\u00fchl lagern bei 5 Grad", "kategorie": 2 },
+      { "text": "Bio-Knospe", "kategorie": 3 },
+      { "text": "Fairtrade-Siegel", "kategorie": 3 },
+      { "text": "Nutri-Score", "kategorie": 3 }
+    ]
+  }
+}

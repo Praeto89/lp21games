@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt1a",
+  "kompetenz_code": "NT.1.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist in den Naturwissenschaften eine Hypothese?",
+        "optionen": [
+          "Ein Messger?t",
+          "Eine ?berpr?fbare Vermutung",
+          "Das Endergebnis eines Experiments",
+          "Eine Meinung ohne Begr?ndung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Hypothese ist eine begr?ndete Vermutung, die man durch Beobachtungen oder Experimente pr?fen kann."
+      },
+      {
+        "frage": "Warum achtet man bei einem Experiment auf gleiche Untersuchungsbedingungen?",
+        "optionen": [
+          "Damit Ergebnisse vergleichbar und ?berpr?fbar bleiben",
+          "Damit Versuche l?nger dauern",
+          "Damit keine Hypothese n?tig ist",
+          "Damit nur eine Person messen darf"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nur bei kontrollierten Bedingungen l?sst sich beurteilen, welcher Faktor das Ergebnis wirklich beeinflusst."
+      },
+      {
+        "frage": "Welcher Vergleich zeigt den Unterschied zwischen naturwissenschaftlicher und nicht naturwissenschaftlicher Deutung?",
+        "optionen": [
+          "Astronomie und Astrologie",
+          "Biologie und Chemie",
+          "Mathematik und Informatik",
+          "Geografie und Geschichte"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Astronomie arbeitet mit Beobachtung und ?berpr?fbaren Modellen, Astrologie nicht."
+      },
+      {
+        "frage": "Was unterscheidet eine Beobachtung von einer blossen Meinung?",
+        "optionen": [
+          "Eine Beobachtung beschreibt wahrnehmbare oder messbare Merkmale",
+          "Eine Beobachtung ist immer spannender",
+          "Eine Beobachtung braucht keine Sprache",
+          "Eine Beobachtung ist automatisch endg?ltig wahr"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beobachtungen st?tzen sich auf Merkmale, die andere ebenfalls wahrnehmen oder messen k?nnen."
+      },
+      {
+        "frage": "Wof?r ist Marie Curie in der Naturwissenschaft besonders bekannt?",
+        "optionen": [
+          "F?r die Erforschung der Radioaktivit?t",
+          "F?r die Erfindung des Teleskops",
+          "F?r die Entdeckung des Penicillins",
+          "F?r die Begr?ndung der Astrologie"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Marie Curie untersuchte radioaktive Stoffe und pr?gte die Forschung in diesem Gebiet wesentlich."
+      },
+      {
+        "frage": "Warum k?nnen naturwissenschaftliche Modelle im Lauf der Zeit ver?ndert werden?",
+        "optionen": [
+          "Weil neue Daten bessere Erkl?rungen erm?glichen",
+          "Weil Modelle jedes Jahr ausgetauscht werden m?ssen",
+          "Weil Experimente keine Rolle spielen",
+          "Weil Modelle nur Dekoration sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Modelle sind Vereinfachungen. Wenn neue Beobachtungen auftauchen, werden sie verbessert oder ersetzt."
+      },
+      {
+        "frage": "Welche Aussage passt zur naturwissenschaftlichen Arbeitsweise?",
+        "optionen": [
+          "Ergebnisse sollen m?glichst reproduzierbar sein",
+          "Entscheidend ist nur die Meinung ber?hmter Personen",
+          "Eine Erkl?rung bleibt immer unver?ndert",
+          "Ein einzelner Zufall reicht als Beweis"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Naturwissenschaftliche Aussagen sollen sich mit ?hnlichen Methoden erneut ?berpr?fen lassen."
+      },
+      {
+        "frage": "Was bedeutet es, dass naturwissenschaftliche Erkenntnisse vorl?ufig sind?",
+        "optionen": [
+          "Sie k?nnen durch neue Belege pr?zisiert oder korrigiert werden",
+          "Sie sind grunds?tzlich unbrauchbar",
+          "Sie d?rfen nicht angewendet werden",
+          "Sie beruhen nur auf Sch?tzungen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vorl?ufig bedeutet nicht beliebig, sondern offen f?r Verbesserung durch neue Daten."
+      }
+    ]
+  }
+}

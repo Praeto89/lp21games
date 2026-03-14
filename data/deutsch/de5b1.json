@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de5b1",
+  "kompetenz_code": "D.5.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Chat", "Präsentation", "Bewerbungsschreiben", "Vorstellungsgespräch"],
+    "elemente": [
+      { "text": "kurze spontane Nachricht mit Emojis", "kategorie": 0 },
+      { "text": "\"Bist du heute auch im Training?\"", "kategorie": 0 },
+      { "text": "eher mündlich geprägte, knappe Formulierungen", "kategorie": 0 },
+      { "text": "\"Ich zeige euch nun die wichtigsten Ergebnisse.\"", "kategorie": 1 },
+      { "text": "Fachsprache wird verständlich erklärt", "kategorie": 1 },
+      { "text": "deutlich strukturierte Standardsprache", "kategorie": 1 },
+      { "text": "\"Sehr geehrte Damen und Herren\"", "kategorie": 2 },
+      { "text": "formeller Stil und klarer Bezug auf die Stelle", "kategorie": 2 },
+      { "text": "Eigene Stärken werden sachlich dargestellt", "kategorie": 2 },
+      { "text": "\"Warum interessiert Sie dieser Beruf?\"", "kategorie": 3 },
+      { "text": "Höfliche Standardsprache im direkten Gespräch", "kategorie": 3 },
+      { "text": "Antworten sollen passend, knapp und zielgerichtet sein", "kategorie": 3 }
+    ]
+  }
+}

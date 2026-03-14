@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt9c",
+  "kompetenz_code": "NT.9.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist Eutrophierung?",
+        "optionen": [
+          "Übermässige Nährstoffanreicherung in Gewässern, die zu Algenwachstum und Sauerstoffmangel führt",
+          "Die natürliche Reinigung eines Sees",
+          "Die Austrocknung eines Flusses",
+          "Das Einfrieren eines Gewässers im Winter"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Durch übermässigen Eintrag von Nährstoffen (v.a. Phosphat und Nitrat) aus Landwirtschaft und Abwasser wachsen Algen übermässig. Beim Abbau wird Sauerstoff verbraucht, was zu Fischsterben führen kann."
+      },
+      {
+        "frage": "Was sind invasive Arten?",
+        "optionen": [
+          "Gebietsfremde Arten, die einheimische Arten verdrängen und Ökosysteme schädigen können",
+          "Besonders seltene, geschützte Tierarten",
+          "Tiere, die nur in Zoos leben",
+          "Pflanzen, die nur in Gärten wachsen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Invasive Arten (Neobiota) wie der Japanische Staudenknöterich oder die Tigermücke wurden eingeschleppt und können einheimische Arten verdrängen."
+      },
+      {
+        "frage": "Was ist der Unterschied zwischen intensiver und extensiver Landwirtschaft?",
+        "optionen": [
+          "Intensiv nutzt viel Dünger und Maschinen; extensiv arbeitet naturnäher mit weniger Hilfsmitteln",
+          "Intensiv bedeutet wenig Ertrag; extensiv bedeutet hohen Ertrag",
+          "Es gibt keinen Unterschied",
+          "Intensiv ist immer besser für die Umwelt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Intensive Landwirtschaft maximiert den Ertrag durch Dünger, Pestizide und Maschinen, belastet aber die Umwelt stärker. Extensive Bewirtschaftung ist naturnäher und biodiversitätsfreundlicher."
+      },
+      {
+        "frage": "Warum sind natürliche Uferlinien ökologisch wertvoller als begradigte?",
+        "optionen": [
+          "Sie bieten mehr Lebensräume durch unterschiedliche Strömungen, Tiefen und Uferstrukturen",
+          "Sie sind leichter zu pflegen",
+          "Sie verhindern jede Überschwemmung",
+          "Sie sind billiger zu bauen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Natürliche Ufer mit Buchten, Flachwasserzonen und Vegetation bieten Lebensraum für viele Tier- und Pflanzenarten und verbessern die Selbstreinigungskraft des Gewässers."
+      },
+      {
+        "frage": "Welche Perspektive nimmt die Landwirtin bei der Frage 'Soll dieses Feuchtgebiet trockengelegt werden?' ein?",
+        "optionen": [
+          "Mehr Anbaufläche für die Nahrungsproduktion",
+          "Mehr Lebensraum für seltene Vögel",
+          "Höherer Grundwasserspiegel für den Trinkwasserschutz",
+          "Mehr Tourismus durch das Feuchtgebiet"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Verschiedene Perspektiven (Landwirtschaft, Naturschutz, Wasserwirtschaft, Tourismus) führen zu unterschiedlichen Bewertungen. Die Landwirtin denkt an Ertrag und Anbaufläche."
+      },
+      {
+        "frage": "Was versteht man unter Biodiversität?",
+        "optionen": [
+          "Die Vielfalt der Arten, Gene und Lebensräume in einem Gebiet",
+          "Die Anzahl der Menschen in einer Region",
+          "Die Grösse eines Waldgebiets",
+          "Die Menge an Niederschlag pro Jahr"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Biodiversität umfasst die Artenvielfalt, die genetische Vielfalt innerhalb der Arten und die Vielfalt der Lebensräume (Ökosysteme)."
+      },
+      {
+        "frage": "Welche Massnahme hilft, die Biodiversität in der Schweiz zu erhalten?",
+        "optionen": [
+          "Vernetzung von Lebensräumen durch Wildtierkorridore und ökologische Ausgleichsflächen",
+          "Möglichst viele Strassen bauen",
+          "Alle Wälder abholzen",
+          "Pestizide grossflächig einsetzen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wildtierkorridore verbinden isolierte Lebensräume und ermöglichen Tieren die Wanderung. Ökologische Ausgleichsflächen in der Landwirtschaft fördern die Artenvielfalt."
+      },
+      {
+        "frage": "Wie können Schülerinnen und Schüler zum Schutz lokaler Ökosysteme beitragen?",
+        "optionen": [
+          "Lokale Naturschutzprojekte unterstützen, Abfall vermeiden und regionale Produkte bevorzugen",
+          "Möglichst viel online bestellen",
+          "Exotische Tiere in der Natur aussetzen",
+          "Wildblumenwiesen mähen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Jeder kann durch bewusstes Handeln zum Ökosystemschutz beitragen: Abfallvermeidung, Konsum regionaler Produkte, Mitarbeit in Naturschutzprojekten."
+      }
+    ]
+  }
+}

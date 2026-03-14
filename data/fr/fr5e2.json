@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "fr5e2",
+  "kompetenz_code": "FS2F.5.E.2",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "J'{aime} écouter de la musique.",
+        "hinweise": ["Verb mit Apostroph"],
+        "anweisung": "Ergänze die korrekte Schreibweise."
+      },
+      {
+        "text": "L'{école} ferme à seize heures.",
+        "hinweise": ["Nomen mit accent aigu"],
+        "anweisung": "Setze das Wort mit dem richtigen Akzent ein."
+      },
+      {
+        "text": "Mon {père} travaille à Genève.",
+        "hinweise": ["Familienwort mit accent grave"],
+        "anweisung": "Achte auf den richtigen Akzent."
+      },
+      {
+        "text": "C'est {très} intéressant.",
+        "hinweise": ["Adverb mit accent grave"],
+        "anweisung": "Ergänze das Wort korrekt."
+      },
+      {
+        "text": "Tu préfères le {thé} ou le jus ?",
+        "hinweise": ["Getränk mit accent aigu"],
+        "anweisung": "Setze die richtige Schreibweise ein."
+      },
+      {
+        "text": "Nous allons au {cinéma} samedi.",
+        "hinweise": ["Ort mit accent aigu"],
+        "anweisung": "Ergänze das Wort korrekt."
+      },
+      {
+        "text": "Quel {âge} as-tu ?",
+        "hinweise": ["Nomen mit accent circonflexe"],
+        "anweisung": "Achte auf den richtigen Akzent."
+      },
+      {
+        "text": "Le {garçon} porte une veste rouge.",
+        "hinweise": ["Nomen mit cédille"],
+        "anweisung": "Setze die korrekte Schreibweise mit Sonderzeichen ein."
+      }
+    ]
+  }
+}

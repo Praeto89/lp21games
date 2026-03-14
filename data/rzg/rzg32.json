@@ -1,0 +1,97 @@
+{
+    "kompetenz_id":  "rzg32",
+    "kompetenz_code":  "RZG.3.2",
+    "typ":  "quiz",
+    "spiel":  {
+                  "fragen":  [
+                                 {
+                                     "frage":  "Welcher Raum ist ein typisches Dienstleistungszentrum?",
+                                     "optionen":  [
+                                                      "Eine abgelegene Alp ohne Infrastruktur",
+                                                      "Eine Stadt mit Banken, SpitÃ¤lern und Hochschulen",
+                                                      "Ein reiner Wald ohne Siedlung",
+                                                      "Ein Vulkankrater"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Dienstleistungszentren bÃ¼ndeln viele Angebote wie Verwaltung, Bildung, Gesundheit und Finanzen."
+                                 },
+                                 {
+                                     "frage":  "Was ist typisch fÃ¼r eine Plantage?",
+                                     "optionen":  [
+                                                      "Viele kleine Familienbetriebe mit Mischkultur fÃ¼r den Eigenbedarf",
+                                                      "GrossflÃ¤chiger Anbau einer Kulturpflanze fÃ¼r den Markt",
+                                                      "Ausschliesslich Viehzucht im Hochgebirge",
+                                                      "Ein Industriegebiet mit HochhÃ¤usern"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Plantagen produzieren meist auf grossen FlÃ¤chen fÃ¼r den Export, oft als Monokultur."
+                                 },
+                                 {
+                                     "frage":  "Welches Beispiel zeigt globale Verflechtung?",
+                                     "optionen":  [
+                                                      "Ein Brot wird nur aus Zutaten eines einzelnen Gartens gemacht",
+                                                      "Kakao aus Ghana wird in Europa verarbeitet und in der Schweiz verkauft",
+                                                      "Ein Brief bleibt immer im gleichen Zimmer",
+                                                      "Ein Berg bleibt an seinem Ort"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Globalisierung verbindet Produktionsorte, Transportwege und AbsatzmÃ¤rkte weltweit."
+                                 },
+                                 {
+                                     "frage":  "Was meint Strukturwandel?",
+                                     "optionen":  [
+                                                      "Die Erde Ã¤ndert ihre Form",
+                                                      "Die Wirtschaft verschiebt sich zum Beispiel von Landwirtschaft zu Industrie und Dienstleistung",
+                                                      "Nur die Farben auf Karten Ã¤ndern sich",
+                                                      "Alle Berufe bleiben immer gleich"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Beim Strukturwandel verÃ¤ndern sich Bedeutung und Anteil von Erwerbssektoren."
+                                 },
+                                 {
+                                     "frage":  "Woran erkennt man eher ein nachhaltig produziertes Gut?",
+                                     "optionen":  [
+                                                      "An besonders viel Einwegverpackung",
+                                                      "An fairer Produktion und sparsamer Ressourcennutzung",
+                                                      "An mÃ¶glichst langer Transportdistanz",
+                                                      "An fehlenden Angaben zur Herkunft"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Nachhaltige Produkte achten eher auf faire Arbeit, kurze Wege, Reparierbarkeit und Ressourcenschonung."
+                                 },
+                                 {
+                                     "frage":  "Welche soziale Folge kann die Verlagerung von Produktion haben?",
+                                     "optionen":  [
+                                                      "Es gibt nie mehr ArbeitsplÃ¤tze",
+                                                      "Neue Jobs entstehen, aber oft auch AbhÃ¤ngigkeit und Druck auf LÃ¶hne",
+                                                      "Alle Waren werden kostenlos",
+                                                      "Arbeit verschwindet weltweit"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Produktionsverlagerungen schaffen Chancen, kÃ¶nnen aber auch problematische Arbeitsbedingungen verstÃ¤rken."
+                                 },
+                                 {
+                                     "frage":  "Welches Produkt braucht in der Herstellung oft besonders viele Ressourcen?",
+                                     "optionen":  [
+                                                      "Ein geteiltes Schulbuch Ã¼ber viele Jahre",
+                                                      "Ein Fast-Fashion-KleidungsstÃ¼ck mit kurzer Nutzungsdauer",
+                                                      "Eine Mehrwegflasche",
+                                                      "Ein repariertes Velo"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Kurze Nutzungsdauer und grosser Materialeinsatz belasten Ressourcen und Umwelt besonders stark."
+                                 },
+                                 {
+                                     "frage":  "Welche Rolle spielen Kommunikationsmedien in der Globalisierung?",
+                                     "optionen":  [
+                                                      "Sie verhindern jeden Handel",
+                                                      "Sie machen es leichter, Produktion, Transporte und Dienstleistungen Ã¼ber weite Distanzen zu koordinieren",
+                                                      "Sie ersetzen alle Rohstoffe",
+                                                      "Sie machen Karten Ã¼berflÃ¼ssig"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Digitale Kommunikation beschleunigt Planung, Handel und Dienstleistungen in globalen Netzwerken."
+                                 }
+                             ]
+              }
+}

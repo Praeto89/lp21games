@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs2a",
+  "kompetenz_code": "BS.2.A.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": ["Balancieren", "Rollen und Drehen", "Schaukeln und Schwingen", "Stützen und Klettern"],
+    "elemente": [
+      { "text": "Über eine Langbank vorwärts balancieren", "emoji": "🚶", "kategorie": 0 },
+      { "text": "Mit dem Pedalo eine gerade Linie halten", "emoji": "🛞", "kategorie": 0 },
+      { "text": "Vorwärtsrolle auf der Matte", "emoji": "🤸", "kategorie": 1 },
+      { "text": "Rückwärtsrolle mit Hilfestellung", "emoji": "🔄", "kategorie": 1 },
+      { "text": "An den Ringen rhythmisch vor und zurück schaukeln", "emoji": "⭕", "kategorie": 2 },
+      { "text": "Am Reck im Hang schwingen", "emoji": "🏋️", "kategorie": 2 },
+      { "text": "Stütz auf dem Barren halten", "emoji": "💪", "kategorie": 3 },
+      { "text": "Sprossenwand kontrolliert hochklettern", "emoji": "🧗", "kategorie": 3 },
+      { "text": "Auf einer Wippe das Gleichgewicht halten", "emoji": "⚖️", "kategorie": 0 },
+      { "text": "Eine halbe Drehung nach dem Absprung ausführen", "emoji": "↩️", "kategorie": 1 },
+      { "text": "Am Tau anschwingen und den Körper stabil halten", "emoji": "🪢", "kategorie": 2 },
+      { "text": "An einer Kletterwand von Griff zu Griff steigen", "emoji": "🧗‍♀️", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "nt3a",
+  "kompetenz_code": "NT.3.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bedeutet das Flammen-Symbol nach GHS auf einer Chemikalie?",
+        "optionen": [
+          "Der Stoff ist essbar",
+          "Der Stoff ist leicht entz?ndbar",
+          "Der Stoff ist ungef?hrlich",
+          "Der Stoff darf nur kalt gelagert werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Flammensymbol warnt vor leicht entz?ndbaren Stoffen."
+      },
+      {
+        "frage": "Welche Schutzmassnahme ist bei Spritzgefahr im Chemieunterricht besonders wichtig?",
+        "optionen": [
+          "Sonnenbrille",
+          "Schutzbrille",
+          "Kopfh?rer",
+          "Wollhandschuhe"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Schutzbrille sch?tzt die Augen vor Chemikalien und Glassplittern."
+      },
+      {
+        "frage": "Woran erkennt man eine chemische Reaktion?",
+        "optionen": [
+          "Es entstehen neue Stoffe mit neuen Eigenschaften",
+          "Ein Stoff wird nur kleiner geschnitten",
+          "Das Gef?ss wird gewechselt",
+          "Die Farbe des Tisches ?ndert sich"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei chemischen Reaktionen entstehen neue Stoffe, nicht nur neue Formen."
+      },
+      {
+        "frage": "Was braucht eine gew?hnliche Verbrennung unbedingt?",
+        "optionen": [
+          "Nur Wasser",
+          "Sauerstoff",
+          "Nur Licht",
+          "Einen Magneten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "F?r viele Verbrennungen braucht es einen brennbaren Stoff und Sauerstoff."
+      },
+      {
+        "frage": "Wie weist man Kohlenstoffdioxid im Schulversuch h?ufig nach?",
+        "optionen": [
+          "Mit Kalkwasser, das sich milchig tr?bt",
+          "Mit einem Magneten",
+          "Mit rotem Lackmuspapier",
+          "Mit einer Lupe"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kalkwasser ist ein klassischer Nachweis f?r Kohlenstoffdioxid."
+      },
+      {
+        "frage": "Welcher Nachweis zeigt St?rke in einem Lebensmittel an?",
+        "optionen": [
+          "Kalkwasser wird klar",
+          "Iodl?sung f?rbt sich blau-schwarz",
+          "Ein Magnet wird angezogen",
+          "Wasser beginnt sofort zu sieden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mit Iodl?sung l?sst sich St?rke zuverl?ssig nachweisen."
+      },
+      {
+        "frage": "Welche Farbe zeigt ein Universalindikator ungef?hr bei einer neutralen L?sung?",
+        "optionen": [
+          "Gr?n",
+          "Dunkelrot",
+          "Violettschwarz",
+          "Silbrig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Neutral liegt etwa bei pH 7, was Universalindikatoren meist gr?n anzeigen."
+      },
+      {
+        "frage": "Was beschreibt eine Neutralisation am besten?",
+        "optionen": [
+          "Eine S?ure reagiert mit einer Base",
+          "Wasser reagiert mit Sand",
+          "Ein Stoff wird magnetisch",
+          "Ein Gas wird gefiltert"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei der Neutralisation reagieren saure und basische L?sungen miteinander."
+      }
+    ]
+  }
+}

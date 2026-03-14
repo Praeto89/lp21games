@@ -1,0 +1,26 @@
+{
+  "kompetenz_id": "wah2b",
+  "kompetenz_code": "WAH.2.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Handelsaufgabe",
+      "Zusammenspiel von Produktion und Handel",
+      "Globaler Handel"
+    ],
+    "elemente": [
+      { "text": "Waren lagern, bis sie verkauft werden", "kategorie": 0 },
+      { "text": "Produkte im Regal pr\u00e4sentieren und verf\u00fcgbar machen", "kategorie": 0 },
+      { "text": "Preise vergleichen und Kundschaft beraten", "kategorie": 0 },
+      { "text": "Eine B\u00e4ckerei produziert, der Supermarkt verkauft die Brote", "kategorie": 1 },
+      { "text": "Der Detailhandel meldet dem Hersteller, welche Sorten gefragt sind", "kategorie": 1 },
+      { "text": "Ein Bauernbetrieb liefert Milch an eine Molkerei", "kategorie": 1 },
+      { "text": "Eine Kaffeer\u00f6sterei kauft rohe Bohnen von Produzenten ein", "kategorie": 1 },
+      { "text": "Baumwolle aus Indien wird in Bangladesch zu T-Shirts vern\u00e4ht", "kategorie": 2 },
+      { "text": "Ein Container mit Smartphones kommt per Schiff nach Europa", "kategorie": 2 },
+      { "text": "Zoll- und Transportkosten verteuern importierte Ware", "kategorie": 2 },
+      { "text": "Kakao wird in Westafrika geerntet und in der Schweiz zu Schokolade verarbeitet", "kategorie": 2 },
+      { "text": "Bananen legen einen langen Transportweg zur\u00fcck, bevor sie im Laden liegen", "kategorie": 2 }
+    ]
+  }
+}

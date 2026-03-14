@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bg1a1",
+  "kompetenz_code": "BG.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was hilft am meisten, um aus einer Erinnerung eine differenzierte Bildidee zu entwickeln?",
+        "optionen": [
+          "Nur eine Lieblingsfarbe festlegen",
+          "Details, Stimmung und Blickwinkel skizzieren oder notieren",
+          "Ein bestehendes Bild genau kopieren",
+          "Sofort mit der Endfassung beginnen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Konkrete Details und erste Skizzen helfen, innere Vorstellungen sichtbar und weiterentwickelbar zu machen."
+      },
+      {
+        "frage": "Welche Aufgabe fordert einen echten Perspektivwechsel heraus?",
+        "optionen": [
+          "Ein Zimmer aus der Sicht eines Haustiers darstellen",
+          "Die Möbel im Zimmer alphabetisch ordnen",
+          "Die Zimmerlänge mit dem Meterstab messen",
+          "Die Wandfarbe im Baumarkt bestimmen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Perspektivwechsel erweitert Vorstellungen, weil Gewohntes aus einer neuen Sicht gedacht und gestaltet wird."
+      },
+      {
+        "frage": "Warum kann das Kombinieren von zwei sehr unterschiedlichen Motiven bildnerisch spannend sein?",
+        "optionen": [
+          "Weil dadurch neue und überraschende Vorstellungen entstehen",
+          "Weil so automatisch alles realistischer wirkt",
+          "Weil man keine Entscheidungen mehr treffen muss",
+          "Weil die Technik dann unwichtig wird"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ungewohnte Kombinationen öffnen neue Assoziationen und helfen, originelle Bildideen zu entwickeln."
+      },
+      {
+        "frage": "Welche Skizze zeigt bei dem Thema 'Meine Stadt 2050' eine bildhaft-anschauliche Vorstellung?",
+        "optionen": [
+          "Ein Blatt mit dem Wort 'modern'",
+          "Eine Straßenszene mit Dachgärten, Solarbussen und schwebenden Wegen",
+          "Nur eine Liste mit drei Farben",
+          "Ein leeres Blatt mit dem Titel oben"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine anschauliche Vorstellung enthält konkrete sichtbare Merkmale, nicht nur allgemeine Begriffe."
+      },
+      {
+        "frage": "Warum ist der Austausch über Bildideen in einer Gruppe hilfreich?",
+        "optionen": [
+          "Damit alle am Schluss genau dasselbe machen",
+          "Damit Vorstellungen präzisiert, verändert und erweitert werden können",
+          "Damit man weniger selber überlegen muss",
+          "Damit Materialien eingespart werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gespräche über Bildideen machen Unterschiede sichtbar und regen neue Lösungswege an."
+      },
+      {
+        "frage": "Wie lässt sich die Stimmung einer Zukunftsvision besonders gut sichtbar machen?",
+        "optionen": [
+          "Durch bewusste Wahl von Farben, Formen und Licht",
+          "Durch möglichst viele erklärende Nebensätze",
+          "Durch eine zufällige Materialwahl",
+          "Durch das exakte Aufschreiben aller Maße"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Stimmung wird im Bild vor allem über gestalterische Mittel wie Farbklang, Form und Lichtwirkung vermittelt."
+      },
+      {
+        "frage": "Die Aufgabe lautet: 'Stelle ein Geräusch bildlich dar.' Welche Herangehensweise passt dazu?",
+        "optionen": [
+          "Mit Linien, Rhythmen und Kontrasten experimentieren",
+          "Nur die Lautstärke als Zahl notieren",
+          "Ein beliebiges Objekt exakt abzeichnen",
+          "Ausschließlich Wörter statt Bilder verwenden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Geräusche werden bildnerisch oft über Rhythmus, Richtung, Dichte und Kontraste übersetzt."
+      },
+      {
+        "frage": "Welche Aussage zeigt, dass jemand eine Bildidee bewusst weiterentwickelt?",
+        "optionen": [
+          "Ich male nur, was ich direkt vor mir sehe.",
+          "Ich verändere Größenverhältnisse bewusst, damit meine Aussage klarer wird.",
+          "Ich radiere alle ersten Ideen weg, damit nichts mehr sichtbar ist.",
+          "Ich verzichte auf jedes Thema, damit ich keine Wahl treffen muss."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bildideen werden weiterentwickelt, wenn gestalterische Entscheidungen gezielt auf die Aussage abgestimmt werden."
+      },
+      {
+        "frage": "Woran erkennt man, dass eine Bildidee differenziert ist?",
+        "optionen": [
+          "Sie besteht nur aus einem einzelnen Symbol.",
+          "Sie zeigt konkrete Details, Beziehungen und eine erkennbare Stimmung.",
+          "Sie bleibt absichtlich völlig unklar.",
+          "Sie benutzt nur schwarze Farbe."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Differenzierte Bildideen enthalten mehrere aufeinander bezogene Merkmale und wirken dadurch nachvollziehbar."
+      },
+      {
+        "frage": "Welche Frage unterstützt das Weiterentwickeln einer Vorstellung am besten?",
+        "optionen": [
+          "Welche Details fehlen noch, damit andere meine Idee verstehen?",
+          "Welche Note bekomme ich vermutlich dafür?",
+          "Welcher Stift ist am teuersten?",
+          "Wie schnell kann ich fertig werden?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Weiterentwicklung gelingt, wenn man die Verständlichkeit und Wirkung der eigenen Idee gezielt überprüft."
+      }
+    ]
+  }
+}

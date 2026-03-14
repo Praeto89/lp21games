@@ -1,0 +1,97 @@
+{
+    "kompetenz_id":  "rzg24",
+    "kompetenz_code":  "RZG.2.4",
+    "typ":  "quiz",
+    "spiel":  {
+                  "fragen":  [
+                                 {
+                                     "frage":  "Welches Beispiel gehÃ¶rt zum Ã¶ffentlichen Verkehr?",
+                                     "optionen":  [
+                                                      "Privatauto",
+                                                      "Linienbus",
+                                                      "Motorroller",
+                                                      "Privatjet"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Zum Ã¶ffentlichen Verkehr gehÃ¶ren Verkehrsmittel, die viele Personen gemeinsam nutzen, etwa Bus, Tram oder Zug."
+                                 },
+                                 {
+                                     "frage":  "Wie hat moderne Nachrichtentechnik die MobilitÃ¤t verÃ¤ndert?",
+                                     "optionen":  [
+                                                      "Menschen finden keine FahrplÃ¤ne mehr",
+                                                      "Reisen lassen sich in Echtzeit planen und koordinieren",
+                                                      "Es gibt keine Staus mehr",
+                                                      "Schiffe fahren jetzt an Land"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Mit Smartphone und Internet kÃ¶nnen Verbindungen, StÃ¶rungen und Treffpunkte laufend angepasst werden."
+                                 },
+                                 {
+                                     "frage":  "Welche Folge kann eine neue Bahnstation fÃ¼r einen Ort haben?",
+                                     "optionen":  [
+                                                      "Der Ort verschwindet sofort",
+                                                      "Er wird oft besser erreichbar und kann wachsen",
+                                                      "Alle Menschen ziehen weg",
+                                                      "Es gibt dort keinen Verkehr mehr"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Gute Erreichbarkeit beeinflusst Siedlungen, ArbeitsplÃ¤tze und PendlerstrÃ¶me."
+                                 },
+                                 {
+                                     "frage":  "Was ist ein sicheres Verhalten auf dem Fahrrad?",
+                                     "optionen":  [
+                                                      "Ohne Licht in der Dunkelheit fahren",
+                                                      "Mit KopfhÃ¶rern quer Ã¼ber Rot fahren",
+                                                      "Licht einschalten und Verkehrsregeln beachten",
+                                                      "Immer auf dem Trottoir rasen"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Sicherheit bedeutet sichtbar sein, aufmerksam bleiben und die Regeln einhalten."
+                                 },
+                                 {
+                                     "frage":  "Warum ist der Transport per Schiff im Welthandel wichtig?",
+                                     "optionen":  [
+                                                      "Weil Schiffe immer am schnellsten sind",
+                                                      "Weil damit grosse Warenmengen vergleichsweise gÃ¼nstig transportiert werden kÃ¶nnen",
+                                                      "Weil Flugzeuge nicht Ã¼ber Ozeane fliegen kÃ¶nnen",
+                                                      "Weil Schiffe keine HÃ¤fen brauchen"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Schiffe transportieren riesige Mengen an GÃ¼tern relativ kostengÃ¼nstig Ã¼ber lange Distanzen."
+                                 },
+                                 {
+                                     "frage":  "Welche Verkehrsform braucht in StÃ¤dten pro Person meist am meisten Platz?",
+                                     "optionen":  [
+                                                      "Fussverkehr",
+                                                      "Velo",
+                                                      "Privatauto",
+                                                      "Tram"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Autos brauchen viel Verkehrs- und ParkflÃ¤che pro Person und belasten dicht bebaute RÃ¤ume stark."
+                                 },
+                                 {
+                                     "frage":  "Welche Ferienreise ist im Vergleich meist nachhaltiger?",
+                                     "optionen":  [
+                                                      "Ein Kurzstreckenflug fÃ¼r zwei Tage",
+                                                      "Eine lÃ¤ngere Zugreise mit Aufenthalt vor Ort",
+                                                      "Eine Fahrt allein mit grossem SUV",
+                                                      "Ein Helikopterflug"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "LÃ¤ngere Aufenthalte mit klimafreundlicherem Verkehr verursachen oft weniger Emissionen pro Reisetag."
+                                 },
+                                 {
+                                     "frage":  "Welche Kriterien helfen, das eigene MobilitÃ¤tsverhalten zu beurteilen?",
+                                     "optionen":  [
+                                                      "Nur die Farbe des Fahrzeugs",
+                                                      "Sicherheit, Energieverbrauch und geteilte Nutzung",
+                                                      "Nur die LautstÃ¤rke des Motors",
+                                                      "Ob ein Verkehrsmittel cool wirkt"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Nachhaltige MobilitÃ¤t berÃ¼cksichtigt Sicherheit, Ressourcenverbrauch und die Wirkung auf Umwelt und Raum."
+                                 }
+                             ]
+              }
+}

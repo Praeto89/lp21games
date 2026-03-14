@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "bs4a",
+  "kompetenz_code": "BS.4.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Regeln vereinbaren", "Spiel weiterentwickeln", "Rollen übernehmen", "Sicher spielen"],
+    "elemente": [
+      { "text": "Vor dem Start die Spielgrenzen klären", "kategorie": 0 },
+      { "text": "Sich auf ein Startsignal einigen", "kategorie": 0 },
+      { "text": "Ein Fangspiel mit Zusatzaufgabe spannender machen", "kategorie": 1 },
+      { "text": "Die Teamgrösse an die Halle anpassen", "kategorie": 1 },
+      { "text": "Als Schiedsrichterin oder Schiedsrichter Punkte zählen", "kategorie": 2 },
+      { "text": "Als Teamkapitän die Gruppen einteilen helfen", "kategorie": 2 },
+      { "text": "Auf freien Raum und andere Gruppen achten", "kategorie": 3 },
+      { "text": "Stoppsignal sofort respektieren", "kategorie": 3 },
+      { "text": "Vereinbaren, wie lang eine Runde dauert", "kategorie": 0 },
+      { "text": "Ein Ziel verändern, damit das Spiel fairer wird", "kategorie": 1 },
+      { "text": "Material nach dem Spiel gemeinsam wegräumen", "kategorie": 2 },
+      { "text": "Nur Spielideen wählen, die für alle machbar sind", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "fr5b1",
+  "kompetenz_code": "FS2F.5.B.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      { "a": "faire ses devoirs", "b": "Hausaufgaben machen" },
+      { "a": "prendre le bus", "b": "den Bus nehmen" },
+      { "a": "avoir besoin de", "b": "brauchen" },
+      { "a": "être en retard", "b": "zu spät sein" },
+      { "a": "le portable", "b": "das Handy" },
+      { "a": "la cantine", "b": "die Mensa" },
+      { "a": "se promener", "b": "spazieren gehen" },
+      { "a": "tout à coup", "b": "plötzlich" }
+    ]
+  }
+}

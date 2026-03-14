@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5c2",
+  "kompetenz_code": "FS2F.5.C.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["ou -> [u]", "au/eau -> [o]", "Nasalvokal", "Liaison hörbar"],
+    "elemente": [
+      { "text": "loup", "kategorie": 0 },
+      { "text": "route", "kategorie": 0 },
+      { "text": "couleur", "kategorie": 0 },
+      { "text": "chaud", "kategorie": 1 },
+      { "text": "eau", "kategorie": 1 },
+      { "text": "tableau", "kategorie": 1 },
+      { "text": "bon", "kategorie": 2 },
+      { "text": "dans", "kategorie": 2 },
+      { "text": "manger", "kategorie": 2 },
+      { "text": "les amis", "kategorie": 3 },
+      { "text": "vous avez", "kategorie": 3 },
+      { "text": "petit enfant", "kategorie": 3 }
+    ]
+  }
+}

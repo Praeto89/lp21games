@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg83",
+    "kompetenz_code":  "RZG.8.3",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne wichtige Stationen der Positionierung der Schweiz in Europa und der Welt.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Wiener Kongress erkennt die NeutralitÃ¤t der Schweiz an",
+                                                              "jahr":  "1815"
+                                                          },
+                                                          {
+                                                              "text":  "Beitritt der Schweiz zum Europarat",
+                                                              "jahr":  "1963"
+                                                          },
+                                                          {
+                                                              "text":  "Freihandelsabkommen mit der EWG",
+                                                              "jahr":  "1972"
+                                                          },
+                                                          {
+                                                              "text":  "Schweiz unterzeichnet die KSZE-Schlussakte von Helsinki",
+                                                              "jahr":  "1975"
+                                                          },
+                                                          {
+                                                              "text":  "Nein zum EWR-Beitritt in der Volksabstimmung",
+                                                              "jahr":  "1992"
+                                                          },
+                                                          {
+                                                              "text":  "Beitritt der Schweiz zur UNO",
+                                                              "jahr":  "2002"
+                                                          },
+                                                          {
+                                                              "text":  "Zustimmung zu Schengen/Dublin in der Volksabstimmung",
+                                                              "jahr":  "2005"
+                                                          },
+                                                          {
+                                                              "text":  "Schengen tritt fÃ¼r die Schweiz in Kraft",
+                                                              "jahr":  "2008"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

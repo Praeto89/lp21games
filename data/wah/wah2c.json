@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "wah2c",
+  "kompetenz_code": "WAH.2.3",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Ein Plan, der Einnahmen und Ausgaben gegen\u00fcberstellt, heisst {Budget}.",
+        "hinweise": ["Finanzplan"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Die monatliche Miete geh\u00f6rt meist zu den {fixen} Ausgaben.",
+        "hinweise": ["gleichbleibende Kosten"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Kino, Snacks oder neue Games sind oft {variable} Ausgaben.",
+        "hinweise": ["ver\u00e4nderliche Kosten"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Wer regelm\u00e4ssig Geld zur\u00fccklegt, bildet {Reserven} f\u00fcr Unerwartetes.",
+        "hinweise": ["finanzielles Polster"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Wenn Geld direkt von einem Konto auf ein anderes geschickt wird, ist das eine {\u00dcberweisung}.",
+        "hinweise": ["bargeldlose Zahlung"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Wer dauerhaft mehr ausgibt als vorhanden ist, riskiert {Schulden}.",
+        "hinweise": ["Geld, das zur\u00fcckbezahlt werden muss"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Auf einer Rechnung steht oft eine {Zahlungsfrist}, bis wann bezahlt werden muss.",
+        "hinweise": ["letzter Zahlungstermin"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      },
+      {
+        "text": "Verantwortungsvoll mit Geld umzugehen bedeutet auch, Bed\u00fcrfnisse von spontanen {W\u00fcnschen} unterscheiden zu k\u00f6nnen.",
+        "hinweise": ["nicht immer notwendig"],
+        "anweisung": "Erg\u00e4nze die Begriffe rund um den verantwortungsvollen Umgang mit Geld."
+      }
+    ]
+  }
+}

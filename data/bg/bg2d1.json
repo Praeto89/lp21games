@@ -1,0 +1,31 @@
+{
+  "kompetenz_id": "bg2d1",
+  "kompetenz_code": "BG.2.D.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Zeichen- und Malmaterial",
+      "Bildträger",
+      "Plastisches Material",
+      "Werkzeug"
+    ],
+    "elemente": [
+      { "text": "Graphitstift", "kategorie": 0 },
+      { "text": "Tusche", "kategorie": 0 },
+      { "text": "Aquarellfarbe", "kategorie": 0 },
+      { "text": "Ölkreide", "kategorie": 0 },
+      { "text": "Papierkarton", "kategorie": 1 },
+      { "text": "Holzplatte", "kategorie": 1 },
+      { "text": "Stoffbahn", "kategorie": 1 },
+      { "text": "Transparente Folie", "kategorie": 1 },
+      { "text": "Ton", "kategorie": 2 },
+      { "text": "Draht", "kategorie": 2 },
+      { "text": "Gipsbinde", "kategorie": 2 },
+      { "text": "Recyclingkunststoff", "kategorie": 2 },
+      { "text": "Spachtel", "kategorie": 3 },
+      { "text": "Druckwalze", "kategorie": 3 },
+      { "text": "Cutter", "kategorie": 3 },
+      { "text": "Rundpinsel", "kategorie": 3 }
+    ]
+  }
+}

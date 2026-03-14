@@ -1,0 +1,63 @@
+{
+  "kompetenz_id": "ma1b3",
+  "kompetenz_code": "MA.1.B.3",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Tabelle",
+      "Zahlenstrahl oder Skizze",
+      "Term",
+      "Taschenrechner"
+    ],
+    "elemente": [
+      {
+        "text": "Entwicklung eines Sparguthabens pro Monat übersichtlich darstellen",
+        "kategorie": 0
+      },
+      {
+        "text": "Mehrere Wertepaare zu y = 2x + 3 sammeln",
+        "kategorie": 0
+      },
+      {
+        "text": "Positive und negative Temperaturen ordnen",
+        "kategorie": 1
+      },
+      {
+        "text": "Brüche und Dezimalzahlen zwischen 0 und 1 vergleichen",
+        "kategorie": 1
+      },
+      {
+        "text": "Regel einer Folge mit n beschreiben",
+        "kategorie": 2
+      },
+      {
+        "text": "2(x + 3) - x vereinfachen",
+        "kategorie": 2
+      },
+      {
+        "text": "√457 näherungsweise bestimmen",
+        "kategorie": 3
+      },
+      {
+        "text": "1.37^5 schnell berechnen",
+        "kategorie": 3
+      },
+      {
+        "text": "Monat und Betrag einer Zahlung paarweise notieren",
+        "kategorie": 0
+      },
+      {
+        "text": "Lage von -1.5, -0.5 und 0.25 sichtbar machen",
+        "kategorie": 1
+      },
+      {
+        "text": "Muster mit 5 Kästchen pro Stufe verallgemeinern",
+        "kategorie": 2
+      },
+      {
+        "text": "Den Wert von 18.4^3 kontrollieren",
+        "kategorie": 3
+      }
+    ]
+  }
+}

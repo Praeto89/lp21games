@@ -1,0 +1,63 @@
+{
+  "kompetenz_id": "ma3c3",
+  "kompetenz_code": "MA.3.C.3",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Proportionale Zuordnung",
+      "Lineare Zuordnung mit Grundgebühr",
+      "Statistik oder Zufall",
+      "Zins oder Rabatt"
+    ],
+    "elemente": [
+      {
+        "text": "y = 4x",
+        "kategorie": 0
+      },
+      {
+        "text": "5 CHF pro kg Erdbeeren",
+        "kategorie": 0
+      },
+      {
+        "text": "Weg = 60 · Zeit",
+        "kategorie": 0
+      },
+      {
+        "text": "y = 2x + 5",
+        "kategorie": 1
+      },
+      {
+        "text": "Taxi: 5 CHF Startpreis + 2 CHF pro km",
+        "kategorie": 1
+      },
+      {
+        "text": "Abo: 12 CHF pro Monat + 0.50 CHF je Ausdruck",
+        "kategorie": 1
+      },
+      {
+        "text": "relative Häufigkeit = Treffer / Versuche",
+        "kategorie": 2
+      },
+      {
+        "text": "Würfelergebnisse in einer Tabelle auswerten",
+        "kategorie": 2
+      },
+      {
+        "text": "Wahrscheinlichkeit für Kopf beim Münzwurf",
+        "kategorie": 2
+      },
+      {
+        "text": "20 % Rabatt auf einen Pullover",
+        "kategorie": 3
+      },
+      {
+        "text": "Kapital 500 CHF, Zinssatz 3 %",
+        "kategorie": 3
+      },
+      {
+        "text": "Neupreis 80 CHF, Preisnachlass 15 %",
+        "kategorie": 3
+      }
+    ]
+  }
+}

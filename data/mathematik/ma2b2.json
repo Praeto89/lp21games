@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2b2",
+  "kompetenz_code": "MA.2.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Aussage gilt für jedes Dreieck?",
+        "optionen": [
+          "Die Innenwinkelsumme beträgt 180°",
+          "Alle Seiten sind gleich lang",
+          "Es hat immer einen rechten Winkel",
+          "Es hat genau zwei Symmetrieachsen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Innenwinkelsumme jedes Dreiecks beträgt 180°."
+      },
+      {
+        "frage": "Welche Beziehung gilt in einem rechtwinkligen Dreieck?",
+        "optionen": [
+          "a + b = c",
+          "a² + b² = c²",
+          "2a = b + c",
+          "a² - b² = c"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das ist der Satz von Pythagoras."
+      },
+      {
+        "frage": "Warum kann man die Flächenformel A = g · h / 2 für ein Dreieck begründen?",
+        "optionen": [
+          "Weil zwei kongruente Dreiecke ein Parallelogramm bilden",
+          "Weil jedes Dreieck ein Quadrat ist",
+          "Weil die Höhe immer halb so groß wie die Grundseite ist",
+          "Weil der Umfang doppelt so groß wie die Fläche ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Zwei gleiche Dreiecke lassen sich zu einem Parallelogramm zusammensetzen."
+      },
+      {
+        "frage": "Welche Aussage über die Diagonalen eines Rechtecks ist richtig?",
+        "optionen": [
+          "Sie sind immer verschieden lang",
+          "Sie schneiden sich im rechten Winkel",
+          "Sie sind gleich lang",
+          "Sie liegen auf dem Rand"
+        ],
+        "korrekt": 2,
+        "erklaerung": "In jedem Rechteck sind die Diagonalen gleich lang."
+      },
+      {
+        "frage": "Was passiert mit dem Flächeninhalt eines Kreises, wenn sich der Radius verdoppelt?",
+        "optionen": [
+          "Er verdoppelt sich",
+          "Er vervierfacht sich",
+          "Er verachtfacht sich",
+          "Er bleibt gleich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Fläche hängt vom Quadrat des Radius ab."
+      },
+      {
+        "frage": "Welche Figur widerlegt die Behauptung Alle Vierecke mit vier gleich langen Seiten sind Quadrate?",
+        "optionen": [
+          "Rechteck",
+          "Rhombus",
+          "Trapez",
+          "Drachenviereck"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Rhombus hat vier gleich lange Seiten, aber nicht zwingend rechte Winkel."
+      },
+      {
+        "frage": "Welcher Satz hilft zu zeigen, dass ein Winkel im Halbkreis 90° groß ist?",
+        "optionen": [
+          "Satz von Thales",
+          "Strahlensatz",
+          "Satz des Pythagoras",
+          "Mitternachtsformel"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Satz von Thales beschreibt genau diese Situation."
+      },
+      {
+        "frage": "Warum gilt für Prismen V = Grundfläche · Höhe?",
+        "optionen": [
+          "Weil Prismen immer Würfel sind",
+          "Weil gleich große Schichten übereinandergestapelt werden",
+          "Weil alle Kanten gleich lang sind",
+          "Weil die Oberfläche halbiert wird"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Prisma besteht aus gleich großen Grundflächen über die ganze Höhe hinweg."
+      }
+    ]
+  }
+}

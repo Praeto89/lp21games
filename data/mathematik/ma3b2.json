@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma3b2",
+  "kompetenz_code": "MA.3.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Woran erkennt man einen fairen Würfel?",
+        "optionen": [
+          "Alle Seiten haben ungefähr die gleiche Wahrscheinlichkeit",
+          "Er ist aus Holz",
+          "Er zeigt nur gerade Zahlen",
+          "Er hat sechs Farben"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bei einem fairen Würfel sind alle Ergebnisse gleich wahrscheinlich."
+      },
+      {
+        "frage": "Welche Stichprobe ist zuverlässiger, um zu prüfen, ob eine Münze fair ist?",
+        "optionen": [
+          "10 Würfe",
+          "20 Würfe",
+          "50 Würfe",
+          "200 Würfe"
+        ],
+        "korrekt": 3,
+        "erklaerung": "Mit mehr Versuchen stabilisieren sich die relativen Häufigkeiten."
+      },
+      {
+        "frage": "Wie viele verschiedene Outfits sind mit 3 T-Shirts und 2 Hosen möglich?",
+        "optionen": [
+          "5",
+          "6",
+          "8",
+          "12"
+        ],
+        "korrekt": 1,
+        "erklaerung": "3 Möglichkeiten mal 2 Möglichkeiten ergeben 6 Kombinationen."
+      },
+      {
+        "frage": "Wie groß ist das arithmetische Mittel von 4, 6 und 8?",
+        "optionen": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Summe 18 wird durch 3 geteilt."
+      },
+      {
+        "frage": "Welches Ereignis ist beim Würfeln unmöglich?",
+        "optionen": [
+          "Eine 2",
+          "Eine gerade Zahl",
+          "Eine 7",
+          "Eine Zahl kleiner als 6"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein normaler Würfel zeigt nur die Zahlen 1 bis 6."
+      },
+      {
+        "frage": "In einem Beutel liegen 3 rote und 1 blaue Kugel. Welche Farbe ist beim Ziehen am wahrscheinlichsten?",
+        "optionen": [
+          "Blau",
+          "Rot",
+          "Beide gleich wahrscheinlich",
+          "Keine von beiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Es gibt mehr rote als blaue Kugeln im Beutel."
+      },
+      {
+        "frage": "Welches Diagramm eignet sich besonders, um Kategorien zu vergleichen?",
+        "optionen": [
+          "Säulendiagramm",
+          "Streckenplan",
+          "Pfeildiagramm",
+          "Dreiecksnetz"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Säulen lassen sich gut direkt miteinander vergleichen."
+      },
+      {
+        "frage": "Wie groß ist die Wahrscheinlichkeit für eine gerade Zahl beim Würfeln?",
+        "optionen": [
+          "1/6",
+          "1/3",
+          "1/2",
+          "2/3"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Drei der sechs Würfelergebnisse sind gerade."
+      }
+    ]
+  }
+}

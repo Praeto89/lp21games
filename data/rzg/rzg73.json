@@ -1,0 +1,38 @@
+{
+    "kompetenz_id":  "rzg73",
+    "kompetenz_code":  "RZG.7.3",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne die Schritte eines Zeitzeugeninterviews.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Ein Thema und eine Zeitzeugin oder einen Zeitzeugen auswÃ¤hlen"
+                                                          },
+                                                          {
+                                                              "text":  "Vorwissen und weitere Quellen sammeln"
+                                                          },
+                                                          {
+                                                              "text":  "Offene Leitfragen formulieren"
+                                                          },
+                                                          {
+                                                              "text":  "Termin vereinbaren und Technik vorbereiten"
+                                                          },
+                                                          {
+                                                              "text":  "Das Interview respektvoll durchfÃ¼hren"
+                                                          },
+                                                          {
+                                                              "text":  "Aussagen dokumentieren oder transkribieren"
+                                                          },
+                                                          {
+                                                              "text":  "Fotos, Artikel oder Statistiken ergÃ¤nzend auswerten"
+                                                          },
+                                                          {
+                                                              "text":  "Die Ergebnisse historisch einordnen und prÃ¤sentieren"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "wah3b",
+  "kompetenz_code": "WAH.3.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "\u00d6kologische Folge",
+      "\u00d6konomische Folge",
+      "Soziale Folge",
+      "Handlungsm\u00f6glichkeit"
+    ],
+    "elemente": [
+      { "text": "Mehr Verpackungsabfall durch Einwegprodukte", "kategorie": 0 },
+      { "text": "Hoher Energieverbrauch bei der Herstellung", "kategorie": 0 },
+      { "text": "Lange Transportwege belasten das Klima", "kategorie": 0 },
+      { "text": "Spontank\u00e4ufe belasten das Monatsbudget", "kategorie": 1 },
+      { "text": "H\u00e4ufige Neuk\u00e4ufe verursachen langfristig h\u00f6here Kosten", "kategorie": 1 },
+      { "text": "Ein billiges Produkt kann sp\u00e4ter teure Reparaturen ausl\u00f6sen", "kategorie": 1 },
+      { "text": "Lange Arbeitszeiten in einer Fabrik", "kategorie": 2 },
+      { "text": "Kinderarbeit in Lieferketten", "kategorie": 2 },
+      { "text": "Faire L\u00f6hne verbessern Arbeitsbedingungen", "kategorie": 2 },
+      { "text": "Secondhand statt neu kaufen", "kategorie": 3 },
+      { "text": "Vor dem Kauf pr\u00fcfen, ob das Produkt wirklich n\u00f6tig ist", "kategorie": 3 },
+      { "text": "Mehrwegflasche statt Einwegflasche verwenden", "kategorie": 3 }
+    ]
+  }
+}

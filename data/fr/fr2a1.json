@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr2a1",
+  "kompetenz_code": "FS2F.2.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Lies: « Salut! Le club photo se réunit chaque mercredi à 15 h 30 dans la salle 12. Apporte ton téléphone ou ton appareil photo. » Wann trifft sich der Fotoclub?",
+        "optionen": [
+          "Jeden Dienstag um 15.30 Uhr",
+          "Jeden Mittwoch um 15.30 Uhr",
+          "Jeden Mittwoch um 12 Uhr",
+          "Nur einmal im Monat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Text steht « chaque mercredi à 15 h 30 »."
+      },
+      {
+        "frage": "Lies: « Aujourd'hui, la bibliothèque ferme plus tôt, à 16 heures, parce qu'il y a une réunion de l'équipe. » Warum schliesst die Bibliothek früher?",
+        "optionen": [
+          "Wegen eines Stromausfalls",
+          "Wegen eines Sportanlasses",
+          "Wegen einer Teamsitzung",
+          "Wegen Ferien"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« parce qu'il y a une réunion de l'équipe » erklärt den Grund."
+      },
+      {
+        "frage": "Lies: « Dans mon quartier, il y a un petit marché le samedi matin. J'y vais souvent avec mon grand-père pour acheter des fruits et du fromage. » Mit wem geht die Person auf den Markt?",
+        "optionen": [
+          "Mit ihrer Schwester",
+          "Mit ihrem Grossvater",
+          "Mit ihrer Lehrerin",
+          "Mit einem Freund"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Text steht « avec mon grand-père »."
+      },
+      {
+        "frage": "Lies: « Chers élèves, n'oubliez pas vos chaussures de sport demain. Nous avons athlétisme au stade. » Was sollen die Schülerinnen und Schüler mitbringen?",
+        "optionen": [
+          "Schwimmsachen",
+          "Einen Helm",
+          "Sportschuhe",
+          "Ein Wörterbuch"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« chaussures de sport » bedeutet Sportschuhe."
+      },
+      {
+        "frage": "Lies: « Le concert commence à 19 h 30. Les portes ouvrent une demi-heure avant. » Wann öffnen die Türen?",
+        "optionen": [
+          "Um 18.30 Uhr",
+          "Um 19 Uhr",
+          "Um 19.30 Uhr",
+          "Um 20 Uhr"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine halbe Stunde vor 19.30 Uhr ist 19 Uhr."
+      },
+      {
+        "frage": "Lies: « Je préfère aller à l'école à vélo, car le trajet est court et je peux discuter avec mes amis en route. » Warum fährt die Person gerne mit dem Velo?",
+        "optionen": [
+          "Weil der Weg lang ist",
+          "Weil das Busabo teuer ist",
+          "Weil der Weg kurz ist und sie Freunde trifft",
+          "Weil sie zu spät aufsteht"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die zwei Gründe stehen direkt im Text."
+      },
+      {
+        "frage": "Lies: « Ce week-end, notre classe visite Lausanne. Le matin, nous allons au musée olympique et l'après-midi, nous faisons une promenade au bord du lac. » Was macht die Klasse am Nachmittag?",
+        "optionen": [
+          "Sie fährt nach Genf",
+          "Sie besucht das Olympische Museum",
+          "Sie macht einen Spaziergang am See",
+          "Sie spielt Fussball"
+        ],
+        "korrekt": 2,
+        "erklaerung": "« l'après-midi » folgt die « promenade au bord du lac »."
+      },
+      {
+        "frage": "Lies: « Merci pour ton message. Je ne suis pas libre lundi, mais mardi après l'école me va bien. » Wann passt das Treffen?",
+        "optionen": [
+          "Montagvormittag",
+          "Montagnachmittag",
+          "Dienstag nach der Schule",
+          "Sonntagabend"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Person schreibt klar, dass Dienstag nach der Schule gut passt."
+      }
+    ]
+  }
+}

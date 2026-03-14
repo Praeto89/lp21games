@@ -1,0 +1,97 @@
+{
+    "kompetenz_id":  "rzg21",
+    "kompetenz_code":  "RZG.2.1",
+    "typ":  "quiz",
+    "spiel":  {
+                  "fragen":  [
+                                 {
+                                     "frage":  "Was zeigt ein BevÃ¶lkerungsdiagramm besonders gut?",
+                                     "optionen":  [
+                                                      "Die BodenschÃ¤tze eines Landes",
+                                                      "Die Alters- und Geschlechterstruktur einer BevÃ¶lkerung",
+                                                      "Nur die genaue FlÃ¤che eines Landes",
+                                                      "Den Verlauf eines Flusses"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "BevÃ¶lkerungsdiagramme zeigen, wie viele Menschen welcher Altersgruppe und welchen Geschlechts leben."
+                                 },
+                                 {
+                                     "frage":  "Was bedeutet eine breite Basis in einer BevÃ¶lkerungspyramide?",
+                                     "optionen":  [
+                                                      "Es gibt sehr wenige Kinder",
+                                                      "Es gibt viele Ã¤ltere Menschen",
+                                                      "Es gibt viele Kinder und meist eine hohe Geburtenrate",
+                                                      "Die BevÃ¶lkerung schrumpft sofort"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Eine breite Basis weist auf viele Kinder und oft eine hohe Geburtenrate hin."
+                                 },
+                                 {
+                                     "frage":  "Welches Beispiel ist ein typischer Push-Faktor fÃ¼r Migration?",
+                                     "optionen":  [
+                                                      "Mehr AusbildungsplÃ¤tze",
+                                                      "Sicherheit und Frieden",
+                                                      "Krieg oder grosse Armut",
+                                                      "Ein attraktiver Freizeitpark"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Push-Faktoren drÃ¤ngen Menschen weg, etwa durch Krieg, Hunger oder fehlende Arbeit."
+                                 },
+                                 {
+                                     "frage":  "Was versteht man unter Binnenmigration?",
+                                     "optionen":  [
+                                                      "Eine Wanderung von einem Kontinent auf einen anderen",
+                                                      "Eine Auswanderung aus Europa",
+                                                      "Eine Wanderung innerhalb desselben Landes",
+                                                      "Eine Ferienreise ins Ausland"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Binnenmigration meint UmzÃ¼ge innerhalb eines Staates, zum Beispiel vom Land in eine Stadt."
+                                 },
+                                 {
+                                     "frage":  "Welches Beispiel ist ein Pull-Faktor?",
+                                     "optionen":  [
+                                                      "DÃ¼rre und ErnteausfÃ¤lle",
+                                                      "ArbeitsplÃ¤tze und Sicherheit",
+                                                      "Ein Erdbeben",
+                                                      "BÃ¼rgerkrieg"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Pull-Faktoren ziehen Menschen an, etwa Jobs, bessere Bildung oder ein sicherer Alltag."
+                                 },
+                                 {
+                                     "frage":  "Welche Herausforderung entsteht oft bei einer alternden BevÃ¶lkerung?",
+                                     "optionen":  [
+                                                      "Es werden automatisch mehr Gebirge gebildet",
+                                                      "Es braucht mehr Renten- und Pflegeangebote",
+                                                      "Alle StÃ¤dte verschwinden",
+                                                      "Es gibt keine Schulen mehr"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Wenn der Anteil Ã¤lterer Menschen steigt, wÃ¤chst meist auch der Bedarf an Pflege und Vorsorge."
+                                 },
+                                 {
+                                     "frage":  "Welche Aussage zu Migration trifft am ehesten zu?",
+                                     "optionen":  [
+                                                      "Migration hat nur Nachteile fÃ¼r Aufnahmegesellschaften",
+                                                      "Migration betrifft nur Menschen ohne Ausbildung",
+                                                      "Migration kann neue Perspektiven, ArbeitskrÃ¤fte und kulturelle Vielfalt bringen",
+                                                      "Migration findet nur in Europa statt"
+                                                  ],
+                                     "korrekt":  2,
+                                     "erklaerung":  "Migration hat unterschiedliche Folgen und kann Gesellschaften auch bereichern."
+                                 },
+                                 {
+                                     "frage":  "Warum leben besonders viele Menschen an KÃ¼sten, FlÃ¼ssen oder in Ebenen?",
+                                     "optionen":  [
+                                                      "Weil dort nie Regen fÃ¤llt",
+                                                      "Weil diese RÃ¤ume oft Wasser, VerkehrsmÃ¶glichkeiten und ArbeitsplÃ¤tze bieten",
+                                                      "Weil Berge dort verboten sind",
+                                                      "Weil dort keine Landwirtschaft mÃ¶glich ist"
+                                                  ],
+                                     "korrekt":  1,
+                                     "erklaerung":  "Gute Verkehrswege, fruchtbare BÃ¶den und Wasser begÃ¼nstigen oft eine hohe BevÃ¶lkerungsdichte."
+                                 }
+                             ]
+              }
+}

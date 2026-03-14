@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg62",
+    "kompetenz_code":  "RZG.6.2",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne wichtige Ereignisse des 19. Jahrhunderts.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Beginn der FranzÃ¶sischen Revolution",
+                                                              "jahr":  "1789"
+                                                          },
+                                                          {
+                                                              "text":  "Wiener Kongress",
+                                                              "jahr":  "1815"
+                                                          },
+                                                          {
+                                                              "text":  "Erste Ã¶ffentliche Eisenbahn fÃ¤hrt zwischen Stockton und Darlington",
+                                                              "jahr":  "1825"
+                                                          },
+                                                          {
+                                                              "text":  "Revolutionen in Europa und Kommunistisches Manifest",
+                                                              "jahr":  "1848"
+                                                          },
+                                                          {
+                                                              "text":  "KÃ¶nigreich Italien wird ausgerufen",
+                                                              "jahr":  "1861"
+                                                          },
+                                                          {
+                                                              "text":  "Deutsches Kaiserreich wird gegrÃ¼ndet",
+                                                              "jahr":  "1871"
+                                                          },
+                                                          {
+                                                              "text":  "Bell erhÃ¤lt das Patent auf das Telefon",
+                                                              "jahr":  "1876"
+                                                          },
+                                                          {
+                                                              "text":  "Berliner Kongokonferenz beginnt",
+                                                              "jahr":  "1884"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

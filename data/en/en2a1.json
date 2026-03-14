@@ -1,0 +1,57 @@
+{
+  "kompetenz_id": "en2a1",
+  "kompetenz_code": "FS1E.2.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Read: 'Hi Sam, football practice starts at 4:15 today because the coach has a meeting later.' When does practice start?",
+        "optionen": ["At 4:15", "At 4:30", "At 5:15", "At 5:45"],
+        "korrekt": 0,
+        "erklaerung": "Im Text steht direkt, dass das Training heute um 4:15 beginnt."
+      },
+      {
+        "frage": "Read: 'Please return borrowed books to Room 12 before Friday.' Where should the books be returned?",
+        "optionen": ["To the gym", "To Room 12", "To the office", "To the library entrance"],
+        "korrekt": 1,
+        "erklaerung": "Der Hinweis nennt Raum 12 als Abgabeort."
+      },
+      {
+        "frage": "Read: 'Lena volunteers at an animal shelter every Saturday morning.' What does Lena do on Saturday mornings?",
+        "optionen": ["She goes shopping", "She plays tennis", "She helps at an animal shelter", "She studies in the library"],
+        "korrekt": 2,
+        "erklaerung": "'Volunteers at an animal shelter' bedeutet, dass sie dort hilft."
+      },
+      {
+        "frage": "Read: 'We stayed in a small hotel near the beach, so we walked everywhere.' Why did the writer not need a bus?",
+        "optionen": ["Because the hotel was near the beach", "Because the bus drivers were on strike", "Because the weather was bad", "Because the family had bicycles"],
+        "korrekt": 0,
+        "erklaerung": "Die Nähe zum Strand machte das Gehen möglich."
+      },
+      {
+        "frage": "Read: 'Soup of the day: tomato and basil. Served with bread.' Which soup is offered?",
+        "optionen": ["Pumpkin soup", "Tomato and basil soup", "Chicken soup", "Mushroom soup"],
+        "korrekt": 1,
+        "erklaerung": "Die Tagesuppe wird im Text ausdrücklich genannt."
+      },
+      {
+        "frage": "Read: 'The science club meets every second Tuesday.' How often does the club meet?",
+        "optionen": ["Every Tuesday", "Once a month", "Every second Tuesday", "Every school day"],
+        "korrekt": 2,
+        "erklaerung": "Die Formulierung gibt direkt den Rhythmus an."
+      },
+      {
+        "frage": "Read: 'I chose the blue headphones because their battery lasts longer.' Why did the writer choose the blue headphones?",
+        "optionen": ["They were cheaper", "They looked smaller", "They matched a bag", "Their battery lasts longer"],
+        "korrekt": 3,
+        "erklaerung": "Der Text nennt die längere Batterielaufzeit als Grund."
+      },
+      {
+        "frage": "Read: 'Students enter for free with a school ID.' Who can enter for free?",
+        "optionen": ["All visitors", "Only teachers", "Students with a school ID", "Children under six"],
+        "korrekt": 2,
+        "erklaerung": "Kostenlos ist der Eintritt nur für Schülerinnen und Schüler mit Schulausweis."
+      }
+    ]
+  }
+}

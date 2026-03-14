@@ -1,0 +1,55 @@
+{
+  "kompetenz_id": "mu5c",
+  "kompetenz_code": "MU.5.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Ideen sammeln",
+      "Ausprobieren",
+      "Überarbeiten",
+      "Präsentieren"
+    ],
+    "elemente": [
+      {
+        "text": "Klangideen als Stichworte notieren",
+        "kategorie": 0
+      },
+      {
+        "text": "passende Themen oder Bilder auswählen",
+        "kategorie": 0
+      },
+      {
+        "text": "verschiedene Tempi und Instrumente testen",
+        "kategorie": 1
+      },
+      {
+        "text": "mehrere Varianten einer Begleitung spielen",
+        "kategorie": 1
+      },
+      {
+        "text": "Rückmeldungen aus der Gruppe aufnehmen",
+        "kategorie": 2
+      },
+      {
+        "text": "Anfang und Schluss gezielt klarer machen",
+        "kategorie": 2
+      },
+      {
+        "text": "weniger passende Teile streichen",
+        "kategorie": 2
+      },
+      {
+        "text": "das Stück vor der Klasse aufführen",
+        "kategorie": 3
+      },
+      {
+        "text": "Titel und Ablauf kurz ankündigen",
+        "kategorie": 3
+      },
+      {
+        "text": "Aufstellung für den Vortrag festlegen",
+        "kategorie": 3
+      }
+    ]
+  }
+}

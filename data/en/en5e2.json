@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en5e2",
+  "kompetenz_code": "FS1E.5.E.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Double consonant", "Silent letter", "Change y to i", "Drop final e"],
+    "elemente": [
+      { "text": "running", "kategorie": 0 },
+      { "text": "bigger", "kategorie": 0 },
+      { "text": "stopped", "kategorie": 0 },
+      { "text": "knife", "kategorie": 1 },
+      { "text": "write", "kategorie": 1 },
+      { "text": "lamb", "kategorie": 1 },
+      { "text": "happier", "kategorie": 2 },
+      { "text": "tried", "kategorie": 2 },
+      { "text": "easier", "kategorie": 2 },
+      { "text": "making", "kategorie": 3 },
+      { "text": "writing", "kategorie": 3 },
+      { "text": "coming", "kategorie": 3 }
+    ]
+  }
+}

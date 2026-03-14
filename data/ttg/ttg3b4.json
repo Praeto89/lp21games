@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg3b4",
+  "kompetenz_code": "TTG.3.B.4",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wie beeinflussen neue Materialien die Gestaltung von Produkten?",
+        "optionen": [
+          "Gar nicht",
+          "Sie ermoeglichen neue Formen, Funktionen und Leichtigkeit",
+          "Sie machen Gestaltung ueberfluessig",
+          "Sie sind nur fuer Werbung wichtig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Neue Materialien schaffen oft andere Konstruktionsmoeglichkeiten und veraendern das Design."
+      },
+      {
+        "frage": "Warum hat LED-Technik viele Produkte veraendert?",
+        "optionen": [
+          "Weil Lampen dadurch oft kleiner, langlebiger und energiesparender wurden",
+          "Weil Strom nicht mehr noetig ist",
+          "Weil nur die Farbe wichtiger wurde",
+          "Weil damit keine Sicherheit mehr noetig ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "LEDs brauchen wenig Energie, halten lange und erlauben neue Formen bei Leuchten."
+      },
+      {
+        "frage": "Was ist ein typischer Einfluss digitaler Fertigung wie 3D-Druck?",
+        "optionen": [
+          "Prototypen koennen schneller ausprobiert werden",
+          "Materialeigenschaften spielen keine Rolle mehr",
+          "Skizzen werden verboten",
+          "Alle Produkte muessen gleich aussehen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Digitale Fertigung kann Entwicklungsprozesse beschleunigen, besonders bei Modellen und Prototypen."
+      },
+      {
+        "frage": "Weshalb veraendern Akkus und mobile Energieversorgung den Alltag?",
+        "optionen": [
+          "Weil viele Produkte ortsunabhaengig nutzbar werden",
+          "Weil Produkte dadurch nie geladen werden muessen",
+          "Weil Kabel immer besser sind",
+          "Weil Gestaltung dann unwichtig wird"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Mobile Energieversorgung macht tragbare und flexible Produkte moeglich."
+      },
+      {
+        "frage": "Was bedeutet Miniaturisierung in der Technik fuer Produkte?",
+        "optionen": [
+          "Bauteile werden kleiner und Produkte kompakter",
+          "Alle Produkte werden schwerer",
+          "Nur die Verpackung aendert sich",
+          "Produkte verlieren jede Funktion"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kleinere Bauteile erlauben kompaktere, leichtere und oft mobilere Produkte."
+      },
+      {
+        "frage": "Warum beeinflusst Technik auch die Aesthetik?",
+        "optionen": [
+          "Weil neue Verfahren sichtbar andere Formen und Oberflaechen ermoeglichen",
+          "Weil Technik nie sichtbar wird",
+          "Weil Gestaltung nur aus Farbe besteht",
+          "Weil Maschinen immer gleich aussehen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Fertigungstechniken und Materialien praegen das Aussehen von Produkten stark mit."
+      },
+      {
+        "frage": "Welcher Aspekt gehoert zu einer reflektierten Einschaetzung technischer Entwicklung?",
+        "optionen": [
+          "Nur die Neuheit feiern",
+          "Nutzen, Risiken und Auswirkungen auf Alltag und Umwelt bedenken",
+          "Nur auf Werbung vertrauen",
+          "Immer alles ablehnen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Technische Entwicklungen sollten nicht nur nach Neuheitswert, sondern auch nach Folgen beurteilt werden."
+      },
+      {
+        "frage": "Was zeigt das Beispiel E-Bike besonders gut?",
+        "optionen": [
+          "Technik kann Mobilitaet, Nutzung und Gestaltung gleichzeitig veraendern",
+          "Raeder haben heute keine Mechanik mehr",
+          "Fortbewegung braucht keine Energie",
+          "Alle Velos muessen gleich gebaut sein"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Neue Antriebe veraendern Nutzung, Konstruktion, Gewicht und Zielgruppen eines Produkts."
+      },
+      {
+        "frage": "Warum ist Reparierbarkeit heute ein wichtiges Thema in der Produktentwicklung?",
+        "optionen": [
+          "Weil Produkte dadurch laenger genutzt werden koennen",
+          "Weil Reparaturen jedes Design verschlechtern",
+          "Weil nur alte Produkte repariert werden duerfen",
+          "Weil Ersatzteile immer gratis sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Reparierbarkeit kann Ressourcen sparen und die Nutzungsdauer von Produkten verlaengern."
+      },
+      {
+        "frage": "Welche Aussage trifft am besten zu?",
+        "optionen": [
+          "Technische Entwicklung veraendert Produkte, Arbeitsweisen und Gestaltungsmoeglichkeiten",
+          "Technik betrifft nur Computer",
+          "Gestaltung bleibt durch Technik immer gleich",
+          "Alltag und Technik haben nichts miteinander zu tun"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Technik wirkt sich auf Nutzung, Herstellung, Form und Wirkung vieler Alltagsprodukte aus."
+      }
+    ]
+  }
+}

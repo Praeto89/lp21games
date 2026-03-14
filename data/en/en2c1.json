@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en2c1",
+  "kompetenz_code": "FS1E.2.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Read: 'Please place your bikes behind the sports hall.' What is the best German meaning?",
+        "optionen": [
+          "Bitte stellt eure Fahrräder hinter der Turnhalle ab.",
+          "Bitte stellt eure Fahrräder vor die Turnhalle.",
+          "Bitte fahrt mit dem Fahrrad durch die Turnhalle.",
+          "Bitte repariert eure Fahrräder in der Turnhalle."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Behind the sports hall' bedeutet 'hinter der Turnhalle'."
+      },
+      {
+        "frage": "Read: 'The website is unavailable due to maintenance.' What does this mean?",
+        "optionen": [
+          "Die Website ist wegen Wartungsarbeiten nicht verfügbar.",
+          "Die Website wurde neu gestaltet.",
+          "Die Website ist nur für Lehrpersonen sichtbar.",
+          "Die Website wurde gelöscht."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Due to maintenance' weist auf Wartungsarbeiten hin."
+      },
+      {
+        "frage": "Read: 'Bring a refillable water bottle on the school trip.' Which German sentence fits best?",
+        "optionen": [
+          "Bringe auf die Schulreise eine wiederbefüllbare Wasserflasche mit.",
+          "Bringe auf die Schulreise nur Süssgetränke mit.",
+          "Kaufe auf der Schulreise eine neue Tasche.",
+          "Vergiss auf der Schulreise deine Jacke nicht."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Aussage fordert eine wiederauffüllbare Wasserflasche."
+      },
+      {
+        "frage": "Read: 'The final chapter reveals who stole the necklace.' What is the best German meaning?",
+        "optionen": [
+          "Das erste Kapitel beschreibt eine Kette.",
+          "Das letzte Kapitel verrät, wer die Halskette gestohlen hat.",
+          "Das Buch endet ohne Lösung.",
+          "Die Halskette wird im Museum gezeigt."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Final chapter' ist das letzte Kapitel, und 'reveals' heisst 'verrät'."
+      },
+      {
+        "frage": "Read: 'Parents are invited to the concert at 7 p.m.' What does the sentence say?",
+        "optionen": [
+          "Eltern sollen das Konzert um 7 Uhr organisieren.",
+          "Eltern sind um 19 Uhr zum Konzert eingeladen.",
+          "Eltern müssen das Konzert bezahlen.",
+          "Nur Lehrpersonen dürfen ans Konzert kommen."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Einladung richtet sich an Eltern und nennt 19 Uhr als Zeit."
+      },
+      {
+        "frage": "Read: 'The recipe serves four people.' What is meant?",
+        "optionen": [
+          "Das Rezept dauert vier Stunden.",
+          "Das Rezept braucht vier Zutaten.",
+          "Das Rezept reicht für vier Personen.",
+          "Das Rezept ist vier Jahre alt."
+        ],
+        "korrekt": 2,
+        "erklaerung": "'Serves four people' beschreibt die Anzahl Portionen."
+      },
+      {
+        "frage": "Read: 'You can download the worksheet from the class platform.' Which German sentence is correct?",
+        "optionen": [
+          "Du kannst das Arbeitsblatt von der Klassenplattform herunterladen.",
+          "Du kannst das Arbeitsblatt nur im Sekretariat abholen.",
+          "Du musst das Arbeitsblatt im Unterricht zeichnen.",
+          "Du darfst das Arbeitsblatt nicht öffnen."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Download' bedeutet 'herunterladen'."
+      },
+      {
+        "frage": "Read: 'The museum offers guided tours in the afternoon.' What is the best German meaning?",
+        "optionen": [
+          "Das Museum ist nur am Morgen geöffnet.",
+          "Das Museum bietet am Nachmittag Führungen an.",
+          "Das Museum verkauft am Nachmittag keine Tickets.",
+          "Das Museum kann nur mit Lehrpersonen besucht werden."
+        ],
+        "korrekt": 1,
+        "erklaerung": "'Guided tours' sind Führungen, 'in the afternoon' heisst am Nachmittag."
+      }
+    ]
+  }
+}

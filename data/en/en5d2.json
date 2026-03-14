@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en5d2",
+  "kompetenz_code": "FS1E.5.D.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Questions", "Negatives", "Past Forms", "Modal and Future"],
+    "elemente": [
+      { "text": "Do you like apples?", "kategorie": 0 },
+      { "text": "Are they ready?", "kategorie": 0 },
+      { "text": "Where did he go?", "kategorie": 0 },
+      { "text": "I do not agree.", "kategorie": 1 },
+      { "text": "She isn't at home.", "kategorie": 1 },
+      { "text": "We never skip breakfast.", "kategorie": 1 },
+      { "text": "We watched a documentary.", "kategorie": 2 },
+      { "text": "They were late.", "kategorie": 2 },
+      { "text": "I visited my aunt yesterday.", "kategorie": 2 },
+      { "text": "You should check the answer.", "kategorie": 3 },
+      { "text": "He can speak French.", "kategorie": 3 },
+      { "text": "Will you call me later?", "kategorie": 3 }
+    ]
+  }
+}

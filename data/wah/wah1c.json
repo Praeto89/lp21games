@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "wah1c",
+  "kompetenz_code": "WAH.1.3",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Am Anfang vieler G\u00fcter stehen {Rohstoffe} wie Holz, Baumwolle oder Erz.",
+        "hinweise": ["Ausgangsmaterial"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Wenn aus einzelnen Schritten ein fertiges Produkt entsteht, spricht man von einem {Produktionsprozess}.",
+        "hinweise": ["Ablauf der Herstellung"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Bei einer Dienstleistung steht nicht ein Gegenstand, sondern eine erbrachte {Leistung} im Mittelpunkt.",
+        "hinweise": ["Was f\u00fcr Kundinnen und Kunden erbracht wird"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Maschinen, Werkzeuge und Geb\u00e4ude z\u00e4hlen in der Produktion zum Faktor {Kapital}.",
+        "hinweise": ["Produktionsfaktor mit Anlagen und Maschinen"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Menschen bringen ihre {Arbeitskraft} und ihr Wissen in die Produktion ein.",
+        "hinweise": ["Einsatz von Menschen"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Zwischen Herstellung und Kauf \u00fcbernimmt oft der {Vertrieb} Transport, Lagerung und Verkauf.",
+        "hinweise": ["Weg zum Markt"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Wer Produktionsweisen vergleicht, achtet auf Kosten, {Qualit\u00e4t} und Umweltfolgen.",
+        "hinweise": ["G\u00fcte eines Produktes"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      },
+      {
+        "text": "Nachhaltige Produktion ber\u00fccksichtigt neben dem Gewinn auch {soziale} und \u00f6kologische Auswirkungen.",
+        "hinweise": ["betrifft Menschen und Arbeitsbedingungen"],
+        "anweisung": "Erg\u00e4nze die Fachbegriffe zur Produktion von G\u00fctern und Dienstleistungen."
+      }
+    ]
+  }
+}

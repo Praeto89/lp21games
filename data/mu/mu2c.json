@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu2c",
+  "kompetenz_code": "MU.2.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum wird in Filmen vor einer spannenden Szene oft Musik eingesetzt?",
+        "optionen": [
+          "Damit man den Dialog schlechter versteht",
+          "Weil Musik die Stimmung und Erwartung lenken kann",
+          "Nur damit der Film länger dauert",
+          "Weil ohne Musik keine Bilder gezeigt werden dürfen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Musik kann Gefühle verstärken und die Wirkung einer Szene deutlich verändern."
+      },
+      {
+        "frage": "Welche musikalische Gestaltung wirkt häufig bedrohlich?",
+        "optionen": [
+          "tiefe Töne und ein anschwellender Klang",
+          "ein ruhiges Kinderlied",
+          "gleichmässige Stille ohne Akzente",
+          "ein schneller Jodel mit Durklängen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Tiefe Lagen und Crescendi werden oft für Spannung oder Gefahr verwendet."
+      },
+      {
+        "frage": "Weshalb nutzen Werbespots oft eine eingängige kurze Melodie?",
+        "optionen": [
+          "Damit das Produkt leichter wiedererkannt wird",
+          "Weil Werbung keine Sprache enthalten darf",
+          "Damit der Spot automatisch länger wird",
+          "Weil nur klassische Musik erlaubt ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wiedererkennbare musikalische Motive bleiben leichter im Gedächtnis."
+      },
+      {
+        "frage": "Was ist ein sinnvoller Gehörschutz bei sehr lauten Konzerten?",
+        "optionen": [
+          "möglichst nah an die Lautsprecher stehen",
+          "nur kurz hinsehen",
+          "Ohrstöpsel tragen und Pausen machen",
+          "den Mund offen halten"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ohrstöpsel und Erholungspausen verringern die Belastung für das Gehör."
+      },
+      {
+        "frage": "Was kann nach zu lauter Musik ein Warnzeichen für eine Überlastung des Gehörs sein?",
+        "optionen": [
+          "kurze Müdigkeit in den Beinen",
+          "ein Pfeifen oder Rauschen im Ohr",
+          "mehr Hunger als sonst",
+          "eine tiefere Singstimme für immer"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein anhaltendes Pfeifen oder Rauschen kann ein Zeichen für Gehörstress sein."
+      },
+      {
+        "frage": "Wozu kann Musik bei einer Sportveranstaltung eingesetzt werden?",
+        "optionen": [
+          "um Energie, Gemeinschaftsgefühl und Rhythmus zu erzeugen",
+          "damit niemand mehr miteinander spricht",
+          "um die Regeln des Sports zu ersetzen",
+          "nur damit das Publikum sitzen bleibt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Rhythmische und bekannte Musik kann eine Menge aktivieren und verbinden."
+      },
+      {
+        "frage": "Welche Aussage zu Dur und Moll passt am besten?",
+        "optionen": [
+          "Dur klingt immer traurig, Moll immer fröhlich",
+          "Dur wird oft als heller, Moll oft als dunkler wahrgenommen",
+          "Dur und Moll haben nur mit Lautstärke zu tun",
+          "Nur Filmmusik kennt Dur und Moll"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Wirkung hängt vom Kontext ab, aber Dur und Moll werden oft unterschiedlich wahrgenommen."
+      },
+      {
+        "frage": "Warum kann Stille in einem Musikstück oder Film besonders stark wirken?",
+        "optionen": [
+          "Weil dann nichts mehr geplant werden muss",
+          "Weil sie Kontraste schafft und Aufmerksamkeit bündelt",
+          "Weil Stille automatisch lustig ist",
+          "Weil sie immer das Ende markiert"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Stille hebt Vorheriges und Nachfolgendes hervor und steigert oft die Spannung."
+      },
+      {
+        "frage": "Welche Nutzung von Musik passt gut zu einem Ritual oder einer Feier?",
+        "optionen": [
+          "Musik schafft gemeinsame Stimmung und Wiedererkennung",
+          "Musik macht Rituale grundsätzlich unmöglich",
+          "Musik darf dort nur leise zufällig laufen",
+          "Musik ersetzt jede Handlung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wiederkehrende Lieder oder Klänge können Gemeinschaft und Bedeutung stärken."
+      },
+      {
+        "frage": "Was ist bei Kopfhörern für den Gehörschutz sinnvoll?",
+        "optionen": [
+          "immer maximale Lautstärke",
+          "nur einen Hörer tragen, aber doppelt so laut",
+          "massvolle Lautstärke und Hörpausen",
+          "Bass maximal aufdrehen"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein bewusster Umgang mit Lautstärke schützt das Gehör langfristig."
+      }
+    ]
+  }
+}

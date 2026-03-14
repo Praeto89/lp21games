@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de6a1",
+  "kompetenz_code": "D.6.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Perspektivwechsel", "Innerer Monolog", "Historischer Vergleich", "Kreative Weiterführung"],
+    "elemente": [
+      { "text": "Eine Szene aus Sicht der Nebenfigur nacherzählen", "kategorie": 0 },
+      { "text": "Einen Brief aus der Sicht der Hauptfigur schreiben", "kategorie": 0 },
+      { "text": "Beweggründe einer Figur in einem Tagebucheintrag darstellen", "kategorie": 0 },
+      { "text": "Gedanken einer Figur in einer schwierigen Situation aufschreiben", "kategorie": 1 },
+      { "text": "Eine stumme Szene als Gedankenrede formulieren", "kategorie": 1 },
+      { "text": "Vor einer wichtigen Entscheidung die Gefühle einer Figur notieren", "kategorie": 1 },
+      { "text": "Informationen aus dem Buch mit einer historischen Quelle vergleichen", "kategorie": 2 },
+      { "text": "Ein Plakat mit Fakten zur dargestellten Zeit gestalten", "kategorie": 2 },
+      { "text": "Prüfen, welche Details im Roman historisch belegt sind", "kategorie": 2 },
+      { "text": "Eine Geschichte mit passendem Stil weiterschreiben", "kategorie": 3 },
+      { "text": "Ein Gedicht nach einem erkannten Muster selbst verfassen", "kategorie": 3 },
+      { "text": "Zu einem Textanfang eine eigene Szene ergänzen", "kategorie": 3 }
+    ]
+  }
+}

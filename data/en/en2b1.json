@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en2b1",
+  "kompetenz_code": "FS1E.2.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Lesen", "Während des Lesens", "Nach dem Lesen"],
+    "elemente": [
+      { "text": "Look at the title and headings first.", "kategorie": 0 },
+      { "text": "Activate what you already know about the topic.", "kategorie": 0 },
+      { "text": "Predict what the text might be about.", "kategorie": 0 },
+      { "text": "Underline key words and signal words.", "kategorie": 1 },
+      { "text": "Use pictures or captions to support understanding.", "kategorie": 1 },
+      { "text": "Guess unknown words from the context.", "kategorie": 1 },
+      { "text": "Ask who, what, when and where while reading.", "kategorie": 1 },
+      { "text": "Skip one difficult word if it is not important for the main idea.", "kategorie": 1 },
+      { "text": "Summarise the text in your own words.", "kategorie": 2 },
+      { "text": "Check whether your prediction was right.", "kategorie": 2 },
+      { "text": "Find the sentence that gives the main message.", "kategorie": 2 },
+      { "text": "Compare your answers with a partner.", "kategorie": 2 }
+    ]
+  }
+}

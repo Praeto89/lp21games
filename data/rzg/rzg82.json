@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg82",
+    "kompetenz_code":  "RZG.8.2",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne wichtige Stationen der Menschenrechtsgeschichte.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Magna Carta",
+                                                              "jahr":  "1215"
+                                                          },
+                                                          {
+                                                              "text":  "UnabhÃ¤ngigkeitserklÃ¤rung der USA",
+                                                              "jahr":  "1776"
+                                                          },
+                                                          {
+                                                              "text":  "ErklÃ¤rung der Menschen- und BÃ¼rgerrechte in Frankreich",
+                                                              "jahr":  "1789"
+                                                          },
+                                                          {
+                                                              "text":  "Erste Genfer Konvention",
+                                                              "jahr":  "1864"
+                                                          },
+                                                          {
+                                                              "text":  "GrÃ¼ndung der UNO",
+                                                              "jahr":  "1945"
+                                                          },
+                                                          {
+                                                              "text":  "Allgemeine ErklÃ¤rung der Menschenrechte",
+                                                              "jahr":  "1948"
+                                                          },
+                                                          {
+                                                              "text":  "UNO-Kinderrechtskonvention",
+                                                              "jahr":  "1989"
+                                                          },
+                                                          {
+                                                              "text":  "Internationaler Strafgerichtshof nimmt seine Arbeit auf",
+                                                              "jahr":  "2002"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

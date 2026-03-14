@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de3b1",
+  "kompetenz_code": "D.3.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Du bereitest einen Sachvortrag vor. Welcher erste Schritt ist am sinnvollsten?",
+        "optionen": [
+          "Ohne Planung direkt anfangen zu reden",
+          "Thema eingrenzen und geeignete Informationen auswählen",
+          "Nur ein Bild suchen",
+          "Die Schlussfolie zuerst auswendig lernen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für monologisches Sprechen braucht es eine Auswahl und Struktur der Inhalte."
+      },
+      {
+        "frage": "Welche Gliederung ist für eine kurze Präsentation am passendsten?",
+        "optionen": [
+          "Schluss - Hauptteil - Einstieg",
+          "Einstieg - Hauptteil - Schluss",
+          "Nur Hauptteil",
+          "Titel - Titel - Titel"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine klare Gliederung hilft Zuhörenden, dem Vortrag zu folgen."
+      },
+      {
+        "frage": "Was gehört eher in den Hauptteil eines informierenden Vortrags?",
+        "optionen": [
+          "Die Begrüssung",
+          "Belegte Informationen und verständliche Erklärungen",
+          "Die Verabschiedung",
+          "Ein zufälliger Witz ohne Bezug"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Hauptteil werden die zentralen Informationen geordnet präsentiert."
+      },
+      {
+        "frage": "Welche Aussage zeigt, dass jemand recherchierte Informationen gut strukturiert präsentiert?",
+        "optionen": [
+          "\"Zuerst erkläre ich die Ursache, danach die Folgen.\"",
+          "\"Ich sage einfach alles durcheinander.\"",
+          "\"Die Reihenfolge ist egal.\"",
+          "\"Ich lese nur einzelne Wörter vor.\""
+        ],
+        "korrekt": 0,
+        "erklaerung": "Signalwörter und klare Ordnung machen einen Vortrag verständlich."
+      },
+      {
+        "frage": "Was macht eine gute Visualisierung in einer Präsentation aus?",
+        "optionen": [
+          "Sie ist überfüllt mit Text",
+          "Sie unterstützt die wichtigsten Aussagen",
+          "Sie lenkt vom Thema ab",
+          "Sie ersetzt den gesprochenen Beitrag vollständig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Visualisierungen sollen Inhalte stützen, nicht überladen."
+      },
+      {
+        "frage": "Welche Formulierung zeigt eine sachliche Standardsprache?",
+        "optionen": [
+          "\"Ich habe null Bock auf das Thema.\"",
+          "\"Die Quelle zeigt drei zentrale Ursachen.\"",
+          "\"Das ist irgendwie mega wild.\"",
+          "\"Keine Ahnung, vielleicht stimmt es.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sachliche Standardsprache ist präzise und angemessen."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, bei einem Podcast oder Referat auf die Zielgruppe zu achten?",
+        "optionen": [
+          "Weil dann die Farbe der Folien egal wird",
+          "Weil Wortwahl und Erklärungen zur Zuhörerschaft passen müssen",
+          "Weil man dann keine Struktur mehr braucht",
+          "Weil nur Erwachsene eine Zielgruppe sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gute monologische Beiträge orientieren sich am Vorwissen der Zuhörenden."
+      },
+      {
+        "frage": "Was ist bei einem Schluss besonders wichtig?",
+        "optionen": [
+          "Ein klarer letzter Gedanke oder eine Zusammenfassung",
+          "Ein völlig neues Nebenthema",
+          "Noch einmal die Begrüssung",
+          "Ein unverständlicher Dialektausdruck"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein guter Schluss bündelt den Beitrag und macht den Vortrag rund."
+      }
+    ]
+  }
+}

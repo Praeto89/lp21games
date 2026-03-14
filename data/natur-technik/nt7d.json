@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "nt7d",
+  "kompetenz_code": "NT.7.4",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Viren", "Bakterien", "Prävention", "Behandlung"],
+    "elemente": [
+      { "text": "Grippe (Influenza) wird durch diesen Erregertyp verursacht", "kategorie": 0 },
+      { "text": "Streptokokken-Angina wird durch diesen Erregertyp verursacht", "kategorie": 1 },
+      { "text": "Impfungen trainieren das Immunsystem vorbeugend", "kategorie": 2 },
+      { "text": "Antibiotika wirken gezielt gegen bakterielle Infektionen", "kategorie": 3 },
+      { "text": "COVID-19 wird durch diesen Erregertyp verursacht", "kategorie": 0 },
+      { "text": "Regelmässiges Händewaschen reduziert die Ansteckungsgefahr", "kategorie": 2 },
+      { "text": "Salmonellen-Vergiftung wird durch diesen Erregertyp verursacht", "kategorie": 1 },
+      { "text": "Körperliche Ruhe unterstützt die Genesung", "kategorie": 3 },
+      { "text": "Masern werden durch diesen Erregertyp verursacht", "kategorie": 0 },
+      { "text": "Borreliose (durch Zecken) wird durch diesen Erregertyp verursacht", "kategorie": 1 },
+      { "text": "Ausreichend Schlaf stärkt die Immunabwehr", "kategorie": 2 },
+      { "text": "Der Placebo-Effekt kann die Wirkung von Medikamenten beeinflussen", "kategorie": 3 }
+    ]
+  }
+}

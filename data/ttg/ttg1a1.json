@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg1a1",
+  "kompetenz_code": "TTG.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welcher Einstieg passt am besten zu spielerischem und forschendem Handeln in TTG?",
+        "optionen": [
+          "Sofort das fertige Produkt exakt kopieren",
+          "Mehrere Materialien ausprobieren und Beobachtungen sammeln",
+          "Nur die Anleitung auswendig lernen",
+          "Erst am Schluss Fragen stellen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Forschendes Handeln beginnt mit Ausprobieren, Beobachten und Vergleichen. So entstehen eigene Ideen."
+      },
+      {
+        "frage": "Wie pruefst du am sinnvollsten, ob ein Stoff fuer eine Sporttasche geeignet ist?",
+        "optionen": [
+          "Nur die Farbe anschauen",
+          "Ihn biegen, belasten und mit anderen Stoffen vergleichen",
+          "Ihn sofort zerschneiden",
+          "Nur andere fragen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Materialtests wie Biegen, Reissen, Belasten oder Vergleichen liefern brauchbare Informationen fuer die Produktidee."
+      },
+      {
+        "frage": "Warum ist ein schneller Prototyp in einer Erkundungsphase hilfreich?",
+        "optionen": [
+          "Weil er immer schon das Endprodukt ist",
+          "Weil man Ideen frueh testen und verbessern kann",
+          "Weil dann keine Planung mehr noetig ist",
+          "Weil er nur aus teuren Materialien bestehen darf"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein einfacher Prototyp zeigt frueh, ob eine Idee funktioniert, und spart spaeter Zeit und Material."
+      },
+      {
+        "frage": "Welche Frage ist eine gute Forschungsfrage fuer den Unterricht?",
+        "optionen": [
+          "Was ist das schoenste Produkt der Welt?",
+          "Welches Material schuetzt ein Smartphone am besten vor Kratzern?",
+          "Wer gewinnt die naechste Fussball-WM?",
+          "Welche Lieblingsfarbe hat die Klasse?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine gute Forschungsfrage ist konkret und laesst sich durch Testen, Beobachten oder Vergleichen beantworten."
+      },
+      {
+        "frage": "Was zeigt spielerisches Experimentieren mit Draht besonders gut?",
+        "optionen": [
+          "Immer genau die gleiche Form nachbauen",
+          "Verschiedene Biegungen und Verbindungen testen",
+          "Nur ueber Draht lesen",
+          "Den Draht ohne Ziel wegwerfen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Experimentieren werden Moeglichkeiten erkundet. Unterschiedliche Biegungen und Verbindungen zeigen, was der Werkstoff kann."
+      },
+      {
+        "frage": "Welche Haltung ist beim forschenden Arbeiten mit Werkzeugen richtig?",
+        "optionen": [
+          "Sicherheitsregeln kennen und kontrolliert ausprobieren",
+          "Moeglichst schnell und ohne Schutz arbeiten",
+          "Nur andere arbeiten lassen",
+          "Werkzeuge beliebig einsetzen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Forschendes Handeln bedeutet nicht unkontrolliertes Handeln. Sicherheit gehoert immer dazu."
+      },
+      {
+        "frage": "Ein Material reagiert anders als erwartet. Was ist dann sinnvoll?",
+        "optionen": [
+          "Den Versuch sofort vergessen",
+          "Die Beobachtung notieren und die Idee anpassen",
+          "Behaupten, der Versuch sei trotzdem gelungen",
+          "Nie mehr mit diesem Material arbeiten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ueberraschende Resultate sind wertvoll. Sie helfen, Produkte gezielt weiterzuentwickeln."
+      },
+      {
+        "frage": "Wozu dient ein Materialjournal oder eine Versuchsnotiz?",
+        "optionen": [
+          "Nur zur Dekoration",
+          "Zum Festhalten von Eigenschaften, Tests und Ideen",
+          "Als Ersatz fuer jede praktische Arbeit",
+          "Nur fuer benotete Arbeiten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Notizen, Skizzen und Fotos machen Lernschritte sichtbar und helfen bei spaeteren Entscheidungen."
+      },
+      {
+        "frage": "Wie wird ein Vergleich zwischen zwei Materialien fair?",
+        "optionen": [
+          "Man testet sie unter moeglichst gleichen Bedingungen",
+          "Man waehlt einfach das teurere",
+          "Man fragt nur nach dem ersten Eindruck",
+          "Man testet nur eines davon"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nur bei gleichen Bedingungen lassen sich Materialeigenschaften sinnvoll vergleichen."
+      },
+      {
+        "frage": "Was ist in einer forschenden Gruppenarbeit besonders wichtig?",
+        "optionen": [
+          "Nur eine Person entscheidet alles",
+          "Aufgaben verteilen, Resultate vergleichen und gemeinsam auswerten",
+          "Jede Person arbeitet ohne Absprache",
+          "Nur das schoenste Ergebnis praesentieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gemeinsames Beobachten, Vergleichen und Auswerten verbessert die Qualitaet der Erkenntnisse."
+      }
+    ]
+  }
+}

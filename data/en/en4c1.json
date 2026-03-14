@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "en4c1",
+  "kompetenz_code": "FS1E.4.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche englische Übersetzung passt am besten zu: 'Bitte gib das Formular bis Montag ab.'",
+        "optionen": [
+          "Please hand in the form by Monday.",
+          "Please write the form on Monday.",
+          "Please keep the form until Friday.",
+          "Please lose the form today."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Etwas bis Montag abgeben' wird passend mit 'hand in ... by Monday' ausgedrückt."
+      },
+      {
+        "frage": "Welche Übersetzung passt zu: 'Im Anhang findest du die Fotos vom Ausflug.'",
+        "optionen": [
+          "You can buy the photos at the station.",
+          "The photos are hidden behind the table.",
+          "You will find the photos from the trip attached.",
+          "The trip starts with a photo."
+        ],
+        "korrekt": 2,
+        "erklaerung": "In E-Mails bedeutet 'im Anhang' auf Englisch 'attached'."
+      },
+      {
+        "frage": "Welche englische Aussage passt zu: 'Der Workshop fällt heute aus.'",
+        "optionen": [
+          "The workshop is cancelled today.",
+          "The workshop starts earlier today.",
+          "The workshop is full today.",
+          "The workshop moved upstairs today."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Fällt aus' wird hier korrekt mit 'is cancelled' wiedergegeben."
+      },
+      {
+        "frage": "Welche Übersetzung ist richtig für: 'Wir brauchen noch zwei Freiwillige für den Kuchenverkauf.'",
+        "optionen": [
+          "We still need two volunteers for the cake sale.",
+          "We have already sold two cakes today.",
+          "Two students must buy a cake now.",
+          "The cake sale ends in two minutes."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Freiwillige' heisst 'volunteers', 'Kuchenverkauf' hier 'cake sale'."
+      },
+      {
+        "frage": "Welche englische Formulierung passt zu: 'Das Schwimmbad ist wegen Reparaturen geschlossen.'",
+        "optionen": [
+          "The swimming pool is crowded because of repairs.",
+          "The swimming pool is open after repairs.",
+          "The swimming pool is closed because of repairs.",
+          "The swimming pool was built for repairs."
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Aussage nennt klar die Schliessung wegen Reparaturen."
+      },
+      {
+        "frage": "Welche Übersetzung passt zu: 'Vergiss nicht, deine Fahrkarte zu entwerten.'",
+        "optionen": [
+          "Don't forget to validate your ticket.",
+          "Don't forget to lose your ticket.",
+          "Don't forget to fold your ticket.",
+          "Don't forget to print a new passport."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Eine Fahrkarte entwerten' wird im öffentlichen Verkehr mit 'validate your ticket' ausgedrückt."
+      },
+      {
+        "frage": "Welche englische Aussage passt zu: 'Der Wettbewerb richtet sich an Jugendliche zwischen 13 und 16 Jahren.'",
+        "optionen": [
+          "The competition is only for teachers.",
+          "The competition is for teenagers aged 13 to 16.",
+          "The competition lasts 13 to 16 days.",
+          "The competition starts in classroom 16."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Hier geht es um die Zielgruppe des Wettbewerbs."
+      },
+      {
+        "frage": "Welche Übersetzung ist richtig für: 'Bei Fragen kannst du dich per E-Mail melden.'",
+        "optionen": [
+          "If you have any questions, you can contact us by email.",
+          "If you have any questions, you must phone at midnight.",
+          "If you have any questions, do not write anything.",
+          "If you have any questions, ask the website."
+        ],
+        "korrekt": 0,
+        "erklaerung": "'Sich per E-Mail melden' wird passend mit 'contact us by email' übertragen."
+      }
+    ]
+  }
+}

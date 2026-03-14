@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr3b2",
+  "kompetenz_code": "FS2F.3.B.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Du präsentierst den Satz « Quel beau soleil ! ». Welche Vortragsweise passt am besten?",
+        "optionen": [
+          "Freudig und mit betonter Stimme am Schluss",
+          "Leise und völlig monoton",
+          "Sehr langsam und traurig",
+          "Ohne auf das Ausrufezeichen zu achten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Ausruf zeigt Freude; die Stimme darf lebendig und betont klingen."
+      },
+      {
+        "frage": "Der Satz lautet: « Attention, le train arrive ! » Wie sollte er vorgetragen werden?",
+        "optionen": [
+          "Ruhig wie ein Schlaflied",
+          "Warnend und deutlich",
+          "Flüsternd und unsicher",
+          "Langweilig und ohne Betonung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "« Attention » ist ein Warnsignal und braucht eine klare, deutliche Betonung."
+      },
+      {
+        "frage": "In einem Gedicht steht: « La mer murmure doucement. » Welche Vortragsweise unterstützt die Wirkung?",
+        "optionen": [
+          "Sanft und eher langsam",
+          "Sehr laut und hektisch",
+          "Abgehackt und hart",
+          "Ohne Pausen und sehr schnell"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Satz beschreibt eine ruhige Meeresstimmung und passt zu einem sanften Vortrag."
+      },
+      {
+        "frage": "Warum helfen kurze Pausen beim Vorlesen eines Dialogs?",
+        "optionen": [
+          "Sie machen jeden Satz länger, aber nicht verständlicher.",
+          "Sie zeigen Rollenwechsel und machen den Text klarer.",
+          "Sie ersetzen die Aussprache.",
+          "Sie sind nur bei deutschen Texten nützlich."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Pausen markieren Sinnabschnitte und helfen dem Publikum beim Verstehen."
+      },
+      {
+        "frage": "Du liest: « Il entre... puis tout s'arrête. » Welche Wirkung passt?",
+        "optionen": [
+          "Eine kleine Pause verstärkt die Spannung.",
+          "Man sollte extra schnell weiterlesen.",
+          "Der Satz sollte neutral ohne jede Betonung klingen.",
+          "Am besten lacht man beim Vorlesen."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Punkte zeigen eine Verzögerung; eine Pause baut Spannung auf."
+      },
+      {
+        "frage": "Was verbessert das Vorlesen eines kurzen Informationstextes am meisten?",
+        "optionen": [
+          "Alle Wörter gleich schnell lesen",
+          "Schlüsselwörter deutlich betonen",
+          "Satzenden ignorieren",
+          "Möglichst leise sprechen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Deutlich betonte Schlüsselwörter helfen dem Publikum, den Inhalt schneller zu erfassen."
+      },
+      {
+        "frage": "Bei der Zeile « Je cours, je vole, je rêve » sollte die Stimme vor allem ...",
+        "optionen": [
+          "immer schwächer werden",
+          "Bewegung und Energie zeigen",
+          "langsam einschlafen",
+          "jeden Ausdruck gleichförmig lesen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Reihung der Verben erzeugt Dynamik; der Vortrag sollte diese Energie aufnehmen."
+      },
+      {
+        "frage": "Warum ist Blickkontakt bei einer einfachen Präsentation hilfreich?",
+        "optionen": [
+          "Weil man dann keinen Text mehr braucht",
+          "Weil das Publikum besser angesprochen wird",
+          "Weil Aussprache unwichtig wird",
+          "Weil dadurch längere Sätze automatisch korrekt sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Blickkontakt unterstützt die Verständlichkeit und schafft einen echten Präsentationsbezug."
+      }
+    ]
+  }
+}

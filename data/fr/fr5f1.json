@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5f1",
+  "kompetenz_code": "FS2F.5.F.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Ziele setzen", "Lernstrategien nutzen", "Fortschritt reflektieren"],
+    "elemente": [
+      { "text": "Diese Woche zehn neue Wörter zum Thema école lernen", "kategorie": 0 },
+      { "text": "Fragen im Restaurant sicher bilden können", "kategorie": 0 },
+      { "text": "Die Uhrzeiten auf Französisch fehlerfrei sagen", "kategorie": 0 },
+      { "text": "Vor einer Prüfung Lernzeit im Kalender eintragen", "kategorie": 1 },
+      { "text": "Neue Wörter mit Karteikarten üben", "kategorie": 1 },
+      { "text": "Wörter in kurzen Beispielsätzen laut sprechen", "kategorie": 1 },
+      { "text": "Audio und Text zusammen verwenden", "kategorie": 1 },
+      { "text": "Mit einer Ampel einschätzen: sicher, teils, unsicher", "kategorie": 2 },
+      { "text": "Nach einer Übung notieren, was noch schwierig ist", "kategorie": 2 },
+      { "text": "Prüfen, welche Wörter aktiv abrufbar sind", "kategorie": 2 },
+      { "text": "Ein kleines Fehlerprotokoll führen", "kategorie": 2 },
+      { "text": "Feedback aus der Partnerarbeit auswerten", "kategorie": 2 }
+    ]
+  }
+}

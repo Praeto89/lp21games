@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de5c1",
+  "kompetenz_code": "D.5.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Wortbildung", "Satzbau", "Pronomen", "Mundart und Standardsprache"],
+    "elemente": [
+      { "text": "Vorsilbe in \"unfreundlich\"", "kategorie": 0 },
+      { "text": "Nachmorphem in \"Freiheit\"", "kategorie": 0 },
+      { "text": "Kurzwort wie \"Abi\"", "kategorie": 0 },
+      { "text": "\"Weil es regnet, bleiben wir drinnen.\"", "kategorie": 1 },
+      { "text": "\"Danach gingen wir nach Hause.\"", "kategorie": 1 },
+      { "text": "Verbindung von Hauptsatz und Nebensatz", "kategorie": 1 },
+      { "text": "\"ich, du, wir\"", "kategorie": 2 },
+      { "text": "\"dieser, jene, mein\"", "kategorie": 2 },
+      { "text": "Wörter, die Nomen vertreten oder begleiten", "kategorie": 2 },
+      { "text": "\"Ich gehe nach Hause\" / \"Ich gang hei\"", "kategorie": 3 },
+      { "text": "Vergleich von Lautung in Dialekt und Standardsprache", "kategorie": 3 },
+      { "text": "Unterschiedlicher Satzbau in verschiedenen Sprachen oder Varietäten", "kategorie": 3 }
+    ]
+  }
+}

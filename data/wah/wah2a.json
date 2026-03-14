@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah2a",
+  "kompetenz_code": "WAH.2.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was passiert auf einem Markt meist, wenn die Nachfrage stark steigt, das Angebot aber gleich bleibt?",
+        "optionen": [
+          "Der Preis sinkt deutlich",
+          "Der Preis steigt eher",
+          "Das Produkt verschwindet automatisch",
+          "Der Lohn aller Verk\u00e4uferinnen und Verk\u00e4ufer halbiert sich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn viele Menschen ein knappes Gut kaufen wollen, steigt der Preis oft an."
+      },
+      {
+        "frage": "Welche Rolle spielen Haushalte im einfachen Wirtschaftskreislauf?",
+        "optionen": [
+          "Sie stellen nur Maschinen her",
+          "Sie bieten Arbeit an und kaufen G\u00fcter und Dienstleistungen",
+          "Sie drucken Geld f\u00fcr Unternehmen",
+          "Sie bestimmen allein alle Preise"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Haushalte arbeiten, erhalten Einkommen und nutzen dieses wieder f\u00fcr Konsum."
+      },
+      {
+        "frage": "Was bedeutet Wettbewerb in einer Marktwirtschaft?",
+        "optionen": [
+          "Es gibt nur einen einzigen Anbieter",
+          "Anbieter konkurrieren um Kundinnen und Kunden",
+          "Der Staat legt jeden Preis t\u00e4glich neu fest",
+          "Nur internationale Firmen d\u00fcrfen verkaufen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wettbewerb sorgt daf\u00fcr, dass Unternehmen Preise, Qualit\u00e4t und Angebote verbessern m\u00fcssen."
+      },
+      {
+        "frage": "Was beschreibt der Begriff Nachfrage?",
+        "optionen": [
+          "Die Anzahl leerer Regale im Laden",
+          "Den Wunsch und die M\u00f6glichkeit, etwas zu kaufen",
+          "Die Menge aller Werbeplakate",
+          "Die Anzahl der Produzentinnen und Produzenten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nachfrage bedeutet, dass Menschen ein Gut wollen und es auch bezahlen k\u00f6nnen."
+      },
+      {
+        "frage": "Welche Folge kann eine schlechte Apfelernte haben?",
+        "optionen": [
+          "Es gibt mehr Angebot und tiefere Preise",
+          "Es gibt weniger Angebot und oft h\u00f6here Preise",
+          "Apfelpreise bleiben gesetzlich immer gleich",
+          "Alle Haushalte kaufen automatisch Birnen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein kleineres Angebot f\u00fchrt bei gleichbleibender Nachfrage oft zu h\u00f6heren Preisen."
+      },
+      {
+        "frage": "Wozu dienen Preise in einer Marktwirtschaft auch?",
+        "optionen": [
+          "Sie sind ein Signal f\u00fcr Knappheit und Nachfrage",
+          "Sie ersetzen alle Gesetze",
+          "Sie haben nur f\u00fcr Banken Bedeutung",
+          "Sie zeigen nur die Lieblingsprodukte der Verk\u00e4ufer"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Preise zeigen, wie knapp etwas ist und wie stark es nachgefragt wird."
+      },
+      {
+        "frage": "Was ist eine Subvention?",
+        "optionen": [
+          "Ein Rabatt eines Ladens ohne Bedingungen",
+          "Eine staatliche finanzielle Unterst\u00fctzung f\u00fcr bestimmte Bereiche",
+          "Eine Strafe f\u00fcr teure Produkte",
+          "Ein Vertrag zwischen zwei Jugendlichen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Subventionen k\u00f6nnen Branchen oder Produkte gezielt f\u00f6rdern."
+      },
+      {
+        "frage": "Warum kann ein Monopol problematisch sein?",
+        "optionen": [
+          "Weil dann sehr viele Anbieter im Wettbewerb stehen",
+          "Weil ein einzelner Anbieter viel Marktmacht besitzt",
+          "Weil Produkte dann immer kostenlos sind",
+          "Weil Kundinnen und Kunden dann nichts mehr nachfragen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gibt es kaum Konkurrenz, kann ein Anbieter Preise und Bedingungen leichter diktieren."
+      },
+      {
+        "frage": "Welche Massnahme ist ein Beispiel f\u00fcr staatliche Regeln in der Marktwirtschaft?",
+        "optionen": [
+          "Ein Werbespot im Kino",
+          "Eine Umweltabgabe auf besonders sch\u00e4dliche Produkte",
+          "Eine private Taschengeldliste",
+          "Ein Einkaufszettel f\u00fcr die Woche"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Staat setzt Rahmenbedingungen, damit M\u00e4rkte nicht nur nach dem billigsten Preis funktionieren."
+      },
+      {
+        "frage": "Warum kaufen Unternehmen Maschinen oder bilden Mitarbeitende weiter?",
+        "optionen": [
+          "Um langfristig besser produzieren zu k\u00f6nnen",
+          "Nur um Preise zuf\u00e4llig zu ver\u00e4ndern",
+          "Damit sie keine Kundschaft mehr brauchen",
+          "Weil Haushalte sonst kein Einkommen erhalten d\u00fcrfen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Investitionen helfen Unternehmen, effizienter zu arbeiten und sich weiterzuentwickeln."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "de5e1",
+  "kompetenz_code": "D.5.E.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Beim {Essen} sprechen wir nicht mit vollem Mund.",
+        "hinweise": ["nominalisiertes Verb", "nach Präposition und Artikel gross"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Nach dem {Schwimmen} trocknen wir uns gut ab.",
+        "hinweise": ["nominalisiertes Verb", "beginnt mit Sch-"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Sehr geehrte Frau Meier, könnten {Sie} mir bitte antworten?",
+        "hinweise": ["Höflichkeitspronomen", "wird grossgeschrieben"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Die tägliche {Bewegung} tut Körper und Geist gut.",
+        "hinweise": ["Nomen mit Nachmorphem", "endet auf -ung"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Die {Entdeckung} im Labor überraschte die ganze Klasse.",
+        "hinweise": ["Nomen", "endet auf -ung"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Das schwierige Wort {Rhythmus} finde ich im Wörterbuch.",
+        "hinweise": ["schwierige Laut-Buchstaben-Zuordnung", "mit y und th"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Vor dem {Abwaschen} räumen wir zuerst den Tisch leer.",
+        "hinweise": ["nominalisiertes Verb", "nach Präposition und Artikel gross"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      },
+      {
+        "text": "Ihre grösste {Freiheit} ist die Wahl des eigenen Weges.",
+        "hinweise": ["Nomen mit Nachmorphem", "endet auf -heit"],
+        "anweisung": "Fülle die Lücke mit der regelgerechten Form."
+      }
+    ]
+  }
+}

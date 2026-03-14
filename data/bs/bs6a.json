@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs6a",
+  "kompetenz_code": "BS.6.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist ein typisches Merkmal des Kraulschwimmens?",
+        "optionen": [
+          "Beide Arme ziehen gleichzeitig unter Wasser",
+          "Abwechselnde Armzüge mit seitlicher Atmung",
+          "Nur die Beine bewegen sich",
+          "Der Kopf bleibt dauerhaft über Wasser"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Kraul wechseln die Armzüge, und die Atmung wird rhythmisch seitlich eingebaut."
+      },
+      {
+        "frage": "Worauf achtest du beim Brustschwimmen besonders?",
+        "optionen": [
+          "Auf eine Gleitphase nach Zug und Beinschlag",
+          "Auf dauerhaft hektische Bewegungen",
+          "Auf Atmung nur alle fünf Züge",
+          "Auf gestreckte Knie beim Beinschlag"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beim Brustschwimmen sind Zug, Atmung, Beinschlag und eine kurze Gleitphase wichtig."
+      },
+      {
+        "frage": "Welcher Vorteil gehört zum Rückenschwimmen?",
+        "optionen": [
+          "Man sieht den Beckenboden besonders gut",
+          "Das Gesicht bleibt über Wasser und die Atmung ist frei",
+          "Die Arme bleiben immer still",
+          "Es gibt keinen Beinschlag"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Rückenschwimmen bleibt das Gesicht über Wasser, was die Atmung erleichtert."
+      },
+      {
+        "frage": "Warum ist die Stromlinienlage nach dem Abstossen sinnvoll?",
+        "optionen": [
+          "Sie vergrössert den Wasserwiderstand",
+          "Sie macht das Gleiten effizienter",
+          "Sie ist nur im Wettkampf erlaubt",
+          "Sie ersetzt die Armbewegung vollständig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine gestreckte Stromlinienlage verringert den Wasserwiderstand und verbessert das Gleiten."
+      },
+      {
+        "frage": "Wie atmest du beim Schwimmen kontrolliert?",
+        "optionen": [
+          "Unter Wasser ruhig ausatmen und zum Einatmen kurz auftauchen oder drehen",
+          "Die Luft so lange wie möglich anhalten",
+          "Nur vor dem Start einmal tief einatmen",
+          "Möglichst hektisch über Wasser ausatmen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kontrolliertes Ausatmen im Wasser erleichtert den nächsten Atemzug."
+      },
+      {
+        "frage": "Was zeigt, dass jemand sicher schwimmt?",
+        "optionen": [
+          "Die Person kann sich nur am Rand halten",
+          "Die Person bewegt sich kontrolliert fort und bleibt auch bei Ermüdung handlungsfähig",
+          "Die Person springt sofort ins tiefe Wasser",
+          "Die Person taucht nur kurz unter"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sicher schwimmen bedeutet, kontrolliert und ausdauernd im Wasser handlungsfähig zu bleiben."
+      },
+      {
+        "frage": "Wozu dienen Technikübungen wie Beinschlag mit Brett?",
+        "optionen": [
+          "Sie machen Schwimmen unnötig",
+          "Sie trainieren einzelne Bewegungsanteile gezielt",
+          "Sie ersetzen jedes Ausdauertraining",
+          "Sie sind nur für Kinder im ersten Zyklus"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Teilübungen helfen, einzelne technische Merkmale gezielt zu verbessern."
+      },
+      {
+        "frage": "Was solltest du vor dem Schwimmen im tiefen Wasser beachten?",
+        "optionen": [
+          "Nur, ob das Wasser warm ist",
+          "Ob du die Strecke, Tiefe und deine eigene Sicherheit einschätzen kannst",
+          "Ob andere gerade zuschauen",
+          "Ob du möglichst schnell losschwimmen kannst"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zur Sicherheit gehört, Strecke, Tiefe und die eigene Leistungsfähigkeit realistisch einzuschätzen."
+      },
+      {
+        "frage": "Wie verhältst du dich bei ersten Anzeichen eines Krampfes?",
+        "optionen": [
+          "Ich tauche sofort ab",
+          "Ich bleibe möglichst ruhig, sichere mich und rufe bei Bedarf Hilfe",
+          "Ich schwimme noch schneller weiter",
+          "Ich ignoriere das Problem"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ruhe, Selbstsicherung und Hilfe holen sind bei Problemen im Wasser entscheidend."
+      },
+      {
+        "frage": "Welche Aussage zur Verbesserung der Schwimmtechnik ist richtig?",
+        "optionen": [
+          "Nur Geschwindigkeit zählt",
+          "Rückmeldungen und wiederholtes Üben verbessern die Technik",
+          "Technik verändert sich von selbst",
+          "Technik spielt nur bei Wettkämpfen eine Rolle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Technische Sicherheit entsteht durch bewusstes Üben und gezielte Rückmeldungen."
+      }
+    ]
+  }
+}

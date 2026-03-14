@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de2c1",
+  "kompetenz_code": "D.2.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Im Text sagt Lea: \"Schon gut\", ballt aber die Fäuste und schaut weg. Was lässt sich erschliessen?",
+        "optionen": [
+          "Lea freut sich ehrlich",
+          "Lea ist wahrscheinlich verletzt oder wütend",
+          "Lea hat nichts gehört",
+          "Lea liest gerade ein Sachbuch"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei literarischen Texten muss man oft zwischen den Zeilen lesen und Hinweise deuten."
+      },
+      {
+        "frage": "Eine Figur gibt ihren letzten Keks ab, obwohl sie selbst Hunger hat. Welche Eigenschaft passt am besten?",
+        "optionen": [
+          "Neidisch",
+          "Hilfsbereit",
+          "Vergesslich",
+          "Unpünktlich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Das Verhalten zeigt Rücksicht und Hilfsbereitschaft."
+      },
+      {
+        "frage": "Warum ist der Satz \"Der Schulhof lag still wie vor einem Gewitter\" eher literarisch als sachlich?",
+        "optionen": [
+          "Weil er ein sprachliches Bild benutzt",
+          "Weil er eine Tabelle enthält",
+          "Weil er nur Fakten aufzählt",
+          "Weil er eine Anleitung ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Vergleich erzeugt Stimmung und ist typisch für literarische Sprache."
+      },
+      {
+        "frage": "Eine Geschichte endet offen. Was bedeutet das?",
+        "optionen": [
+          "Es fehlen zufällig die letzten Seiten",
+          "Der Ausgang bleibt bewusst offen und kann verschieden gedeutet werden",
+          "Die Geschichte ist automatisch falsch",
+          "Nur Sachtexte dürfen offen enden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Offene Enden laden dazu ein, eigene Deutungen zu entwickeln."
+      },
+      {
+        "frage": "Was hilft am meisten, die Absicht einer Figur zu verstehen?",
+        "optionen": [
+          "Nur den Titel lesen",
+          "Figurenrede, Handlungen und Reaktionen anderer Figuren beachten",
+          "Nur auf die Seitenzahl schauen",
+          "Den Text mit einem Diagramm verwechseln"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Absichten werden in literarischen Texten oft indirekt durch Handlungen und Sprache sichtbar."
+      },
+      {
+        "frage": "Jemand liest besonders gern spannende Geschichten über Freundschaften. Was zeigt das in Bezug auf literarische Texte?",
+        "optionen": [
+          "Ein persönliches Leseinteresse",
+          "Eine Rechtschreibregel",
+          "Eine Tabellenkompetenz",
+          "Eine mathematische Strategie"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eigene Vorlieben bei Büchern zu kennen gehört zur Auseinandersetzung mit Literatur."
+      },
+      {
+        "frage": "Welche Aussage ist eine begründete Meinung zu einem literarischen Text?",
+        "optionen": [
+          "\"Das Buch ist schlecht, einfach so.\"",
+          "\"Ich mochte den Text, weil die Hauptfigur glaubwürdig auf den Konflikt reagiert.\"",
+          "\"Der Text hat Seiten.\"",
+          "\"Alle müssen diesen Text gleich finden.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine begründete Meinung stützt sich auf Beobachtungen im Text."
+      },
+      {
+        "frage": "Warum kann man Figuren nicht immer direkt als \"gut\" oder \"böse\" bezeichnen?",
+        "optionen": [
+          "Weil literarische Figuren oft widersprüchlich und vielschichtig sind",
+          "Weil Bücher keine Figuren enthalten",
+          "Weil nur der Autor entscheiden darf",
+          "Weil man in Geschichten nie urteilen darf"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Literarische Figuren haben oft mehrere Motive und Eigenschaften."
+      }
+    ]
+  }
+}

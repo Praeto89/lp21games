@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bo3a",
+  "kompetenz_code": "BO.3.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wozu dient eine Pro-und-Contra-Liste bei der Berufswahl?",
+        "optionen": [
+          "Sie ersetzt jede praktische Erfahrung.",
+          "Sie hilft, Vor- und Nachteile von Möglichkeiten sichtbar zu machen.",
+          "Sie zeigt nur den höchsten Lohn.",
+          "Sie entscheidet automatisch."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine Pro-und-Contra-Liste ist eine Entscheidungshilfe, um Kriterien bewusst zu vergleichen."
+      },
+      {
+        "frage": "Was bedeutet es, Prioritäten zu setzen?",
+        "optionen": [
+          "Alle Kriterien gleich wichtig zu finden",
+          "Zu entscheiden, welche Kriterien für einen selbst besonders wichtig sind",
+          "Nur auf die Meinung anderer zu hören",
+          "Sich nur auf den Wohnort zu konzentrieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Prioritäten geht es darum, persönliche Hauptkriterien wie Interessen, Arbeitsweise oder Anforderungen bewusst zu gewichten."
+      },
+      {
+        "frage": "Warum ist es sinnvoll, mindestens drei mögliche Berufe genauer zu prüfen?",
+        "optionen": [
+          "Weil man dann nie entscheiden muss",
+          "Weil Vergleiche leichter werden und Alternativen offen bleiben",
+          "Weil drei Berufe immer gleich passend sind",
+          "Weil eine Bewerbung nur für drei Berufe erlaubt ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mehrere Optionen helfen, Kriterien anzuwenden, Unterschiede zu erkennen und bei Bedarf Alternativen zu haben."
+      },
+      {
+        "frage": "Welcher Schritt zeigt eine gute Standortbestimmung?",
+        "optionen": [
+          "Ich vergleiche mein Persönlichkeitsprofil mit Anforderungen von Berufen.",
+          "Ich warte, bis andere entscheiden.",
+          "Ich wähle den erstbesten Beruf.",
+          "Ich ignoriere alle Rückmeldungen."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Standortbestimmung verbindet das eigene Profil mit Informationen zu Bildungswegen, Berufen und Arbeitswelt."
+      },
+      {
+        "frage": "Was bedeutet 'gegenüber Alternativen offen bleiben'?",
+        "optionen": [
+          "Sich nie festlegen",
+          "Neben dem Favoriten passende weitere Möglichkeiten mitdenken",
+          "Jede Woche einen neuen Traumberuf wählen",
+          "Gar keine Ziele setzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Offen für Alternativen zu bleiben bedeutet, eine begründete Hauptwahl zu treffen und zugleich realistische weitere Wege mitzudenken."
+      },
+      {
+        "frage": "Wann ist ein Entscheidungsbaum besonders nützlich?",
+        "optionen": [
+          "Wenn man mögliche Folgen verschiedener Entscheidungen durchdenken will",
+          "Wenn man nur nach Gefühl handeln möchte",
+          "Wenn man keine Kriterien festlegen will",
+          "Wenn man bereits einen unterschriebenen Lehrvertrag hat"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Entscheidungsbaum hilft, verschiedene Wege und deren mögliche Folgen systematisch zu durchdenken."
+      },
+      {
+        "frage": "Welche Aussage zeigt konsequentes Weiterverfolgen eines Ziels?",
+        "optionen": [
+          "Ich informiere mich nicht mehr weiter.",
+          "Ich sammle Rückmeldungen, organisiere Schnupperlehren und passe mein Dossier an.",
+          "Ich ändere jeden Tag ohne Grund meinen Favoriten.",
+          "Ich bewerbe mich ohne die Anforderungen zu lesen."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Konsequentes Weiterverfolgen heisst, nach einer begründeten Auswahl passende nächste Schritte zu planen und umzusetzen."
+      },
+      {
+        "frage": "Welche Begründung für eine Berufsauswahl ist am stärksten?",
+        "optionen": [
+          "Ich mag das Logo des Betriebs.",
+          "Meine Auswahl passt zu meinen Interessen, meinen Fähigkeiten und den Rückmeldungen aus der Praxis.",
+          "Alle in meiner Klasse finden den Beruf cool.",
+          "Der Beruf klingt schwierig."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine tragfähige Entscheidung stützt sich auf persönliche Kriterien, Informationen und praktische Erfahrungen."
+      },
+      {
+        "frage": "Wie geht man sinnvoll mit widersprüchlichen Informationen um, zum Beispiel nach einer Schnupperlehre?",
+        "optionen": [
+          "Man ignoriert die Widersprüche.",
+          "Man prüft die Gründe, vergleicht weitere Informationen und denkt Alternativen mit.",
+          "Man entscheidet sofort aus Frust.",
+          "Man hört ganz auf, sich zu informieren."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Widersprüche sollten analysiert werden. Zusätzliche Abklärungen und Alternativen helfen, eine realistische Entscheidung zu treffen."
+      },
+      {
+        "frage": "Welche Reflexionsfrage passt am besten nach einem Entscheid?",
+        "optionen": [
+          "Welche Gründe sprechen für meinen Entscheid, und welche Alternativen halte ich offen?",
+          "Wie kann ich alle Kriterien gleichzeitig ignorieren?",
+          "Wie entscheide ich möglichst zufällig?",
+          "Wie vermeide ich jede Rückmeldung?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Zur Reflexion gehört, die eigene Wahl zu begründen und gleichzeitig mögliche Alternativen bewusst im Blick zu behalten."
+      }
+    ]
+  }
+}

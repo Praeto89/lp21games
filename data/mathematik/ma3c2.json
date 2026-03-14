@@ -1,0 +1,60 @@
+{
+  "kompetenz_id": "ma3c2",
+  "kompetenz_code": "MA.3.C.2",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 240,
+    "aufgaben": [
+      {
+        "aufgabe": "Ein Taxi kostet 6 CHF Grundtaxe und 3 CHF pro km. Wie viel kostet eine Fahrt über 4 km?",
+        "loesung": "18",
+        "hinweis": "Setze in Grundtaxe + Preis pro km · Kilometer ein."
+      },
+      {
+        "aufgabe": "Wie groß ist die Fläche eines Zimmers mit 4.5 m Länge und 3.2 m Breite?",
+        "loesung": "14.4",
+        "hinweis": "Berechne Länge mal Breite."
+      },
+      {
+        "aufgabe": "Ein Auto fährt 180 km in 2 Stunden. Wie groß ist die Durchschnittsgeschwindigkeit in km/h?",
+        "loesung": "90",
+        "hinweis": "Geschwindigkeit = Strecke : Zeit."
+      },
+      {
+        "aufgabe": "5 kg Orangen kosten 17.5 CHF. Wie viel kosten 3 kg?",
+        "loesung": "10.5",
+        "hinweis": "Bestimme zuerst den Preis pro kg."
+      },
+      {
+        "aufgabe": "Ein Tarif kostet 20 CHF Grundgebühr und 0.1 CHF pro Minute. Was kostet er bei 45 Minuten?",
+        "loesung": "24.5",
+        "hinweis": "Berechne zuerst den Minutenpreis."
+      },
+      {
+        "aufgabe": "Ein Bus hat 40 Plätze, 30 sind besetzt. Wie viel Prozent der Plätze sind besetzt?",
+        "loesung": "75",
+        "hinweis": "30 von 40 entspricht 3/4."
+      },
+      {
+        "aufgabe": "Ein Auto verbraucht 2.4 l pro 100 km. Wie viel verbraucht es auf 250 km?",
+        "loesung": "6",
+        "hinweis": "250 km sind das 2.5-Fache von 100 km."
+      },
+      {
+        "aufgabe": "Ein Modell hat den Maßstab 1:100. Ein Haus ist in Wirklichkeit 8 m lang. Wie lang ist das Modell in cm?",
+        "loesung": "8",
+        "hinweis": "Wandle 8 m zuerst in cm um."
+      },
+      {
+        "aufgabe": "Auf 800 CHF gibt es 2 % Jahreszins. Wie viel Zins erhält man in einem Jahr?",
+        "loesung": "16",
+        "hinweis": "Zins = Kapital · Zinssatz."
+      },
+      {
+        "aufgabe": "12 Hefte kosten 18 CHF. Wie viel kosten 5 Hefte?",
+        "loesung": "7.5",
+        "hinweis": "Bestimme den Preis pro Heft."
+      }
+    ]
+  }
+}

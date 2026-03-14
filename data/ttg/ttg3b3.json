@@ -1,0 +1,81 @@
+{
+  "kompetenz_id": "ttg3b3",
+  "kompetenz_code": "TTG.3.B.3",
+  "typ": "sortieren",
+  "spiel": {
+    "aufgaben": [
+      {
+        "anweisung": "Ordne den Weg einer Baumwolltasche.",
+        "elemente": [
+          "Baumwolle anbauen und ernten",
+          "Garn und Stoff herstellen",
+          "Tasche naehen und nutzen",
+          "Weiterverwenden, reparieren oder recyceln"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Produktkreislauf einer PET-Flasche.",
+        "elemente": [
+          "Kunststoff herstellen",
+          "Flasche produzieren",
+          "Flasche nutzen",
+          "Sammeln und recyceln"
+        ]
+      },
+      {
+        "anweisung": "Wie verlaeuft der Weg eines Holzprodukts?",
+        "elemente": [
+          "Holz gewinnen",
+          "Bretter oder Platten bearbeiten",
+          "Produkt herstellen und gebrauchen",
+          "Reparieren, wiederverwenden oder stofflich verwerten"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Lebensweg eines Wollpullovers.",
+        "elemente": [
+          "Wolle gewinnen",
+          "Garn spinnen und Stoff oder Maschen herstellen",
+          "Pullover tragen und pflegen",
+          "Weitergeben, umarbeiten oder verwerten"
+        ]
+      },
+      {
+        "anweisung": "Ordne die Stationen eines Papierhefts.",
+        "elemente": [
+          "Holzfasern oder Altpapier aufbereiten",
+          "Papier herstellen",
+          "Heft nutzen",
+          "Im Altpapier sammeln und recyceln"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Produktkreislauf einer Aluminiumdose.",
+        "elemente": [
+          "Rohstoff gewinnen",
+          "Dose formen und befuellen",
+          "Getraenk konsumieren",
+          "Dose sammeln und einschmelzen"
+        ]
+      },
+      {
+        "anweisung": "Wie verlaeuft der Weg eines Glasbehaelters?",
+        "elemente": [
+          "Rohstoffe fuer Glas mischen",
+          "Glasbehaelter herstellen",
+          "Behaelter nutzen",
+          "Altglas sammeln und neu einschmelzen"
+        ]
+      },
+      {
+        "anweisung": "Ordne den Lebensweg einer Jeans.",
+        "elemente": [
+          "Baumwolle zu Denim verarbeiten",
+          "Jeans naehen und ausruesten",
+          "Jeans tragen und pflegen",
+          "Weitertragen, flicken oder verwerten"
+        ]
+      }
+    ]
+  }
+}

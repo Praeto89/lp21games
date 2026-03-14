@@ -1,0 +1,92 @@
+{
+  "kompetenz_id": "en3b1",
+  "kompetenz_code": "FS1E.3.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Which opening is best for a short talk about your hobby?",
+        "optionen": [
+          "You know nothing about this, but listen anyway.",
+          "Today I'd like to tell you about my favourite hobby.",
+          "This will be random and probably too long.",
+          "I forgot my topic, so never mind."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein klarer Einstieg nennt Thema und Richtung des Vortrags."
+      },
+      {
+        "frage": "Which linking words help listeners follow a presentation?",
+        "optionen": ["First, then, finally", "Maybe, somehow, anyway", "Wow, oops, haha", "Fast, faster, fastest"],
+        "korrekt": 0,
+        "erklaerung": "Solche Signale strukturieren einen zusammenhängenden Beitrag."
+      },
+      {
+        "frage": "Why is it useful to give an example in a short talk?",
+        "optionen": [
+          "It makes your idea clearer for the audience.",
+          "It always makes the talk shorter.",
+          "It lets you skip the main point.",
+          "It replaces every conclusion."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beispiele machen Aussagen konkreter und verständlicher."
+      },
+      {
+        "frage": "If you forget one word while speaking, what is a good strategy?",
+        "optionen": [
+          "Stop talking immediately.",
+          "Switch to German for the whole talk.",
+          "Paraphrase the idea with simpler English.",
+          "Skip to the last sentence without warning."
+        ],
+        "korrekt": 2,
+        "erklaerung": "Mit Umschreibungen kann man flüssig weitersprechen."
+      },
+      {
+        "frage": "What should a conclusion do in a short presentation?",
+        "optionen": [
+          "Introduce a completely new topic",
+          "Repeat every sentence word for word",
+          "Summarise the main point",
+          "List random details"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein Schluss bündelt die wichtigste Aussage noch einmal."
+      },
+      {
+        "frage": "How should you describe a process like baking muffins?",
+        "optionen": [
+          "In a clear order from beginning to end",
+          "Only with single words",
+          "Backwards from the final result",
+          "Without any time words"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Abläufe werden verständlich, wenn sie logisch geordnet sind."
+      },
+      {
+        "frage": "What kind of notes are most helpful for a short talk?",
+        "optionen": [
+          "A full script in tiny writing",
+          "Only one word for the whole talk",
+          "Key words and short prompts",
+          "No notes and no practice"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Stichworte helfen beim freien Sprechen, ohne den Blick dauernd zu senken."
+      },
+      {
+        "frage": "Why is eye contact useful in monological speaking?",
+        "optionen": [
+          "It helps you ignore the audience.",
+          "It keeps the audience engaged and shows confidence.",
+          "It replaces a clear structure.",
+          "It means you never need notes."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Blickkontakt unterstützt Verständlichkeit und Kontakt zum Publikum."
+      }
+    ]
+  }
+}

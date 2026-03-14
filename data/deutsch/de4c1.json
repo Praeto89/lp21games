@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de4c1",
+  "kompetenz_code": "D.4.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Schreibauftrag klären", "Ideen sammeln", "Ordnen und strukturieren", "Recherchieren"],
+    "elemente": [
+      { "text": "Zielgruppe und Schreibziel bestimmen", "kategorie": 0 },
+      { "text": "Textsorte und Abgabetermin festhalten", "kategorie": 0 },
+      { "text": "Wichtige Vorgaben aus dem Auftrag markieren", "kategorie": 0 },
+      { "text": "Mindmap zum Thema erstellen", "kategorie": 1 },
+      { "text": "Stichwörter frei notieren", "kategorie": 1 },
+      { "text": "Fragen sammeln, die der Text beantworten soll", "kategorie": 1 },
+      { "text": "Ideen in Hauptpunkte und Unterpunkte gliedern", "kategorie": 2 },
+      { "text": "Eine sinnvolle Reihenfolge für Abschnitte festlegen", "kategorie": 2 },
+      { "text": "Passende Überschriften für Teile finden", "kategorie": 2 },
+      { "text": "Informationen in Büchern oder seriösen Websites prüfen", "kategorie": 3 },
+      { "text": "Quellen notieren", "kategorie": 3 },
+      { "text": "Geeignete Beispiele und Belege auswählen", "kategorie": 3 }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr2b1",
+  "kompetenz_code": "FS2F.2.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Vor dem Lesen", "Beim Lesen", "Nach dem Lesen"],
+    "elemente": [
+      { "text": "Titel, Bilder und Überschriften anschauen", "kategorie": 0 },
+      { "text": "Fragen an den Text formulieren", "kategorie": 0 },
+      { "text": "Vermutungen zum Inhalt bilden", "kategorie": 0 },
+      { "text": "Schlüsselwörter markieren", "kategorie": 1 },
+      { "text": "Unbekannte Wörter aus dem Kontext erschliessen", "kategorie": 1 },
+      { "text": "Auf Signalwörter wie parce que, mais oder puis achten", "kategorie": 1 },
+      { "text": "Wichtige Informationen notieren", "kategorie": 1 },
+      { "text": "Zwischen Hauptaussage und Detail unterscheiden", "kategorie": 1 },
+      { "text": "Den Text in ein bis zwei Sätzen zusammenfassen", "kategorie": 2 },
+      { "text": "Mit anderen Lesestrategien aus Deutsch oder Englisch vergleichen", "kategorie": 2 },
+      { "text": "Überprüfen, ob die Anfangsvermutung stimmt", "kategorie": 2 },
+      { "text": "Klären, welche Textstellen noch unverständlich sind", "kategorie": 2 }
+    ]
+  }
+}

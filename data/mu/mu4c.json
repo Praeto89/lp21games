@@ -1,0 +1,41 @@
+{
+  "kompetenz_id": "mu4c",
+  "kompetenz_code": "MU.4.C.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      {
+        "a": "Viertelnote",
+        "b": "dauert im 4/4-Takt einen Schlag"
+      },
+      {
+        "a": "Auftakt",
+        "b": "ist ein unvollständiger Beginn vor dem ersten vollen Takt"
+      },
+      {
+        "a": "Refrain",
+        "b": "ist der wiederkehrende Teil eines Liedes"
+      },
+      {
+        "a": "Strophe",
+        "b": "trägt meist wechselnden Text bei gleicher Melodie"
+      },
+      {
+        "a": "Ostinato",
+        "b": "ist ein wiederholtes rhythmisches oder melodisches Muster"
+      },
+      {
+        "a": "Crescendo",
+        "b": "bedeutet allmählich lauter werden"
+      },
+      {
+        "a": "Fermate",
+        "b": "zeigt an, dass ein Ton oder eine Pause gehalten wird"
+      },
+      {
+        "a": "Taktart",
+        "b": "ordnet Schläge in regelmässige Gruppen"
+      }
+    ]
+  }
+}

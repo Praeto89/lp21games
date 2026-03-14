@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg3a1",
+  "kompetenz_code": "TTG.3.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Materialwahl unterstuetzt einen ruhigen, weichen Ausdruck am ehesten?",
+        "optionen": [
+          "Scharfkantiges Blech",
+          "Weicher Filz mit sanften Formen",
+          "Nur harte Metallstangen",
+          "Nur grelle Warnfarben"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Weiche Materialien und sanfte Formen koennen Ruhe, Waerme oder Schutz ausdruecken."
+      },
+      {
+        "frage": "Was bedeutet 'eigener Ausdruck' in TTG?",
+        "optionen": [
+          "Nur bestehende Vorlagen genau nachbauen",
+          "Mit Material, Form und Wirkung eine eigene Aussage gestalten",
+          "Nur technische Regeln wiederholen",
+          "Auf jede Begruendung verzichten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eigener Ausdruck entsteht, wenn Gestaltungsmittel bewusst fuer eine persoenliche Aussage eingesetzt werden."
+      },
+      {
+        "frage": "Wie kann Bewegung in einem Objekt sichtbar werden?",
+        "optionen": [
+          "Durch starre, identische Teile ohne Richtung",
+          "Durch Linienfuehrung, Wiederholung und dynamische Form",
+          "Nur durch einen langen Text",
+          "Nur durch den Produktnamen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Dynamische Formen, Richtungen und Wiederholungen lassen Bewegung erkennbar werden."
+      },
+      {
+        "frage": "Welche Entscheidung hilft, Spannung auszudruecken?",
+        "optionen": [
+          "Starke Kontraste und ungleiche Formen einsetzen",
+          "Alles gleich gross und gleich weit auseinander setzen",
+          "Nur neutrale Mittelwerte waehlen",
+          "Jede Oberflaeche gleich behandeln"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kontraste in Form, Farbe oder Material koennen Spannung und Energie vermitteln."
+      },
+      {
+        "frage": "Warum ist das Anfassen und Bewegen von Material wichtig?",
+        "optionen": [
+          "Weil Material nur durch Theorie verstanden wird",
+          "Weil koerperliche Erfahrungen helfen, Wirkung bewusst zu nutzen",
+          "Weil dadurch keine Planung mehr noetig ist",
+          "Weil dann alle Produkte gleich werden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Materialerfahrungen mit Haenden und Bewegung machen Unterschiede direkt spuerbar und gestaltbar."
+      },
+      {
+        "frage": "Welche Kombination wirkt eher leicht und durchlaessig?",
+        "optionen": [
+          "Dicht verschraubte Metallplatten",
+          "Transparente Flaechen und offene Strukturen",
+          "Dicke dunkle Bloecke",
+          "Mehrere massive Holzklotze"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Transparenz und offene Strukturen koennen Leichtigkeit oder Luftigkeit ausdruecken."
+      },
+      {
+        "frage": "Was kann eine raue Oberflaeche gestalterisch bewirken?",
+        "optionen": [
+          "Sie kann Robustheit oder Urspruenglichkeit betonen",
+          "Sie verhindert jede Aussage",
+          "Sie macht ein Produkt automatisch digital",
+          "Sie ist immer ein Fehler"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Oberflaechen transportieren Wirkung. Rauheit kann zum Beispiel Kraft oder Natuerlichkeit vermitteln."
+      },
+      {
+        "frage": "Welche Aussage passt zu bewusst eingesetzten Wiederholungen?",
+        "optionen": [
+          "Wiederholungen koennen Rhythmus und Ordnung schaffen",
+          "Wiederholungen sind immer langweilig und sinnlos",
+          "Wiederholungen haben nur in Mathe Bedeutung",
+          "Wiederholungen duerfen in TTG nicht vorkommen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Serien, Muster und Wiederholungen koennen eine klare visuelle Wirkung erzeugen."
+      },
+      {
+        "frage": "Wie laesst sich ein Material bewusst fuer eine Aussage nutzen?",
+        "optionen": [
+          "Indem es zufaellig gewaehlt wird",
+          "Indem seine Eigenschaften mit der beabsichtigten Wirkung verbunden werden",
+          "Indem es nur nach Preis gewaehlt wird",
+          "Indem es verborgen bleibt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Materialwahl wird stark, wenn Eigenschaften wie weich, fest, durchsichtig oder flexibel zur Aussage passen."
+      },
+      {
+        "frage": "Was ist ein gutes Zeichen fuer einen gelungenen Ausdruck?",
+        "optionen": [
+          "Die Gestaltung wirkt in sich schluessig und begruendbar",
+          "Niemand kann sagen, wozu Entscheidungen getroffen wurden",
+          "Alle Details sind zufaellig entstanden",
+          "Nur die Herstellung war schwierig"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein gelungener Ausdruck zeigt sich darin, dass Gestaltungsentscheidungen eine nachvollziehbare Wirkung erzeugen."
+      }
+    ]
+  }
+}

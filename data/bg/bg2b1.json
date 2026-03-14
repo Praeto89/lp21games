@@ -1,0 +1,31 @@
+{
+  "kompetenz_id": "bg2b1",
+  "kompetenz_code": "BG.2.B.1",
+  "typ": "zuordnung-bild",
+  "spiel": {
+    "kategorien": [
+      "Punkt, Linie, Form",
+      "Farbe",
+      "Raum",
+      "Oberfläche",
+      "Bewegung und Zeit"
+    ],
+    "elemente": [
+      { "text": "Dichte Punktfelder", "emoji": "🔵", "kategorie": 0 },
+      { "text": "Diagonale Linien", "emoji": "↗️", "kategorie": 0 },
+      { "text": "Offene und geschlossene Formen", "emoji": "◻️", "kategorie": 0 },
+      { "text": "Komplementärkontrast Rot-Grün", "emoji": "🎨", "kategorie": 1 },
+      { "text": "Warme und kalte Farben", "emoji": "🌡️", "kategorie": 1 },
+      { "text": "Gebrochene und leuchtende Farbtöne", "emoji": "🖌️", "kategorie": 1 },
+      { "text": "Vorne-hinten-Staffelung", "emoji": "🖼️", "kategorie": 2 },
+      { "text": "Größenunterschiede für Tiefenwirkung", "emoji": "🏞️", "kategorie": 2 },
+      { "text": "Fluchtpunktperspektive", "emoji": "🛣️", "kategorie": 2 },
+      { "text": "Raue Spachtelspur", "emoji": "🧽", "kategorie": 3 },
+      { "text": "Glatte lasierende Fläche", "emoji": "💧", "kategorie": 3 },
+      { "text": "Collage mit tastbaren Materialien", "emoji": "📄", "kategorie": 3 },
+      { "text": "Mehrfach gesetzte Figur in Bildfolge", "emoji": "🏃", "kategorie": 4 },
+      { "text": "Verwischte Spur als Bewegungseffekt", "emoji": "💨", "kategorie": 4 },
+      { "text": "Rhythmische Linienführung", "emoji": "🎼", "kategorie": 4 }
+    ]
+  }
+}

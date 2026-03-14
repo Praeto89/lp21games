@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah4a",
+  "kompetenz_code": "WAH.4.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum ist ausreichend Schlaf f\u00fcr Jugendliche wichtig?",
+        "optionen": [
+          "Weil man dann keine Pausen mehr braucht",
+          "Weil Schlaf Konzentration, Stimmung und Erholung unterst\u00fctzt",
+          "Weil Schlaf nur f\u00fcr den Sport wichtig ist",
+          "Weil man im Schlaf ges\u00fcnder isst"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Genug Schlaf hilft dem K\u00f6rper und dem Gehirn, sich zu erholen und leistungsf\u00e4hig zu bleiben."
+      },
+      {
+        "frage": "Welche Situation belastet die Gesundheit eher?",
+        "optionen": [
+          "Regelm\u00e4ssige Pausen und Bewegung",
+          "Dauerstress ohne Erholungszeiten",
+          "Genug trinken an heissen Tagen",
+          "Mit Freundinnen und Freunden sprechen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Anhaltender Stress kann sich negativ auf K\u00f6rper, Psyche und Wohlbefinden auswirken."
+      },
+      {
+        "frage": "Was ist ein Beispiel f\u00fcr gesundheitsf\u00f6rderndes Verhalten im Alltag?",
+        "optionen": [
+          "Mahlzeiten oft auslassen",
+          "Bewegung, Schlaf und Erholung bewusst einplanen",
+          "Nur Energy-Drinks trinken",
+          "Konflikte immer ignorieren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gesundheit wird durch mehrere Gewohnheiten gest\u00fctzt, nicht nur durch einen einzelnen Faktor."
+      },
+      {
+        "frage": "Wie kann das soziale Umfeld die Gesundheit beeinflussen?",
+        "optionen": [
+          "Gar nicht, Gesundheit ist nur privat",
+          "Unterst\u00fctzung, Konflikte oder Gruppendruck k\u00f6nnen sich auswirken",
+          "Nur Sportvereine haben Einfluss",
+          "Nur Erwachsene beeinflussen Jugendliche"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beziehungen und soziale Situationen wirken sich auf Belastung, Sicherheit und Wohlbefinden aus."
+      },
+      {
+        "frage": "Warum sind Energy-Drinks keine gute L\u00f6sung gegen Schlafmangel?",
+        "optionen": [
+          "Weil sie Schlaf komplett ersetzen",
+          "Weil sie h\u00f6chstens kurzfristig wach machen, aber keine Erholung bieten",
+          "Weil sie immer kostenlos sind",
+          "Weil sie nur f\u00fcr Erwachsene gedacht sind"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Koffein kann m\u00fcde Signale kurz \u00fcberdecken, ersetzt aber Erholung nicht."
+      },
+      {
+        "frage": "Welche Aussage zur Gesundheit trifft eher zu?",
+        "optionen": [
+          "Gesundheit h\u00e4ngt nur von Sport ab",
+          "Gesundheit entsteht aus dem Zusammenspiel von K\u00f6rper, Psyche und sozialem Umfeld",
+          "Gesundheit ist immer reiner Zufall",
+          "Gesundheit bedeutet, nie traurig zu sein"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gesundheit ist mehrdimensional und wird durch viele Einfl\u00fcsse gepr\u00e4gt."
+      },
+      {
+        "frage": "Was hilft bei hoher schulischer Belastung am ehesten?",
+        "optionen": [
+          "Alles auf den letzten Moment verschieben",
+          "Aufgaben planen und Erholungszeiten einbauen",
+          "Nur noch S\u00fcssgetr\u00e4nke trinken",
+          "Sich komplett zur\u00fcckziehen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Planung und Pausen helfen, Druck besser zu steuern und \u00dcberforderung vorzubeugen."
+      },
+      {
+        "frage": "Welche Gewohnheit kann den Schlaf eher verschlechtern?",
+        "optionen": [
+          "Abends dauerhaft lange am Bildschirm sein",
+          "Ein ruhiger Abendspaziergang",
+          "Regelm\u00e4ssige Schlafzeiten",
+          "Das Zimmer l\u00fcften"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Lange Bildschirmzeit am Abend kann das Einschlafen erschweren."
+      },
+      {
+        "frage": "Was bedeutet Gesundheit als Ressource?",
+        "optionen": [
+          "Gesundheit ist etwas, das man f\u00fcr Alltag und Entwicklung st\u00e4rken kann",
+          "Gesundheit ist nur ein medizinischer Begriff",
+          "Gesundheit braucht man nur bei Krankheit",
+          "Gesundheit ist ausschliesslich Privatsache"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine gute Gesundheit unterst\u00fctzt Lernen, Beziehungen, Freizeit und Leistungsf\u00e4higkeit."
+      },
+      {
+        "frage": "Welche Entscheidung ist im Alltag eher gesundheitsf\u00f6rdernd?",
+        "optionen": [
+          "Mehrere Tage hintereinander nur Fast Food essen",
+          "Zwischen Lernen, Bewegung und Erholung ausgewogen planen",
+          "Konflikte immer in sich hineinfressen",
+          "Regelm\u00e4ssig Mahlzeiten durch S\u00fcssigkeiten ersetzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ausgewogene Routinen unterst\u00fctzen sowohl den K\u00f6rper als auch das Wohlbefinden."
+      }
+    ]
+  }
+}

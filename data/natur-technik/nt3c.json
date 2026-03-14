@@ -1,0 +1,73 @@
+{
+  "kompetenz_id": "nt3c",
+  "kompetenz_code": "NT.3.3",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Aus {Roh?l} entstehen in einer Raffinerie verschiedene {Fraktionen}.",
+        "hinweise": [
+          "Ausgangsstoff",
+          "Teilprodukte"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "In einer {Kl?ranlage} wird verschmutztes Wasser gereinigt, bevor es in ein {Gew?sser} zur?ckfliesst.",
+        "hinweise": [
+          "Reinigungsanlage",
+          "Bach, Fluss oder See"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "Ein {Stoffkreislauf} zeigt, wie Materialien umgewandelt und erneut {genutzt} werden.",
+        "hinweise": [
+          "Kreislauf von Stoffen",
+          "wieder verwendet"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "{Recycling} spart oft {Rohstoffe} und verringert Abfall.",
+        "hinweise": [
+          "Wiederverwertung",
+          "nat?rliche Ausgangsstoffe"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "Wer Quellen beurteilt, fragt nach ?berpr?fbaren {Daten} und m?glichen {Interessen}.",
+        "hinweise": [
+          "messbare Angaben",
+          "Absichten oder Nutzen"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "Aus {Steinsalz} kann durch Aufbereitung {Kochsalz} gewonnen werden.",
+        "hinweise": [
+          "nat?rliches Salz",
+          "Salz f?r Lebensmittel"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "Nachhaltig handeln heisst, den Ressourcenverbrauch zu {reduzieren} und Materialien zu {recyceln}.",
+        "hinweise": [
+          "zu verringern",
+          "wiederzuverwerten"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      },
+      {
+        "text": "Beim {Recycling} von Aluminium wird meist weniger Energie ben?tigt als bei der Herstellung aus {Bauxit}.",
+        "hinweise": [
+          "Wiederverwertung",
+          "Erz f?r Aluminium"
+        ],
+        "anweisung": "F?lle die L?cken mit passenden Fachbegriffen zu Rohstoffen, Stoffkreisl?ufen und Recycling."
+      }
+    ]
+  }
+}

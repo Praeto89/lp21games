@@ -1,0 +1,63 @@
+{
+    "kompetenz_id":  "rzg13",
+    "kompetenz_code":  "RZG.1.3",
+    "typ":  "zuordnung",
+    "spiel":  {
+                  "kategorien":  [
+                                     "Endogener Prozess",
+                                     "Exogener Prozess",
+                                     "Naturereignis",
+                                     "Naturlandschaft"
+                                 ],
+                  "elemente":  [
+                                   {
+                                       "text":  "Plattentektonik",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Vulkanismus",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Magmaaufstieg",
+                                       "kategorie":  0
+                                   },
+                                   {
+                                       "text":  "Erosion",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Ablagerung",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Verwitterung",
+                                       "kategorie":  1
+                                   },
+                                   {
+                                       "text":  "Erdbeben",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Felssturz",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Murgang",
+                                       "kategorie":  2
+                                   },
+                                   {
+                                       "text":  "Glaziallandschaft",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "Auenlandschaft",
+                                       "kategorie":  3
+                                   },
+                                   {
+                                       "text":  "Vulkanlandschaft",
+                                       "kategorie":  3
+                                   }
+                               ]
+              }
+}

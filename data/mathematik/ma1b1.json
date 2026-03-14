@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma1b1",
+  "kompetenz_code": "MA.1.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Zahl passt als Nächstes in die Folge 2, 5, 8, 11, ... ?",
+        "optionen": [
+          "13",
+          "14",
+          "15",
+          "17"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Folge wächst immer um 3, daher folgt 14."
+      },
+      {
+        "frage": "Welche Zahl ist eine Quadratzahl?",
+        "optionen": [
+          "18",
+          "27",
+          "49",
+          "54"
+        ],
+        "korrekt": 2,
+        "erklaerung": "49 ist 7 · 7 und damit eine Quadratzahl."
+      },
+      {
+        "frage": "Was passiert mit dem Produkt 7 · n, wenn n um 1 erhöht wird?",
+        "optionen": [
+          "Es bleibt gleich",
+          "Es wird um 1 größer",
+          "Es wird um 7 größer",
+          "Es verdoppelt sich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein weiterer Faktor 7 kommt dazu, also wächst das Produkt um 7."
+      },
+      {
+        "frage": "Welcher Term beschreibt die Folge 4, 7, 10, 13, ... wenn n bei 1 beginnt?",
+        "optionen": [
+          "3n",
+          "3n + 1",
+          "4n - 1",
+          "n + 4"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Für n = 1 ergibt 3n + 1 den ersten Wert 4 und die Folge wächst jeweils um 3."
+      },
+      {
+        "frage": "Welche Zahl ergänzt das Muster 1, 4, 9, 16, ... ?",
+        "optionen": [
+          "20",
+          "24",
+          "25",
+          "27"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Die Folge besteht aus Quadratzahlen: 1², 2², 3², 4², 5²."
+      },
+      {
+        "frage": "Welche Aussage zu geraden Zahlen ist immer richtig?",
+        "optionen": [
+          "Die Summe zweier gerader Zahlen ist ungerade",
+          "Die Summe zweier gerader Zahlen ist gerade",
+          "Das Produkt zweier gerader Zahlen ist ungerade",
+          "Eine gerade Zahl endet immer auf 5"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gerade Zahlen sind Vielfache von 2; ihre Summe bleibt deshalb gerade."
+      },
+      {
+        "frage": "Welche Zerlegung zeigt das Distributivgesetz?",
+        "optionen": [
+          "7 · 18 = 7 · 10 + 7 · 8",
+          "7 · 18 = 18 · 18",
+          "7 · 18 = 7 + 18",
+          "7 · 18 = 7 · 9"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Produkt wird in zwei Teilprodukte mit derselben ersten Zahl zerlegt."
+      },
+      {
+        "frage": "Welche Beobachtung hilft besonders beim Rechnen von 99 · 6?",
+        "optionen": [
+          "100 · 6 - 6",
+          "90 · 6 + 90",
+          "99 + 6",
+          "9 · 6 · 6"
+        ],
+        "korrekt": 0,
+        "erklaerung": "99 ist um 1 kleiner als 100, daher kann man 100 · 6 rechnen und 6 wieder abziehen."
+      }
+    ]
+  }
+}

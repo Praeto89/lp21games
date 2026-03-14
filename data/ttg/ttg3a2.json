@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "ttg3a2",
+  "kompetenz_code": "TTG.3.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum koennen Objekte kulturelle Bedeutung haben?",
+        "optionen": [
+          "Weil sie nur praktisch nuetzlich sind",
+          "Weil sie Werte, Traditionen oder Zugehoerigkeit ausdruecken koennen",
+          "Weil sie nie veraendert werden",
+          "Weil nur Museen ihre Bedeutung festlegen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Objekte koennen Geschichten, Rollen, Traditionen oder Zugehoerigkeit sichtbar machen."
+      },
+      {
+        "frage": "Was zeigt ein historischer Gebrauchsgegenstand besonders gut?",
+        "optionen": [
+          "Wie Menschen frueher lebten und welche Materialien sie nutzten",
+          "Nur die Lieblingsfarbe der Herstellerin",
+          "Nur die heutige Werbung",
+          "Ausschliesslich den Marktpreis"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Historische Objekte geben Hinweise auf Alltag, Technik, Materialien und Gestaltung einer Zeit."
+      },
+      {
+        "frage": "Welche Aussage trifft auf Kleidung als Ausdruckstraeger zu?",
+        "optionen": [
+          "Kleidung hat nur eine Schutzfunktion",
+          "Kleidung kann Beruf, Zugehoerigkeit oder Stil zeigen",
+          "Kleidung sagt nie etwas aus",
+          "Nur Markenlogo zaehlt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kleidung vermittelt haeufig soziale, kulturelle oder funktionale Informationen."
+      },
+      {
+        "frage": "Warum lohnt sich der Vergleich eines alten und eines aktuellen Produkts?",
+        "optionen": [
+          "Weil man so Material, Technik und Gestaltung im Wandel erkennt",
+          "Weil das alte Produkt immer schlechter ist",
+          "Weil moderne Produkte keine Geschichte haben",
+          "Weil man dann nicht mehr gestalten muss"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vergleiche zeigen, wie sich Beduerfnisse, Technologien und Gestaltungsstile veraendern."
+      },
+      {
+        "frage": "Was kann ein Alltagsobjekt symbolisieren?",
+        "optionen": [
+          "Nur seinen Kaufpreis",
+          "Zum Beispiel Status, Erinnerung oder Zugehoerigkeit",
+          "Nur die Unterrichtszeit",
+          "Niemals Gefuehle"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Objekte tragen oft mehr als eine Funktion. Sie koennen Erinnerungen oder soziale Bedeutungen transportieren."
+      },
+      {
+        "frage": "Weshalb ist der Entstehungskontext eines Objekts wichtig?",
+        "optionen": [
+          "Weil dadurch nachvollziehbar wird, warum es so gestaltet wurde",
+          "Weil nur der Name wichtig ist",
+          "Weil Kontext jede Funktion ersetzt",
+          "Weil Objekte ohne Kontext immer gleich sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Zeit, Ort, Materialverfuegbarkeit und gesellschaftliche Regeln praegen die Gestaltung von Objekten."
+      },
+      {
+        "frage": "Welches Beispiel zeigt historische Bedeutung besonders deutlich?",
+        "optionen": [
+          "Ein reparierter Lederkoffer aus einer frueheren Reisezeit",
+          "Ein beliebiger leerer Karton ohne Bezug",
+          "Eine zufaellige Schraube auf dem Boden",
+          "Ein unlackiertes Restholz ohne Verwendung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Objekt mit Gebrauchsspuren und erkennbarem Kontext kann viel ueber vergangene Lebenswelten verraten."
+      },
+      {
+        "frage": "Was gehoert zu einer begruendeten Einschaetzung der Wirkung eines Objekts?",
+        "optionen": [
+          "Material, Form, Farbe und Gebrauchskontext beachten",
+          "Nur die eigene Lieblingsfarbe nennen",
+          "Nur das Gewicht schaetzen",
+          "Nur die Herstellungsdauer erraten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Wirkung entsteht aus mehreren Faktoren, nicht nur aus einem einzelnen Merkmal."
+      },
+      {
+        "frage": "Warum kann ein Souvenir mehr sein als ein Gegenstand?",
+        "optionen": [
+          "Weil es Erinnerungen und Bedeutungen mittraegt",
+          "Weil es immer teuer ist",
+          "Weil es keine Funktion haben darf",
+          "Weil es nur dekorativ ist"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Souvenirs koennen persoenliche oder kulturelle Geschichten repraesentieren."
+      },
+      {
+        "frage": "Wie hilft dieses Wissen beim eigenen Gestalten?",
+        "optionen": [
+          "Gar nicht, Geschichte ist unwichtig",
+          "Man kann bewusster mit Zeichen, Materialien und Wirkung arbeiten",
+          "Man muss nur noch alte Produkte kopieren",
+          "Man darf keine neuen Ideen mehr entwickeln"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer kulturelle und historische Bedeutungen erkennt, kann sie im eigenen Design gezielt aufgreifen oder veraendern."
+      }
+    ]
+  }
+}

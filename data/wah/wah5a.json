@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "wah5a",
+  "kompetenz_code": "WAH.5.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Vorbereiten",
+      "Effizient organisieren",
+      "Sicher handeln",
+      "Nachbereiten und verbessern"
+    ],
+    "elemente": [
+      { "text": "Eine Einkaufsliste f\u00fcr das Abendessen schreiben", "kategorie": 0 },
+      { "text": "Zeitbedarf f\u00fcr mehrere Aufgaben absch\u00e4tzen", "kategorie": 0 },
+      { "text": "Materialien vor Arbeitsbeginn bereitlegen", "kategorie": 0 },
+      { "text": "W\u00e4sche direkt nach hell und dunkel sortieren", "kategorie": 1 },
+      { "text": "Beim Kochen einfache Schritte parallel erledigen", "kategorie": 1 },
+      { "text": "Die Reihenfolge der Aufgaben sinnvoll festlegen", "kategorie": 1 },
+      { "text": "Topflappen beim Abgiessen benutzen", "kategorie": 2 },
+      { "text": "Putzmittel nicht wahllos mischen", "kategorie": 2 },
+      { "text": "Messer mit der Klinge nach unten tragen", "kategorie": 2 },
+      { "text": "Arbeitsfl\u00e4chen nach dem Kochen reinigen", "kategorie": 3 },
+      { "text": "Vorr\u00e4te kontrollieren, damit nichts doppelt gekauft wird", "kategorie": 3 },
+      { "text": "Nach der Aufgabe \u00fcberlegen, was beim n\u00e4chsten Mal schneller geht", "kategorie": 3 }
+    ]
+  }
+}

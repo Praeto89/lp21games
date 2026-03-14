@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr4a2",
+  "kompetenz_code": "FS2F.4.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Du willst in einem kurzen Text eine ruhige Abendstimmung erzeugen. Welche Formulierung passt am besten?",
+        "optionen": [
+          "Le soir tombe doucement sur le lac.",
+          "Le lac a trois bateaux.",
+          "Il est dix-neuf heures quinze.",
+          "Nous avons un devoir de maths."
+        ],
+        "korrekt": 0,
+        "erklaerung": "« doucement » und das Bild des Abends erzeugen eine ruhige, ästhetische Wirkung."
+      },
+      {
+        "frage": "Welche Formulierung macht einen überraschenden Moment besonders lebendig?",
+        "optionen": [
+          "La porte s'ouvre soudain.",
+          "La porte est en bois.",
+          "La porte est dans la maison.",
+          "La porte a une poignée."
+        ],
+        "korrekt": 0,
+        "erklaerung": "« soudain » verstärkt den Überraschungseffekt."
+      },
+      {
+        "frage": "Du möchtest Freude ausdrücken. Welche Satzvariante klingt am lebendigsten?",
+        "optionen": [
+          "Je suis content.",
+          "Je souris, je saute, je chante !",
+          "Il y a un parc.",
+          "Je prends le bus."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Aufzählung mehrerer Verben erzeugt Energie und Freude."
+      },
+      {
+        "frage": "Welche Ergänzung macht den Satz « La neige tombe ... » poetischer?",
+        "optionen": [
+          "à trois heures",
+          "sur la rue numéro cinq",
+          "comme un silence blanc",
+          "avec vingt pour cent de probabilité"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Der Vergleich « comme un silence blanc » schafft ein poetisches Bild."
+      },
+      {
+        "frage": "Du schreibst ein kurzes Gedicht. Warum kann eine Wiederholung hilfreich sein?",
+        "optionen": [
+          "Sie macht den Text mathematischer.",
+          "Sie schafft Rhythmus und betont eine Stimmung.",
+          "Sie ersetzt alle Satzzeichen.",
+          "Sie verhindert jede Bildsprache."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wiederholungen können Klang, Rhythmus und Wirkung verstärken."
+      },
+      {
+        "frage": "Welche Formulierung erzeugt eher Spannung als Sachlichkeit?",
+        "optionen": [
+          "Le couloir était long, sombre et silencieux.",
+          "Le couloir mesure dix mètres.",
+          "Le bâtiment date de 1998.",
+          "Le couloir mène à la salle 4."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Adjektive bauen eine spannungsvolle Atmosphäre auf."
+      },
+      {
+        "frage": "Welche Satzvariante passt am besten zu einem fröhlichen Kindertext?",
+        "optionen": [
+          "Le chat bondit comme une balle folle.",
+          "Le chat a quatre pattes.",
+          "Le chat dort souvent.",
+          "Le chat est un mammifère."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Vergleich macht den Satz lebendig und verspielt."
+      },
+      {
+        "frage": "Warum ist die Wortwahl in kreativen Kurztexten wichtig?",
+        "optionen": [
+          "Weil nur lange Wörter erlaubt sind",
+          "Weil passende Wörter Bilder, Gefühle und Stimmungen erzeugen",
+          "Weil Verben vermieden werden sollen",
+          "Weil Zahlen immer poetisch wirken"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ästhetische Wirkung entsteht besonders durch treffende und bildhafte Wortwahl."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr6a1",
+  "kompetenz_code": "FS2F.6.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Region der Schweiz ist überwiegend französischsprachig?",
+        "optionen": [
+          "Die Romandie",
+          "Die Zentralschweiz",
+          "Das Tessin",
+          "Graubünden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Romandie bezeichnet die französischsprachige Schweiz."
+      },
+      {
+        "frage": "Welche Stadt liegt in der Suisse romande?",
+        "optionen": [
+          "Lugano",
+          "St. Gallen",
+          "Lausanne",
+          "Chur"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Lausanne ist eine wichtige Stadt der französischsprachigen Schweiz."
+      },
+      {
+        "frage": "Was ist Québec?",
+        "optionen": [
+          "Eine Region in Belgien",
+          "Eine französischsprachige Provinz in Kanada",
+          "Eine Insel im Mittelmeer",
+          "Eine Stadt in der Schweiz"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Québec ist eine Provinz Kanadas, in der Französisch eine zentrale Rolle spielt."
+      },
+      {
+        "frage": "Was bedeutet « bande dessinée » im französischsprachigen Kulturraum?",
+        "optionen": [
+          "Ein Kochbuch",
+          "Ein Comic",
+          "Ein Theaterstück",
+          "Eine Landkarte"
+        ],
+        "korrekt": 1,
+        "erklaerung": "« bande dessinée » ist das französische Wort für Comic."
+      },
+      {
+        "frage": "Was ist « la Fête de la musique »?",
+        "optionen": [
+          "Ein nationaler Prüfungstag",
+          "Ein Musikfest mit öffentlichen Auftritten, oft am 21. Juni",
+          "Ein Wintersportanlass",
+          "Ein Wettbewerb nur für Profimusikerinnen und -musiker"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Fête de la musique ist in vielen frankophonen Orten ein offenes Musikfest."
+      },
+      {
+        "frage": "Warum ist die Aussage « Es gibt nur einen französischen Akzent » falsch?",
+        "optionen": [
+          "Weil Französisch gar keine Akzente kennt",
+          "Weil nur in Paris Französisch gesprochen wird",
+          "Weil es in verschiedenen Regionen und Ländern unterschiedliche Aussprachen gibt",
+          "Weil nur Jugendliche Akzente haben"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Französisch wird in vielen Ländern und Regionen unterschiedlich ausgesprochen."
+      },
+      {
+        "frage": "Welches Land gehört zur frankophonen Welt in Afrika?",
+        "optionen": [
+          "Senegal",
+          "Schweden",
+          "Japan",
+          "Island"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Senegal ist ein frankophones Land in Afrika."
+      },
+      {
+        "frage": "Wie vergleicht man den französischsprachigen Kulturraum sinnvoll mit der eigenen Lebenswelt?",
+        "optionen": [
+          "Nur auf Unterschiede achten",
+          "Nur auf Essen achten",
+          "Gemeinsamkeiten und Unterschiede bei Alltag, Schule, Freizeit und Medien betrachten",
+          "Annehmen, dass überall dieselben Regeln gelten"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein sinnvoller Vergleich schaut auf mehrere Lebensbereiche und vermeidet einfache Klischees."
+      }
+    ]
+  }
+}

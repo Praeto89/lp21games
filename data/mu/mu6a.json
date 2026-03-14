@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu6a",
+  "kompetenz_code": "MU.6.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was ist der Puls in einem Musikstück?",
+        "optionen": [
+          "die gleichmässige Grundschlagfolge",
+          "nur die lauteste Stelle",
+          "die Reihenfolge der Instrumente",
+          "eine besondere Tonart"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Der Puls ist der regelmässige Grundschlag, an dem sich Rhythmus orientiert."
+      },
+      {
+        "frage": "Wo liegt im 3/4-Takt meist die Hauptbetonung?",
+        "optionen": [
+          "auf dem ersten Schlag",
+          "auf dem zweiten Schlag",
+          "auf dem dritten Schlag",
+          "auf allen Schlägen gleich"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Im 3/4-Takt wird der erste Schlag gewöhnlich am stärksten betont."
+      },
+      {
+        "frage": "Wie nennt man ein rhythmisches oder melodisches Muster, das ständig wiederholt wird?",
+        "optionen": [
+          "Kadenz",
+          "Ostinato",
+          "Rezitation",
+          "Fermate"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Ostinato ist eine wiederkehrende Figur und schafft oft Stabilität."
+      },
+      {
+        "frage": "Was beschreibt eine Melodie am besten?",
+        "optionen": [
+          "eine Folge von Tonhöhen in einer bestimmten Form",
+          "nur die Lautstärke eines Stücks",
+          "eine Sammlung von Instrumentennamen",
+          "die Sitzordnung im Orchester"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Melodie entsteht durch die zeitliche Folge von Tönen unterschiedlicher Höhe."
+      },
+      {
+        "frage": "Was ist ein Dreiklang?",
+        "optionen": [
+          "drei Instrumente im selben Raum",
+          "drei Töne, die als Akkord zusammenklingen",
+          "drei gleich lange Pausen",
+          "ein Takt mit drei Schlägen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Dreiklänge sind grundlegende Bausteine der Harmonie."
+      },
+      {
+        "frage": "Welche Aussage zu Dur und Moll trifft am ehesten zu?",
+        "optionen": [
+          "Dur und Moll beschreiben nur das Tempo",
+          "Dur wird oft heller, Moll oft dunkler wahrgenommen",
+          "Dur ist immer laut, Moll immer leise",
+          "Nur Volkslieder verwenden Dur und Moll"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Wirkung hängt vom Kontext ab, aber Dur und Moll werden oft unterschiedlich empfunden."
+      },
+      {
+        "frage": "Was bedeutet Harmonie in der Musik?",
+        "optionen": [
+          "nur die Textverteilung im Lied",
+          "das Zusammenspiel gleichzeitig erklingender Töne",
+          "die Anzahl Wiederholungen",
+          "ausschliesslich Schlagzeugrhythmen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Harmonie beschäftigt sich damit, wie Töne und Akkorde zusammenwirken."
+      },
+      {
+        "frage": "Was ist eine Synkope?",
+        "optionen": [
+          "eine Betonung gegen die gewöhnliche Zählzeit",
+          "eine Pause am Schluss",
+          "eine sehr langsame Melodie",
+          "ein Akkord mit drei Tönen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Synkopen verschieben den erwarteten Akzent und wirken dadurch spannend."
+      },
+      {
+        "frage": "Was passiert bei einer Schrittbewegung in der Melodie?",
+        "optionen": [
+          "Die Töne bleiben gleich",
+          "Die Melodie springt immer eine Oktave",
+          "Die Melodie geht zum benachbarten Ton weiter",
+          "Der Rhythmus stoppt"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Schrittweise Bewegung meint kleine Tonabstände zwischen benachbarten Tönen."
+      },
+      {
+        "frage": "Warum hilft es, Rhythmus, Melodie und Harmonie zusammen zu betrachten?",
+        "optionen": [
+          "Weil Musik nur aus einem dieser Elemente besteht",
+          "Weil erst ihr Zusammenspiel den Charakter eines Stücks deutlich macht",
+          "Weil dadurch keine Proben mehr nötig sind",
+          "Weil man dann keine Instrumente braucht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Musik wirkt durch das Zusammenspiel mehrerer Gestaltungselemente."
+      }
+    ]
+  }
+}

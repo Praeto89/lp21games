@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bs1a",
+  "kompetenz_code": "BS.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Worauf achtest du bei einem Sprintstart besonders?",
+        "optionen": [
+          "Auf eine tiefe Körperhaltung und einen explosiven ersten Schritt",
+          "Auf grosse, langsame Schritte von Beginn an",
+          "Auf eine sofortige Seitwärtsbewegung",
+          "Auf ein dauerhaftes Tempo ohne Beschleunigung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Beim Sprintstart helfen eine tiefe Ausgangsposition, aktiver Armeinsatz und ein explosiver Abdruck."
+      },
+      {
+        "frage": "Warum ist rhythmisches Laufen über tiefe Hindernisse wichtig?",
+        "optionen": [
+          "Damit man die Atmung ganz anhält",
+          "Damit die Schritte gleichmässig bleiben und kein Hindernis berührt wird",
+          "Damit man vor jedem Hindernis stoppt",
+          "Damit man möglichst hoch statt schnell läuft"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein konstanter Rhythmus hilft, den Schrittfluss zu halten und Hindernisse sicher zu überwinden."
+      },
+      {
+        "frage": "Welche Aussage passt zu ausdauerndem Laufen?",
+        "optionen": [
+          "Man beginnt so schnell wie nur möglich",
+          "Man passt das Tempo so an, dass man länger durchhalten kann",
+          "Man macht nach 30 Sekunden immer Schluss",
+          "Man läuft nur auf den Fersen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei längeren Läufen ist ein eingeteiltes Tempo entscheidend, damit die Belastung über längere Zeit gehalten werden kann."
+      },
+      {
+        "frage": "Was hilft, die eigene Laufleistung zu verbessern?",
+        "optionen": [
+          "Regelmässiges Training mit Belastung und Erholung",
+          "Nur noch Wettkämpfe ohne Übung",
+          "Immer dieselbe kurze Strecke im Schritttempo",
+          "Ganz auf Aufwärmen verzichten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Laufleistung verbessert sich durch regelmässiges, passendes Training und ausreichende Erholung."
+      },
+      {
+        "frage": "Was ist bei einem Orientierungslauf besonders wichtig?",
+        "optionen": [
+          "Nur möglichst schnell loszurennen",
+          "Karte oder Plan mit der eigenen Position zu vergleichen",
+          "Immer hinter anderen herzulaufen",
+          "Nur auf den Boden zu schauen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Beim Orientierungslauf muss man die eigene Position laufend mit Karte, Plan oder markanten Punkten abgleichen."
+      },
+      {
+        "frage": "Welche Technik hilft beim schnellen Laufen am besten?",
+        "optionen": [
+          "Kurzer, aktiver Bodenkontakt und mitarbeitende Arme",
+          "Steife Arme am Körper herunterhängen lassen",
+          "Sehr grosse Sprungschritte von Beginn an",
+          "Den Oberkörper weit nach hinten lehnen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Schnelles Laufen gelingt mit aktivem Armeinsatz, stabilem Oberkörper und kurzen, schnellen Bodenkontakten."
+      },
+      {
+        "frage": "Woran merkst du bei einem Dauerlauf, dass dein Starttempo zu hoch war?",
+        "optionen": [
+          "Du kannst dich locker unterhalten",
+          "Du musst schon früh stark abbremsen oder gehst ausser Atem",
+          "Du fühlst dich gleichmässig belastet",
+          "Deine Schritte bleiben locker"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wenn man zu schnell startet, steigt die Belastung früh stark an und das Tempo kann nicht gehalten werden."
+      },
+      {
+        "frage": "Weshalb gehören Erholungspausen zum Lauftraining?",
+        "optionen": [
+          "Weil nur in Pausen Geschwindigkeit zählt",
+          "Weil sich der Körper anpasst und wieder leistungsfähig wird",
+          "Weil man dann nicht mehr trainieren muss",
+          "Weil Pausen das Aufwärmen ersetzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Erholung gehört zum Training, weil sich Herz, Muskeln und Kreislauf nur mit passenden Pausen sinnvoll an Belastungen anpassen."
+      },
+      {
+        "frage": "Wie verhältst du dich beim Laufen im Wald oder Gelände sinnvoll?",
+        "optionen": [
+          "Ich ignoriere Wege und Markierungen",
+          "Ich achte auf Untergrund, Route und sichere Schrittwahl",
+          "Ich schaue nur auf meine Schuhe",
+          "Ich renne blind über jede Abkürzung"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Gelände braucht es angepasste Schritte, Orientierung und Aufmerksamkeit für Untergrund und Route."
+      },
+      {
+        "frage": "Welche Aussage zu Lauftechnik und Selbsteinschätzung ist richtig?",
+        "optionen": [
+          "Gute Läuferinnen und Läufer passen nie etwas an",
+          "Wer seine Belastung beobachtet, kann Tempo und Technik sinnvoll anpassen",
+          "Nur die Schnellsten dürfen ihr Tempo ändern",
+          "Orientierung ist nur in der Halle wichtig"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zur Kompetenz gehört, die eigene Leistung wahrzunehmen und Tempo, Technik oder Route entsprechend anzupassen."
+      }
+    ]
+  }
+}

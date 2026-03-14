@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu1a",
+  "kompetenz_code": "MU.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was hilft einem Chor am meisten, gemeinsam zu beginnen?",
+        "optionen": [
+          "Alle starten irgendwann im ersten Takt",
+          "Ein klares Einatmen oder Einzählen vor dem Einsatz",
+          "Die lauteste Person beginnt allein",
+          "Nur die Begleitung zählt mit"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein gemeinsamer Einsatz gelingt, wenn alle auf dasselbe Zeichen reagieren."
+      },
+      {
+        "frage": "Was bedeutet saubere Intonation beim Singen?",
+        "optionen": [
+          "Sehr laut zu singen",
+          "Die richtige Tonhöhe zu treffen",
+          "Nur den Refrain zu kennen",
+          "Auf Schweizerdeutsch zu singen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Intonation beschreibt, wie genau Töne in ihrer Höhe gesungen werden."
+      },
+      {
+        "frage": "Weshalb hört man beim mehrstimmigen Singen besonders auf die anderen?",
+        "optionen": [
+          "Damit man denselben Text vergisst",
+          "Damit Tonhöhe, Rhythmus und Klang zusammenpassen",
+          "Damit man seine Stimme verstecken kann",
+          "Damit niemand atmen muss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Ensemble zählt das Zusammenspiel von allen Stimmen."
+      },
+      {
+        "frage": "Wie funktioniert ein Kanon?",
+        "optionen": [
+          "Alle singen immer verschiedene Lieder",
+          "Eine Gruppe spricht nur den Rhythmus",
+          "Mehrere Gruppen beginnen dieselbe Melodie zeitversetzt",
+          "Nur Solostimmen dürfen mitmachen"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Beim Kanon setzt dieselbe Melodie nacheinander ein und klingt dadurch mehrstimmig."
+      },
+      {
+        "frage": "Was unterstützt lange Phrasen beim chorischen Singen besonders?",
+        "optionen": [
+          "Flache Brustatmung",
+          "Tiefer Atem und gute Atemeinteilung",
+          "Möglichst angespannte Schultern",
+          "Schnelles Sprechen statt Singen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Mit ruhiger, tiefer Atmung können Phrasen kontrolliert getragen werden."
+      },
+      {
+        "frage": "Was ist beim mehrstimmigen Sprechen wichtig?",
+        "optionen": [
+          "Jede Person spricht in eigenem Tempo",
+          "Konsonanten und Einsätze sind klar abgestimmt",
+          "Niemand schaut auf die Leitung",
+          "Die leiseste Stimme spricht gar nicht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gemeinsame Artikulation macht Text und Rhythmus im Ensemble verständlich."
+      },
+      {
+        "frage": "Wie verhält sich eine Stimme im Chor, wenn sie zu laut heraussticht?",
+        "optionen": [
+          "Sie bleibt extra laut, damit man sie hört",
+          "Sie passt Lautstärke und Klang an das Ensemble an",
+          "Sie wechselt sofort in eine tiefere Oktave",
+          "Sie singt eine andere Melodie"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Chorklang entsteht, wenn Einzelstimmen sich mischen statt zu dominieren."
+      },
+      {
+        "frage": "Was hilft, den Puls in einem Sprechstück sicher zu halten?",
+        "optionen": [
+          "Ein innerer Beat oder leises Mitgehen im Körper",
+          "Ständig schneller zu werden",
+          "Nur auf den Text zu achten",
+          "Zwischen jeder Zeile zu stoppen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein innerlich gespürter Puls stabilisiert das gemeinsame Timing."
+      },
+      {
+        "frage": "Wie reagiert man sinnvoll, wenn man im Chor kurz unsicher wird?",
+        "optionen": [
+          "Man singt sofort doppelt so laut",
+          "Man hört auf die Nachbarstimmen und findet wieder hinein",
+          "Man hört ganz auf",
+          "Man beginnt von vorne"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Ensemble hilft aktives Zuhören, um wieder sicher mitzusingen."
+      },
+      {
+        "frage": "Was bedeutet chorisches Singen?",
+        "optionen": [
+          "Nur Solosingen mit Mikrofon",
+          "Gemeinsames Singen als Gruppe",
+          "Ausschliesslich Sprechtheater",
+          "Singen ohne Text"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Chorisch heisst, dass mehrere Stimmen als Gruppe zusammen singen."
+      }
+    ]
+  }
+}

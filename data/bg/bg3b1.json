@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bg3b1",
+  "kompetenz_code": "BG.3.B.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Funktion hat ein Warnpiktogramm in erster Linie?",
+        "optionen": [
+          "Schnell informieren und Verhalten steuern",
+          "Vor allem dekorativ wirken",
+          "Eine Fantasiegeschichte erzählen",
+          "Die Handschrift der Gestalterin zeigen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Piktogramme sollen rasch verständlich sein und klare Handlungsorientierung geben."
+      },
+      {
+        "frage": "Was verstärkt die dramatische Wirkung eines Filmplakats besonders?",
+        "optionen": [
+          "Starke Kontraste und ein naher Bildausschnitt",
+          "Eine zufällige Anordnung vieler kleiner Texte",
+          "Nur eine neutrale Tabellenansicht",
+          "Der Verzicht auf jedes zentrale Motiv"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kontraste und Nahsicht erzeugen Spannung und lenken den Blick auf das Wesentliche."
+      },
+      {
+        "frage": "Wie kann ein Bildausschnitt die Bedeutung eines Fotos verändern?",
+        "optionen": [
+          "Gar nicht, der Inhalt bleibt immer gleich",
+          "Weil durch Weglassen von Umfeld neue Deutungen entstehen",
+          "Nur wenn das Foto schwarz-weiß ist",
+          "Nur wenn es analog aufgenommen wurde"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Ausschnitt zeigt nie alles und beeinflusst deshalb, wie ein Bild verstanden wird."
+      },
+      {
+        "frage": "Was macht ein dokumentarisch wirkendes Bild glaubwürdig, ohne dass man es unkritisch übernehmen sollte?",
+        "optionen": [
+          "Es hat besonders grelle Farben",
+          "Quelle, Kontext und Entstehung sind nachvollziehbar",
+          "Es wurde möglichst oft geteilt",
+          "Es zeigt möglichst viele Emojis"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Glaubwürdigkeit wächst durch überprüfbare Informationen, ersetzt aber keine kritische Prüfung."
+      },
+      {
+        "frage": "Warum setzen Werbebilder häufig dieselben Farben, Logos und Schriften ein?",
+        "optionen": [
+          "Damit Produkte schwerer erkennbar sind",
+          "Damit eine Marke wiedererkannt wird",
+          "Weil Bilder sonst verboten wären",
+          "Damit der Preis höher wirkt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wiedererkennbare Gestaltung stärkt die Identität einer Marke."
+      },
+      {
+        "frage": "Welche Frage hilft, die Zielgruppe eines Bildes zu erkennen?",
+        "optionen": [
+          "Für wen ist dieses Bild gestaltet?",
+          "Wie viele Millimeter breit ist der Rand?",
+          "Welcher Drucker wurde verwendet?",
+          "Welche Uhrzeit hatte die Künstlerin?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Bilder werden meist für bestimmte Adressatinnen und Adressaten gestaltet."
+      },
+      {
+        "frage": "Was ändert sich, wenn dieselbe Fotografie einmal in einer Zeitung und einmal als Meme auftaucht?",
+        "optionen": [
+          "Nur die Dateigröße",
+          "Kontext, Funktion und oft auch die Wirkung",
+          "Nur die Anzahl der Pixel",
+          "Gar nichts Relevantes"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Verwendungszusammenhang beeinflusst, wie ein Bild gelesen und bewertet wird."
+      },
+      {
+        "frage": "Woran erkennt man eine stereotype Bilddarstellung?",
+        "optionen": [
+          "An einer Person, die nur auf wenige vereinfachte Merkmale reduziert wird",
+          "An jeder Darstellung mit kräftigen Farben",
+          "An jedem Bild mit nur einer Figur",
+          "An jedem Foto ohne Text"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Stereotype arbeiten mit vereinfachenden Zuschreibungen und blenden Vielfalt aus."
+      },
+      {
+        "frage": "Wie kann Ironie die Wirkung eines Kunstwerks oder Bildes verändern?",
+        "optionen": [
+          "Sie macht jede Aussage eindeutig wörtlich",
+          "Sie schafft Spannung zwischen dem Gezeigten und dem Gemeinten",
+          "Sie verhindert jede Interpretation",
+          "Sie ist nur in Comics möglich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ironie arbeitet bewusst mit Brüchen zwischen Oberfläche und Aussage."
+      },
+      {
+        "frage": "Wann sollte eine starke Bildbearbeitung klar kenntlich gemacht werden?",
+        "optionen": [
+          "Nur bei Bildern im Kunstunterricht",
+          "Wenn sie Inhalte so verändert, dass Betrachtende getäuscht werden könnten",
+          "Nur bei Schwarz-Weiß-Bildern",
+          "Nie, Bearbeitung ist immer egal"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Transparenz ist wichtig, wenn Bearbeitung die Aussage oder Glaubwürdigkeit eines Bildes beeinflusst."
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "kompetenz_id": "ttg2e1",
+  "kompetenz_code": "TTG.2.E.1",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      {
+        "a": "Stecknadel",
+        "b": "Fixiert Stofflagen vor dem Naehen"
+      },
+      {
+        "a": "Laubsaege",
+        "b": "Saegt feine Formen aus duennem Holz"
+      },
+      {
+        "a": "Feile",
+        "b": "Glaettet und formt Kanten"
+      },
+      {
+        "a": "Heissklebepistole",
+        "b": "Verbindet Materialien mit heissem Kleber"
+      },
+      {
+        "a": "Standbohrmaschine",
+        "b": "Werkstueck vor dem Bohren sicher einspannen"
+      },
+      {
+        "a": "Naehmaschine",
+        "b": "Erstellt lange, gleichmaessige Naehte"
+      },
+      {
+        "a": "Seitenschneider",
+        "b": "Trennt Draht sauber ab"
+      },
+      {
+        "a": "Schraubzwinge",
+        "b": "Fixiert Werkstuecke beim Bearbeiten"
+      }
+    ]
+  }
+}

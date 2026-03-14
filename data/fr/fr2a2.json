@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "fr2a2",
+  "kompetenz_code": "FS2F.2.A.2",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Textausschnitt: « La lune veille sur la ville endormie. » Welche Wirkung hat dieses Bild?",
+        "optionen": [
+          "Es wirkt poetisch und ruhig.",
+          "Es klingt wie eine Sportmeldung.",
+          "Es erklärt eine Grammatikregel.",
+          "Es wirkt besonders technisch."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Personifikation der Mondlandschaft schafft eine poetische Abendstimmung."
+      },
+      {
+        "frage": "Textausschnitt: « Tic-tac, tic-tac, l'horloge se moque de moi. » Was bewirkt « Tic-tac, tic-tac »?",
+        "optionen": [
+          "Es macht den Text schneller und hörbarer.",
+          "Es zeigt einen Ortswechsel.",
+          "Es gibt eine genaue Uhrzeit an.",
+          "Es übersetzt das Wort Uhr."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Lautmalerei macht das Geräusch der Uhr direkt erfahrbar."
+      },
+      {
+        "frage": "Textausschnitt: « Je marche, je cherche, j'espère. » Welche Wirkung hat die Aufzählung?",
+        "optionen": [
+          "Sie bremst den Text.",
+          "Sie zeigt Bewegung und innere Spannung.",
+          "Sie macht den Satz unverständlich.",
+          "Sie markiert das Ende einer Geschichte."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Kurze Verben hintereinander erzeugen Dynamik."
+      },
+      {
+        "frage": "Textausschnitt: « Le vieux banc attend sous les feuilles d'or. » Welche Stimmung entsteht?",
+        "optionen": [
+          "Eine warme Herbststimmung",
+          "Eine technische Beschreibung",
+          "Eine aggressive Szene",
+          "Ein sachlicher Bericht"
+        ],
+        "korrekt": 0,
+        "erklaerung": "« feuilles d'or » und der alte Bankplatz erzeugen ein ruhiges Herbstbild."
+      },
+      {
+        "frage": "Textausschnitt: « Silence. Puis un rire éclate. » Warum wirkt dieser Ausschnitt spannend?",
+        "optionen": [
+          "Weil alle Verben in derselben Zeitform stehen",
+          "Weil der plötzliche Kontrast überrascht",
+          "Weil keine Satzzeichen vorkommen",
+          "Weil der Text besonders lang ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Wechsel von Stille zu Lachen schafft einen überraschenden Effekt."
+      },
+      {
+        "frage": "Textausschnitt: « Rouge comme une cerise, son visage brillait. » Was macht der Vergleich?",
+        "optionen": [
+          "Er präzisiert die Uhrzeit.",
+          "Er macht die Beschreibung anschaulicher.",
+          "Er ersetzt das Verb.",
+          "Er verkürzt die Aussage."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Vergleich mit der Kirsche verstärkt das Bild der roten Gesichtsfarbe."
+      },
+      {
+        "frage": "Textausschnitt: « Bonjour tristesse, bonsoir courage. » Welche Wirkung hat die Gegenüberstellung?",
+        "optionen": [
+          "Sie zeigt einen klaren Gegensatz.",
+          "Sie erklärt den Wortschatz.",
+          "Sie nennt zwei Wochentage.",
+          "Sie macht den Text humorlos."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Traurigkeit und Mut werden direkt gegenübergestellt."
+      },
+      {
+        "frage": "Textausschnitt: « Dans la rue grise, une seule fenêtre chante la lumière. » Welche Deutung passt am besten?",
+        "optionen": [
+          "Der Text beschreibt einen Stromausfall.",
+          "Ein heller Ort hebt sich hoffnungsvoll von der Umgebung ab.",
+          "Es geht um Musikunterricht.",
+          "Die Szene ist vollkommen realistisch gemeint."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die leuchtende Fenstermetapher setzt einen hoffnungsvollen Akzent in eine graue Umgebung."
+      }
+    ]
+  }
+}

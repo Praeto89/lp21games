@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "en4a1",
+  "kompetenz_code": "FS1E.4.A.1",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Dear Ms Green, I am writing to {ask} a question about the class {trip}.",
+        "hinweise": ["verb", "school event"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "Our group project is about recycling, and I am {responsible} for the final {poster}.",
+        "hinweise": ["task", "product"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "Can you please {send} me the homework because I was {absent} yesterday?",
+        "hinweise": ["verb", "not at school"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "The school concert starts at {seven} p.m., so please arrive {early}.",
+        "hinweise": ["time word", "adverb"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "I enjoyed the museum visit because the guide was very {friendly} and {interesting}.",
+        "hinweise": ["adjective", "adjective"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "Next Saturday, we are going to {meet} at the station at {nine}.",
+        "hinweise": ["verb", "time word"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "Please bring your sports clothes and a bottle of {water} for the {tournament}.",
+        "hinweise": ["drink", "event"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      },
+      {
+        "text": "Best {wishes}, Noah",
+        "hinweise": ["email ending"],
+        "anweisung": "Ergänze passende Wörter für typische schulische Texte auf Englisch."
+      }
+    ]
+  }
+}

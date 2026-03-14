@@ -1,0 +1,17 @@
+{
+  "kompetenz_id": "en5e1",
+  "kompetenz_code": "FS1E.5.E.1",
+  "typ": "wortspiel",
+  "spiel": {
+    "woerter": [
+      { "wort": "BEAUTIFUL", "hinweis": "Attractive and very pretty" },
+      { "wort": "BECAUSE", "hinweis": "Word used to give a reason" },
+      { "wort": "DIFFERENT", "hinweis": "Not the same" },
+      { "wort": "ENVIRONMENT", "hinweis": "The natural world around us" },
+      { "wort": "FRIENDSHIP", "hinweis": "A close relationship between friends" },
+      { "wort": "LANGUAGE", "hinweis": "A system people speak or write" },
+      { "wort": "NECESSARY", "hinweis": "Needed or important" },
+      { "wort": "SUDDENLY", "hinweis": "Quickly and unexpectedly" }
+    ]
+  }
+}

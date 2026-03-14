@@ -1,0 +1,46 @@
+{
+    "kompetenz_id":  "rzg81",
+    "kompetenz_code":  "RZG.8.1",
+    "typ":  "timeline",
+    "spiel":  {
+                  "aufgaben":  [
+                                   {
+                                       "anweisung":  "Ordne wichtige Stationen der Demokratiegeschichte und der Schweizer Demokratie.",
+                                       "ereignisse":  [
+                                                          {
+                                                              "text":  "Reformen des Kleisthenes in Athen",
+                                                              "jahr":  "508 v. Chr."
+                                                          },
+                                                          {
+                                                              "text":  "Magna Carta in England",
+                                                              "jahr":  "1215"
+                                                          },
+                                                          {
+                                                              "text":  "Bundesbrief von 1291",
+                                                              "jahr":  "1291"
+                                                          },
+                                                          {
+                                                              "text":  "Bundesverfassung der Schweiz",
+                                                              "jahr":  "1848"
+                                                          },
+                                                          {
+                                                              "text":  "Fakultatives Referendum auf Bundesebene",
+                                                              "jahr":  "1874"
+                                                          },
+                                                          {
+                                                              "text":  "Volksinitiative auf Bundesebene",
+                                                              "jahr":  "1891"
+                                                          },
+                                                          {
+                                                              "text":  "Frauenstimmrecht auf Bundesebene",
+                                                              "jahr":  "1971"
+                                                          },
+                                                          {
+                                                              "text":  "Neue Bundesverfassung der Schweiz",
+                                                              "jahr":  "1999"
+                                                          }
+                                                      ]
+                                   }
+                               ]
+              }
+}

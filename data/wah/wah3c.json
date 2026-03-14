@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah3c",
+  "kompetenz_code": "WAH.3.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was sollte vor einem gr\u00f6sseren Kauf zuerst gekl\u00e4rt werden?",
+        "optionen": [
+          "Ob das Produkt gerade im Trend ist",
+          "Ob ein echter Bedarf besteht und welche Kriterien wichtig sind",
+          "Ob die Verpackung auff\u00e4llig aussieht",
+          "Ob man es m\u00f6glichst schnell bestellen kann"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine gute Konsumentscheidung beginnt mit der Frage nach Bedarf, Budget und passenden Kriterien."
+      },
+      {
+        "frage": "Welcher Vergleich ist beim Online-Kauf besonders sinnvoll?",
+        "optionen": [
+          "Nur die Farbe verschiedener Produkte",
+          "Gesamtpreis inklusive Versand, Garantie und R\u00fcckgabe",
+          "Nur die gr\u00f6sste Werbung",
+          "Nur die Anzahl Emojis in den Kommentaren"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Entscheidend sind nicht nur Grundpreise, sondern auch alle Zusatzbedingungen."
+      },
+      {
+        "frage": "Wann kommt ein Kaufvertrag grunds\u00e4tzlich zustande?",
+        "optionen": [
+          "Erst wenn das Produkt ausgepackt ist",
+          "Wenn sich beide Seiten \u00fcber Ware und Preis einig sind",
+          "Nur wenn bar bezahlt wird",
+          "Nur wenn eine Werbung gesehen wurde"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Vertrag entsteht, wenn Angebot und Annahme zusammenpassen."
+      },
+      {
+        "frage": "Was ist bei einem Handy-Abo ein wichtiger Punkt vor dem Abschluss?",
+        "optionen": [
+          "Nur die Farbe der App",
+          "Laufzeit, K\u00fcndigungsfrist und monatliche Gesamtkosten",
+          "Ob die Werbung lustig war",
+          "Ob Freundinnen und Freunde dieselbe Marke nutzen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei Abos sind Vertragsdauer, Kosten und K\u00fcndigung oft entscheidender als ein einzelner Rabatt."
+      },
+      {
+        "frage": "Welche Entscheidung ist oft besonders nachhaltig?",
+        "optionen": [
+          "Ein Ger\u00e4t ersetzen, obwohl es noch gut funktioniert",
+          "Pr\u00fcfen, ob Reparieren oder Weiterverwenden m\u00f6glich ist",
+          "Mehr kaufen, weil es im Doppelpack billiger scheint",
+          "Nur nach dem Markennamen entscheiden"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reparieren oder Weiterverwenden spart Ressourcen und kann Geld sparen."
+      },
+      {
+        "frage": "Was ist ein Warnsignal bei einem Angebot?",
+        "optionen": [
+          "Klare Angaben zu Preis und Lieferung",
+          "Unklare Zusatzkosten und fehlende Kontaktangaben",
+          "Eine verst\u00e4ndliche Produktbeschreibung",
+          "Mehrere Zahlungsm\u00f6glichkeiten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Fehlende Transparenz ist oft ein Hinweis darauf, dass ein Angebot sorgf\u00e4ltig gepr\u00fcft werden sollte."
+      },
+      {
+        "frage": "Warum lohnt es sich, Produktinformationen genau zu lesen?",
+        "optionen": [
+          "Weil sie Hinweise zu Qualit\u00e4t, Material und Nutzung geben",
+          "Weil damit jeder Vertrag automatisch kostenlos wird",
+          "Weil nur so Werbung erlaubt ist",
+          "Weil Bewertungen dann unn\u00f6tig sind"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Sachinformationen helfen, Produkte nach passenden Kriterien zu beurteilen."
+      },
+      {
+        "frage": "Welche Entscheidung ist situationsorientiert?",
+        "optionen": [
+          "F\u00fcr einen einmaligen Anlass ein Ger\u00e4t ausleihen statt kaufen",
+          "Immer das teuerste Produkt nehmen",
+          "Nur die Lieblingsfarbe w\u00e4hlen",
+          "Nie auf den eigenen Bedarf achten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Situationsorientiert heisst: die Entscheidung passt zum konkreten Anlass und Nutzungsh\u00e4ufigkeit."
+      },
+      {
+        "frage": "Was hilft, wenn mehrere Angebote \u00e4hnlich aussehen?",
+        "optionen": [
+          "Nur auf Rabattsticker schauen",
+          "Vorab Kriterien wie Preis, Qualit\u00e4t, Nachhaltigkeit und Service festlegen",
+          "Das erstbeste Angebot nehmen",
+          "Nur auf die Verpackungsgr\u00f6sse achten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Klare Kriterien erleichtern Vergleiche und machen Entscheidungen nachvollziehbar."
+      },
+      {
+        "frage": "Warum ist ein Kauf ohne Beleg oft ung\u00fcnstig?",
+        "optionen": [
+          "Weil das Produkt dann automatisch schlechter wird",
+          "Weil R\u00fcckgabe oder Reklamation schwieriger nachweisbar sind",
+          "Weil man das Produkt dann nicht benutzen darf",
+          "Weil Belege nur f\u00fcr Erwachsene gelten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Beleg hilft, Kaufdatum, Preis und Anbieter bei Problemen nachzuweisen."
+      }
+    ]
+  }
+}

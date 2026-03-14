@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en5a2",
+  "kompetenz_code": "FS1E.5.A.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Noun", "Verb", "Adjective", "Adverb"],
+    "elemente": [
+      { "text": "music", "kategorie": 0 },
+      { "text": "friendship", "kategorie": 0 },
+      { "text": "invitation", "kategorie": 0 },
+      { "text": "decide", "kategorie": 1 },
+      { "text": "borrow", "kategorie": 1 },
+      { "text": "improve", "kategorie": 1 },
+      { "text": "careful", "kategorie": 2 },
+      { "text": "noisy", "kategorie": 2 },
+      { "text": "useful", "kategorie": 2 },
+      { "text": "quickly", "kategorie": 3 },
+      { "text": "suddenly", "kategorie": 3 },
+      { "text": "quietly", "kategorie": 3 }
+    ]
+  }
+}

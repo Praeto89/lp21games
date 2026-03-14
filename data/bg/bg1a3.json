@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bg1a3",
+  "kompetenz_code": "BG.1.A.3",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Aussage ist ein ästhetisches Urteil mit Begründung?",
+        "optionen": [
+          "Das Bild ist cool.",
+          "Die gedämpften Farben passen zur ruhigen Stimmung des Motivs.",
+          "Ich mag Bilder generell nicht.",
+          "Das Werk ist groß."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein ästhetisches Urteil nennt nicht nur eine Meinung, sondern begründet sie mit wahrnehmbaren Merkmalen."
+      },
+      {
+        "frage": "Warum können zwei Personen dasselbe Bild unterschiedlich beurteilen?",
+        "optionen": [
+          "Weil nur eine Person richtig schauen kann",
+          "Weil Erfahrungen, Erwartungen und Kriterien verschieden sein können",
+          "Weil Kunst nie besprochen werden darf",
+          "Weil im Unterricht immer Zufall entscheidet"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ästhetische Urteile entstehen aus Wahrnehmung und persönlichen wie kulturellen Erfahrungen."
+      },
+      {
+        "frage": "Welches Kriterium bezieht sich direkt auf den Bildaufbau?",
+        "optionen": [
+          "Ob das Papier teuer war",
+          "Ob Vordergrund, Schwerpunkt und Balance stimmig wirken",
+          "Ob das Werk schnell fertig wurde",
+          "Ob alle dieselbe Lieblingsfarbe gewählt haben"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Bildaufbau betrifft die Anordnung und Gewichtung der Bildelemente."
+      },
+      {
+        "frage": "Welche Rückmeldung hilft bei einer Bildbesprechung am meisten weiter?",
+        "optionen": [
+          "Gefällt mir nicht.",
+          "Die diagonalen Linien machen das Bild dynamisch, aber der Fokus ist noch unklar.",
+          "Ist halt dein Stil.",
+          "Ich hätte etwas ganz anderes gemacht."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Gute Rückmeldungen benennen konkrete Beobachtungen und deren Wirkung."
+      },
+      {
+        "frage": "Wie diskutiert man ästhetische Urteile respektvoll?",
+        "optionen": [
+          "Indem man andere Meinungen abwertet",
+          "Indem man sich auf sichtbare Merkmale bezieht und unterschiedliche Sichtweisen zulässt",
+          "Indem nur die Lehrperson entscheidet",
+          "Indem man nur über Geschmack spricht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Respektvolle Diskussionen stützen sich auf Begründungen und akzeptieren verschiedene Perspektiven."
+      },
+      {
+        "frage": "Was stärkt ein eigenes ästhetisches Urteil?",
+        "optionen": [
+          "Der Vergleich mit anderen Lösungen und Werken",
+          "Das bloße Nachsprechen einer fremden Meinung",
+          "Die Anzahl verwendeter Farben",
+          "Die Lautstärke beim Präsentieren"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vergleiche schärfen den Blick für Alternativen und machen Kriterien bewusster."
+      },
+      {
+        "frage": "Wann kann Irritation in einem Bild positiv bewertet werden?",
+        "optionen": [
+          "Wenn sie zum genauen Hinsehen und Nachdenken anregt",
+          "Wenn sie jedes Verstehen unmöglich macht",
+          "Wenn sie nur aus Versehen entsteht",
+          "Wenn sie das Thema komplett verdeckt"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Irritation kann ästhetisch spannend sein, wenn sie neue Fragen oder Deutungen eröffnet."
+      },
+      {
+        "frage": "Welche Aussage bezieht den gesellschaftlichen Kontext in ein Urteil ein?",
+        "optionen": [
+          "Das Poster nutzt Klischees und wirkt deshalb problematisch.",
+          "Das Bild ist auf Karton gemalt.",
+          "Das Format ist A3.",
+          "Im Werk gibt es drei Figuren."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ästhetische Urteile können auch fragen, welche Wirkung Bilder in einer Gesellschaft entfalten."
+      },
+      {
+        "frage": "Warum reichen persönliche Vorlieben allein für ein ästhetisches Urteil oft nicht aus?",
+        "optionen": [
+          "Weil Geschmack verboten ist",
+          "Weil Urteile nachvollziehbar werden, wenn sie mit Kriterien begründet sind",
+          "Weil nur Fachpersonen urteilen dürfen",
+          "Weil Bilder immer gleich bewertet werden müssen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Persönlicher Geschmack ist ein Anfang, aber Begründungen machen ein Urteil verständlich und diskutierbar."
+      },
+      {
+        "frage": "Worauf sollte man bei der Beurteilung eigener und fremder Bilder achten?",
+        "optionen": [
+          "Nur auf die technische Perfektion",
+          "Auf Gestaltung, Aussage, Wirkung und den Umgang mit dem Thema",
+          "Nur auf die Schnelligkeit der Arbeit",
+          "Nur auf die Anzahl der Materialien"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein fundiertes Urteil berücksichtigt mehrere Aspekte des bildnerischen Ergebnisses."
+      }
+    ]
+  }
+}

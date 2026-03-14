@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de1c1",
+  "kompetenz_code": "D.1.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "In einer Diskussion sagt jemand: \"Das klingt gut, aber wir haben dafür zu wenig Zeit.\" Was zeigt gutes Zuhören?",
+        "optionen": [
+          "Sofort das Thema wechseln",
+          "Auf den Einwand zur Zeit eingehen",
+          "Die Aussage ignorieren",
+          "Nur den ersten Teil wiederholen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer gut zuhört, reagiert auf den gesamten Beitrag und greift den Einwand auf."
+      },
+      {
+        "frage": "Zwei Jugendliche streiten. Eine Person spricht sehr laut und schnell. Was kann das zusätzlich zum Inhalt signalisieren?",
+        "optionen": [
+          "Dass sie gelangweilt ist",
+          "Dass sie aufgeregt oder wütend ist",
+          "Dass sie flüstert",
+          "Dass sie keine Meinung hat"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Sprechtempo und Lautstärke helfen, Emotionen und Gesprächsstrategien einzuschätzen."
+      },
+      {
+        "frage": "In einer Debatte wiederholt jemand ständig: \"Das ist doch logisch.\" Welche Strategie steckt dahinter?",
+        "optionen": [
+          "Er oder sie versucht, die eigene Position stärker wirken zu lassen",
+          "Er oder sie hat das Thema vergessen",
+          "Er oder sie möchte das Gespräch beenden",
+          "Er oder sie stellt nur eine Verständnisfrage"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Solche Formulierungen können dazu dienen, die eigene Meinung als besonders überzeugend darzustellen."
+      },
+      {
+        "frage": "Was ist in einem Konfliktgespräch die angemessenste Reaktion auf den Satz: \"Du hörst mir nie zu\"?",
+        "optionen": [
+          "\"Das stimmt sicher nicht.\"",
+          "\"Dann rede ich halt gar nicht mehr.\"",
+          "\"Was genau meinst du damit?\"",
+          "\"Das ist mir egal.\""
+        ],
+        "korrekt": 2,
+        "erklaerung": "Eine klärende Nachfrage zeigt Aufmerksamkeit und hilft, den Konflikt zu verstehen."
+      },
+      {
+        "frage": "Warum ist Blickkontakt in einem Gespräch ein Zeichen von Aufmerksamkeit?",
+        "optionen": [
+          "Weil man dann nichts mehr sagen muss",
+          "Weil er zeigt, dass man beim Gespräch bleibt",
+          "Weil man dadurch automatisch recht hat",
+          "Weil man damit den anderen unterbricht"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Blickkontakt unterstützt aktives Zuhören und signalisiert Interesse."
+      },
+      {
+        "frage": "In einer Gruppenarbeit sagt eine Person: \"Ich widerspreche dir, weil die Umfrage andere Ergebnisse zeigt.\" Woran erkennst du den argumentativen Charakter des Beitrags?",
+        "optionen": [
+          "An der höflichen Begrüssung",
+          "An der Begründung mit einem Beleg",
+          "Am Dialekt",
+          "An der Länge des Satzes"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Argument wird mit einer Begründung oder einem Beleg gestützt."
+      },
+      {
+        "frage": "Jemand sagt im Gespräch ruhig: \"Ich merke, dass mich das verletzt.\" Was zeigt gutes Zuhören hier besonders?",
+        "optionen": [
+          "Das Gefühl wahrnehmen und ernst nehmen",
+          "Sofort eine neue Idee einbringen",
+          "Lachen, um die Situation aufzulockern",
+          "Nur auf das letzte Wort reagieren"
+        ],
+        "korrekt": 0,
+        "erklaerung": "In Konfliktsituationen ist es wichtig, eigene und fremde Emotionen wahrzunehmen."
+      },
+      {
+        "frage": "Welche Reaktion zeigt, dass du in einer Debatte auf einen vorherigen Beitrag Bezug nimmst?",
+        "optionen": [
+          "\"Ich sage jetzt etwas ganz anderes.\"",
+          "\"Wie schon Mia erwähnt hat, spricht die Statistik eher dagegen.\"",
+          "\"Ich habe das Thema nicht gehört.\"",
+          "\"Egal, ich lese jetzt meinen Text vor.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bezugnahmen zeigen, dass du zugehört hast und deinen Beitrag in das Gespräch einordnest."
+      }
+    ]
+  }
+}

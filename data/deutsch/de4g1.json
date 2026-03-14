@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "de4g1",
+  "kompetenz_code": "D.4.G.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Aussage zeigt eine sinnvolle Reflexion über den eigenen Schreibprozess?",
+        "optionen": [
+          "\"Ich habe einfach irgendetwas geschrieben.\"",
+          "\"Meine Gliederung hat geholfen, den roten Faden zu behalten.\"",
+          "\"Rückmeldungen brauche ich nie.\"",
+          "\"Überarbeiten ist immer unnötig.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Reflexion benennt bewusst, welche Strategien geholfen haben."
+      },
+      {
+        "frage": "Warum sind Kriterien beim Beurteilen eines eigenen Textes hilfreich?",
+        "optionen": [
+          "Weil sie die Einschätzung begründen und vergleichbar machen",
+          "Weil sie Kreativität verbieten",
+          "Weil dann nur noch Fehler zählen",
+          "Weil man dann gar nicht mehr lesen muss"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Kriterien helfen, Qualität nachvollziehbar einzuschätzen."
+      },
+      {
+        "frage": "Welche Rückmeldung ist am nützlichsten?",
+        "optionen": [
+          "\"Ist halt okay.\"",
+          "\"Die Einleitung ist klar, aber das Beispiel im zweiten Absatz fehlt noch.\"",
+          "\"Mir egal.\"",
+          "\"Zu viele Wörter.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Nützliche Rückmeldungen benennen Stärken und konkrete Verbesserungsmöglichkeiten."
+      },
+      {
+        "frage": "Was zeigt Ausdauer im Schreibprozess?",
+        "optionen": [
+          "Bei der ersten Schwierigkeit sofort aufhören",
+          "Auch längere Texte überarbeiten und weiterentwickeln",
+          "Nur die Überschrift abgeben",
+          "Den Text nie nochmals lesen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Schreiben braucht Zeit, Überarbeitung und Durchhaltevermögen."
+      },
+      {
+        "frage": "Welche Frage passt zur Reflexion über Schreibstrategien?",
+        "optionen": [
+          "Welche Farbe hatte mein Stift?",
+          "Welche Methode hat mir beim Planen oder Überarbeiten geholfen?",
+          "Wie oft habe ich meinen Namen geschrieben?",
+          "Welche Seite im Heft ist am schönsten?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Schreibstrategien werden bewusst gemacht, wenn man ihre Wirkung beschreibt."
+      },
+      {
+        "frage": "Was bedeutet es, die Qualität eines Textes einzuschätzen?",
+        "optionen": [
+          "Nur auf die Länge zu achten",
+          "Zu beurteilen, wie gut der Text Ziel, Inhalt und Form erfüllt",
+          "Jeden Text automatisch gleich zu bewerten",
+          "Nur die Rechtschreibung zu zählen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Textqualität umfasst mehrere Bereiche, nicht nur einzelne Fehler."
+      },
+      {
+        "frage": "Worin liegt der Nutzen des Austauschs mit anderen über einen Text?",
+        "optionen": [
+          "Man erhält neue Perspektiven auf Wirkung und Verständlichkeit",
+          "Man muss dann keine eigene Meinung mehr bilden",
+          "Der Text wird dadurch automatisch veröffentlicht",
+          "Es geht nur um Lob"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Austausch erweitert die Sicht auf den eigenen Text."
+      },
+      {
+        "frage": "Welche Formulierung zeigt eine realistische Selbsteinschätzung?",
+        "optionen": [
+          "\"Mein Text ist perfekt, obwohl ich ihn nicht überarbeitet habe.\"",
+          "\"Die Argumente sind klar, aber der Schluss könnte noch präziser sein.\"",
+          "\"Ich weiss nichts über meinen Text.\"",
+          "\"Nur andere dürfen Texte beurteilen.\""
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eine gute Selbsteinschätzung benennt Stärken und Verbesserungsmöglichkeiten."
+      }
+    ]
+  }
+}

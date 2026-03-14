@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "mu2a",
+  "kompetenz_code": "MU.2.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Was bedeutet das Dynamikzeichen \"p\" in einer Notation?",
+        "optionen": [
+          "schneller",
+          "lauter",
+          "leiser",
+          "höher"
+        ],
+        "korrekt": 2,
+        "erklaerung": "\"p\" steht für piano und bedeutet leise."
+      },
+      {
+        "frage": "Was beschreibt das Wort Tempo in der Musik?",
+        "optionen": [
+          "die Tonhöhe",
+          "die Geschwindigkeit",
+          "die Anzahl Instrumente",
+          "die Sprache des Liedes"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Tempo meint, wie schnell oder langsam Musik gespielt wird."
+      },
+      {
+        "frage": "Welche Note dauert in der Regel kürzer als eine Viertelnote?",
+        "optionen": [
+          "Ganze Note",
+          "Halbe Note",
+          "Achtelnote",
+          "Punktierte halbe Note"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Eine Achtelnote hat eine kürzere Dauer als eine Viertelnote."
+      },
+      {
+        "frage": "Was hörst du vor allem heraus, wenn du einen Klang als \"hell\" oder \"dunkel\" beschreibst?",
+        "optionen": [
+          "die Klangfarbe",
+          "die Taktart",
+          "den Liedtext",
+          "den Aufführungsort"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Begriffe wie hell und dunkel beschreiben die Klangfarbe."
+      },
+      {
+        "frage": "Wozu dient eine Pause in der Notation?",
+        "optionen": [
+          "Sie zeigt Stille von bestimmter Dauer an",
+          "Sie macht Musik automatisch schneller",
+          "Sie markiert nur das Ende des Liedes",
+          "Sie ersetzt die Tonart"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Pausenzeichen zeigen an, wie lange nicht gespielt oder gesungen wird."
+      },
+      {
+        "frage": "Was bedeutet ein Crescendo?",
+        "optionen": [
+          "allmählich langsamer",
+          "allmählich lauter",
+          "plötzlich leise",
+          "gleiches Tempo"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Bei einem Crescendo wächst die Lautstärke schrittweise."
+      },
+      {
+        "frage": "Wie lässt sich eine aufsteigende Melodie am besten beschreiben?",
+        "optionen": [
+          "Die Töne werden tiefer",
+          "Die Töne bleiben alle gleich",
+          "Die Töne gehen nach oben",
+          "Nur der Rhythmus ändert sich"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Aufsteigend heisst, dass die Tonhöhe zunimmt."
+      },
+      {
+        "frage": "Was zeigt eine Taktart wie 4/4 an?",
+        "optionen": [
+          "welches Instrument spielen darf",
+          "wie Schläge pro Takt geordnet sind",
+          "ob ein Lied in Dur ist",
+          "wie laut gespielt werden muss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Taktart ordnet den Puls in regelmässige Gruppen."
+      },
+      {
+        "frage": "Was bedeutet staccato?",
+        "optionen": [
+          "verbunden und getragen",
+          "kurz und deutlich getrennt",
+          "gesprochen statt gesungen",
+          "ohne Rhythmus"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Staccato bezeichnet kurze, klar getrennte Töne."
+      },
+      {
+        "frage": "Was hilft beim differenzierten Hören eines Musikstücks am meisten?",
+        "optionen": [
+          "Nur auf den Text zu achten",
+          "Gleichzeitig auf Tempo, Dynamik, Klangfarbe und Form zu hören",
+          "Sofort mitzusingen",
+          "Nur den lautesten Klang zu merken"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Differenziertes Hören bezieht mehrere musikalische Merkmale gleichzeitig ein."
+      }
+    ]
+  }
+}

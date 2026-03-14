@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "ttg2c1",
+  "kompetenz_code": "TTG.2.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Material", "Oberflaeche", "Form", "Farbe"],
+    "elemente": [
+      { "text": "Filz statt Karton waehlen", "kategorie": 0 },
+      { "text": "Holz und Metall kombinieren", "kategorie": 0 },
+      { "text": "Baumwolle fuer einen waschbaren Bezug einsetzen", "kategorie": 0 },
+      { "text": "Rau und griffig gestaltet", "kategorie": 1 },
+      { "text": "Poliert und glatt", "kategorie": 1 },
+      { "text": "Matt statt glaenzend bearbeitet", "kategorie": 1 },
+      { "text": "Zylindrischer Koerper", "kategorie": 2 },
+      { "text": "Klare geometrische Grundform", "kategorie": 2 },
+      { "text": "Abgerundete Kanten", "kategorie": 2 },
+      { "text": "Komplementaere Farbkombination", "kategorie": 3 },
+      { "text": "Warme Rot-Orange-Toene", "kategorie": 3 },
+      { "text": "Starker Hell-Dunkel-Kontrast", "kategorie": 3 }
+    ]
+  }
+}

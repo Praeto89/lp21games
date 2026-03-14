@@ -1,0 +1,62 @@
+{
+  "kompetenz_id": "ma2a1",
+  "kompetenz_code": "MA.2.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Figur",
+      "Körper",
+      "Geometrischer Begriff"
+    ],
+    "elemente": [
+      {
+        "text": "Trapez",
+        "kategorie": 0
+      },
+      {
+        "text": "Parallelogramm",
+        "kategorie": 0
+      },
+      {
+        "text": "Rhombus",
+        "kategorie": 0
+      },
+      {
+        "text": "Drachenviereck",
+        "kategorie": 0
+      },
+      {
+        "text": "Prisma",
+        "kategorie": 1
+      },
+      {
+        "text": "Zylinder",
+        "kategorie": 1
+      },
+      {
+        "text": "Pyramide",
+        "kategorie": 1
+      },
+      {
+        "text": "Tetraeder",
+        "kategorie": 1
+      },
+      {
+        "text": "Mittelsenkrechte",
+        "kategorie": 2
+      },
+      {
+        "text": "Winkelhalbierende",
+        "kategorie": 2
+      },
+      {
+        "text": "Koordinatensystem",
+        "kategorie": 2
+      },
+      {
+        "text": "Hypotenuse",
+        "kategorie": 2
+      }
+    ]
+  }
+}

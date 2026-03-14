@@ -1,0 +1,97 @@
+{
+  "kompetenz_id": "ma2c1",
+  "kompetenz_code": "MA.2.C.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Wie heißt die Darstellung eines aufgefalteten Körpers?",
+        "optionen": [
+          "Schrägbild",
+          "Aufsicht",
+          "Netz",
+          "Koordinatenbild"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein Körper wird beim Auffalten als Netz dargestellt."
+      },
+      {
+        "frage": "Welche Ansicht zeigt einen Körper von oben?",
+        "optionen": [
+          "Seitenansicht",
+          "Aufsicht",
+          "Vorderansicht",
+          "Grundriss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Aufsicht zeigt, wie ein Körper von oben aussieht."
+      },
+      {
+        "frage": "Welche Darstellung eignet sich besonders, um einen Quader räumlich zu skizzieren?",
+        "optionen": [
+          "Tabelle",
+          "Schrägbild",
+          "Kreisdiagramm",
+          "Rechengeschichte"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Im Schrägbild wirkt der Körper räumlich."
+      },
+      {
+        "frage": "Wozu braucht man bei einem Würfelgebäude neben der Aufsicht oft noch eine Vorder- oder Seitenansicht?",
+        "optionen": [
+          "Um die Höhe eindeutig zu erkennen",
+          "Um die Farbe festzulegen",
+          "Damit der Umfang sichtbar wird",
+          "Damit die Kanten kürzer werden"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Erst mehrere Ansichten machen die räumliche Form eindeutig."
+      },
+      {
+        "frage": "Welche Aussage über das Netz eines Würfels ist richtig?",
+        "optionen": [
+          "Es besteht aus 4 Quadraten",
+          "Es besteht aus 5 Quadraten",
+          "Es besteht aus 6 Quadraten",
+          "Es besteht aus 8 Quadraten"
+        ],
+        "korrekt": 2,
+        "erklaerung": "Ein Würfel hat sechs quadratische Flächen."
+      },
+      {
+        "frage": "Was zeigt ein Modell im Maßstab 1:50?",
+        "optionen": [
+          "Das Modell ist 50-mal größer als die Wirklichkeit",
+          "1 Einheit am Modell entspricht 50 Einheiten in Wirklichkeit",
+          "Das Modell ist immer 50 cm lang",
+          "Der Maßstab gilt nur für Flächen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Ein Maßstab 1:50 verkleinert alle Längen im Verhältnis 1 zu 50."
+      },
+      {
+        "frage": "Welche Darstellung hilft am meisten, wenn du einen Kartonkörper bauen willst?",
+        "optionen": [
+          "Netz",
+          "Liniendiagramm",
+          "Wertetabelle",
+          "Zahlenstrahl"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Netz zeigt, welche Flächen ausgeschnitten und gefaltet werden müssen."
+      },
+      {
+        "frage": "Welche Ansicht ist bei einem stehenden Quader typisch für Breite und Höhe?",
+        "optionen": [
+          "Aufsicht",
+          "Vorderansicht",
+          "Netz",
+          "Koordinatenliste"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Die Vorderansicht zeigt, wie breit und hoch der Quader von vorne erscheint."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "kompetenz_id": "mu3c",
+  "kompetenz_code": "MU.3.C.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Gesellschaftstanz",
+      "Streetdance",
+      "Alpenraum und Mitteleuropa",
+      "Tanztraditionen weltweit"
+    ],
+    "elemente": [
+      {
+        "text": "Walzer",
+        "kategorie": 0
+      },
+      {
+        "text": "Tango",
+        "kategorie": 0
+      },
+      {
+        "text": "Cha-Cha-Cha",
+        "kategorie": 0
+      },
+      {
+        "text": "Breakdance",
+        "kategorie": 1
+      },
+      {
+        "text": "Locking",
+        "kategorie": 1
+      },
+      {
+        "text": "Hip-Hop-Freestyle",
+        "kategorie": 1
+      },
+      {
+        "text": "Ländler",
+        "kategorie": 2
+      },
+      {
+        "text": "Polka",
+        "kategorie": 2
+      },
+      {
+        "text": "Bhangra",
+        "kategorie": 3
+      },
+      {
+        "text": "Dabke",
+        "kategorie": 3
+      }
+    ]
+  }
+}

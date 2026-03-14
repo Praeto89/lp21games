@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "de4b1",
+  "kompetenz_code": "D.4.B.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Bewerbungsschreiben", "Zeitungsbericht", "Blog-Beitrag", "Flyer"],
+    "elemente": [
+      { "text": "formelle Anrede und klares Anliegen", "kategorie": 0 },
+      { "text": "Lebenslauf als ergänzendes Dokument", "kategorie": 0 },
+      { "text": "Bezug zu eigenen Stärken und Erfahrungen", "kategorie": 0 },
+      { "text": "beantwortet W-Fragen wie wer, wann, wo", "kategorie": 1 },
+      { "text": "sachlicher Stil und überprüfbare Informationen", "kategorie": 1 },
+      { "text": "prägnante Überschrift zum Ereignis", "kategorie": 1 },
+      { "text": "persönlicher Ton und direkte Ansprache der Lesenden", "kategorie": 2 },
+      { "text": "Meinung oder Erfahrung kann sichtbar werden", "kategorie": 2 },
+      { "text": "Eintrag erscheint oft chronologisch auf einer Webseite", "kategorie": 2 },
+      { "text": "kurze, auffällige Textbausteine", "kategorie": 3 },
+      { "text": "wirbt für einen Anlass oder ein Angebot", "kategorie": 3 },
+      { "text": "arbeitet mit Layout, Stichpunkten und Blickfang", "kategorie": 3 }
+    ]
+  }
+}

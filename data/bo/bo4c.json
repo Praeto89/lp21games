@@ -1,0 +1,41 @@
+{
+  "kompetenz_id": "bo4c",
+  "kompetenz_code": "BO.4.3",
+  "typ": "memory",
+  "spiel": {
+    "paare": [
+      {
+        "a": "Lebenslauf",
+        "b": "Zeigt Ausbildung, Erfahrungen und Fähigkeiten auf einen Blick"
+      },
+      {
+        "a": "Motivationsschreiben",
+        "b": "Erklärt Interesse am Beruf und persönliche Gründe für die Bewerbung"
+      },
+      {
+        "a": "Zeugniskopie",
+        "b": "Dokumentiert schulische Leistungen"
+      },
+      {
+        "a": "Schnupperlehrbeurteilung",
+        "b": "Belegt Rückmeldungen aus der Praxis"
+      },
+      {
+        "a": "Zertifikat oder Kursnachweis",
+        "b": "Weist zusätzliche Kompetenzen nach"
+      },
+      {
+        "a": "Portfolio",
+        "b": "Sammelt wichtige Unterlagen und Erfahrungen aus dem Berufswahlprozess"
+      },
+      {
+        "a": "Notizen aus Berufsinformation und Beratung",
+        "b": "Halten Erkenntnisse zu Berufen, Wegen und Entscheidungen fest"
+      },
+      {
+        "a": "Liste eigener Stärken",
+        "b": "Hilft, die Berufswahl und Bewerbung nachvollziehbar zu begründen"
+      }
+    ]
+  }
+}

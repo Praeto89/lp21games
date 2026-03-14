@@ -1,0 +1,79 @@
+{
+  "kompetenz_id": "ma3a1",
+  "kompetenz_code": "MA.3.A.1",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": [
+      "Masseinheit",
+      "Funktion oder Koordinaten",
+      "Statistik",
+      "Zufall"
+    ],
+    "elemente": [
+      {
+        "text": "km/h",
+        "kategorie": 0
+      },
+      {
+        "text": "cm³",
+        "kategorie": 0
+      },
+      {
+        "text": "ha",
+        "kategorie": 0
+      },
+      {
+        "text": "CHF",
+        "kategorie": 0
+      },
+      {
+        "text": "x-Achse",
+        "kategorie": 1
+      },
+      {
+        "text": "y-Koordinate",
+        "kategorie": 1
+      },
+      {
+        "text": "Funktionsgraph",
+        "kategorie": 1
+      },
+      {
+        "text": "Steigung",
+        "kategorie": 1
+      },
+      {
+        "text": "arithmetisches Mittel",
+        "kategorie": 2
+      },
+      {
+        "text": "relative Häufigkeit",
+        "kategorie": 2
+      },
+      {
+        "text": "Säulendiagramm",
+        "kategorie": 2
+      },
+      {
+        "text": "Kreisdiagramm",
+        "kategorie": 2
+      },
+      {
+        "text": "sicheres Ereignis",
+        "kategorie": 3
+      },
+      {
+        "text": "wahrscheinlich",
+        "kategorie": 3
+      },
+      {
+        "text": "unmögliches Ereignis",
+        "kategorie": 3
+      },
+      {
+        "text": "Wahrscheinlichkeit",
+        "kategorie": 3
+      }
+    ]
+  }
+}

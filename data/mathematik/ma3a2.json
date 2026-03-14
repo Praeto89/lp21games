@@ -1,0 +1,65 @@
+{
+  "kompetenz_id": "ma3a2",
+  "kompetenz_code": "MA.3.A.2",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 210,
+    "aufgaben": [
+      {
+        "aufgabe": "3.5 m = ? cm",
+        "loesung": "350",
+        "hinweis": "1 m sind 100 cm."
+      },
+      {
+        "aufgabe": "2.4 l = ? ml",
+        "loesung": "2400",
+        "hinweis": "1 l sind 1000 ml."
+      },
+      {
+        "aufgabe": "4500 cm² = ? m²",
+        "loesung": "0.45",
+        "hinweis": "1 m² sind 10 000 cm²."
+      },
+      {
+        "aufgabe": "1.2 ha = ? m²",
+        "loesung": "12000",
+        "hinweis": "1 ha sind 10 000 m²."
+      },
+      {
+        "aufgabe": "72 km/h = ? m/s",
+        "loesung": "20",
+        "hinweis": "Teile durch 3.6."
+      },
+      {
+        "aufgabe": "15 % von 80 = ?",
+        "loesung": "12",
+        "hinweis": "Berechne zuerst 10 % und 5 %."
+      },
+      {
+        "aufgabe": "300 CHF mit 20 % Rabatt kosten noch ?",
+        "loesung": "240",
+        "hinweis": "20 % Rabatt heißt: 80 % bleiben."
+      },
+      {
+        "aufgabe": "0.8 kg = ? g",
+        "loesung": "800",
+        "hinweis": "1 kg sind 1000 g."
+      },
+      {
+        "aufgabe": "45 min = ? h",
+        "loesung": "0.75",
+        "hinweis": "Teile durch 60."
+      },
+      {
+        "aufgabe": "18 von 24 sind ? %",
+        "loesung": "75",
+        "hinweis": "18/24 = 3/4."
+      },
+      {
+        "aufgabe": "2.5 m³ = ? l",
+        "loesung": "2500",
+        "hinweis": "1 m³ sind 1000 l."
+      }
+    ]
+  }
+}

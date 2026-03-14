@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "bo1a",
+  "kompetenz_code": "BO.1.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Welche Aussage beschreibt einen Teil des Persönlichkeitsprofils?",
+        "optionen": [
+          "Die Busfahrzeiten zum Schulhaus",
+          "Eigene Interessen, Werte und Fähigkeiten",
+          "Die Anzahl Lektionen pro Woche",
+          "Nur die Meinung der Lehrperson"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zum Persönlichkeitsprofil gehören Merkmale wie Interessen, Fähigkeiten, Einstellungen, Voraussetzungen und Werte."
+      },
+      {
+        "frage": "Was bedeutet es, das Selbstbild mit dem Fremdbild zu vergleichen?",
+        "optionen": [
+          "Man ignoriert Rückmeldungen anderer.",
+          "Man prüft, wie man sich selbst sieht und wie andere einen wahrnehmen.",
+          "Man kopiert die Meinung der Kolleginnen und Kollegen.",
+          "Man bewertet nur Schulnoten."
+        ],
+        "korrekt": 1,
+        "erklaerung": "Der Vergleich von Selbstbild und Fremdbild hilft, Stärken, blinde Flecken und Entwicklungsmöglichkeiten besser zu erkennen."
+      },
+      {
+        "frage": "Welche Frage hilft am besten, eigene Interessen zu erkennen?",
+        "optionen": [
+          "Was machen alle anderen später?",
+          "Womit beschäftige ich mich freiwillig und gerne?",
+          "Welche Berufe verdienen am meisten Geld?",
+          "Welche Fächer sind am kürzesten?"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Eigene Interessen zeigen sich oft dort, wo jemand freiwillig Zeit investiert und motiviert bleibt."
+      },
+      {
+        "frage": "Was sind Werte im Zusammenhang mit der Berufswahl?",
+        "optionen": [
+          "Nur Noten im Zeugnis",
+          "Dinge, die einer Person wichtig sind, zum Beispiel Sicherheit oder Teamarbeit",
+          "Die Anzahl Follower auf Social Media",
+          "Nur körperliche Voraussetzungen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Werte sind persönliche Leitvorstellungen. Sie beeinflussen, welcher Arbeitsalltag und welches Umfeld als passend erlebt werden."
+      },
+      {
+        "frage": "Eine Mitschülerin sagt: 'Du erklärst anderen ruhig und verständlich.' Was ist das?",
+        "optionen": [
+          "Ein Beispiel für Fremdbild",
+          "Ein Stundenplan",
+          "Ein Lohnvergleich",
+          "Eine Berufsmesse"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine Rückmeldung von anderen gehört zum Fremdbild und kann wichtige Hinweise auf Stärken geben."
+      },
+      {
+        "frage": "Welche Schlussfolgerung aus dem Persönlichkeitsprofil ist sinnvoll?",
+        "optionen": [
+          "Ich interessiere mich für Technik und arbeite genau, also prüfe ich auch technische Berufe.",
+          "Ich wähle denselben Beruf wie mein bester Freund.",
+          "Ich entscheide nur nach dem Arbeitsweg.",
+          "Ich verzichte auf alle Rückmeldungen."
+        ],
+        "korrekt": 0,
+        "erklaerung": "Eine sinnvolle Schlussfolgerung verbindet persönliche Merkmale mit möglichen Tätigkeiten und Ausbildungswegen."
+      },
+      {
+        "frage": "Warum ist eine realistische Selbsteinschätzung wichtig?",
+        "optionen": [
+          "Damit man nur einfache Wege wählt",
+          "Damit man passende Ziele setzen und sich gezielt verbessern kann",
+          "Damit andere entscheiden können",
+          "Damit man keine Fragen mehr stellen muss"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Wer eigene Stärken und Entwicklungsfelder kennt, kann passende Berufe prüfen und gezielt an Voraussetzungen arbeiten."
+      },
+      {
+        "frage": "Welche Aussage zeigt eine gute Reflexion?",
+        "optionen": [
+          "Ich kann alles gleich gut.",
+          "Ich habe keine Stärken.",
+          "Ich arbeite gerne praktisch, muss aber an meiner Pünktlichkeit arbeiten.",
+          "Ich entscheide zufällig."
+        ],
+        "korrekt": 2,
+        "erklaerung": "Eine gute Reflexion nennt sowohl Stärken als auch Bereiche, in denen Entwicklung möglich oder nötig ist."
+      },
+      {
+        "frage": "Was kann man tun, wenn das Fremdbild vom Selbstbild abweicht?",
+        "optionen": [
+          "Alle Rückmeldungen sofort ablehnen",
+          "Die Unterschiede prüfen und konkrete Beispiele sammeln",
+          "Nur noch auf Glück hoffen",
+          "Das Persönlichkeitsprofil nicht mehr beachten"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Unterschiede zwischen Selbst- und Fremdbild sind besonders nützlich, wenn man sie mit Beispielen überprüft und daraus lernt."
+      },
+      {
+        "frage": "Warum verändert sich ein Persönlichkeitsprofil mit der Zeit?",
+        "optionen": [
+          "Weil Interessen, Erfahrungen und Kompetenzen sich weiterentwickeln",
+          "Weil Berufe jedes Jahr verschwinden",
+          "Weil Zeugnisse nach einem Jahr ungültig sind",
+          "Weil nur Erwachsene ein Profil haben"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Menschen sammeln neue Erfahrungen, entdecken neue Interessen und entwickeln Fähigkeiten weiter. Deshalb darf sich auch das Profil verändern."
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "kompetenz_id": "en1a1",
+  "kompetenz_code": "FS1E.1.A.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "You hear: 'The train to Bristol leaves from platform 4 at 9:20.' Which platform do you need?",
+        "optionen": ["Platform 2", "Platform 4", "Platform 6", "Platform 9"],
+        "korrekt": 1,
+        "erklaerung": "In der Durchsage steht klar, dass der Zug von Gleis 4 abfährt."
+      },
+      {
+        "frage": "A teacher says: 'Bring your sports shoes on Thursday because we have PE in the gym.' What should the class bring?",
+        "optionen": ["A calculator", "A raincoat", "Sports shoes", "A dictionary"],
+        "korrekt": 2,
+        "erklaerung": "Die Lehrperson nennt Sportschuhe ausdrücklich als Material für Donnerstag."
+      },
+      {
+        "frage": "Two friends say: 'Let's meet outside the cinema at half past six.' When do they want to meet?",
+        "optionen": ["6:15", "6:30", "6:45", "7:30"],
+        "korrekt": 1,
+        "erklaerung": "'Half past six' bedeutet 6:30 Uhr."
+      },
+      {
+        "frage": "In the weather report you hear: 'It will be cloudy in the morning, but sunny and warm after lunch.' What is the afternoon weather like?",
+        "optionen": ["Windy and cold", "Rainy and stormy", "Sunny and warm", "Foggy and icy"],
+        "korrekt": 2,
+        "erklaerung": "Für den Nachmittag werden Sonne und Wärme angekündigt."
+      },
+      {
+        "frage": "A voicemail says: 'Hi Maya, I'm ill today, so I can't join the group project after school.' Why can't the speaker come?",
+        "optionen": ["Because of football practice", "Because of a dentist appointment", "Because the bus is late", "Because the speaker is ill"],
+        "korrekt": 3,
+        "erklaerung": "Die Person sagt direkt, dass sie krank ist."
+      },
+      {
+        "frage": "You hear at school: 'Year 9 students should hand in their forms by Friday.' Who has to hand in the forms?",
+        "optionen": ["Only the teachers", "Year 9 students", "All parents", "Only Year 7 students"],
+        "korrekt": 1,
+        "erklaerung": "Die Ansage richtet sich ausdrücklich an die Schülerinnen und Schüler der 9. Klasse."
+      },
+      {
+        "frage": "A tourist guide says: 'The castle is closed on Mondays, but the garden is open every day.' What can visitors see on Monday?",
+        "optionen": ["The castle tower", "The garden", "The ticket office only", "Nothing at all"],
+        "korrekt": 1,
+        "erklaerung": "Das Schloss ist geschlossen, der Garten aber jeden Tag offen."
+      },
+      {
+        "frage": "After a film, someone says: 'I liked it because the ending surprised me.' What does the speaker think about the film?",
+        "optionen": ["It was boring from start to finish", "The ending was predictable", "The ending was surprising", "The actors were too loud"],
+        "korrekt": 2,
+        "erklaerung": "Die Person erklärt, dass ihr gerade das überraschende Ende gefallen hat."
+      }
+    ]
+  }
+}

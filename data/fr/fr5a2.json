@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "fr5a2",
+  "kompetenz_code": "FS2F.5.A.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["Formell", "Informell", "Internationalismus", "Faux ami"],
+    "elemente": [
+      { "text": "Bonjour Madame", "kategorie": 0 },
+      { "text": "Je vous remercie.", "kategorie": 0 },
+      { "text": "Excusez-moi.", "kategorie": 0 },
+      { "text": "Salut !", "kategorie": 1 },
+      { "text": "Ça va ?", "kategorie": 1 },
+      { "text": "À plus !", "kategorie": 1 },
+      { "text": "la musique", "kategorie": 2 },
+      { "text": "le téléphone", "kategorie": 2 },
+      { "text": "le cinéma", "kategorie": 2 },
+      { "text": "actuellement = momentan", "kategorie": 3 },
+      { "text": "la librairie = Buchhandlung", "kategorie": 3 },
+      { "text": "sensible = empfindlich", "kategorie": 3 }
+    ]
+  }
+}

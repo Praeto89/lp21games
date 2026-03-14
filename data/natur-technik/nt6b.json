@@ -1,0 +1,49 @@
+{
+  "kompetenz_id": "nt6b",
+  "kompetenz_code": "NT.6.2",
+  "typ": "lueckentext",
+  "spiel": {
+    "saetze": [
+      {
+        "text": "Schall breitet sich als fortschreitende {Verdichtung} und {Verdünnung} der Luft aus.",
+        "hinweise": ["Zusammenpressung der Teilchen", "Auseinanderbewegung der Teilchen"],
+        "anweisung": "Ergänze die Fachbegriffe zur Schallausbreitung."
+      },
+      {
+        "text": "Dauerhafter Lärm über {85} Dezibel kann zu bleibenden {Hörschäden} führen.",
+        "hinweise": ["Grenzwert in dB", "Schädigung des Gehörs"],
+        "anweisung": "Ergänze die Angaben zum Gehörschutz."
+      },
+      {
+        "text": "Das menschliche Ohr verstärkt den Schall durch die drei {Gehörknöchelchen}: Hammer, {Amboss} und Steigbügel.",
+        "hinweise": ["Kleine Knochen im Mittelohr", "Mittlerer der drei Knochen"],
+        "anweisung": "Ergänze die Begriffe zum Aufbau des Ohrs."
+      },
+      {
+        "text": "Das {Stereohören} mit zwei Ohren ermöglicht es, die {Richtung} einer Schallquelle zu bestimmen.",
+        "hinweise": ["Hören mit beiden Ohren", "Woher der Schall kommt"],
+        "anweisung": "Ergänze die Begriffe zum räumlichen Hören."
+      },
+      {
+        "text": "Bei {Kurzsichtigkeit} ist der Augapfel zu lang, das Bild entsteht {vor} der Netzhaut.",
+        "hinweise": ["Myopie", "Position des Bildes"],
+        "anweisung": "Ergänze die Begriffe zu Sehfehlern."
+      },
+      {
+        "text": "Die {Akkommodation} ist die Fähigkeit des Auges, die {Brechkraft} der Linse anzupassen, um Objekte in verschiedenen Entfernungen scharf zu sehen.",
+        "hinweise": ["Anpassung der Linse", "Stärke der Lichtbrechung"],
+        "anweisung": "Ergänze die Fachbegriffe zur Scharfstellung des Auges."
+      },
+      {
+        "text": "Das menschliche Auge besitzt {Stäbchen} für das Hell-Dunkel-Sehen und {Zapfen} für das Farbensehen.",
+        "hinweise": ["Lichtempfindliche Zellen (schwarz-weiss)", "Lichtempfindliche Zellen (Farbe)"],
+        "anweisung": "Ergänze die Begriffe zu den Sinneszellen der Netzhaut."
+      },
+      {
+        "text": "Bei {Weitsichtigkeit} ist der Augapfel zu kurz, das Bild entsteht hinter der Netzhaut. Korrigiert wird dies mit einer {Sammellinse}.",
+        "hinweise": ["Hyperopie", "Konvexe Linse"],
+        "anweisung": "Ergänze die Begriffe zum Sehfehler und seiner Korrektur."
+      }
+    ]
+  }
+}

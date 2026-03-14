@@ -1,0 +1,119 @@
+{
+  "kompetenz_id": "wah3a",
+  "kompetenz_code": "WAH.3.1",
+  "typ": "quiz",
+  "spiel": {
+    "fragen": [
+      {
+        "frage": "Warum wirken Angebote wie Nur heute 20 Prozent oft stark auf Kaufentscheide?",
+        "optionen": [
+          "Weil Rabatte immer die beste Qualit\u00e4t bedeuten",
+          "Weil Zeitdruck einen schnellen Entscheid ausl\u00f6sen kann",
+          "Weil dadurch alle Vertr\u00e4ge ung\u00fcltig werden",
+          "Weil Werbung dann verboten ist"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Zeitdruck kann dazu f\u00fchren, dass Menschen weniger vergleichen und spontaner kaufen."
+      },
+      {
+        "frage": "Wie kann das Umfeld den Konsumalltag beeinflussen?",
+        "optionen": [
+          "Freundinnen und Freunde haben keinen Einfluss",
+          "Trends, Vergleiche und Gruppendruck k\u00f6nnen Kaufw\u00fcnsche verst\u00e4rken",
+          "Nur Erwachsene beeinflussen Konsum",
+          "Konsum findet immer ohne soziale Einfl\u00fcsse statt"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Auch Freundeskreis, Familie und Vorbilder pr\u00e4gen Konsumentscheide."
+      },
+      {
+        "frage": "Was ist ein typisches Merkmal eines Impulskaufs?",
+        "optionen": [
+          "Er wird geplant und mit mehreren Angeboten verglichen",
+          "Er entsteht spontan ohne gr\u00f6ssere Pr\u00fcfung des Bedarfs",
+          "Er braucht immer einen schriftlichen Vertrag",
+          "Er ist nur im Internet m\u00f6glich"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Impulsk\u00e4ufe entstehen h\u00e4ufig aus Stimmung, Werbung oder Zeitdruck."
+      },
+      {
+        "frage": "Warum lohnt sich ein Blick auf versteckte Kosten?",
+        "optionen": [
+          "Weil Versand, Abo-Verl\u00e4ngerung oder Zusatzgeb\u00fchren den Preis erh\u00f6hen k\u00f6nnen",
+          "Weil Zusatzkosten immer vom Staat bezahlt werden",
+          "Weil Produkte mit Zusatzkosten automatisch nachhaltiger sind",
+          "Weil versteckte Kosten nur bei Lebensmitteln vorkommen"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Nicht nur der Grundpreis z\u00e4hlt. Auch Versand, Reparatur oder Folgekosten geh\u00f6ren zur Entscheidung."
+      },
+      {
+        "frage": "Welche Rolle spielt das Budget beim Konsum?",
+        "optionen": [
+          "Es hilft einzusch\u00e4tzen, was man sich leisten kann",
+          "Es ist nur f\u00fcr Erwachsene wichtig",
+          "Es ersetzt alle Produktinformationen",
+          "Es verhindert jede spontane Entscheidung"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Ein Budget schafft Orientierung und hilft, Priorit\u00e4ten zu setzen."
+      },
+      {
+        "frage": "Warum k\u00f6nnen personalisierte Online-Anzeigen besonders wirksam sein?",
+        "optionen": [
+          "Weil sie oft an fr\u00fchere Klicks und Interessen angepasst sind",
+          "Weil sie keine Verkaufsabsicht haben",
+          "Weil sie nie Produkte zeigen",
+          "Weil sie nur gesetzliche Informationen enthalten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Algorithmen nutzen Daten, um Werbung passend zu Interessen oder Suchverhalten anzuzeigen."
+      },
+      {
+        "frage": "Welche Frage hilft vor einem Kauf am meisten?",
+        "optionen": [
+          "Brauche ich das wirklich oder will ich es nur gerade?",
+          "Wie schnell kann ich es m\u00f6glichst ohne Nachdenken kaufen?",
+          "Ist die Verpackung m\u00f6glichst gross?",
+          "Haben es alle anderen auch?"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Die Unterscheidung zwischen Bedarf und Wunsch ist zentral f\u00fcr bewussten Konsum."
+      },
+      {
+        "frage": "Welche Aussage zu Marken stimmt eher?",
+        "optionen": [
+          "Eine bekannte Marke bedeutet automatisch die beste Wahl",
+          "Marken k\u00f6nnen beeinflussen, ersetzen aber nicht den Vergleich von Qualit\u00e4t und Preis",
+          "Marken spielen im Konsumalltag keine Rolle",
+          "Nur Jugendliche achten auf Marken"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Marken wirken auf Erwartungen, doch eine gute Entscheidung braucht mehr als nur einen Namen."
+      },
+      {
+        "frage": "Welche Quelle ist f\u00fcr Kaufentscheide oft hilfreicher als ein Werbeslogan?",
+        "optionen": [
+          "Ein Vergleich mehrerer unabh\u00e4ngiger Informationen",
+          "Nur die sch\u00f6nste Verpackung",
+          "Eine spontane Stimmung",
+          "Ein Produktvideo ohne Fakten"
+        ],
+        "korrekt": 0,
+        "erklaerung": "Vergleiche, Testberichte und sachliche Informationen helfen mehr als reine Werbung."
+      },
+      {
+        "frage": "Was ist ein Beispiel f\u00fcr einen bewussteren Konsumalltag?",
+        "optionen": [
+          "Jede Aktion sofort nutzen",
+          "Secondhand pr\u00fcfen, wenn ein Produkt nur selten gebraucht wird",
+          "Nur nach Likes entscheiden",
+          "Nur Produkte mit m\u00f6glichst vielen Zusatzfunktionen kaufen"
+        ],
+        "korrekt": 1,
+        "erklaerung": "Secondhand oder Ausleihen kann Kosten sparen und Ressourcen schonen."
+      }
+    ]
+  }
+}

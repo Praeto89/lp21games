@@ -1,0 +1,60 @@
+{
+  "kompetenz_id": "ma1a2",
+  "kompetenz_code": "MA.1.A.2",
+  "typ": "rechnen",
+  "spiel": {
+    "zeit": 180,
+    "aufgaben": [
+      {
+        "aufgabe": "Runde 18 742 auf Tausender.",
+        "loesung": "19000",
+        "hinweis": "Achte auf die Hunderterstelle."
+      },
+      {
+        "aufgabe": "Welche Zahl ist größer: -3.4 oder -3.8? Gib die größere Zahl an.",
+        "loesung": "-3.4",
+        "hinweis": "Auf dem Zahlenstrahl liegt die größere Zahl weiter rechts."
+      },
+      {
+        "aufgabe": "Runde 0.498 auf eine Zehntel.",
+        "loesung": "0.5",
+        "hinweis": "Die Hundertstelstelle entscheidet."
+      },
+      {
+        "aufgabe": "Welche ganze Zahl liegt zwischen -2.2 und -1.8?",
+        "loesung": "-2",
+        "hinweis": "Suche die ganze Zahl auf dem Zahlenstrahl."
+      },
+      {
+        "aufgabe": "Überschlage 49.7 + 19.8.",
+        "loesung": "70",
+        "hinweis": "Runde beide Summanden sinnvoll."
+      },
+      {
+        "aufgabe": "Überschlage 398 · 21.",
+        "loesung": "8000",
+        "hinweis": "Runde auf 400 und 20."
+      },
+      {
+        "aufgabe": "Runde 12 499 auf Hunderter.",
+        "loesung": "12500",
+        "hinweis": "Die Zehnerstelle entscheidet."
+      },
+      {
+        "aufgabe": "Wie viele Prozent sind 48 von 200?",
+        "loesung": "24",
+        "hinweis": "200 entspricht 100 %."
+      },
+      {
+        "aufgabe": "Welche Zahl ist die kleinste: -1.5, 0, -1.05? Gib die kleinste Zahl an.",
+        "loesung": "-1.5",
+        "hinweis": "Die kleinste Zahl liegt am weitesten links."
+      },
+      {
+        "aufgabe": "Runde 6.84 auf eine ganze Zahl.",
+        "loesung": "7",
+        "hinweis": "Die Dezimalstelle entscheidet."
+      }
+    ]
+  }
+}

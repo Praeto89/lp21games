@@ -1,0 +1,22 @@
+{
+  "kompetenz_id": "en5c2",
+  "kompetenz_code": "FS1E.5.C.2",
+  "typ": "zuordnung",
+  "spiel": {
+    "kategorien": ["th sound", "silent w", "long a sound", "short i sound"],
+    "elemente": [
+      { "text": "think", "kategorie": 0 },
+      { "text": "three", "kategorie": 0 },
+      { "text": "Thursday", "kategorie": 0 },
+      { "text": "write", "kategorie": 1 },
+      { "text": "wrong", "kategorie": 1 },
+      { "text": "wrist", "kategorie": 1 },
+      { "text": "make", "kategorie": 2 },
+      { "text": "train", "kategorie": 2 },
+      { "text": "paper", "kategorie": 2 },
+      { "text": "fish", "kategorie": 3 },
+      { "text": "ticket", "kategorie": 3 },
+      { "text": "dinner", "kategorie": 3 }
+    ]
+  }
+}

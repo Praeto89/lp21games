@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LP21 Lernwelt - Zyklus 3</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/progress-map.css">
+    <link rel="stylesheet" href="css/worldmap.css">
 </head>
 <body>
     <header class="site-header">
@@ -13,8 +15,9 @@
                 <span class="logo-icon">🎓</span>
                 <span class="logo-text">LP21 Lernwelt</span>
             </a>
-            <nav class="breadcrumb" id="breadcrumb">
-                <span class="breadcrumb-item active">Startseite</span>
+            <nav class="site-nav">
+                <a href="index.html" class="site-nav-link active">Startseite</a>
+                <a href="pages/weltkarte.html" class="site-nav-link">🗺️ Weltkarte</a>
             </nav>
             <div class="header-progress" id="headerProgress">
                 <span class="progress-label">Gesamtfortschritt:</span>
@@ -23,6 +26,9 @@
                 </div>
                 <span class="progress-percent" id="totalPercent">0%</span>
             </div>
+            <div id="playerNameContainer"></div>
+            <div id="levelBadgeContainer"></div>
+            <div id="soundToggleContainer"></div>
         </div>
     </header>
 
@@ -33,6 +39,8 @@
             <p class="hero-sub">Wähle ein Fach und trainiere deine Kompetenzen mit interaktiven Spielen.</p>
         </section>
 
+        <div id="dailyBannerContainer"></div>
+
         <section class="fach-grid" id="fachGrid">
             <!-- Dynamisch aus faecher.json generiert -->
         </section>
@@ -40,11 +48,30 @@
 
     <footer class="site-footer">
         <p>LP21 Lernwelt - Basierend auf dem <a href="https://zg.lehrplan.ch/" target="_blank">Lehrplan 21 Kanton Zug</a></p>
+        <p class="footer-educandus">Eine Demo von <a href="https://www.educandus.ch" target="_blank">educandus.ch</a> — Gamification-Beratung für Bildung</p>
     </footer>
 
     <script src="js/utils/storage.js"></script>
+    <script src="js/utils/xp-system.js"></script>
+    <script src="js/utils/streak.js"></script>
+    <script src="js/utils/sound.js"></script>
+    <script src="js/utils/achievements.js"></script>
+    <script src="js/utils/difficulty.js"></script>
+    <script src="js/utils/player.js"></script>
+    <script src="js/utils/daily-challenge.js"></script>
+    <script src="js/utils/unlock-system.js"></script>
+    <script src="js/utils/progress-map.js"></script>
+    <script src="js/utils/story.js"></script>
     <script src="js/utils/dom-helpers.js"></script>
+    <script src="js/utils/feedback.js"></script>
     <script src="js/game-engine.js"></script>
     <script src="js/app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            Player.init('playerNameContainer');
+            XPSystem.renderBadge('levelBadgeContainer');
+            SoundManager.renderToggle('soundToggleContainer');
+        });
+    </script>
 </body>
 </html>

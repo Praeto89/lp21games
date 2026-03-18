@@ -91,6 +91,7 @@ class RechnenGame {
             Feedback.toast('Richtig!', 'success');
         } else {
             input.classList.add('wrong');
+            this.engine.recordWrong();
             Feedback.toast(`Falsch. Lösung: ${aufgabe.loesung}`, 'error');
         }
 

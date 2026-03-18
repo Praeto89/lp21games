@@ -14,11 +14,18 @@
                 <span class="logo-icon">🎓</span>
                 <span class="logo-text">LP21 Lernwelt</span>
             </a>
+            <nav class="site-nav">
+                <a href="../index.html" class="site-nav-link">Startseite</a>
+                <a href="weltkarte.html" class="site-nav-link">🗺️ Weltkarte</a>
+            </nav>
             <nav class="breadcrumb" id="breadcrumb">
                 <a href="../index.html" class="breadcrumb-item">Startseite</a>
                 <a href="#" class="breadcrumb-item" id="breadcrumbFach">Fach</a>
                 <span class="breadcrumb-item active" id="breadcrumbSpiel">Spiel</span>
             </nav>
+            <div id="playerNameContainer"></div>
+            <div id="levelBadgeContainer"></div>
+            <div id="soundToggleContainer"></div>
         </div>
     </header>
 
@@ -35,8 +42,23 @@
         </div>
     </main>
 
+    <footer class="site-footer">
+        <p>LP21 Lernwelt - Basierend auf dem <a href="https://zg.lehrplan.ch/" target="_blank">Lehrplan 21 Kanton Zug</a></p>
+        <p class="footer-educandus">Eine Demo von <a href="https://www.educandus.ch" target="_blank">educandus.ch</a> — Gamification-Beratung für Bildung</p>
+    </footer>
+
     <!-- Utilities -->
     <script src="../js/utils/storage.js"></script>
+    <script src="../js/utils/xp-system.js"></script>
+    <script src="../js/utils/streak.js"></script>
+    <script src="../js/utils/sound.js"></script>
+    <script src="../js/utils/achievements.js"></script>
+    <script src="../js/utils/difficulty.js"></script>
+    <script src="../js/utils/player.js"></script>
+    <script src="../js/utils/daily-challenge.js"></script>
+    <script src="../js/utils/unlock-system.js"></script>
+    <script src="../js/utils/progress-map.js"></script>
+    <script src="../js/utils/story.js"></script>
     <script src="../js/utils/shuffle.js"></script>
     <script src="../js/utils/dom-helpers.js"></script>
     <script src="../js/utils/feedback.js"></script>
@@ -56,6 +78,10 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', async () => {
+            Player.init('playerNameContainer');
+            XPSystem.renderBadge('levelBadgeContainer');
+            SoundManager.renderToggle('soundToggleContainer');
+
             const fachId = DOM.getParam('fach');
             const kompetenzId = DOM.getParam('kompetenz');
             const spielTyp = DOM.getParam('typ');
@@ -66,7 +92,6 @@
             }
 
             try {
-                // Load fach info for context
                 const faecherData = await GameEngine.loadFaecher();
                 const fach = GameEngine.findFach(faecherData, fachId);
 
@@ -82,17 +107,17 @@
                     DOM.$('#breadcrumbSpiel').textContent = kompetenz?.name || 'Spiel';
                 }
 
-                // Load game data
                 const gameData = await GameEngine.loadData(fachId, kompetenzId);
 
-                // Initialize game engine
+                // Show difficulty selector before starting
+                await DifficultyManager.showSelector();
+
                 const engine = new GameEngine('gameContainer', {
                     fachId,
                     kompetenzId,
                     fachFarbe: fach?.farbe
                 });
 
-                // Launch the right game type
                 const typ = spielTyp || gameData.typ || 'quiz';
                 const games = {
                     quiz: QuizGame,

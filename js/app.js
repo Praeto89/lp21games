@@ -5,6 +5,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         const data = await GameEngine.loadFaecher();
         renderFachGrid(data.faecher);
         updateTotalProgress(data.faecher);
+
+        // Daily Challenge banner
+        if (typeof DailyChallenge !== 'undefined') {
+            const challenge = DailyChallenge.getToday(data.faecher);
+            DailyChallenge.renderBanner('dailyBannerContainer', challenge);
+        }
     } catch (err) {
         document.getElementById('fachGrid').innerHTML =
             '<p style="text-align:center;color:#f44336;">Fehler beim Laden der Fächer. Bitte mit einem lokalen Server starten (z.B. VS Code Live Server).</p>';

@@ -13,7 +13,11 @@ class GameEngine {
         this.totalQuestions = 0;
         this.timerInterval = null;
         this.timeLeft = 0;
+        this.totalTime = 0;
         this.startTime = null;
+
+        // Reset streak for new game
+        if (typeof StreakTracker !== 'undefined') StreakTracker.reset();
 
         // Set CSS variable for fach color
         document.documentElement.style.setProperty('--fach-farbe', this.fachFarbe);
@@ -40,19 +44,51 @@ class GameEngine {
         this.container.insertBefore(hud, this.container.firstChild);
 
         if (options.timer) {
+            this.totalTime = options.timer;
             this.startTimer(options.timer);
         }
     }
 
-    /** Update score display */
+    /** Update score display, handle streak + XP + sound */
     addScore(points) {
-        this.score += points;
+        let totalPoints = points;
+
+        // Streak bonus
+        if (typeof StreakTracker !== 'undefined') {
+            const { streak, bonus } = StreakTracker.recordCorrect();
+            totalPoints += bonus;
+
+            if (streak >= 3 && typeof Feedback !== 'undefined') {
+                Feedback.showStreak(streak, bonus);
+                if (typeof SoundManager !== 'undefined') SoundManager.play('streak');
+            } else if (typeof SoundManager !== 'undefined') {
+                SoundManager.play('correct');
+            }
+        } else if (typeof SoundManager !== 'undefined') {
+            SoundManager.play('correct');
+        }
+
+        // Time bonus (only if timer is running)
+        if (this.totalTime > 0 && this.timeLeft > 0) {
+            const timeBonus = Math.max(0, Math.floor((this.timeLeft / this.totalTime) * 5));
+            if (timeBonus > 0) {
+                totalPoints += timeBonus;
+            }
+        }
+
+        this.score += totalPoints;
         const el = this.container.querySelector('.game-score-value');
         if (el) {
             el.textContent = this.score;
             el.classList.add('animate-pop');
             setTimeout(() => el.classList.remove('animate-pop'), 300);
         }
+    }
+
+    /** Record wrong answer — resets streak, plays sound */
+    recordWrong() {
+        if (typeof StreakTracker !== 'undefined') StreakTracker.recordWrong();
+        if (typeof SoundManager !== 'undefined') SoundManager.play('wrong');
     }
 
     /** Update progress display */
@@ -71,6 +107,7 @@ class GameEngine {
         this.timerInterval = setInterval(() => {
             this.timeLeft--;
             if (el) el.textContent = this._formatTime(this.timeLeft);
+            if (this.timeLeft <= 10 && el) el.style.color = '#f44336';
             if (this.timeLeft <= 0) {
                 this.stopTimer();
                 this.endGame();
@@ -91,13 +128,16 @@ class GameEngine {
         return `${m}:${sec.toString().padStart(2, '0')}`;
     }
 
-    /** Calculate stars based on score percentage */
+    /** Calculate stars based on score percentage (difficulty-aware) */
     calculateStars() {
         if (this.maxScore === 0) return 0;
         const pct = this.score / this.maxScore;
-        if (pct >= 0.9) return 3;
-        if (pct >= 0.6) return 2;
-        if (pct >= 0.3) return 1;
+        const thresholds = typeof DifficultyManager !== 'undefined'
+            ? DifficultyManager.getStarThresholds()
+            : [0.9, 0.6, 0.3];
+        if (pct >= thresholds[0]) return 3;
+        if (pct >= thresholds[1]) return 2;
+        if (pct >= thresholds[2]) return 1;
         return 0;
     }
 
@@ -110,21 +150,81 @@ class GameEngine {
         // Save progress
         LP21Storage.saveProgress(this.fachId, this.kompetenzId, sterne, this.score);
 
+        // Award XP (with difficulty multiplier + daily bonus) and check level-up
+        let xpResult = null;
+        let isDailyChallenge = false;
+        if (typeof XPSystem !== 'undefined') {
+            let multiplier = typeof DifficultyManager !== 'undefined'
+                ? DifficultyManager.getXPMultiplier() : 1;
+
+            // Check if this is today's daily challenge
+            if (typeof DailyChallenge !== 'undefined') {
+                const params = new URLSearchParams(location.search);
+                if (params.get('daily') === '1') {
+                    multiplier *= 2;
+                    isDailyChallenge = true;
+                    DailyChallenge.markCompleted(this.fachId, this.kompetenzId);
+                }
+            }
+
+            const xpEarned = Math.round(this.score * multiplier);
+            xpResult = XPSystem.addXP(xpEarned);
+            if (isDailyChallenge) xpResult.xpGained = xpEarned; // ensure correct display
+        }
+
+        // Check achievements
+        if (typeof Achievements !== 'undefined') {
+            const streak = typeof StreakTracker !== 'undefined' ? StreakTracker.best : 0;
+            const level = typeof XPSystem !== 'undefined' ? XPSystem.getLevel().number : 1;
+            const difficulty = typeof DifficultyManager !== 'undefined' ? DifficultyManager.getKey() : 'normal';
+            const newAchievements = Achievements.check({ sterne, streak, level, fachId: this.fachId, difficulty });
+            // Show achievement popups with staggered delay
+            newAchievements.forEach((a, i) => {
+                setTimeout(() => Feedback.showAchievement(a), 1200 + i * 1200);
+            });
+        }
+
+        // Play star sound
+        if (sterne > 0 && typeof SoundManager !== 'undefined') {
+            setTimeout(() => SoundManager.play('star'), 300);
+        }
+
         // Show overlay
         const overlay = DOM.create('div', { class: 'game-feedback-overlay' });
-        const messages = [
-            'Weiter üben!',
-            'Guter Anfang!',
-            'Gut gemacht!',
-            'Ausgezeichnet!'
-        ];
+        const messages = ['Weiter üben!', 'Guter Anfang!', 'Gut gemacht!', 'Ausgezeichnet!'];
         const icons = ['💪', '👍', '🎉', '🏆'];
 
-        const card = DOM.create('div', { class: 'game-feedback-card' }, [
+        // Difficulty badge
+        const diff = typeof DifficultyManager !== 'undefined' ? DifficultyManager.getCurrent() : null;
+        const diffEl = diff
+            ? DOM.create('div', { class: 'game-difficulty-result', text: `${diff.icon} ${diff.label}` })
+            : null;
+
+        // Daily challenge badge
+        const dailyEl = isDailyChallenge
+            ? DOM.create('div', { class: 'game-daily-result', text: '📅 Tages-Challenge · 2× XP!' })
+            : null;
+
+        // XP gain display
+        const xpEl = xpResult
+            ? DOM.create('div', { class: 'game-xp-gain', text: `+${xpResult.xpGained} XP` })
+            : null;
+
+        // Streak display
+        const streakBest = typeof StreakTracker !== 'undefined' ? StreakTracker.best : 0;
+        const streakEl = streakBest >= 3
+            ? DOM.create('div', { class: 'game-streak-result', text: `🔥 Bester Streak: ${streakBest}x` })
+            : null;
+
+        const cardChildren = [
             DOM.create('div', { class: 'game-feedback-icon', text: icons[sterne] }),
             DOM.create('div', { class: 'game-feedback-title', text: messages[sterne] }),
             DOM.create('div', { class: 'game-feedback-message', text: `${this.score} von ${this.maxScore} Punkten (${pct}%)` }),
             DOM.create('div', { class: 'game-stars', html: Feedback.starsHTML(sterne) }),
+            ...(dailyEl ? [dailyEl] : []),
+            ...(diffEl ? [diffEl] : []),
+            ...(xpEl ? [xpEl] : []),
+            ...(streakEl ? [streakEl] : []),
             DOM.create('div', { class: 'game-actions' }, [
                 DOM.create('button', {
                     class: 'game-btn game-btn-primary',
@@ -137,18 +237,28 @@ class GameEngine {
                     href: `fach.html?fach=${this.fachId}`
                 })
             ])
-        ]);
+        ];
 
+        const card = DOM.create('div', { class: 'game-feedback-card' }, cardChildren);
         overlay.appendChild(card);
         document.body.appendChild(overlay);
 
         requestAnimationFrame(() => overlay.classList.add('visible'));
         if (sterne === 3) Feedback.celebrate();
+
+        // Level-up animation after overlay appears
+        if (xpResult?.leveledUp && typeof Feedback !== 'undefined') {
+            setTimeout(() => Feedback.showLevelUp(xpResult.oldLevel, xpResult.newLevel), 800);
+        }
+
+        // Update header XP badge
+        if (typeof XPSystem !== 'undefined') {
+            XPSystem.renderBadge('levelBadgeContainer');
+        }
     }
 
     /** Load game data from JSON */
     static async loadData(fachId, kompetenzId) {
-        // Try specific file first, then fallback to combined file
         const paths = [
             `../data/${fachId}/${kompetenzId}.json`,
             `../data/${fachId}/all.json`
@@ -159,7 +269,6 @@ class GameEngine {
                 const resp = await fetch(path);
                 if (resp.ok) {
                     const data = await resp.json();
-                    // If combined file, filter by kompetenzId
                     if (Array.isArray(data)) {
                         return data.find(d => d.kompetenz_id === kompetenzId) || data[0];
                     }

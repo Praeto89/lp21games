@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LP21 Lernwelt</title>
     <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/progress-map.css">
 </head>
 <body>
     <header class="site-header">
@@ -13,10 +14,17 @@
                 <span class="logo-icon">🎓</span>
                 <span class="logo-text">LP21 Lernwelt</span>
             </a>
+            <nav class="site-nav">
+                <a href="../index.html" class="site-nav-link">Startseite</a>
+                <a href="weltkarte.html" class="site-nav-link">🗺️ Weltkarte</a>
+            </nav>
             <nav class="breadcrumb" id="breadcrumb">
                 <a href="../index.html" class="breadcrumb-item">Startseite</a>
                 <span class="breadcrumb-item active" id="breadcrumbFach">Fach</span>
             </nav>
+            <div id="playerNameContainer"></div>
+            <div id="levelBadgeContainer"></div>
+            <div id="soundToggleContainer"></div>
         </div>
     </header>
 
@@ -29,21 +37,52 @@
             </div>
         </div>
 
-        <div id="bereicheContainer">
-            <!-- Dynamisch generiert -->
+        <!-- View Toggle -->
+        <div class="view-toggle" id="viewToggle">
+            <button class="view-toggle-btn active" id="btnGrid" onclick="setView('grid')">
+                ☰ Listenansicht
+            </button>
+            <button class="view-toggle-btn" id="btnMap" onclick="setView('map')">
+                🗺️ Lernlandkarte
+            </button>
         </div>
+
+        <!-- Grid View -->
+        <div id="bereicheContainer"></div>
+
+        <!-- Map View -->
+        <div id="mapContainer" style="display:none;"></div>
     </main>
 
     <footer class="site-footer">
         <p>LP21 Lernwelt - Basierend auf dem <a href="https://zg.lehrplan.ch/" target="_blank">Lehrplan 21 Kanton Zug</a></p>
+        <p class="footer-educandus">Eine Demo von <a href="https://www.educandus.ch" target="_blank">educandus.ch</a> — Gamification-Beratung für Bildung</p>
     </footer>
 
     <script src="../js/utils/storage.js"></script>
+    <script src="../js/utils/xp-system.js"></script>
+    <script src="../js/utils/streak.js"></script>
+    <script src="../js/utils/sound.js"></script>
+    <script src="../js/utils/achievements.js"></script>
+    <script src="../js/utils/difficulty.js"></script>
+    <script src="../js/utils/player.js"></script>
+    <script src="../js/utils/daily-challenge.js"></script>
+    <script src="../js/utils/unlock-system.js"></script>
+    <script src="../js/utils/progress-map.js"></script>
+    <script src="../js/utils/story.js"></script>
     <script src="../js/utils/dom-helpers.js"></script>
     <script src="../js/utils/feedback.js"></script>
     <script src="../js/game-engine.js"></script>
     <script>
+        let _currentFach = null;
+        let _currentView = LP21Storage.getSettings().fachView || 'grid';
+        let _dailyChallenge = null;
+
         document.addEventListener('DOMContentLoaded', async () => {
+            Player.init('playerNameContainer');
+            XPSystem.renderBadge('levelBadgeContainer');
+            SoundManager.renderToggle('soundToggleContainer');
+
             const fachId = DOM.getParam('fach');
             if (!fachId) { location.href = '../index.html'; return; }
 
@@ -52,7 +91,11 @@
                 const fach = GameEngine.findFach(data, fachId);
                 if (!fach) { location.href = '../index.html'; return; }
 
-                renderFachPage(fach);
+                _currentFach = fach;
+                _dailyChallenge = DailyChallenge.getToday(data.faecher);
+
+                renderFachHeader(fach);
+                setView(_currentView);
             } catch (err) {
                 document.getElementById('bereicheContainer').innerHTML =
                     '<p style="color:#f44336;">Fehler beim Laden.</p>';
@@ -60,16 +103,35 @@
             }
         });
 
-        function renderFachPage(fach) {
+        function setView(view) {
+            _currentView = view;
+            LP21Storage.saveSetting('fachView', view);
+
+            document.getElementById('bereicheContainer').style.display = view === 'grid' ? '' : 'none';
+            document.getElementById('mapContainer').style.display = view === 'map' ? '' : 'none';
+            document.getElementById('btnGrid').classList.toggle('active', view === 'grid');
+            document.getElementById('btnMap').classList.toggle('active', view === 'map');
+
+            if (!_currentFach) return;
+
+            if (view === 'grid') {
+                renderGridView(_currentFach);
+            } else {
+                renderMapView(_currentFach);
+            }
+        }
+
+        function renderFachHeader(fach) {
             document.title = `${fach.name} - LP21 Lernwelt`;
             document.documentElement.style.setProperty('--fach-farbe', fach.farbe);
-
             DOM.$('#fachIcon').textContent = fach.icon;
             DOM.$('#fachName').textContent = fach.name;
             DOM.$('#fachDesc').textContent = `${fach.kuerzel} - Zyklus 3`;
             DOM.$('#breadcrumbFach').textContent = fach.name;
             DOM.$('#fachHeader').style.borderColor = fach.farbe;
+        }
 
+        function renderGridView(fach) {
             const container = DOM.$('#bereicheContainer');
             container.innerHTML = '';
 
@@ -77,34 +139,54 @@
                 const section = DOM.create('section', { class: 'bereich-section' }, [
                     DOM.create('h2', { class: 'bereich-title', text: `${bereich.code} ${bereich.name}` })
                 ]);
-
                 const grid = DOM.create('div', { class: 'kompetenz-grid' });
+                const kompetenzen = bereich.kompetenzen || [];
 
-                for (const k of bereich.kompetenzen || []) {
+                kompetenzen.forEach((k, i) => {
                     const progress = LP21Storage.getProgress(fach.id, k.id);
+                    const unlocked = UnlockSystem.isEnabled()
+                        ? UnlockSystem.isUnlocked(fach.id, kompetenzen, i)
+                        : true;
+                    const isDaily = _dailyChallenge
+                        && _dailyChallenge.fachId === fach.id
+                        && _dailyChallenge.kompetenzId === k.id;
 
-                    const card = DOM.create('a', {
-                        class: 'kompetenz-card animate-fade-in',
-                        href: `spiel.html?fach=${fach.id}&kompetenz=${k.id}&typ=${k.spieltyp}`
-                    }, [
-                        DOM.create('div', { class: 'kompetenz-code', text: k.code }),
-                        DOM.create('div', { class: 'kompetenz-name', text: k.name }),
-                        DOM.create('div', { class: 'kompetenz-beschreibung', text: k.beschreibung }),
-                        DOM.create('div', { class: 'kompetenz-footer' }, [
-                            DOM.create('span', { class: 'kompetenz-spieltyp', text: k.spieltyp }),
-                            DOM.create('span', {
-                                class: 'kompetenz-sterne',
-                                html: Feedback.starsHTML(progress.sterne)
-                            })
-                        ])
-                    ]);
-
-                    grid.appendChild(card);
-                }
+                    if (unlocked) {
+                        const card = DOM.create('a', {
+                            class: `kompetenz-card animate-fade-in${isDaily ? ' kompetenz-card-daily' : ''}`,
+                            href: `spiel.html?fach=${fach.id}&kompetenz=${k.id}&typ=${k.spieltyp}${isDaily ? '&daily=1' : ''}`
+                        }, [
+                            DOM.create('div', { class: 'kompetenz-code', text: k.code }),
+                            DOM.create('div', { class: 'kompetenz-name', text: k.name }),
+                            DOM.create('div', { class: 'kompetenz-beschreibung', text: k.beschreibung }),
+                            DOM.create('div', { class: 'kompetenz-footer' }, [
+                                DOM.create('span', { class: 'kompetenz-spieltyp', text: k.spieltyp }),
+                                DOM.create('span', {
+                                    class: 'kompetenz-sterne',
+                                    html: Feedback.starsHTML(progress.sterne)
+                                })
+                            ]),
+                            ...(isDaily ? [DOM.create('div', { class: 'kompetenz-daily-badge', text: '📅 Tages-Challenge · 2× XP' })] : [])
+                        ]);
+                        grid.appendChild(card);
+                    } else {
+                        const locked = DOM.create('div', { class: 'kompetenz-card kompetenz-card-locked' }, [
+                            DOM.create('div', { class: 'kompetenz-code', text: k.code }),
+                            DOM.create('div', { class: 'kompetenz-name', text: k.name }),
+                            DOM.create('div', { class: 'kompetenz-lock-info', text: '🔒 Schliesse die vorherige Kompetenz ab (1 Stern)' })
+                        ]);
+                        grid.appendChild(locked);
+                    }
+                });
 
                 section.appendChild(grid);
                 container.appendChild(section);
             }
+        }
+
+        function renderMapView(fach) {
+            const container = DOM.$('#mapContainer');
+            ProgressMap.render(container, fach, _dailyChallenge);
         }
     </script>
 </body>

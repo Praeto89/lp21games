@@ -141,6 +141,7 @@ class CodingPuzzleGame {
         } else {
             const partial = Math.round((correct / correctOrder.length) * 10);
             this.engine.addScore(partial);
+            this.engine.recordWrong();
             Feedback.toast(`${correct} von ${correctOrder.length} Blöcke richtig.`, correct > 0 ? 'warning' : 'error');
         }
 

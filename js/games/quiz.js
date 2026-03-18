@@ -77,6 +77,7 @@ class QuizGame {
             buttons.forEach(b => {
                 if (b.textContent === correctText) b.classList.add('correct');
             });
+            this.engine.recordWrong();
             Feedback.toast('Leider falsch.', 'error');
         }
 

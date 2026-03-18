@@ -153,6 +153,7 @@ class TimelineGame {
         } else {
             const partial = Math.round((correct / korrekt.length) * 10);
             this.engine.addScore(partial);
+            this.engine.recordWrong();
             Feedback.toast(`${correct} von ${korrekt.length} richtig.`, correct > 0 ? 'warning' : 'error');
         }
 

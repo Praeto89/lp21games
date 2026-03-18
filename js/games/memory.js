@@ -95,6 +95,7 @@ class MemoryGame {
             }
         } else {
             // No match
+            this.engine.recordWrong();
             setTimeout(() => {
                 card1.classList.remove('flipped');
                 card2.classList.remove('flipped');

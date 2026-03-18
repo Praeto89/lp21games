@@ -76,5 +76,42 @@ const LP21Storage = {
     /** Fortschritt komplett zurücksetzen */
     reset() {
         localStorage.removeItem(this.KEY);
+    },
+
+    /** Spieler-Name */
+    getName() {
+        return localStorage.getItem('lp21-name') || '';
+    },
+    setName(name) {
+        localStorage.setItem('lp21-name', name.trim());
+    },
+
+    /** Settings (Sound, Schwierigkeit) */
+    getSettings() {
+        try {
+            return JSON.parse(localStorage.getItem('lp21-settings') || '{}');
+        } catch { return {}; }
+    },
+    saveSetting(key, value) {
+        const s = this.getSettings();
+        s[key] = value;
+        localStorage.setItem('lp21-settings', JSON.stringify(s));
+    },
+
+    /** Freigeschaltete Achievements */
+    getAchievements() {
+        try {
+            return JSON.parse(localStorage.getItem('lp21-achievements') || '{}');
+        } catch { return {}; }
+    },
+    unlockAchievement(id) {
+        const a = this.getAchievements();
+        if (a[id]) return false; // already unlocked
+        a[id] = new Date().toISOString().split('T')[0];
+        localStorage.setItem('lp21-achievements', JSON.stringify(a));
+        return true;
+    },
+    isAchievementUnlocked(id) {
+        return !!this.getAchievements()[id];
     }
 };

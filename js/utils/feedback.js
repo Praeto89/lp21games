@@ -67,7 +67,7 @@ const Feedback = {
         return html;
     },
 
-    /** Konfetti-artiger Effekt (einfach mit CSS) */
+    /** Konfetti-artiger Effekt */
     celebrate() {
         const container = DOM.create('div', {
             style: {
@@ -99,5 +99,82 @@ const Feedback = {
         }
         document.body.appendChild(container);
         setTimeout(() => container.remove(), 2500);
+    },
+
+    /** Streak-Anzeige */
+    showStreak(streak, bonus) {
+        const existing = document.querySelector('.streak-popup');
+        if (existing) existing.remove();
+
+        const el = document.createElement('div');
+        el.className = 'streak-popup';
+        el.innerHTML = `🔥 ${streak}er Streak!${bonus > 0 ? ` <span class="streak-bonus">+${bonus}</span>` : ''}`;
+        document.body.appendChild(el);
+
+        requestAnimationFrame(() => el.classList.add('visible'));
+        setTimeout(() => {
+            el.classList.remove('visible');
+            setTimeout(() => el.remove(), 400);
+        }, 1500);
+    },
+
+    /** Level-Up Vollbild-Animation mit educandus-Hinweis */
+    showLevelUp(oldLevel, newLevel) {
+        if (typeof SoundManager !== 'undefined') SoundManager.play('levelup');
+
+        const overlay = document.createElement('div');
+        overlay.className = 'levelup-overlay';
+        overlay.innerHTML = `
+            <div class="levelup-card">
+                <div class="levelup-icon">${newLevel.icon}</div>
+                <div class="levelup-label">Level Up!</div>
+                <div class="levelup-from">${oldLevel.name}</div>
+                <div class="levelup-arrow">→</div>
+                <div class="levelup-to">${newLevel.name}</div>
+                <div class="levelup-cta">
+                    Gamification wirkt! Mehr erfahren:<br>
+                    <a href="https://www.educandus.ch" target="_blank" class="levelup-link">educandus.ch</a>
+                </div>
+                <button class="game-btn game-btn-primary levelup-close">Weiter!</button>
+            </div>
+        `;
+
+        document.body.appendChild(overlay);
+        requestAnimationFrame(() => overlay.classList.add('visible'));
+
+        overlay.querySelector('.levelup-close').onclick = () => {
+            overlay.classList.remove('visible');
+            setTimeout(() => overlay.remove(), 400);
+        };
+
+        // Auto-close after 5s
+        setTimeout(() => {
+            if (overlay.parentNode) {
+                overlay.classList.remove('visible');
+                setTimeout(() => overlay.remove(), 400);
+            }
+        }, 5000);
+    },
+
+    /** Achievement-Popup */
+    showAchievement(achievement) {
+        if (typeof SoundManager !== 'undefined') SoundManager.play('achievement');
+
+        const el = document.createElement('div');
+        el.className = 'achievement-popup';
+        el.innerHTML = `
+            <div class="achievement-icon">${achievement.icon}</div>
+            <div class="achievement-info">
+                <div class="achievement-label">Achievement freigeschaltet!</div>
+                <div class="achievement-name">${achievement.name}</div>
+            </div>
+        `;
+        document.body.appendChild(el);
+
+        requestAnimationFrame(() => el.classList.add('visible'));
+        setTimeout(() => {
+            el.classList.remove('visible');
+            setTimeout(() => el.remove(), 500);
+        }, 3500);
     }
 };

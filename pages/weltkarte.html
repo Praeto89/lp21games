@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weltkarte - LP21 Lernwelt</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/worldmap.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="../index.html" class="logo">
+                <span class="logo-icon">🎓</span>
+                <span class="logo-text">LP21 Lernwelt</span>
+            </a>
+            <nav class="site-nav">
+                <a href="../index.html" class="site-nav-link">Startseite</a>
+                <a href="weltkarte.html" class="site-nav-link active">🗺️ Weltkarte</a>
+            </nav>
+            <div id="playerNameContainer"></div>
+            <div id="levelBadgeContainer"></div>
+            <div id="soundToggleContainer"></div>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Hero -->
+        <div class="worldmap-hero">
+            <div class="worldmap-hero-icon">🌍</div>
+            <div class="worldmap-hero-title">Die LP21-Lernwelt</div>
+            <div class="worldmap-hero-sub">Erkunde alle 13 Regionen des Lehrplan 21 — Zyklus 3</div>
+            <div class="worldmap-hero-stats" id="worldStats">
+                <div class="worldmap-stat">
+                    <div class="worldmap-stat-value" id="statRegionen">—</div>
+                    <div class="worldmap-stat-label">Regionen</div>
+                </div>
+                <div class="worldmap-stat">
+                    <div class="worldmap-stat-value" id="statKompetenzen">—</div>
+                    <div class="worldmap-stat-label">Kompetenzen</div>
+                </div>
+                <div class="worldmap-stat">
+                    <div class="worldmap-stat-value" id="statGemeistert">—</div>
+                    <div class="worldmap-stat-label">Gemeistert</div>
+                </div>
+                <div class="worldmap-stat">
+                    <div class="worldmap-stat-value" id="statLevel">—</div>
+                    <div class="worldmap-stat-label">Mein Level</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- World Map Grid -->
+        <div class="worldmap-grid" id="worldmapGrid">
+            <p style="text-align:center;color:#757575;grid-column:1/-1;">Karte wird geladen...</p>
+        </div>
+
+        <!-- educandus CTA -->
+        <div class="worldmap-cta">
+            <div class="worldmap-cta-icon">🚀</div>
+            <div class="worldmap-cta-title">Gamification für Ihre Schule?</div>
+            <div class="worldmap-cta-text">
+                Diese Demo zeigt nur einen Bruchteil dessen, was mit durchdachter Gamification im Bildungsbereich möglich ist.
+                XP-Systeme, Achievements, adaptives Lernen und vieles mehr — massgeschneidert für Ihre Institution.
+            </div>
+            <a href="https://www.educandus.ch" target="_blank" class="worldmap-cta-btn">
+                🎯 Beratung auf educandus.ch
+            </a>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>LP21 Lernwelt - Basierend auf dem <a href="https://zg.lehrplan.ch/" target="_blank">Lehrplan 21 Kanton Zug</a></p>
+        <p class="footer-educandus">Eine Demo von <a href="https://www.educandus.ch" target="_blank">educandus.ch</a> — Gamification-Beratung für Bildung</p>
+    </footer>
+
+    <script src="../js/utils/storage.js"></script>
+    <script src="../js/utils/xp-system.js"></script>
+    <script src="../js/utils/streak.js"></script>
+    <script src="../js/utils/sound.js"></script>
+    <script src="../js/utils/achievements.js"></script>
+    <script src="../js/utils/difficulty.js"></script>
+    <script src="../js/utils/player.js"></script>
+    <script src="../js/utils/daily-challenge.js"></script>
+    <script src="../js/utils/unlock-system.js"></script>
+    <script src="../js/utils/progress-map.js"></script>
+    <script src="../js/utils/story.js"></script>
+    <script src="../js/utils/dom-helpers.js"></script>
+    <script src="../js/utils/feedback.js"></script>
+    <script src="../js/game-engine.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            Player.init('playerNameContainer');
+            XPSystem.renderBadge('levelBadgeContainer');
+            SoundManager.renderToggle('soundToggleContainer');
+
+            try {
+                const data = await GameEngine.loadFaecher();
+                const worldData = Story.getWorldProgress(data.faecher);
+                renderStats(worldData);
+                renderMap(worldData);
+            } catch (err) {
+                document.getElementById('worldmapGrid').innerHTML =
+                    '<p style="text-align:center;color:#f44336;grid-column:1/-1;">Fehler beim Laden. Bitte mit einem lokalen Server starten.</p>';
+                console.error(err);
+            }
+        });
+
+        function renderStats(worldData) {
+            const totalRegionen = worldData.length;
+            const totalKompetenzen = worldData.reduce((s, f) => s + f.total, 0);
+            const totalGemeistert = worldData.reduce((s, f) => s + f.done, 0);
+            const level = XPSystem.getLevel();
+
+            document.getElementById('statRegionen').textContent = totalRegionen;
+            document.getElementById('statKompetenzen').textContent = totalKompetenzen;
+            document.getElementById('statGemeistert').textContent = totalGemeistert;
+            document.getElementById('statLevel').textContent = `${level.icon} ${level.number}`;
+        }
+
+        function renderMap(worldData) {
+            const grid = document.getElementById('worldmapGrid');
+            grid.innerHTML = '';
+
+            for (const fach of worldData) {
+                const isComplete = fach.pct === 100;
+                const hasProgress = fach.pct > 0;
+
+                const card = document.createElement('a');
+                card.className = `region-card${isComplete ? ' region-complete' : ''}`;
+                card.href = `fach.html?fach=${fach.id}`;
+                card.style.setProperty('--region-color', fach.farbe);
+                card.title = fach.story.intro;
+
+                card.innerHTML = `
+                    ${isComplete ? '<div class="region-badge">🏆</div>' : hasProgress ? '<div class="region-badge">⚡</div>' : ''}
+                    <div class="region-header">
+                        <div class="region-icon">${fach.icon}</div>
+                        <div class="region-title">
+                            <div class="region-name">${fach.name}</div>
+                            <div class="region-subname">${fach.story.region}</div>
+                        </div>
+                    </div>
+                    <div class="region-tagline">${fach.story.tagline}</div>
+                    <div class="region-progress">
+                        <div class="region-progress-bar">
+                            <div class="region-progress-fill" style="width: 0%" data-target="${fach.pct}"></div>
+                        </div>
+                        <div class="region-progress-text">
+                            <span>${fach.done} / ${fach.total} Kompetenzen</span>
+                            <span class="region-progress-pct">${fach.pct}%</span>
+                        </div>
+                    </div>
+                `;
+
+                grid.appendChild(card);
+            }
+
+            // Animate progress bars after render
+            requestAnimationFrame(() => {
+                document.querySelectorAll('.region-progress-fill[data-target]').forEach(el => {
+                    el.style.width = el.dataset.target + '%';
+                });
+            });
+        }
+    </script>
+</body>
+</html>

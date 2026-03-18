@@ -102,6 +102,7 @@ class ZuordnungGame {
             });
         });
 
+        if (correct < this.elemente.length) this.engine.recordWrong();
         this.engine.updateProgress(correct, this.elemente.length);
 
         setTimeout(() => this.engine.endGame(), 1500);

@@ -106,6 +106,7 @@ class LueckentextGame {
             this.engine.addScore(10);
             Feedback.toast('Richtig!', 'success');
         } else {
+            this.engine.recordWrong();
             Feedback.toast('Nicht alle Lücken sind korrekt.', 'error');
         }
 

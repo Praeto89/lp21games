@@ -96,6 +96,7 @@ class WortspielGame {
                 Feedback.toast('Richtig!', 'success');
                 slots.forEach(s => s.style.borderColor = '#4caf50');
             } else {
+                this.engine.recordWrong();
                 Feedback.toast(`Falsch. Das Wort war: ${answer}`, 'error');
                 slots.forEach(s => s.style.borderColor = '#f44336');
             }

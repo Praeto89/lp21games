@@ -1,17 +1,25 @@
 /* === LP21 Lernwelt - Main Styles === */
+/* Design: "Arcade" – dunkler Gaming-Look mit Neon-Akzenten, helle Spielkarten */
 
 :root {
-    --primary: #1a237e;
-    --primary-light: #534bae;
-    --bg: #f5f5f5;
+    --primary: #7c3aed;
+    --primary-light: #a78bfa;
+    --accent: #22d3ee;
+    --gold: #fbbf24;
+    --bg: #0f1023;
     --bg-card: #ffffff;
-    --text: #212121;
-    --text-light: #757575;
-    --shadow: 0 2px 8px rgba(0,0,0,0.1);
-    --shadow-hover: 0 4px 16px rgba(0,0,0,0.15);
-    --radius: 12px;
-    --radius-sm: 8px;
+    --text: #1e293b;
+    --text-light: #64748b;
+    --text-on-dark: #eef2ff;
+    --text-on-dark-dim: rgba(238, 242, 255, 0.65);
+    --glass: rgba(255, 255, 255, 0.06);
+    --glass-border: rgba(255, 255, 255, 0.12);
+    --shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+    --shadow-hover: 0 12px 32px rgba(0, 0, 0, 0.35);
+    --radius: 18px;
+    --radius-sm: 12px;
     --transition: 0.2s ease;
+    --font: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 * {
@@ -21,14 +29,38 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: var(--font);
     background: var(--bg);
-    color: var(--text);
+    color: var(--text-on-dark);
     line-height: 1.6;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
+
+/* Leuchtende Farbverläufe im Hintergrund */
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background:
+        radial-gradient(ellipse 60% 40% at 15% -5%, rgba(124, 58, 237, 0.35), transparent 60%),
+        radial-gradient(ellipse 50% 35% at 90% 10%, rgba(34, 211, 238, 0.18), transparent 60%),
+        radial-gradient(ellipse 55% 40% at 50% 110%, rgba(236, 72, 153, 0.16), transparent 60%),
+        linear-gradient(180deg, #12132e 0%, #0f1023 50%, #131029 100%);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: rgba(255,255,255,0.04); }
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #7c3aed, #4f46e5);
+    border-radius: 5px;
+}
+
+::selection { background: rgba(124, 58, 237, 0.5); color: white; }
 
 /* === Site Navigation (inside header) === */
 .site-nav {
@@ -38,36 +70,38 @@ body {
 }
 
 .site-nav-link {
-    color: rgba(255,255,255,0.75);
+    color: var(--text-on-dark-dim);
     text-decoration: none;
     font-size: 0.85rem;
-    font-weight: 500;
-    padding: 0.3rem 0.7rem;
-    border-radius: 6px;
+    font-weight: 700;
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
     transition: all 0.2s;
     white-space: nowrap;
 }
 
 .site-nav-link:hover {
     color: white;
-    background: rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.12);
 }
 
 .site-nav-link.active {
     color: white;
-    background: rgba(255,255,255,0.2);
-    font-weight: 600;
+    background: linear-gradient(135deg, rgba(124,58,237,0.85), rgba(79,70,229,0.85));
+    box-shadow: 0 2px 12px rgba(124, 58, 237, 0.45);
 }
 
 /* === Header === */
 .site-header {
-    background: var(--primary);
+    background: rgba(15, 16, 35, 0.75);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
     color: white;
     padding: 0.75rem 1.5rem;
     position: sticky;
     top: 0;
     z-index: 100;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    border-bottom: 1px solid var(--glass-border);
 }
 
 .header-inner {
@@ -85,13 +119,21 @@ body {
     gap: 0.5rem;
     text-decoration: none;
     color: white;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 1.25rem;
     flex-shrink: 0;
 }
 
+.logo-text {
+    background: linear-gradient(90deg, #a78bfa, #22d3ee);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .logo-icon {
     font-size: 1.5rem;
+    filter: drop-shadow(0 0 8px rgba(167, 139, 250, 0.6));
 }
 
 .breadcrumb {
@@ -103,7 +145,7 @@ body {
 }
 
 .breadcrumb-item {
-    color: rgba(255,255,255,0.7);
+    color: var(--text-on-dark-dim);
     text-decoration: none;
 }
 
@@ -113,13 +155,13 @@ body {
 
 .breadcrumb-item.active {
     color: white;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
     content: "›";
     margin-right: 0.5rem;
-    color: rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.4);
 }
 
 .header-progress {
@@ -131,27 +173,29 @@ body {
 }
 
 .progress-label {
-    opacity: 0.8;
+    opacity: 0.75;
 }
 
 .progress-bar-mini {
     width: 100px;
-    height: 6px;
-    background: rgba(255,255,255,0.2);
-    border-radius: 3px;
+    height: 8px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 4px;
     overflow: hidden;
 }
 
 .progress-bar-fill {
     height: 100%;
-    background: #4caf50;
-    border-radius: 3px;
+    background: linear-gradient(90deg, #34d399, #22d3ee);
+    border-radius: 4px;
     transition: width 0.5s ease;
+    box-shadow: 0 0 8px rgba(52, 211, 153, 0.6);
 }
 
 .progress-percent {
-    font-weight: 600;
+    font-weight: 800;
     min-width: 2.5em;
+    color: #34d399;
 }
 
 /* === Main Container === */
@@ -167,16 +211,23 @@ body {
 .hero {
     text-align: center;
     margin-bottom: 2.5rem;
+    padding-top: 1rem;
 }
 
 .hero h1 {
-    font-size: 2rem;
-    color: var(--primary);
+    font-size: 2.6rem;
+    font-weight: 900;
+    letter-spacing: -0.02em;
     margin-bottom: 0.25rem;
+    background: linear-gradient(90deg, #a78bfa 0%, #22d3ee 50%, #f472b6 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 4px 24px rgba(124, 58, 237, 0.35));
 }
 
 .hero p {
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     font-size: 1.1rem;
 }
 
@@ -193,22 +244,38 @@ body {
 }
 
 .fach-card {
-    background: var(--bg-card);
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius);
     padding: 1.5rem;
-    box-shadow: var(--shadow);
-    transition: transform var(--transition), box-shadow var(--transition);
+    transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition), background var(--transition);
     cursor: pointer;
     text-decoration: none;
-    color: inherit;
+    color: var(--text-on-dark);
     display: flex;
     flex-direction: column;
-    border-left: 5px solid var(--fach-farbe, #ccc);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Farbiger Glow-Streifen oben */
+.fach-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--fach-farbe, #7c3aed), color-mix(in srgb, var(--fach-farbe, #7c3aed) 40%, transparent));
 }
 
 .fach-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-hover);
+    transform: translateY(-5px) scale(1.01);
+    background: rgba(255, 255, 255, 0.09);
+    border-color: color-mix(in srgb, var(--fach-farbe, #7c3aed) 60%, transparent);
+    box-shadow: 0 12px 36px color-mix(in srgb, var(--fach-farbe, #7c3aed) 30%, transparent);
 }
 
 .fach-card-header {
@@ -220,30 +287,40 @@ body {
 
 .fach-icon {
     font-size: 2rem;
-    width: 48px;
-    height: 48px;
+    width: 54px;
+    height: 54px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: color-mix(in srgb, var(--fach-farbe, #ccc) 10%, white);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--fach-farbe, #7c3aed) 35%, transparent), color-mix(in srgb, var(--fach-farbe, #7c3aed) 12%, transparent));
+    border: 1px solid color-mix(in srgb, var(--fach-farbe, #7c3aed) 40%, transparent);
     border-radius: var(--radius-sm);
     flex-shrink: 0;
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3));
+    transition: transform var(--transition);
+}
+
+.fach-card:hover .fach-icon {
+    transform: scale(1.12) rotate(-4deg);
 }
 
 .fach-name {
     font-size: 1.15rem;
-    font-weight: 700;
-    color: var(--text);
+    font-weight: 800;
+    color: white;
 }
 
 .fach-kuerzel {
-    font-size: 0.8rem;
-    color: var(--text-light);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--fach-farbe, var(--text-on-dark-dim));
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
 }
 
 .fach-meta {
     font-size: 0.85rem;
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     margin-bottom: 0.75rem;
 }
 
@@ -253,20 +330,23 @@ body {
 
 .progress-bar {
     width: 100%;
-    height: 8px;
-    background: #e0e0e0;
-    border-radius: 4px;
+    height: 10px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 5px;
     overflow: hidden;
     margin-bottom: 0.25rem;
 }
 
 .progress-bar .progress-bar-fill {
-    background: var(--fach-farbe, #4caf50);
+    background: linear-gradient(90deg, var(--fach-farbe, #34d399), color-mix(in srgb, var(--fach-farbe, #34d399) 60%, white));
+    box-shadow: 0 0 10px color-mix(in srgb, var(--fach-farbe, #34d399) 70%, transparent);
+    position: relative;
 }
 
 .progress-text {
     font-size: 0.75rem;
-    color: var(--text-light);
+    font-weight: 700;
+    color: var(--text-on-dark-dim);
     text-align: right;
 }
 
@@ -276,15 +356,41 @@ body {
 }
 
 .daily-banner {
-    background: linear-gradient(135deg, var(--daily-color, #ff9800), color-mix(in srgb, var(--daily-color, #ff9800) 70%, #000));
+    background: linear-gradient(135deg, var(--daily-color, #ff9800), color-mix(in srgb, var(--daily-color, #ff9800) 60%, #1a0b2e));
     border-radius: var(--radius);
     padding: 1rem 1.5rem;
     color: white;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 28px color-mix(in srgb, var(--daily-color, #ff9800) 35%, transparent);
+    border: 1px solid rgba(255,255,255,0.18);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Glanz-Effekt, der über den Banner läuft */
+.daily-banner::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -60%;
+    width: 40%;
+    height: 100%;
+    background: linear-gradient(100deg, transparent, rgba(255,255,255,0.25), transparent);
+    animation: banner-shine 3.5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+@keyframes banner-shine {
+    0%   { left: -60%; }
+    60%  { left: 130%; }
+    100% { left: 130%; }
 }
 
 .daily-banner-done {
     opacity: 0.7;
+}
+
+.daily-banner-done::after {
+    animation: none;
 }
 
 .daily-banner-inner {
@@ -304,11 +410,19 @@ body {
 .daily-icon {
     font-size: 2rem;
     flex-shrink: 0;
+    animation: daily-wiggle 2.5s ease-in-out infinite;
+}
+
+@keyframes daily-wiggle {
+    0%, 100% { transform: rotate(0deg); }
+    10% { transform: rotate(-10deg) scale(1.1); }
+    20% { transform: rotate(8deg) scale(1.1); }
+    30% { transform: rotate(0deg); }
 }
 
 .daily-label {
     font-size: 0.75rem;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     opacity: 0.85;
@@ -316,7 +430,7 @@ body {
 
 .daily-name {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .daily-play-btn {
@@ -324,54 +438,57 @@ body {
     align-items: center;
     padding: 0.5rem 1.25rem;
     background: rgba(255,255,255,0.2);
-    border: 2px solid rgba(255,255,255,0.5);
-    border-radius: 20px;
+    border: 2px solid rgba(255,255,255,0.55);
+    border-radius: 999px;
     color: white;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 0.9rem;
-    transition: background 0.2s;
+    transition: all 0.2s;
     white-space: nowrap;
 }
 
 .daily-play-btn:hover {
     background: rgba(255,255,255,0.35);
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.25);
 }
 
 .daily-done {
     font-size: 0.95rem;
-    font-weight: 600;
+    font-weight: 700;
     opacity: 0.9;
 }
 
 /* === Locked Kompetenz Card === */
 .kompetenz-card-locked {
-    opacity: 0.45;
+    opacity: 0.4;
     cursor: not-allowed;
     pointer-events: none;
-    background: #f5f5f5;
+    filter: grayscale(0.7);
 }
 
 .kompetenz-lock-info {
     font-size: 0.78rem;
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     margin-top: 0.25rem;
 }
 
 /* === Daily Challenge Card Badge === */
 .kompetenz-card-daily {
-    border-left: 4px solid #ff9800 !important;
-    box-shadow: 0 2px 12px rgba(255,152,0,0.2);
+    border-color: rgba(255, 152, 0, 0.7) !important;
+    box-shadow: 0 4px 20px rgba(255,152,0,0.3);
 }
 
 .kompetenz-daily-badge {
     font-size: 0.72rem;
-    color: #e65100;
-    font-weight: 700;
+    color: #ffb74d;
+    font-weight: 800;
     margin-top: 0.25rem;
-    padding: 0.2rem 0.5rem;
-    background: #fff3e0;
-    border-radius: 4px;
+    padding: 0.2rem 0.6rem;
+    background: rgba(255, 152, 0, 0.15);
+    border: 1px solid rgba(255, 152, 0, 0.4);
+    border-radius: 999px;
     display: inline-block;
 }
 
@@ -379,23 +496,27 @@ body {
 .fach-header {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 1.25rem;
     margin-bottom: 2rem;
-    padding-bottom: 1rem;
-    border-bottom: 3px solid var(--fach-farbe, #ccc);
+    padding: 1.5rem;
+    background: linear-gradient(135deg, color-mix(in srgb, var(--fach-farbe, #7c3aed) 30%, transparent), color-mix(in srgb, var(--fach-farbe, #7c3aed) 8%, transparent));
+    border: 1px solid color-mix(in srgb, var(--fach-farbe, #7c3aed) 35%, transparent);
+    border-radius: var(--radius);
 }
 
 .fach-header-icon {
-    font-size: 2.5rem;
+    font-size: 3rem;
+    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.35));
 }
 
 .fach-header-info h1 {
     font-size: 1.75rem;
-    color: var(--text);
+    font-weight: 900;
+    color: white;
 }
 
 .fach-header-info p {
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
 }
 
 .bereich-section {
@@ -403,11 +524,12 @@ body {
 }
 
 .bereich-title {
-    font-size: 1.2rem;
-    color: var(--primary);
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: white;
     margin-bottom: 1rem;
     padding: 0.5rem 0;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid var(--glass-border);
 }
 
 .kompetenz-grid {
@@ -417,40 +539,45 @@ body {
 }
 
 .kompetenz-card {
-    background: var(--bg-card);
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius-sm);
     padding: 1.25rem;
-    box-shadow: var(--shadow);
-    transition: transform var(--transition), box-shadow var(--transition);
+    transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition), background var(--transition);
     cursor: pointer;
     text-decoration: none;
-    color: inherit;
+    color: var(--text-on-dark);
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
 }
 
 .kompetenz-card:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-hover);
+    transform: translateY(-3px);
+    background: rgba(255, 255, 255, 0.09);
+    border-color: color-mix(in srgb, var(--fach-farbe, #7c3aed) 55%, transparent);
+    box-shadow: 0 10px 28px color-mix(in srgb, var(--fach-farbe, #7c3aed) 25%, transparent);
 }
 
 .kompetenz-code {
-    font-size: 0.75rem;
-    font-weight: 700;
-    color: var(--fach-farbe, var(--primary));
+    font-size: 0.72rem;
+    font-weight: 800;
+    color: var(--fach-farbe, var(--primary-light));
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
 }
 
 .kompetenz-name {
-    font-weight: 600;
+    font-weight: 800;
     font-size: 0.95rem;
+    color: white;
 }
 
 .kompetenz-beschreibung {
     font-size: 0.8rem;
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
@@ -466,20 +593,23 @@ body {
 }
 
 .kompetenz-spieltyp {
-    font-size: 0.75rem;
-    padding: 0.2rem 0.5rem;
-    background: #f0f0f0;
-    border-radius: 4px;
-    color: var(--text-light);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid var(--glass-border);
+    border-radius: 999px;
+    color: var(--text-on-dark-dim);
 }
 
 .kompetenz-sterne {
     font-size: 1rem;
-    color: #e0e0e0;
+    color: rgba(255,255,255,0.18);
 }
 
 .kompetenz-sterne .earned {
-    color: #ffc107;
+    color: var(--gold);
+    text-shadow: 0 0 8px rgba(251, 191, 36, 0.6);
 }
 
 /* === Level Badge (Header) === */
@@ -494,8 +624,9 @@ body {
     display: flex;
     align-items: center;
     gap: 0.4rem;
-    background: rgba(255,255,255,0.15);
-    border-radius: 20px;
+    background: linear-gradient(135deg, rgba(124,58,237,0.35), rgba(34,211,238,0.2));
+    border: 1px solid rgba(167, 139, 250, 0.4);
+    border-radius: 999px;
     padding: 0.3rem 0.75rem;
     font-size: 0.8rem;
     color: white;
@@ -507,22 +638,23 @@ body {
 }
 
 .level-name {
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .xp-bar {
     width: 50px;
-    height: 4px;
-    background: rgba(255,255,255,0.25);
-    border-radius: 2px;
+    height: 5px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 3px;
     overflow: hidden;
 }
 
 .xp-bar-fill {
     height: 100%;
-    background: #ffc107;
-    border-radius: 2px;
+    background: linear-gradient(90deg, var(--gold), #f59e0b);
+    border-radius: 3px;
     transition: width 0.5s ease;
+    box-shadow: 0 0 6px rgba(251, 191, 36, 0.8);
 }
 
 .xp-text {
@@ -533,23 +665,27 @@ body {
 /* === Player Name === */
 .player-greeting {
     font-size: 0.8rem;
-    color: rgba(255,255,255,0.85);
+    font-weight: 600;
+    color: var(--text-on-dark-dim);
     white-space: nowrap;
     cursor: pointer;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
+    padding: 0.25rem 0.6rem;
+    border-radius: 999px;
     transition: background 0.2s;
 }
 
 .player-greeting:hover {
-    background: rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.12);
+    color: white;
 }
 
 /* === Name Modal === */
 .name-modal-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(0,0,0,0.6);
+    background: rgba(10, 8, 30, 0.75);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -566,14 +702,15 @@ body {
 
 .name-modal-card {
     background: white;
-    border-radius: 16px;
+    border-radius: 24px;
     padding: 2.5rem;
     text-align: center;
     max-width: 380px;
     width: 90%;
-    box-shadow: 0 8px 40px rgba(0,0,0,0.25);
+    box-shadow: 0 8px 60px rgba(124, 58, 237, 0.35);
     transform: scale(0.9);
     transition: transform 0.3s ease;
+    color: var(--text);
 }
 
 .name-modal-overlay.visible .name-modal-card {
@@ -587,7 +724,7 @@ body {
 
 .name-modal-title {
     font-size: 1.4rem;
-    font-weight: 700;
+    font-weight: 900;
     color: var(--primary);
     margin-bottom: 0.5rem;
 }
@@ -602,34 +739,41 @@ body {
     width: 100%;
     padding: 0.75rem 1rem;
     font-size: 1.1rem;
-    border: 2px solid #e0e0e0;
-    border-radius: 8px;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
     outline: none;
     text-align: center;
     font-family: inherit;
-    transition: border-color 0.2s;
+    font-weight: 700;
+    transition: border-color 0.2s, box-shadow 0.2s;
     margin-bottom: 1rem;
+    color: var(--text);
 }
 
 .name-modal-input:focus {
     border-color: var(--primary);
+    box-shadow: 0 0 0 4px rgba(124, 58, 237, 0.15);
 }
 
 .name-modal-btn {
     width: 100%;
     padding: 0.75rem;
-    background: var(--primary);
+    background: linear-gradient(135deg, #7c3aed, #4f46e5);
     color: white;
     border: none;
-    border-radius: 8px;
+    border-radius: 12px;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 800;
+    font-family: inherit;
     cursor: pointer;
-    transition: filter 0.2s;
+    transition: all 0.2s;
+    box-shadow: 0 4px 16px rgba(124, 58, 237, 0.35);
 }
 
 .name-modal-btn:hover {
     filter: brightness(1.1);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(124, 58, 237, 0.45);
 }
 
 /* === Sound Toggle === */
@@ -644,19 +788,20 @@ body {
     font-size: 1.1rem;
     cursor: pointer;
     padding: 0.25rem;
-    border-radius: 4px;
+    border-radius: 6px;
     line-height: 1;
-    transition: opacity 0.2s;
+    transition: opacity 0.2s, transform 0.2s;
 }
 
 .sound-toggle:hover {
     opacity: 0.75;
+    transform: scale(1.15);
 }
 
 /* === Player Name === */
 .player-name {
     font-size: 0.8rem;
-    color: rgba(255,255,255,0.85);
+    color: var(--text-on-dark-dim);
     white-space: nowrap;
 }
 
@@ -664,14 +809,14 @@ body {
 .site-footer {
     text-align: center;
     padding: 1.25rem 1.5rem;
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     font-size: 0.85rem;
-    border-top: 1px solid #e0e0e0;
+    border-top: 1px solid var(--glass-border);
     margin-top: auto;
 }
 
 .site-footer a {
-    color: var(--primary);
+    color: var(--primary-light);
 }
 
 .footer-educandus {
@@ -680,8 +825,8 @@ body {
 }
 
 .footer-educandus a {
-    color: var(--primary);
-    font-weight: 600;
+    color: var(--accent);
+    font-weight: 700;
     text-decoration: none;
 }
 
@@ -717,7 +862,7 @@ body {
     }
 
     .hero h1 {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
     }
 
     .fach-grid {

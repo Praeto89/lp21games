@@ -8,6 +8,7 @@ class MemoryGame {
         this.flipped = [];
         this.matched = 0;
         this.locked = false;
+        this.missesSinceMatch = 0;
 
         this.engine.initHUD();
         this.engine.updateProgress(0, this.paare.length);
@@ -83,7 +84,10 @@ class MemoryGame {
             card1.classList.add('matched');
             card2.classList.add('matched');
             this.matched++;
-            this.engine.addScore(10);
+            // Gutes Gedächtnis gibt volle Punkte: Fehlversuche seit dem
+            // letzten Treffer reduzieren die Punkte des Paars (min. 6)
+            this.engine.addScore(Math.max(10 - this.missesSinceMatch, 6));
+            this.missesSinceMatch = 0;
             this.engine.updateProgress(this.matched, this.paare.length);
             Feedback.toast('Paar gefunden!', 'success');
 
@@ -95,6 +99,7 @@ class MemoryGame {
             }
         } else {
             // No match
+            this.missesSinceMatch++;
             this.engine.recordWrong();
             setTimeout(() => {
                 card1.classList.remove('flipped');

@@ -7,7 +7,8 @@ class GameEngine {
         this.kompetenzId = options.kompetenzId || '';
         this.fachFarbe = options.fachFarbe || '#1a237e';
 
-        this.score = 0;
+        this.score = 0;      // inkl. Streak-/Zeitboni → bestimmt XP
+        this.baseScore = 0;  // nur Basis-Punkte → bestimmt Sterne
         this.maxScore = 0;
         this.currentQuestion = 0;
         this.totalQuestions = 0;
@@ -30,6 +31,7 @@ class GameEngine {
                 DOM.create('span', { class: 'game-score-icon' }),
                 DOM.create('span', { class: 'game-score-value', text: '0' })
             ]),
+            DOM.create('div', { class: 'game-combo' }),
             DOM.create('div', { class: 'game-progress-indicator' }, [
                 DOM.create('span', { class: 'game-progress-icon' }),
                 DOM.create('span', { class: 'game-progress-value', text: '0 / 0' })
@@ -43,6 +45,13 @@ class GameEngine {
         ]);
         this.container.insertBefore(hud, this.container.firstChild);
 
+        // Visuelle Fortschrittsleiste über dem HUD (Spiele fügen ihren
+        // Inhalt mit hud.after() ein, daher muss die Leiste davor stehen)
+        const bar = DOM.create('div', { class: 'game-hud-bar' }, [
+            DOM.create('div', { class: 'game-hud-bar-fill' })
+        ]);
+        this.container.insertBefore(bar, hud);
+
         if (options.timer) {
             this.totalTime = options.timer;
             this.startTimer(options.timer);
@@ -51,6 +60,7 @@ class GameEngine {
 
     /** Update score display, handle streak + XP + sound */
     addScore(points) {
+        this.baseScore += points;
         let totalPoints = points;
 
         // Streak bonus
@@ -82,6 +92,17 @@ class GameEngine {
             el.textContent = this.score;
             el.classList.add('animate-pop');
             setTimeout(() => el.classList.remove('animate-pop'), 300);
+            if (typeof Feedback !== 'undefined') Feedback.floatPoints(el, `+${totalPoints}`);
+        }
+
+        // Combo-Anzeige im HUD (ab 2 richtigen in Folge)
+        const comboEl = this.container.querySelector('.game-combo');
+        if (comboEl && typeof StreakTracker !== 'undefined') {
+            if (StreakTracker.current >= 2) {
+                comboEl.textContent = `🔥 ×${StreakTracker.current}`;
+                comboEl.classList.add('active', 'animate-pop');
+                setTimeout(() => comboEl.classList.remove('animate-pop'), 300);
+            }
         }
     }
 
@@ -89,6 +110,12 @@ class GameEngine {
     recordWrong() {
         if (typeof StreakTracker !== 'undefined') StreakTracker.recordWrong();
         if (typeof SoundManager !== 'undefined') SoundManager.play('wrong');
+
+        const comboEl = this.container.querySelector('.game-combo');
+        if (comboEl) {
+            comboEl.textContent = '';
+            comboEl.classList.remove('active');
+        }
     }
 
     /** Update progress display */
@@ -97,6 +124,8 @@ class GameEngine {
         this.totalQuestions = total;
         const el = this.container.querySelector('.game-progress-value');
         if (el) el.textContent = `${current} / ${total}`;
+        const fill = this.container.querySelector('.game-hud-bar-fill');
+        if (fill && total > 0) fill.style.width = Math.round((current / total) * 100) + '%';
     }
 
     /** Start countdown timer */
@@ -128,10 +157,11 @@ class GameEngine {
         return `${m}:${sec.toString().padStart(2, '0')}`;
     }
 
-    /** Calculate stars based on score percentage (difficulty-aware) */
+    /** Calculate stars based on base score percentage (difficulty-aware).
+     *  Bewusst ohne Streak-/Zeitboni: Sterne messen Können, Boni zahlen auf XP ein. */
     calculateStars() {
         if (this.maxScore === 0) return 0;
-        const pct = this.score / this.maxScore;
+        const pct = this.baseScore / this.maxScore;
         const thresholds = typeof DifficultyManager !== 'undefined'
             ? DifficultyManager.getStarThresholds()
             : [0.9, 0.6, 0.3];
@@ -145,7 +175,7 @@ class GameEngine {
     endGame() {
         this.stopTimer();
         const sterne = this.calculateStars();
-        const pct = this.maxScore > 0 ? Math.round((this.score / this.maxScore) * 100) : 0;
+        const pct = this.maxScore > 0 ? Math.round((this.baseScore / this.maxScore) * 100) : 0;
 
         // Save progress
         LP21Storage.saveProgress(this.fachId, this.kompetenzId, sterne, this.score);
@@ -191,8 +221,30 @@ class GameEngine {
 
         // Show overlay
         const overlay = DOM.create('div', { class: 'game-feedback-overlay' });
-        const messages = ['Weiter üben!', 'Guter Anfang!', 'Gut gemacht!', 'Ausgezeichnet!'];
+        const messagePool = [
+            ['Weiter üben!', 'Dranbleiben!', 'Jeder Profi hat mal angefangen.'],
+            ['Guter Anfang!', 'Da geht noch mehr!', 'Solide Basis!'],
+            ['Gut gemacht!', 'Stark gespielt!', 'Fast perfekt!'],
+            ['Ausgezeichnet!', 'Perfekte Runde!', 'Du bist on fire!']
+        ];
+        const messages = messagePool.map(pool => pool[Math.floor(Math.random() * pool.length)]);
         const icons = ['💪', '👍', '🎉', '🏆'];
+
+        // Near-Miss-Ziel: wie viele Punkte fehlen bis zum nächsten Stern?
+        let goalEl = null;
+        if (sterne < 3 && this.maxScore > 0) {
+            const thresholds = typeof DifficultyManager !== 'undefined'
+                ? DifficultyManager.getStarThresholds()
+                : [0.9, 0.6, 0.3];
+            const nextThreshold = thresholds[2 - sterne];
+            const missing = Math.ceil(nextThreshold * this.maxScore - this.baseScore);
+            if (missing > 0) {
+                goalEl = DOM.create('div', {
+                    class: 'game-next-goal',
+                    text: `🎯 Nur noch ${missing} Punkte bis ${'★'.repeat(sterne + 1)} — schaffst du das?`
+                });
+            }
+        }
 
         // Difficulty badge
         const diff = typeof DifficultyManager !== 'undefined' ? DifficultyManager.getCurrent() : null;
@@ -219,8 +271,13 @@ class GameEngine {
         const cardChildren = [
             DOM.create('div', { class: 'game-feedback-icon', text: icons[sterne] }),
             DOM.create('div', { class: 'game-feedback-title', text: messages[sterne] }),
-            DOM.create('div', { class: 'game-feedback-message', text: `${this.score} von ${this.maxScore} Punkten (${pct}%)` }),
+            DOM.create('div', {
+                class: 'game-feedback-message',
+                text: `${pct}% gelöst · ${this.score} Punkte`
+                    + (this.score > this.baseScore ? ` (davon ${this.score - this.baseScore} Bonus 🔥)` : '')
+            }),
             DOM.create('div', { class: 'game-stars', html: Feedback.starsHTML(sterne) }),
+            ...(goalEl ? [goalEl] : []),
             ...(dailyEl ? [dailyEl] : []),
             ...(diffEl ? [diffEl] : []),
             ...(xpEl ? [xpEl] : []),
@@ -229,7 +286,11 @@ class GameEngine {
                 DOM.create('button', {
                     class: 'game-btn game-btn-primary',
                     text: 'Nochmal spielen',
-                    onClick: () => location.reload()
+                    onClick: () => {
+                        // Replay bleibt im Flow: Schwierigkeits-Dialog überspringen
+                        try { sessionStorage.setItem('lp21-replay', '1'); } catch { /* egal */ }
+                        location.reload();
+                    }
                 }),
                 DOM.create('a', {
                     class: 'game-btn game-btn-secondary',

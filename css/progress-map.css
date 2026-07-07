@@ -8,19 +8,21 @@
 
 /* === Section (one per Bereich) === */
 .map-section {
-    background: var(--bg-card);
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius);
     padding: 1.5rem;
-    box-shadow: var(--shadow);
 }
 
 .map-section-title {
     font-size: 1rem;
-    font-weight: 700;
-    color: var(--primary);
+    font-weight: 800;
+    color: white;
     margin-bottom: 1.25rem;
     padding-bottom: 0.5rem;
-    border-bottom: 2px solid var(--fach-farbe, #e0e0e0);
+    border-bottom: 2px solid color-mix(in srgb, var(--fach-farbe, #7c3aed) 50%, transparent);
 }
 
 /* === Path (horizontal scroll on mobile) === */
@@ -38,13 +40,15 @@
     flex-shrink: 0;
     width: 32px;
     height: 3px;
-    background: #e0e0e0;
+    background: rgba(255,255,255,0.15);
+    border-radius: 2px;
     margin-top: 30px; /* align with center of node */
     align-self: flex-start;
 }
 
 .map-connector-active {
-    background: var(--fach-farbe, #ccc);
+    background: var(--fach-farbe, #a78bfa);
+    box-shadow: 0 0 8px color-mix(in srgb, var(--fach-farbe, #a78bfa) 60%, transparent);
 }
 
 /* === Node === */
@@ -65,8 +69,8 @@
 .map-node:hover.map-node-bronze .map-node-inner,
 .map-node:hover.map-node-silver .map-node-inner,
 .map-node:hover.map-node-gold .map-node-inner {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    transform: translateY(-4px) scale(1.06);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
 }
 
 .map-node-inner {
@@ -79,35 +83,38 @@
     justify-content: center;
     position: relative;
     transition: all 0.2s;
-    box-shadow: var(--shadow);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
 /* Node states */
 .map-node-locked .map-node-inner {
-    background: #f0f0f0;
-    border: 3px solid #e0e0e0;
+    background: rgba(255,255,255,0.06);
+    border: 3px solid rgba(255,255,255,0.12);
     cursor: default;
 }
 
 .map-node-open .map-node-inner {
     background: white;
-    border: 3px solid var(--fach-farbe, #ccc);
+    border: 3px solid var(--fach-farbe, #a78bfa);
+    box-shadow: 0 0 14px color-mix(in srgb, var(--fach-farbe, #a78bfa) 45%, transparent);
 }
 
 .map-node-bronze .map-node-inner {
     background: linear-gradient(135deg, #cd7f32, #e8a96e);
     border: 3px solid #cd7f32;
+    box-shadow: 0 0 12px rgba(205, 127, 50, 0.5);
 }
 
 .map-node-silver .map-node-inner {
     background: linear-gradient(135deg, #9e9e9e, #e0e0e0);
     border: 3px solid #9e9e9e;
+    box-shadow: 0 0 12px rgba(224, 224, 224, 0.4);
 }
 
 .map-node-gold .map-node-inner {
-    background: linear-gradient(135deg, #ffc107, #fff176);
-    border: 3px solid #ffc107;
-    box-shadow: 0 2px 12px rgba(255,193,7,0.4);
+    background: linear-gradient(135deg, #fbbf24, #fde68a);
+    border: 3px solid #fbbf24;
+    box-shadow: 0 0 18px rgba(251, 191, 36, 0.6);
 }
 
 /* Daily challenge highlight */
@@ -118,14 +125,18 @@
 
 .map-node-code {
     font-size: 0.6rem;
-    font-weight: 700;
+    font-weight: 800;
     color: inherit;
     text-align: center;
     line-height: 1.2;
 }
 
+.map-node-open .map-node-code {
+    color: var(--text);
+}
+
 .map-node-locked .map-node-code {
-    color: #bbb;
+    color: rgba(255,255,255,0.35);
 }
 
 .map-node-bronze .map-node-code,
@@ -151,7 +162,6 @@
 .map-node-lock,
 .map-node-daily-badge {
     position: absolute;
-    font-size: 0.8rem;
     bottom: -4px;
     right: -4px;
     background: white;
@@ -161,13 +171,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
     font-size: 0.65rem;
 }
 
 .map-node-label {
     font-size: 0.65rem;
-    color: var(--text-light);
+    color: var(--text-on-dark-dim);
     text-align: center;
     max-width: 90px;
     line-height: 1.3;
@@ -178,7 +188,7 @@
 }
 
 .map-node-locked .map-node-label {
-    color: #ccc;
+    color: rgba(255,255,255,0.3);
 }
 
 /* === View Toggle === */
@@ -192,21 +202,28 @@
     display: flex;
     align-items: center;
     gap: 0.3rem;
-    padding: 0.4rem 0.9rem;
-    border: 2px solid #e0e0e0;
-    border-radius: 20px;
-    background: white;
+    padding: 0.45rem 1rem;
+    border: 1px solid var(--glass-border);
+    border-radius: 999px;
+    background: var(--glass);
     font-size: 0.85rem;
+    font-family: inherit;
     cursor: pointer;
     transition: all 0.2s;
-    color: var(--text-light);
-    font-weight: 500;
+    color: var(--text-on-dark-dim);
+    font-weight: 700;
+}
+
+.view-toggle-btn:hover {
+    background: rgba(255,255,255,0.12);
+    color: white;
 }
 
 .view-toggle-btn.active {
-    border-color: var(--fach-farbe, var(--primary));
-    background: var(--fach-farbe, var(--primary));
+    border-color: transparent;
+    background: linear-gradient(135deg, var(--fach-farbe, var(--primary)), color-mix(in srgb, var(--fach-farbe, var(--primary)) 65%, #1e1b4b));
     color: white;
+    box-shadow: 0 2px 14px color-mix(in srgb, var(--fach-farbe, var(--primary)) 45%, transparent);
 }
 
 /* === Responsive === */

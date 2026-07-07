@@ -5,7 +5,11 @@ class QuizGame {
         this.engine = engine;
         this.fragen = ArrayUtils.shuffle(data.spiel?.fragen || data.fragen || []);
         this.current = 0;
-        this.engine.maxScore = this.fragen.length * 10;
+        // Ab 3 Fragen zählt die letzte Frage doppelt (Finalfrage)
+        this.hasFinale = this.fragen.length >= 3;
+        this.engine.maxScore = this.hasFinale
+            ? (this.fragen.length - 1) * 10 + 20
+            : this.fragen.length * 10;
 
         this.engine.initHUD();
         this.engine.updateProgress(0, this.fragen.length);
@@ -26,6 +30,13 @@ class QuizGame {
         if (oldContent) oldContent.remove();
 
         const content = DOM.create('div', { class: 'quiz-content animate-fade-in' });
+
+        if (this._isFinale()) {
+            content.appendChild(DOM.create('div', {
+                class: 'quiz-final-banner',
+                text: '🏁 Finalfrage — doppelte Punkte!'
+            }));
+        }
 
         const questionEl = DOM.create('div', { class: 'quiz-question', text: frage.frage });
         content.appendChild(questionEl);
@@ -58,20 +69,20 @@ class QuizGame {
         else this.engine.container.appendChild(content);
     }
 
+    _isFinale() {
+        return this.hasFinale && this.current === this.fragen.length - 1;
+    }
+
     answer(btn, selectedIdx, frage, optionsEl, content) {
         const buttons = optionsEl.querySelectorAll('.quiz-option');
         buttons.forEach(b => b.classList.add('disabled'));
 
         if (selectedIdx === frage.korrekt) {
             btn.classList.add('correct');
-            this.engine.addScore(10);
+            this.engine.addScore(this._isFinale() ? 20 : 10);
             Feedback.toast('Richtig!', 'success');
         } else {
             btn.classList.add('wrong');
-            buttons.forEach(b => {
-                const opt = this.fragen[this.current].optionen;
-                // Find the correct button
-            });
             // Highlight correct answer
             const correctText = frage.optionen[frage.korrekt];
             buttons.forEach(b => {

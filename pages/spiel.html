@@ -112,8 +112,13 @@
 
                 const gameData = await GameEngine.loadData(fachId, kompetenzId);
 
-                // Show difficulty selector before starting
-                await DifficultyManager.showSelector();
+                // Show difficulty selector before starting (skipped on "Nochmal spielen")
+                let isReplay = false;
+                try {
+                    isReplay = sessionStorage.getItem('lp21-replay') === '1';
+                    sessionStorage.removeItem('lp21-replay');
+                } catch { /* egal */ }
+                if (!isReplay) await DifficultyManager.showSelector();
 
                 DOM.$('#gameContainer').innerHTML = '';
 

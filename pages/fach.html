@@ -129,7 +129,11 @@
             document.documentElement.style.setProperty('--fach-farbe', fach.farbe);
             DOM.$('#fachIcon').textContent = fach.icon;
             DOM.$('#fachName').textContent = fach.name;
-            DOM.$('#fachDesc').textContent = `${fach.kuerzel} - Zyklus 3`;
+            const story = typeof Story !== 'undefined' ? Story.getFach(fach.id) : null;
+            DOM.$('#fachDesc').textContent = story
+                ? `${story.region} — «${story.tagline}»`
+                : `${fach.kuerzel} - Zyklus 3`;
+            if (story) DOM.$('#fachDesc').title = story.intro;
             DOM.$('#breadcrumbFach').textContent = fach.name;
             DOM.$('#fachHeader').style.borderColor = fach.farbe;
         }

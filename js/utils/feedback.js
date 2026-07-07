@@ -68,37 +68,57 @@ const Feedback = {
     },
 
     /** Konfetti-artiger Effekt */
-    celebrate() {
+    celebrate(count = 60) {
         const container = DOM.create('div', {
             style: {
                 position: 'fixed', inset: '0', pointerEvents: 'none', zIndex: '999'
             }
         });
-        const colors = ['#ffc107', '#4caf50', '#2196f3', '#f44336', '#9c27b0', '#ff9800'];
-        for (let i = 0; i < 30; i++) {
+        const colors = ['#fbbf24', '#34d399', '#22d3ee', '#f472b6', '#a78bfa', '#f97316'];
+        for (let i = 0; i < count; i++) {
+            const size = 6 + Math.random() * 8;
+            const duration = 1.4 + Math.random() * 1.4;
             const particle = DOM.create('div', {
                 style: {
                     position: 'absolute',
-                    width: '8px',
-                    height: '8px',
+                    width: size + 'px',
+                    height: size + 'px',
                     background: colors[i % colors.length],
-                    borderRadius: Math.random() > 0.5 ? '50%' : '0',
+                    borderRadius: Math.random() > 0.5 ? '50%' : '2px',
                     left: Math.random() * 100 + '%',
-                    top: '-10px',
+                    top: '-20px',
                     opacity: '1',
-                    transition: `all ${1 + Math.random()}s ease-out`
+                    boxShadow: `0 0 6px ${colors[i % colors.length]}`,
+                    transition: `all ${duration}s cubic-bezier(0.25, 0.46, 0.45, 0.94)`
                 }
             });
             container.appendChild(particle);
             requestAnimationFrame(() => {
-                particle.style.top = (50 + Math.random() * 50) + '%';
+                particle.style.top = (60 + Math.random() * 45) + '%';
                 particle.style.left = (Math.random() * 100) + '%';
                 particle.style.opacity = '0';
-                particle.style.transform = `rotate(${Math.random() * 360}deg)`;
+                particle.style.transform = `rotate(${180 + Math.random() * 540}deg) scale(${0.3 + Math.random() * 0.5})`;
             });
         }
         document.body.appendChild(container);
-        setTimeout(() => container.remove(), 2500);
+        setTimeout(() => container.remove(), 3000);
+    },
+
+    /** Fliegende Punktzahl (+10) über einem Element */
+    floatPoints(anchorEl, text) {
+        if (!anchorEl) return;
+        const rect = anchorEl.getBoundingClientRect();
+        const el = DOM.create('div', {
+            class: 'float-points',
+            text,
+            style: {
+                left: (rect.left + rect.width / 2) + 'px',
+                top: rect.top + 'px'
+            }
+        });
+        document.body.appendChild(el);
+        requestAnimationFrame(() => el.classList.add('float-away'));
+        setTimeout(() => el.remove(), 1200);
     },
 
     /** Streak-Anzeige */
